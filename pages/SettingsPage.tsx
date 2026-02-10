@@ -16,16 +16,16 @@ export const SettingsPage = () => {
   return (
     <div className="flex h-full bg-[#f8f9fa] font-sans overflow-hidden">
       <div className="flex-1 overflow-y-auto">
-        <div className="max-w-5xl mx-auto px-6 py-12">
+        <div className="max-w-5xl mx-auto px-6 py-10">
           
-          <div className="mb-10">
+          <div className="mb-8">
             <h1 className="text-3xl font-serif font-bold text-slate-900 mb-2 tracking-tight">Settings</h1>
             <p className="text-slate-500 text-lg">Manage your account, billing, and workspace preferences.</p>
           </div>
 
-          <div className="grid grid-cols-1 lg:grid-cols-[240px_1fr] gap-8 lg:gap-12 items-start">
+          <div className="grid grid-cols-1 lg:grid-cols-[240px_1fr] gap-8 lg:gap-10 items-start">
             {/* Sidebar Navigation - Clean List Style */}
-            <nav className="space-y-1 sticky top-6">
+            <nav className="space-y-2 sticky top-6">
               {tabs.map(tab => (
                 <button
                   key={tab.id}
@@ -48,12 +48,12 @@ export const SettingsPage = () => {
             </nav>
 
             {/* Content Area */}
-            <div className="min-w-0 space-y-6">
+            <div className="min-w-0 space-y-8">
               
               {activeTab === 'profile' && (
-                <div className="animate-fade-in space-y-6">
+                <div className="animate-fade-in space-y-8">
                   <div className="bg-white rounded-2xl border border-slate-200 shadow-sm overflow-hidden">
-                    <div className="p-8 border-b border-slate-100 flex flex-col sm:flex-row items-start sm:items-center gap-6">
+                    <div className="p-6 sm:p-8 border-b border-slate-100 flex flex-col sm:flex-row items-start sm:items-center gap-4 sm:gap-6">
                         <div className="h-20 w-20 rounded-full bg-slate-100 border-4 border-white shadow-lg flex items-center justify-center text-2xl font-bold text-slate-400 shrink-0 relative group cursor-pointer overflow-hidden">
                             <span className="group-hover:opacity-0 transition-opacity">JD</span>
                             <div className="absolute inset-0 bg-slate-900/40 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity text-white text-[10px] font-bold uppercase tracking-wide backdrop-blur-sm">
@@ -71,7 +71,7 @@ export const SettingsPage = () => {
                         <Button variant="outline" size="sm" className="hidden sm:flex">Public Page</Button>
                     </div>
 
-                    <div className="p-8 grid grid-cols-1 md:grid-cols-2 gap-6">
+                    <div className="p-6 sm:p-8 grid grid-cols-1 md:grid-cols-2 gap-5 sm:gap-6">
                       <div className="space-y-2">
                         <label className="text-sm font-semibold text-slate-700">First Name</label>
                         <Input defaultValue="Jane" />
@@ -94,7 +94,7 @@ export const SettingsPage = () => {
                       </div>
                     </div>
                     
-                    <div className="bg-slate-50 p-6 flex justify-end gap-3 border-t border-slate-100">
+                    <div className="bg-slate-50 p-4 sm:p-6 flex justify-end gap-3 border-t border-slate-100">
                       <Button variant="ghost">Cancel</Button>
                       <Button className="bg-slate-900 text-white hover:bg-black">Save Changes</Button>
                     </div>
@@ -104,7 +104,7 @@ export const SettingsPage = () => {
 
               {activeTab === 'billing' && (
                  <div className="animate-fade-in space-y-6">
-                    <div className="bg-slate-900 rounded-2xl p-8 text-white shadow-xl shadow-slate-900/5 relative overflow-hidden">
+                    <div className="bg-slate-900 rounded-2xl p-6 sm:p-8 text-white shadow-xl shadow-slate-900/5 relative overflow-hidden">
                         <div className="absolute top-0 right-0 w-80 h-80 bg-gradient-to-br from-amber-400 to-orange-600 rounded-full mix-blend-overlay filter blur-[60px] opacity-20 -mr-20 -mt-20"></div>
                         <div className="relative z-10">
                             <div className="flex justify-between items-start mb-6">
@@ -140,7 +140,7 @@ export const SettingsPage = () => {
                         </div>
                     </div>
 
-                    <div className="bg-white rounded-2xl border border-slate-200 shadow-sm p-6">
+                    <div className="bg-white rounded-2xl border border-slate-200 shadow-sm p-5 sm:p-6">
                         <h3 className="font-bold text-slate-900 mb-4 text-sm uppercase tracking-wide">Usage Limits</h3>
                         <div className="space-y-5">
                             <div>
@@ -168,11 +168,11 @@ export const SettingsPage = () => {
 
               {activeTab === 'preferences' && (
                 <div className="animate-fade-in bg-white rounded-2xl border border-slate-200 shadow-sm divide-y divide-slate-100">
-                    <div className="p-6">
+                    <div className="p-5 sm:p-6">
                         <h3 className="font-bold text-slate-900 mb-1">Interface</h3>
                         <p className="text-sm text-slate-500 mb-6">Customize how the application looks and feels.</p>
                         
-                        <div className="space-y-6">
+                        <div className="space-y-5">
                             <div className="flex items-center justify-between">
                                 <span className="text-sm font-medium text-slate-700">Theme</span>
                                 <div className="flex gap-2 bg-slate-50 p-1 rounded-lg border border-slate-100">
@@ -191,7 +191,7 @@ export const SettingsPage = () => {
                         </div>
                     </div>
                     
-                    <div className="p-6">
+                    <div className="p-5 sm:p-6">
                         <h3 className="font-bold text-slate-900 mb-1">Notifications</h3>
                         <p className="text-sm text-slate-500 mb-6">Choose what updates you want to receive.</p>
                         
@@ -212,7 +212,7 @@ export const SettingsPage = () => {
               )}
 
               {activeTab === 'security' && (
-                <div className="animate-fade-in bg-white rounded-2xl border border-slate-200 p-12 text-center shadow-sm">
+                <div className="animate-fade-in bg-white rounded-2xl border border-slate-200 p-8 sm:p-10 text-center shadow-sm">
                     <div className="h-14 w-14 bg-slate-50 rounded-full flex items-center justify-center mb-6 mx-auto">
                         <Lock className="h-7 w-7 text-slate-400" />
                     </div>

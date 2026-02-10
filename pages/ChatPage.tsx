@@ -5,7 +5,7 @@ import { SourcesPanel } from '../components/chat/SourcesPanel';
 import { Button, Textarea } from '../components/ui/Generic';
 import { Paperclip, FileText, PanelRightClose, PanelRightOpen, Loader2, Sparkles, ChevronDown, Scale, Search, ShieldAlert, PenTool, ArrowUpRight } from 'lucide-react';
 import { api } from '../lib/api';
-import { Message } from '../lib/types';
+import { CitationReference, Message } from '../lib/types';
 import { ExportMemoModal } from '../components/shared/ExportMemoModal';
 import { cn } from '../lib/cn';
 
@@ -14,6 +14,7 @@ export const ChatPage = () => {
   const [input, setInput] = useState('');
   const [isSending, setIsSending] = useState(false);
   const [showMemoModal, setShowMemoModal] = useState(false);
+  const [activeCitation, setActiveCitation] = useState<CitationReference | null>(null);
   const scrollRef = useRef<HTMLDivElement>(null);
   const textareaRef = useRef<HTMLTextAreaElement>(null);
 
@@ -33,6 +34,49 @@ export const ChatPage = () => {
         textareaRef.current.focus();
     }
   }, [currentChat]);
+
+  useEffect(() => {
+    const onKeyDown = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') {
+        setActiveCitation(null);
+      }
+    };
+    if (activeCitation) {
+      window.addEventListener('keydown', onKeyDown);
+      return () => window.removeEventListener('keydown', onKeyDown);
+    }
+  }, [activeCitation]);
+
+  const buildTitle = (citation: CitationReference) => {
+    const manual = citation.manual?.toString().trim();
+    const chapter = citation.chapter?.toString().trim();
+    const baseTitle = citation.title || citation.caseName || 'Source';
+    const prefix = [manual, chapter].filter(Boolean).join(' ');
+    if (prefix && typeof baseTitle === 'string' && baseTitle.startsWith(prefix)) {
+      return baseTitle;
+    }
+    return [prefix, baseTitle].filter(Boolean).join(' ').trim();
+  };
+
+  const buildLocator = (citation: CitationReference) => {
+    const parts: string[] = [];
+    const manual = citation.manual?.toString().trim();
+    const chapter = citation.chapter?.toString().trim();
+    const manualChapter = [manual, chapter].filter(Boolean).join(' ');
+    if (manualChapter) parts.push(manualChapter);
+    if (citation.citation) parts.push(citation.citation);
+    if (Array.isArray(citation.headingPath) && citation.headingPath.length > 0) {
+      parts.push(citation.headingPath.join(' / '));
+    }
+    const pageStart = citation.pageStart;
+    const pageEnd = citation.pageEnd;
+    if (typeof pageStart === 'number' && typeof pageEnd === 'number') {
+      parts.push(`pp. ${pageStart}-${pageEnd}`);
+    } else if (typeof pageStart === 'number') {
+      parts.push(`p. ${pageStart}`);
+    }
+    return parts.join(' | ');
+  };
 
   const handleSend = async (textOverride?: string) => {
     const textToSend = textOverride || input;
@@ -251,6 +295,85 @@ export const ChatPage = () => {
             </p>
           </div>
         </div>
+
+        {activeCitation && (
+          <div
+            className="absolute inset-0 z-[80] bg-black/30 backdrop-blur-sm flex items-center justify-center p-4"
+            onClick={() => setActiveCitation(null)}
+          >
+            <div
+              className="w-full max-w-2xl bg-white rounded-2xl shadow-[0_30px_80px_-30px_rgba(15,23,42,0.6)] border border-slate-200 overflow-hidden"
+              onClick={(e) => e.stopPropagation()}
+              role="dialog"
+              aria-modal="true"
+            >
+              <div className="px-6 py-4 border-b border-slate-100 bg-[#fffdf5]">
+                <div className="flex items-start justify-between gap-4">
+                  <div>
+                    <h3 className="text-lg font-bold text-slate-900 font-serif">{buildTitle(activeCitation)}</h3>
+                    {buildLocator(activeCitation) && (
+                      <p className="text-xs text-slate-500 mt-1 leading-relaxed">
+                        {buildLocator(activeCitation)}
+                      </p>
+                    )}
+                  </div>
+                  <button
+                    type="button"
+                    onClick={() => setActiveCitation(null)}
+                    className="text-xs font-semibold text-slate-500 hover:text-slate-900 px-2 py-1 rounded-md"
+                  >
+                    Close
+                  </button>
+                </div>
+              </div>
+              <div className="px-6 py-5 space-y-4">
+                {activeCitation.snippet ? (
+                  <div className="relative">
+                    <div className="absolute left-0 top-1 bottom-1 w-0.5 bg-amber-200 rounded-full"></div>
+                    <p className="pl-3 font-serif text-sm text-slate-700 leading-relaxed">
+                      “{activeCitation.snippet}”
+                    </p>
+                  </div>
+                ) : (
+                  <p className="text-sm text-slate-400">No snippet available.</p>
+                )}
+                <div className="flex flex-wrap gap-2 text-[11px] text-slate-500">
+                  {activeCitation.sourceType && (
+                    <span className="px-2 py-0.5 bg-slate-100 rounded-full">type: {activeCitation.sourceType}</span>
+                  )}
+                  {activeCitation.sourceFile && (
+                    <span className="px-2 py-0.5 bg-slate-100 rounded-full">file: {activeCitation.sourceFile}</span>
+                  )}
+                  {typeof activeCitation.pageStart === 'number' && typeof activeCitation.pageEnd === 'number' && (
+                    <span className="px-2 py-0.5 bg-slate-100 rounded-full">pages: {activeCitation.pageStart}-{activeCitation.pageEnd}</span>
+                  )}
+                </div>
+              </div>
+              <div className="px-6 py-4 border-t border-slate-100 bg-slate-50 flex justify-end gap-2">
+                <button
+                  type="button"
+                  onClick={() => {
+                    if (activeCitation.snippet) {
+                      navigator.clipboard?.writeText(activeCitation.snippet);
+                    }
+                  }}
+                  className="text-xs font-medium text-slate-600 hover:text-slate-900 px-3 py-1.5 rounded-md bg-white border border-slate-200"
+                >
+                  Copy Quote
+                </button>
+                {activeCitation.sourceUrl && (
+                  <button
+                    type="button"
+                    onClick={() => window.open(activeCitation.sourceUrl, '_blank', 'noopener,noreferrer')}
+                    className="text-xs font-medium text-blue-600 hover:text-blue-800 px-3 py-1.5 rounded-md bg-white border border-slate-200 flex items-center gap-1"
+                  >
+                    Open Source <ArrowUpRight className="h-3 w-3" />
+                  </button>
+                )}
+              </div>
+            </div>
+          </div>
+        )}
       </div>
 
       {/* Sources Panel */}
@@ -259,7 +382,11 @@ export const ChatPage = () => {
         state.isSourcesPanelOpen ? "w-[400px] opacity-100 translate-x-0" : "w-0 opacity-0 translate-x-10 overflow-hidden"
       )}>
         <div className="w-[400px] h-full">
-          <SourcesPanel onCloseMobile={() => {}} />
+          <SourcesPanel
+            onCloseMobile={() => {}}
+            onCitationOpen={setActiveCitation}
+            isOverlayOpen={Boolean(activeCitation)}
+          />
         </div>
       </div>
 

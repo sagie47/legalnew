@@ -54,7 +54,7 @@ const Router = () => {
   };
 
   return (
-    <div className="flex h-screen w-full bg-background text-foreground overflow-hidden">
+    <div className="flex h-screen w-full bg-white text-slate-900 overflow-hidden">
       {/* Mobile Menu Button - Absolute */}
       <button 
         className="lg:hidden absolute top-3 left-3 z-[60] p-2 bg-slate-900 text-white rounded-md shadow-md"

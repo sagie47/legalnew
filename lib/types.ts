@@ -21,6 +21,16 @@ export interface CitationReference {
   citation: string;
   paragraphNumbers: number[];
   relevanceScore: number;
+  title?: string;
+  manual?: string;
+  chapter?: string;
+  headingPath?: string[];
+  pageStart?: number;
+  pageEnd?: number;
+  sourceFile?: string;
+  sourceType?: string;
+  sourceUrl?: string;
+  snippet?: string;
 }
 
 export interface Message {
