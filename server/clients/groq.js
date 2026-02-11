@@ -2,9 +2,7 @@ import OpenAI from 'openai';
 
 export function makeGroqClient() {
   const apiKey = process.env.GROQ_API_KEY;
-  if (!apiKey) {
-    throw new Error('GROQ_API_KEY is not set');
-  }
+  if (!apiKey) throw new Error('GROQ_API_KEY is not set');
 
   return new OpenAI({
     apiKey,
@@ -16,7 +14,6 @@ export async function groqRespond({
   systemPrompt,
   userPrompt,
   model = process.env.GROQ_MODEL || 'llama-3.3-70b-versatile',
-  temperature = 0.2,
   mcpServers = [],
 }) {
   const client = makeGroqClient();
@@ -35,7 +32,6 @@ export async function groqRespond({
 
   const resp = await client.responses.create({
     model,
-    temperature,
     input: [
       { role: 'system', content: systemPrompt },
       { role: 'user', content: userPrompt },

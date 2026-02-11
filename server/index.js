@@ -25,22 +25,20 @@ app.post('/api/chat', async (req, res) => {
     const { system, user, citationMap } = buildPrompt({ query: message, grounding });
 
     const mcpServers = [];
-    const primaryMcpUrl = process.env.MCP_BASE_URL;
-    if (primaryMcpUrl) {
+    if (process.env.MCP_BASE_URL) {
       mcpServers.push({
         label: 'a2aj',
-        url: primaryMcpUrl,
-        description: 'Canadian legal data (case law, legislation, regulations) via A2AJ',
+        url: process.env.MCP_BASE_URL,
+        description: 'Canadian legal data: case law + legislation for citations',
         headers: process.env.MCP_API_KEY ? { Authorization: `Bearer ${process.env.MCP_API_KEY}` } : undefined,
         requireApproval: 'never',
       });
     }
-    const secondaryMcpUrl = process.env.MCP_BASE_URL_SECONDARY;
-    if (secondaryMcpUrl) {
+    if (process.env.MCP_BASE_URL_SECONDARY) {
       mcpServers.push({
         label: 'a2aj_secondary',
-        url: secondaryMcpUrl,
-        description: 'Canadian legal data (case law, legislation, regulations) via A2AJ (secondary)',
+        url: process.env.MCP_BASE_URL_SECONDARY,
+        description: 'Canadian legal data: case law + legislation for citations (secondary)',
         headers: process.env.MCP_API_KEY ? { Authorization: `Bearer ${process.env.MCP_API_KEY}` } : undefined,
         requireApproval: 'never',
       });
@@ -50,7 +48,6 @@ app.post('/api/chat', async (req, res) => {
       systemPrompt: system,
       userPrompt: user,
       model: process.env.GROQ_MODEL || 'llama-3.3-70b-versatile',
-      temperature: 0.2,
       mcpServers
     });
 
