@@ -1,0 +1,1454 @@
+{
+  "version": 1,
+  "created_at": "2026-02-12T00:24:39.436846+00:00",
+  "updated_at": "2026-02-12T00:24:39.872585+00:00",
+  "visited": [
+    "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/functional-guidance-table-contents.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/status.html"
+  ],
+  "queue": [
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/without-visa.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/china-transit-program.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/countries-designated-purposes-visiting-forces-act.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/fees/immigration/temporary-resident-visa-electronic-travel-authorization-applications-fees.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/place-application-visa-electronic-travel-authorization-study-permit-work-permit.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/place-application-visa-electronic-travel-authorization-study-permit-work-permit/exempt-electronic-applications.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/document-requirements.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/application-intake-assessment.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/eligibility-admissibility-considerations.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/evidence-supporting-purpose-entry.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/dual-intent-applicants.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/proof-funds-financial-support.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/standard-requirements/medical-requirements/exam/who-must-submit-immigration-medical-examination.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/three-types-visas.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/determining-duration-visits.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/super-visa.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/diplomatic-official-visas.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/courtesy-visas.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/requirements-minors.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/business-persons-business-delegations.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/persons-wishing-enter-canada-purpose-giving-birth.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/applications-intending-organ-donors.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/refusals-overview.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/cancellation-visa.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/visa-validity-expiry-dates.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/examination-admission-port-entry.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/refusal-port-entry.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/security-deposits-guarantees.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/eligibility-extending-status.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/extensions-minors.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/implied-status-extending-stay.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/inland-applications-permanent-residence-status-extension.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/restoration-status.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/visitor-record.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/bilingual-remarks-observations.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/fees/immigration/applications-extension-authorization-remain-canada-temporary-resident-r181-r305-1.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/loss-status.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/individuals-named-immigration-warrant.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/eta.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/eta/manually-processing-electronic-travel-authorization-applications.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/permits/background-purpose.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/permits/when-to-consider-issuing.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/fees.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/permits/eligibility-assessment.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/permits/final-decisions-issuing-permit.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/permits/validity-conditions-cancellation.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/permits/subsequent-permits.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/permits/work-study-permits.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/non-economic-classes/permits.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/permits/considerations-specific-inadmissibility-on-health-grounds.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/permits/considerations-specific-inadmissibility-on-criminality-grounds.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/permits/considerations-specific-victims-human-trafficking.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/permits/family-violence.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/permits/removal-orders-immigration-warrants.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/permits/considerations-specific-stateless-children-canadian-citizens.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/permits/authorities-accountability.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/permits/information-gathering-including-interviews.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/permits/preparing-case-summary-recommendation-documenting-decisions.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/who-needs-study-permit.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/making-application.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/direct-stream.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/guidelines-on-minor-children.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/refugees-protected-persons.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/designated-learning-institutions.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/assessing-application.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/letters-acceptance.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/students-destined-quebec.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/scholarship-award-recipients.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/other-considerations.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/final-decisions.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/working-on-campus.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/work-related-research-educational-training-program-r205-1-2-codes-c31-c32-c33.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/campus-work.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/public-policy-competitiveness-economy.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/assessing-conditions.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/steps-determine-work-assessment-work-permit-application.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/what-is-work.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/authorization-work-without-work-permit-assessing-farm-work.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/business.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/foreign-representatives.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/foreign-representatives/government-officials-accredited-canada.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/foreign-representatives/domestic-workers.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/foreign-representatives/locally-engaged-staff-diplomatic-consular-missions-international-organizations.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/foreign-representatives/criteria-applicants-seeking-accreditation-immediate-members-family.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/military.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/military/family-members.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/authorization-work-without-work-permit-foreign-government-officers.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/arts.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/arts/occupations.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/authorization-work-without-work-permit-athletes-team-members.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/news-reporters-media-crews.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/authorization-work-without-work-permit-public-speakers.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/convention-organizers.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/business/sales.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/authorization-work-without-work-permit-clergy.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/judges-referees-similar-officials.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/authorization-work-without-work-permit-examiners-evaluators.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/expert-witnesses-investigators.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/authorization-work-without-work-permit-health-care-students.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/health-students.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/authorization-work-without-work-permit-civil-aviation-inspector.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/authorization-work-without-work-permit-aviation-accident-incident-inspector.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/authorization-work-without-work-permit-crew.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/commercial-airline-reciprocal-employment-agreements.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/authorization-work-without-work-permit-emergency-service-providers.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/authorization-work-without-work-permit-implied-status.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/study-permit-authorization-pgwp.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/persons-who-may-apply-port-entry.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/persons-who-may-apply-within-canada.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/protecting-workers-abuse-exploitation.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/genuineness.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/wages-occupation-working-conditions.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/public-list-employers-who-have-been-non-compliant.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/guide-mergers-acquisitions.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/assessing-medical-requirements.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/assessing-temporary-foreign-worker-eligibility-work-alberta-compulsory-certification-trade-position.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/assessing-event-strike-situation.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/assessing-language-requirements.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/assessing-individuals-subject-immigration-warrants.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/prohibitions.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/open.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/employer-specific-labout-market-impact-assessment-exemptions.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/regulated-certified-occupations.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/eligibility-admissibility-conditions-including-validity-period.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/urgent-referrals.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/quebec-cases.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/two-week-processing.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/priority-processing.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/overview.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/validity-suspension-duration-employment.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/recognized-employer-pilot.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/refusal-to-process-lmia-application.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/revocation-suspension-lmia.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/seafood-processing.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/sawp.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/changes-work-permits-issued-caregivers.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/changes-work-permits-issued-caregivers/refusal-to-process.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/cusma.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/cusma/business-visitors.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/cusma/professionals.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/cusma/intra-company-transferees.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/cusma/traders.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/cusma/investors.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/canada-chile.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/canada-chile/business-visitors.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/canada-chile/investors.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/canada-chile/transferees.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/canada-chile/professionals.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/canada-chile/traders.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/internationals-ftas-canada-peru.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/internationals-ftas-canada-peru/business-visitors.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/internationals-ftas-canada-peru/investors.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/internationals-ftas-canada-peru/transferees.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/internationals-ftas-canada-peru/professionals-technicians.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/internationals-ftas-canada-peru/traders.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/canada-colombia.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/canada-colombia/business-visitors.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/canada-colombia/investors.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/canada-colombia/transferees.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/canada-colombia/professionals-technicians.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/canada-colombia/traders.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/internationals-canada-korea.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/internationals-canada-korea/business-visitors.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/internationals-canada-korea/investors.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/internationals-canada-korea/transferees.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/internationals-canada-korea/contract-independent-professionals.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/internationals-canada-korea/traders.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/canada-eu.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/canada-eu/business-visitors.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/canada-eu/investors.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/canada-eu/contractual-service-providers.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/canada-eu/noc-equivalents.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/canada-eu/transferees.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/canada-eu/engineering-scientific-technologists.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/cufta.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/cufta/business-visitors.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/cufta/investors.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/cufta/transferees.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/cufta/professionals.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/agreement-cuktca.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/agreement-cuktca/business-visitors.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/agreement-cuktca/investors.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/agreement-cuktca/contract-independent-professionals.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/agreement-cuktca/transferees.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/agreement-cuktca/engineering-technologists-scientific.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/panama/business-visitors.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/panama/professionals.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/general-agreement-trade-services.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/trans-pacific.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/trans-pacific/business.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/trans-pacific/investors.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/trans-pacific/intracorporate.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/trans-pacific/professionals.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/canada-international-non-trade-agreements-r204-t11.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/unique-situations/airline-personnel.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/unique-situations/united-states-government-personnel.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/federal-provincial-territorial-agreements-r204-lmia-exemption-code-t13/nominated-by-province.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/federal-provincial-territorial-agreements-r204-lmia-exemption-code-t13/significant-investment-projects.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/federal-provincial-territorial-agreements-r204-lmia-exemption-code-t13/exceptional-unforeseen-events.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/special-initiatives-pilot-project/exemption-code-c18.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/international-experience.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/international-experience/international-experience-canada-r205-b-exemption-code-c21-overview.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/experience-eligibility.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/experience-processing-procedures.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/international-experience/canadian-interests-reciprocal-employment-international-experience-canada-bilateral-agreements-arrangements.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/international-experience/canadian-interests-reciprocal-employment-international-experience-canada-recognized-organizations-foreign-youth.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/international-experience/canadian-interests-reciprocal-employment-increasing-validity-period-work-permits-under-international-experience-canada.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/international-experience/in-canada-work-permit-printing-iec-imp.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/canadian-interests-significant-benefit-general-guidelines-r205-c10.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/unique-situations/interns-international-organizations-recognized-under-foreign-missions-international-organizations-act.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/unique-situations/rail-grinder-operators-rail-welders-other-specialized-track-maintenance-workers.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/unique-situations/experts-mission.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/quebec-cases/quebec-physicians.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/unique-situations/caribbean-liaison-officers.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/entrepreneurs-self-employed-seeking-only-temp-residence-r205-c11.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/unique-situations/foreign-camp-owner-director-outfitters.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/unique-situations/fishing-guides.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/unique-situations/foreign-freelance-race-jockeys-working-western-provinces-only.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/intra-company-transferees.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/canadian-interests-significant-benefit-emergency-repair-personnel-repair-personnel-warranty-equipment-r205-exemption.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/canadian-interests-significant-benefit-television-film-production-workers-r205-exemption-code-c14.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/canadian-interests-significant-benefit-entrepreneurs-self-employed-candidates-seeking-operate-business-r205-c11.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/economic-classes/live-caregivers/assessing-admissibility-requirements.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/economic-classes/pathways-for-caregivers/child-care-provider-support-pilots/occupation-restricted-open-work.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/provincial-nominees-permanent-resident-applicants/bridging-open-work-permits.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/quebec-cases/labour-market-impact-assessment-exempt-work-permit-renewals-extensions-certain-quebec-selection-holders.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/provincial-nominees-permanent-resident-applicants/open-work-permits-startup-business-class-pr-applicants.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/provincial-nominees-permanent-resident-applicants/work-permits-start-business-class-permanent-resident-visa-applicants.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/canadian-interests-reciprocal-employment-general-guidelines-r205-b-c20.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/unique-situations/camp-counsellors-r205-b-exemption-code-c20.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/canadian-interests-reciprocal-employment-academic-exchanges-r205-b-exemption-code-c22.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/canadian-interests-reciprocal-employment-performing-arts-r205-b-exemption-code-c23.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/public-policy-competitiveness-economy/c41-c46.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/public-policy-competitiveness-economy/c47-c48.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/public-policy-competitiveness-economy/c49.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/public-policy-competitiveness-economy/c42.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/post-graduation-work-permit-program.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/public-policy-competitiveness-economy/c44.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/public-policy-competitiveness-economy/c45.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/public-policy-competitiveness-economy/c52.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/canadian-interests-significant-benefit-mobilite-francophone-r205-exemption-code-c16.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/religious-work.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/canadian-interests-charitable-religious-work-r205-exemption-code-c50.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/applicants-no-other-means-support-r206.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/applicants-canada.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/economic-classes/live-caregivers/assessing-eligibility-become-member-live-caregiver-class.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/special-initiatives-pilot-project/permits-for-interim-pathway.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/vulnerable-workers.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/humanitarian-reasons-r208.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/officer-quick-reference-guide-occupations.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/unique-situations.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/compliance-exempt-employers/bridge.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/unique-situations/interns.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/unique-situations/oceans-act.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/special-initiatives-pilot-project/yukon-exemption-code-a75.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/economic-classes/rural-northern-immigration/work-permit.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/economic-classes/rural-northern-immigration/open-work-spouse.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/economic-classes/agri-food.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/short-term-exemption.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/researcher-exemption.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/special-initiatives-pilot-project/tr-pr-pathway.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/open-work-permit-graduate-hong-kong.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/open-work-pathways-hong-kong.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/visitor-work-permits.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/changing-employment.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/post-graduation-work-permit-program/temporary-policy.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/pgwp.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-permit-h1b-visa.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/public-policy-out-of-status-unauthorized-home-care-workers.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/indigenous-persons.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/employer-compliance-inspections.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/revocation-work-permit-public-policy-considerations.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/application-consequences-where-employer-found-non-compliant-conditions.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/application-consequences-where-employer-found-non-compliant-conditions-assessing-severity-violation.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/employer-compliance-collecting-administrative-monetary-penalties-determining-when-employers-default-payment.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/compliance-exempt-employers.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/foreign-workers/quebec-cases-program.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/quebec-cases/csq-outside-quebec.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/public-policy-competitiveness-economy/innovation-stream-pilot.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/special-initiatives-pilot-project/partner.html",
+      "depth": 0,
+      "parent_url": null
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/public-policy-construction-study-permit-exempt.html",
+      "depth": 0,
+      "parent_url": null
+    }
+  ],
+  "failed": [
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/functional-guidance-table-contents.html",
+      "depth": 0,
+      "parent_url": null,
+      "stage": "scrape_jina",
+      "error": "Jina scrape failed (401)",
+      "timestamp": "2026-02-12T00:24:39.644528+00:00"
+    },
+    {
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/status.html",
+      "depth": 0,
+      "parent_url": null,
+      "stage": "scrape_jina",
+      "error": "Jina scrape failed (401)",
+      "timestamp": "2026-02-12T00:24:39.872533+00:00"
+    }
+  ]
+}

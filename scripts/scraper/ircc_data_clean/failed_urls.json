@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/functional-guidance-table-contents.html",
+    "depth": 0,
+    "parent_url": null,
+    "stage": "scrape_jina",
+    "error": "Jina scrape failed (401)",
+    "timestamp": "2026-02-12T00:24:39.644528+00:00"
+  },
+  {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/status.html",
+    "depth": 0,
+    "parent_url": null,
+    "stage": "scrape_jina",
+    "error": "Jina scrape failed (401)",
+    "timestamp": "2026-02-12T00:24:39.872533+00:00"
+  }
+]

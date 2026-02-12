@@ -56,6 +56,7 @@ Optional:
 - `A2AJ_CASELAW_ENABLED`
 - `A2AJ_LEGISLATION_ENABLED`
 - `DEBUG_MODE`
+- `PROMPT_INJECTION_BLOCK_ENABLED` (default `true`; blocks obvious non-RCIC jailbreak attempts and sanitizes override lines)
 
 Deprecated (no longer used for A2AJ retrieval):
 - `MCP_BASE_URL*`
@@ -88,5 +89,10 @@ Ingest IRCC PDI pages into Pinecone:
 - `POST /api/ingest/pdi`
 - accepts `url` or `urls[]`, optional `namespace`, optional `dryRun`
 - in dry-run mode, returns extraction/chunk stats without embedding or upsert
+- chunk tuning env:
+  - `PDI_CHUNK_MAX_CHARS` (default `3200`)
+  - `PDI_CHUNK_MIN_CHARS` (default `800`, merges tiny tails)
+  - `PDI_CHUNK_OVERLAP_CHARS` (default `500`)
+  - `PDI_TABLE_BOUNDARY_BUFFER_CHARS` (default `400`, avoids splitting table rows)
 
 Implementation and curl examples: `server/ingest/pdi/README.md`

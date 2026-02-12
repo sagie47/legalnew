@@ -17,6 +17,47 @@ function chunkArray(items, size) {
   return out;
 }
 
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+function parseRetryAfterMs(raw) {
+  if (!raw || typeof raw !== 'string') return null;
+
+  const seconds = Number(raw);
+  if (Number.isFinite(seconds) && seconds >= 0) {
+    return Math.floor(seconds * 1000);
+  }
+
+  const dateMs = Date.parse(raw);
+  if (!Number.isFinite(dateMs)) return null;
+  const delta = dateMs - Date.now();
+  return delta > 0 ? delta : 0;
+}
+
+function isRetryableStatus(status) {
+  return status === 408 || status === 409 || status === 425 || status === 429 || status === 500 || status === 502 || status === 503 || status === 504;
+}
+
+function isRetryableNetworkError(error) {
+  const code = error?.code;
+  return code === 'ETIMEDOUT' ||
+    code === 'ECONNRESET' ||
+    code === 'EAI_AGAIN' ||
+    code === 'ENOTFOUND' ||
+    code === 'ENETUNREACH' ||
+    code === 'EPIPE';
+}
+
+function makeRetryDelayMs(attempt, { baseMs, maxMs, retryAfterMs }) {
+  if (Number.isFinite(retryAfterMs) && retryAfterMs >= 0) {
+    return Math.min(maxMs, retryAfterMs);
+  }
+  const exp = Math.min(maxMs, baseMs * (2 ** attempt));
+  const jitter = Math.floor(Math.random() * Math.min(300, Math.max(1, Math.floor(baseMs / 2))));
+  return Math.min(maxMs, exp + jitter);
+}
+
 async function requestEmbeddings(texts) {
   const apiKey = process.env.PINECONE_API_KEY;
   const baseUrl = (process.env.EMBEDDING_BASE_URL || 'https://api.pinecone.io').replace(/\/$/, '');
@@ -48,7 +89,12 @@ async function requestEmbeddings(texts) {
 
   if (!response.ok) {
     const errText = await response.text();
-    throw new Error(`Embedding API error: ${errText}`);
+    const retryAfterMs = parseRetryAfterMs(response.headers.get('retry-after'));
+    const error = new Error(`Embedding API error (${response.status}): ${errText}`);
+    error.status = response.status;
+    error.retryAfterMs = retryAfterMs;
+    error.retryable = isRetryableStatus(response.status);
+    throw error;
   }
 
   const payload = await response.json();
@@ -76,6 +122,19 @@ async function withRetry(fn, retries = 1) {
       return await fn();
     } catch (error) {
       lastErr = error;
+      const retryable = Boolean(error?.retryable || isRetryableNetworkError(error));
+      if (!retryable || attempt >= retries) {
+        break;
+      }
+
+      const baseMs = toInt(process.env.PDI_EMBED_BACKOFF_BASE_MS, 400, 10, 60000);
+      const maxMs = toInt(process.env.PDI_EMBED_BACKOFF_MAX_MS, 10000, baseMs, 120000);
+      const delayMs = makeRetryDelayMs(attempt, {
+        baseMs,
+        maxMs,
+        retryAfterMs: error?.retryAfterMs,
+      });
+      await sleep(delayMs);
     }
   }
   throw lastErr;
@@ -84,7 +143,7 @@ async function withRetry(fn, retries = 1) {
 export async function embedChunks(chunks, options = {}) {
   const batchSize = toInt(options.batchSize || process.env.PDI_EMBED_BATCH_SIZE, DEFAULT_BATCH_SIZE, 1, 128);
   const concurrency = toInt(options.concurrency || process.env.PDI_EMBED_CONCURRENCY, DEFAULT_CONCURRENCY, 1, 8);
-  const retries = toInt(options.retries, 1, 0, 3);
+  const retries = toInt(options.retries || process.env.PDI_EMBED_RETRIES, 3, 0, 8);
 
   const vectors = Array(chunks.length).fill(null);
   const errors = [];

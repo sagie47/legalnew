@@ -5,6 +5,7 @@ import { groqAnswer } from './clients/groq.js';
 import { a2ajEnrichCaseSources, a2ajSearchDecisions, a2ajToCaseSources } from './clients/a2aj.js';
 import { retrieveGrounding, buildPrompt, extractCitations, validateCitationTokens } from './rag/grounding.js';
 import { routeIntent } from './rag/router.js';
+import { detectPromptInjection, isRcicRelatedQuery, sanitizeUserMessage } from './rag/security.js';
 import { appendMessage, dbEnabled, ensureSession, ensureUser, getRecentMessages, listHistory } from './db.js';
 import { ingestPdiUrls, resolveIngestUrls } from './ingest/pdi/index.js';
 
@@ -110,6 +111,7 @@ app.post('/api/chat', async (req, res) => {
   let sessionId = requestedSessionId;
   const topK = Number(process.env.RETRIEVAL_TOP_K || 6);
   const debugEnabled = boolFlag(process.env.DEBUG_MODE, false);
+  const promptInjectionBlockingEnabled = boolFlag(process.env.PROMPT_INJECTION_BLOCK_ENABLED, true);
   const a2ajEnabled = boolFlag(process.env.A2AJ_ENABLED, true);
   const a2ajCaseLawEnabled = boolFlag(process.env.A2AJ_CASELAW_ENABLED, true);
   const a2ajLegislationEnabled = boolFlag(process.env.A2AJ_LEGISLATION_ENABLED, false);
@@ -137,9 +139,40 @@ app.post('/api/chat', async (req, res) => {
       await appendMessage({ sessionId, userId, role: 'user', content: message });
     }
 
-    const grounding = await retrieveGrounding({ query: message, topK });
+    const promptSafety = detectPromptInjection(message);
+    const sanitizedMessage = sanitizeUserMessage(message);
+    const effectiveMessage = sanitizedMessage || message;
+    const rcicRelated = isRcicRelatedQuery(effectiveMessage);
+
+    if (promptInjectionBlockingEnabled && promptSafety.detected && !rcicRelated) {
+      const blockedText = 'I can only assist with RCIC-focused Canadian immigration research. Please rephrase your question without instruction-overrides.';
+      if (dbEnabled() && userId) {
+        await appendMessage({
+          sessionId,
+          userId,
+          role: 'assistant',
+          content: blockedText,
+          citations: [],
+        });
+      }
+      return res.json({
+        text: blockedText,
+        citations: [],
+        sessionId,
+        ...(debugEnabled
+          ? {
+              debug: {
+                promptSafety,
+                rcicRelated,
+              },
+            }
+          : {}),
+      });
+    }
+
+    const grounding = await retrieveGrounding({ query: effectiveMessage, topK });
     const routeDecision = await routeIntent({
-      message,
+      message: effectiveMessage,
       a2ajEnabled,
       a2ajCaseLawEnabled,
       a2ajLegislationEnabled,
@@ -149,7 +182,7 @@ app.post('/api/chat', async (req, res) => {
     if (a2ajEnabled && routeDecision.useCaseLaw && a2ajCaseLawEnabled) {
       try {
         const searchResults = await a2ajSearchDecisions({
-          query: routeDecision.query || message,
+          query: routeDecision.query || effectiveMessage,
           limit: routeDecision.limit || defaultA2ajTopK,
           filters: {
             courts: routeDecision.courts,
@@ -160,7 +193,7 @@ app.post('/api/chat', async (req, res) => {
         caseLawSources = a2ajToCaseSources(searchResults).slice(0, routeDecision.limit || defaultA2ajTopK);
         caseLawSources = await a2ajEnrichCaseSources({
           sources: caseLawSources,
-          query: message,
+          query: effectiveMessage,
         });
       } catch (a2ajError) {
         console.warn('A2AJ retrieval failed; continuing with Pinecone-only grounding.', a2ajError?.message || a2ajError);
@@ -168,7 +201,7 @@ app.post('/api/chat', async (req, res) => {
     }
 
     const { system, user, citationMap } = buildPrompt({
-      query: message,
+      query: effectiveMessage,
       grounding: {
         ...grounding,
         caseLaw: caseLawSources,
@@ -206,6 +239,8 @@ app.post('/api/chat', async (req, res) => {
         ? {
             debug: {
               routeDecision,
+              promptSafety,
+              rcicRelated,
               pineconeCount: Array.isArray(grounding.pinecone) ? grounding.pinecone.length : 0,
               caseLawCount: caseLawSources.length,
             },
