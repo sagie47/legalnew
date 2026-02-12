@@ -395,7 +395,7 @@ export async function a2ajGetDecision({ id }) {
 
 export async function a2ajEnrichCaseSources({ sources, query }) {
   if (!Array.isArray(sources) || sources.length === 0) return Array.isArray(sources) ? sources : [];
-  const maxFetch = toPositiveInt(process.env.A2AJ_FETCH_DETAILS_TOP_K, 2, 0, 10);
+  const maxFetch = toPositiveInt(process.env.A2AJ_FETCH_DETAILS_TOP_K, 3, 0, 10);
   if (maxFetch <= 0) return sources;
 
   const out = [...sources];

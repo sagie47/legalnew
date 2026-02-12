@@ -13,10 +13,13 @@ export const ChatPage = () => {
   const { state, dispatch } = useAppStore();
   const [input, setInput] = useState('');
   const [isSending, setIsSending] = useState(false);
+  const [isUploadingDocument, setIsUploadingDocument] = useState(false);
+  const [uploadStatus, setUploadStatus] = useState('');
   const [showMemoModal, setShowMemoModal] = useState(false);
   const [activeCitation, setActiveCitation] = useState<CitationReference | null>(null);
   const scrollRef = useRef<HTMLDivElement>(null);
   const textareaRef = useRef<HTMLTextAreaElement>(null);
+  const fileInputRef = useRef<HTMLInputElement>(null);
 
   const currentChat = state.chats.find(c => c.id === state.currentChatId);
   const messages = currentChat ? currentChat.messages : [];
@@ -152,6 +155,79 @@ export const ChatPage = () => {
     { icon: Scale, label: "Legal Principles", desc: "Explain 'dual intent' or 'procedural fairness'", query: "Explain the current legal test for dual intent under the IRPA." },
   ];
 
+  const clearUploadStatusLater = (message: string, delayMs = 6000) => {
+    window.setTimeout(() => {
+      setUploadStatus((current) => (current === message ? '' : current));
+    }, delayMs);
+  };
+
+  const handlePickDocument = () => {
+    fileInputRef.current?.click();
+  };
+
+  const handleDocumentSelected = async (e: React.ChangeEvent<HTMLInputElement>) => {
+    const file = e.target.files?.[0];
+    if (!file) return;
+
+    const name = file.name || 'document.txt';
+    const lowerName = name.toLowerCase();
+    const supported = lowerName.endsWith('.txt') || lowerName.endsWith('.md') || lowerName.endsWith('.markdown');
+    if (!supported) {
+      const message = `Unsupported file type for "${name}". Use .txt or .md.`;
+      setUploadStatus(message);
+      clearUploadStatusLater(message);
+      e.target.value = '';
+      return;
+    }
+
+    try {
+      setIsUploadingDocument(true);
+      const text = await file.text();
+      const cleaned = text.trim();
+      if (!cleaned) {
+        const message = `No readable text found in "${name}".`;
+        setUploadStatus(message);
+        clearUploadStatusLater(message);
+        return;
+      }
+
+      const initialSessionId = state.currentChatId
+        || (typeof crypto !== 'undefined' && 'randomUUID' in crypto ? crypto.randomUUID() : Date.now().toString());
+
+      if (!state.currentChatId) {
+        dispatch({ type: 'NEW_CHAT', chatId: initialSessionId });
+      }
+
+      const uploaded = await api.uploadTextDocument({
+        text: cleaned,
+        title: name,
+        sessionId: initialSessionId,
+      });
+
+      if (uploaded.sessionId && uploaded.sessionId !== initialSessionId) {
+        dispatch({ type: 'REKEY_CURRENT_CHAT', newChatId: uploaded.sessionId });
+      }
+
+      if (uploaded.status === 'ok') {
+        const message = `Uploaded "${name}" (${uploaded.chunkCount} chunks). It will be used as [D#] sources in this chat.`;
+        setUploadStatus(message);
+        clearUploadStatusLater(message);
+      } else {
+        const message = uploaded.error || `Failed to upload "${name}".`;
+        setUploadStatus(message);
+        clearUploadStatusLater(message);
+      }
+    } catch (error) {
+      console.error('Document upload failed:', error);
+      const message = `Failed to upload "${name}".`;
+      setUploadStatus(message);
+      clearUploadStatusLater(message);
+    } finally {
+      setIsUploadingDocument(false);
+      e.target.value = '';
+    }
+  };
+
   return (
     <div className="flex h-full overflow-hidden bg-white font-sans">
       <div className="flex-1 flex flex-col min-w-0 relative bg-[#f9fafb]">
@@ -256,6 +332,13 @@ export const ChatPage = () => {
                 "group relative bg-white/80 backdrop-blur-xl rounded-[24px] shadow-[0_20px_40px_-12px_rgba(0,0,0,0.12)] border border-white/50 ring-1 ring-slate-900/5 transition-all duration-300",
                 "focus-within:ring-2 focus-within:ring-slate-900/10 focus-within:shadow-[0_25px_50px_-12px_rgba(0,0,0,0.15)] focus-within:scale-[1.002]"
             )}>
+                <input
+                    ref={fileInputRef}
+                    type="file"
+                    accept=".txt,.md,.markdown,text/plain,text/markdown"
+                    className="hidden"
+                    onChange={handleDocumentSelected}
+                />
                 <Textarea
                     ref={textareaRef}
                     value={input}
@@ -268,8 +351,15 @@ export const ChatPage = () => {
                 
                 <div className="flex items-center justify-between px-3 pb-3">
                     <div className="flex items-center gap-1">
-                        <Button variant="ghost" size="icon" className="h-9 w-9 text-slate-400 hover:text-slate-700 hover:bg-slate-100/80 rounded-xl transition-colors">
-                            <Paperclip className="h-4 w-4" />
+                        <Button
+                            variant="ghost"
+                            size="icon"
+                            onClick={handlePickDocument}
+                            disabled={isUploadingDocument}
+                            className="h-9 w-9 text-slate-400 hover:text-slate-700 hover:bg-slate-100/80 rounded-xl transition-colors disabled:opacity-50"
+                            title="Attach text/markdown document"
+                        >
+                            {isUploadingDocument ? <Loader2 className="h-4 w-4 animate-spin" /> : <Paperclip className="h-4 w-4" />}
                         </Button>
                         <div className="w-px h-4 bg-slate-200 mx-1"></div>
                         <Button variant="ghost" size="sm" className="h-8 text-xs font-medium text-slate-500 hover:text-slate-900 hover:bg-slate-100/80 rounded-lg transition-colors px-3">
@@ -284,7 +374,7 @@ export const ChatPage = () => {
                         )}
                         <Button 
                             onClick={() => handleSend()} 
-                            disabled={!input.trim() && !isSending}
+                            disabled={isUploadingDocument || (!input.trim() && !isSending)}
                             size="icon"
                             className={cn(
                                 "h-9 w-9 rounded-xl transition-all duration-300 shadow-sm",
@@ -298,6 +388,10 @@ export const ChatPage = () => {
                     </div>
                 </div>
             </div>
+
+            {uploadStatus && (
+              <p className="text-center text-[11px] text-slate-500 mt-3 font-medium">{uploadStatus}</p>
+            )}
             
             <p className="text-center text-[11px] text-slate-400 mt-4 font-medium tracking-wide opacity-60">
                 AI may produce inaccurate information. Verify with official sources.

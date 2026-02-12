@@ -2,6 +2,40 @@ import { MOCK_CASES } from '../data/mockCases';
 import { ChatSession, CitationReference, Message } from './types';
 import { getAuthIdentity, isAuthBypassEnabled } from './neonAuth';
 
+type UploadTextDocumentParams = {
+  text: string;
+  title?: string;
+  sessionId?: string;
+  sourceUrl?: string;
+  extractedJson?: Record<string, unknown> | null;
+};
+
+type UploadedDocument = {
+  id: string;
+  title: string;
+  sourceUrl?: string | null;
+  status: string;
+};
+
+type UploadTextDocumentResponse = {
+  status: 'ok' | 'error';
+  sessionId: string | null;
+  chunkCount: number;
+  document: UploadedDocument | null;
+  error?: string;
+};
+
+export type SessionDocumentSummary = {
+  id: string;
+  sessionId: string;
+  title: string;
+  mimeType?: string;
+  sourceUrl?: string;
+  status: string;
+  createdAt?: string;
+  updatedAt?: string;
+};
+
 async function authHeaders({ includeContentType = false }: { includeContentType?: boolean } = {}) {
   const identity = await getAuthIdentity();
   if (!identity?.externalAuthId) {
@@ -156,5 +190,98 @@ export const api = {
     }
 
     return results;
+  },
+
+  async uploadTextDocument(params: UploadTextDocumentParams): Promise<UploadTextDocumentResponse> {
+    try {
+      const headers = await authHeaders({ includeContentType: true });
+      if (!headers) {
+        return {
+          status: 'error',
+          sessionId: params.sessionId || null,
+          chunkCount: 0,
+          document: null,
+          error: isAuthBypassEnabled()
+            ? 'Unable to resolve local auth identity.'
+            : 'You are signed out. Please sign in to continue.',
+        };
+      }
+
+      const response = await fetch('/api/documents/text', {
+        method: 'POST',
+        headers,
+        body: JSON.stringify({
+          text: params.text,
+          title: params.title,
+          sessionId: params.sessionId,
+          sourceUrl: params.sourceUrl,
+          extractedJson: params.extractedJson || undefined,
+        }),
+      });
+
+      const data = await response.json().catch(() => ({}));
+      if (!response.ok) {
+        return {
+          status: 'error',
+          sessionId: params.sessionId || null,
+          chunkCount: 0,
+          document: null,
+          error: data?.error || `Upload failed (${response.status})`,
+        };
+      }
+
+      return {
+        status: data?.status || 'ok',
+        sessionId: data?.sessionId || params.sessionId || null,
+        chunkCount: Number(data?.chunkCount || 0),
+        document: data?.document
+          ? {
+              id: data.document.id,
+              title: data.document.title,
+              sourceUrl: data.document.sourceUrl,
+              status: data.document.status,
+            }
+          : null,
+      };
+    } catch (error) {
+      console.error('Document upload API Error:', error);
+      return {
+        status: 'error',
+        sessionId: params.sessionId || null,
+        chunkCount: 0,
+        document: null,
+        error: 'Failed to upload document.',
+      };
+    }
+  },
+
+  async listSessionDocuments(sessionId: string): Promise<SessionDocumentSummary[]> {
+    if (!sessionId) return [];
+    try {
+      const headers = await authHeaders();
+      if (!headers) return [];
+      const response = await fetch(`/api/documents?sessionId=${encodeURIComponent(sessionId)}`, {
+        method: 'GET',
+        headers,
+      });
+      if (!response.ok) {
+        return [];
+      }
+      const data = await response.json();
+      const docs = Array.isArray(data?.documents) ? data.documents : [];
+      return docs.map((d: any) => ({
+        id: String(d.id),
+        sessionId: String(d.session_id || sessionId),
+        title: String(d.title || 'Document'),
+        mimeType: typeof d.mime_type === 'string' ? d.mime_type : undefined,
+        sourceUrl: typeof d.source_url === 'string' ? d.source_url : undefined,
+        status: String(d.status || 'unknown'),
+        createdAt: typeof d.created_at === 'string' ? d.created_at : undefined,
+        updatedAt: typeof d.updated_at === 'string' ? d.updated_at : undefined,
+      }));
+    } catch (error) {
+      console.error('List documents API Error:', error);
+      return [];
+    }
   }
 };

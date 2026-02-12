@@ -4,9 +4,22 @@ import { randomUUID } from 'node:crypto';
 import { groqAnswer } from './clients/groq.js';
 import { a2ajEnrichCaseSources, a2ajSearchDecisions, a2ajToCaseSources } from './clients/a2aj.js';
 import { retrieveGrounding, buildPrompt, extractCitations, validateCitationTokens } from './rag/grounding.js';
+import { buildCitationFromSource } from './rag/citations.js';
+import { chunkUserDocumentText, rankDocumentChunks } from './rag/documents.js';
 import { routeIntent } from './rag/router.js';
 import { detectPromptInjection, isRcicRelatedQuery, sanitizeUserMessage } from './rag/security.js';
-import { appendMessage, dbEnabled, ensureSession, ensureUser, getRecentMessages, listHistory } from './db.js';
+import {
+  appendMessage,
+  createDocument,
+  dbEnabled,
+  ensureSession,
+  ensureUser,
+  getRecentMessages,
+  listHistory,
+  listSessionDocumentChunks,
+  listSessionDocuments,
+  replaceDocumentChunks,
+} from './db.js';
 import { ingestPdiUrls, resolveIngestUrls } from './ingest/pdi/index.js';
 
 dotenv.config();
@@ -43,42 +56,10 @@ function isUuid(value) {
   return typeof value === 'string' && /^[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i.test(value);
 }
 
-function buildCitationFromSource(id, src) {
-  const sourceType = src?.sourceType || (id.startsWith('C') ? 'a2aj_case' : 'pinecone');
-  const title = src?.title || src?.caseName || src?.source || 'Source';
-  const locator = sourceType === 'a2aj_case'
-    ? [src?.court, src?.neutralCitation, src?.date].filter(Boolean).join(' | ')
-    : [src?.manual, src?.chapter, src?.citation].filter(Boolean).join(' | ');
-  const url = src?.url || src?.sourceUrl;
-  const snippet = src?.snippet || src?.text || '';
-  const score = typeof src?.score === 'number' ? src.score : undefined;
-
-  return {
-    id,
-    referenceId: id,
-    sourceType,
-    title,
-    locator: locator || undefined,
-    url: url || undefined,
-    snippet,
-    score,
-    metadata: src?.raw || undefined,
-
-    // Backward-compatible fields
-    caseId: src?.id || id,
-    caseName: title,
-    citation: src?.citation || src?.neutralCitation || src?.source || id,
-    paragraphNumbers: Array.isArray(src?.paragraphNumbers) ? src.paragraphNumbers : (Array.isArray(src?.paragraphs) ? src.paragraphs : []),
-    relevanceScore: typeof src?.score === 'number' ? Math.round(src.score * 100) : 80,
-    manual: src?.manual,
-    chapter: src?.chapter,
-    headingPath: Array.isArray(src?.headingPath) ? src.headingPath : [],
-    pageStart: src?.pageStart,
-    pageEnd: src?.pageEnd,
-    sourceFile: src?.sourceFile,
-    sourceUrl: url || src?.sourceUrl,
-    sourceTypeLegacy: sourceType,
-  };
+function normalizeDocTitle(value) {
+  if (typeof value !== 'string') return 'Uploaded Document';
+  const cleaned = value.trim();
+  return cleaned || 'Uploaded Document';
 }
 
 app.get('/api/history', async (req, res) => {
@@ -95,6 +76,106 @@ app.get('/api/history', async (req, res) => {
   } catch (error) {
     console.error('History error:', error);
     return res.status(500).json({ sessions: [], error: 'Failed to load history.' });
+  }
+});
+
+app.get('/api/documents', async (req, res) => {
+  if (!dbEnabled()) {
+    return res.json({ documents: [] });
+  }
+
+  const sessionId = req.query?.sessionId;
+  if (!isUuid(sessionId)) {
+    return res.status(400).json({ error: 'Valid sessionId is required' });
+  }
+
+  try {
+    const externalAuthId = resolveExternalAuthId(req);
+    const email = resolveUserEmail(req);
+    const userId = await ensureUser({ externalAuthId, email });
+    const documents = await listSessionDocuments({ sessionId, userId, limit: 100 });
+    return res.json({ documents });
+  } catch (error) {
+    console.error('List documents error:', error);
+    return res.status(500).json({ documents: [], error: 'Failed to list documents.' });
+  }
+});
+
+app.post('/api/documents/text', async (req, res) => {
+  if (!dbEnabled()) {
+    return res.status(400).json({ error: 'Database is required for document uploads.' });
+  }
+
+  const text = typeof req.body?.text === 'string' ? req.body.text.trim() : '';
+  if (!text) {
+    return res.status(400).json({ error: 'text is required' });
+  }
+
+  const externalAuthId = resolveExternalAuthId(req);
+  const email = resolveUserEmail(req);
+  let sessionId = isUuid(req.body?.sessionId) ? req.body.sessionId : randomUUID();
+  const title = normalizeDocTitle(req.body?.title);
+  const sourceUrl = typeof req.body?.sourceUrl === 'string' && req.body.sourceUrl.trim()
+    ? req.body.sourceUrl.trim()
+    : null;
+  const extractedJson = req.body?.extractedJson && typeof req.body.extractedJson === 'object'
+    ? req.body.extractedJson
+    : null;
+
+  try {
+    const userId = await ensureUser({ externalAuthId, email });
+    const sessionTitle = title.slice(0, 80);
+    let session = await ensureSession({ sessionId, userId, title: sessionTitle });
+    if (!session) {
+      sessionId = randomUUID();
+      session = await ensureSession({ sessionId, userId, title: sessionTitle });
+    }
+    if (!session) {
+      return res.status(500).json({ error: 'failed to initialize session' });
+    }
+
+    const doc = await createDocument({
+      userId,
+      sessionId,
+      title,
+      mimeType: 'text/plain',
+      sourceUrl,
+      extractedText: text,
+      extractedJson,
+      status: 'ready',
+    });
+    if (!doc) {
+      return res.status(500).json({ error: 'failed to create document' });
+    }
+
+    const chunks = chunkUserDocumentText(text);
+    const records = chunks.map((chunk) => ({
+      chunk_index: chunk.chunk_index,
+      text: chunk.text,
+      metadata: {
+        title,
+        source_url: sourceUrl || undefined,
+        source_type: 'user_document',
+        start_char: chunk.start_char,
+        end_char: chunk.end_char,
+      },
+    }));
+    const chunkCount = await replaceDocumentChunks({ documentId: doc.id, chunks: records });
+
+    return res.json({
+      status: 'ok',
+      sessionId,
+      document: {
+        id: doc.id,
+        title: doc.title,
+        sourceUrl: doc.source_url,
+        status: doc.status,
+      },
+      chunkCount,
+    });
+  } catch (error) {
+    console.error('Upload text document error:', error);
+    return res.status(500).json({ error: 'Failed to process document text upload.' });
   }
 });
 
@@ -179,6 +260,9 @@ app.post('/api/chat', async (req, res) => {
     });
 
     let caseLawSources = [];
+    let documentSources = [];
+    let a2ajSearchCount = 0;
+    let a2ajEnrichAttempted = false;
     if (a2ajEnabled && routeDecision.useCaseLaw && a2ajCaseLawEnabled) {
       try {
         const searchResults = await a2ajSearchDecisions({
@@ -191,6 +275,8 @@ app.post('/api/chat', async (req, res) => {
           },
         });
         caseLawSources = a2ajToCaseSources(searchResults).slice(0, routeDecision.limit || defaultA2ajTopK);
+        a2ajSearchCount = caseLawSources.length;
+        a2ajEnrichAttempted = true;
         caseLawSources = await a2ajEnrichCaseSources({
           sources: caseLawSources,
           query: effectiveMessage,
@@ -200,11 +286,29 @@ app.post('/api/chat', async (req, res) => {
       }
     }
 
+    if (dbEnabled() && userId) {
+      try {
+        const documentRows = await listSessionDocumentChunks({
+          sessionId,
+          userId,
+          limit: Number(process.env.DOCUMENT_CHUNK_POOL || 80),
+        });
+        documentSources = rankDocumentChunks({
+          query: effectiveMessage,
+          chunks: documentRows,
+          topK: Number(process.env.DOCUMENT_TOP_K || 4),
+        });
+      } catch (docError) {
+        console.warn('Document grounding failed; continuing without document sources.', docError?.message || docError);
+      }
+    }
+
     const { system, user, citationMap } = buildPrompt({
       query: effectiveMessage,
       grounding: {
         ...grounding,
         caseLaw: caseLawSources,
+        documents: documentSources,
       },
       history,
     });
@@ -243,6 +347,12 @@ app.post('/api/chat', async (req, res) => {
               rcicRelated,
               pineconeCount: Array.isArray(grounding.pinecone) ? grounding.pinecone.length : 0,
               caseLawCount: caseLawSources.length,
+              documentCount: documentSources.length,
+              a2aj: {
+                searchCount: a2ajSearchCount,
+                enrichAttempted: a2ajEnrichAttempted,
+                fetchTopK: Number(process.env.A2AJ_FETCH_DETAILS_TOP_K) || 3,
+              },
             },
           }
         : {}),

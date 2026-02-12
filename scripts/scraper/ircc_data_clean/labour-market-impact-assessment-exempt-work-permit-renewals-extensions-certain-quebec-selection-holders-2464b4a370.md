@@ -1,0 +1,216 @@
+---
+url: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/quebec-cases/labour-market-impact-assessment-exempt-work-permit-renewals-extensions-certain-quebec-selection-holders.html
+fetched_url: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/quebec-cases/labour-market-impact-assessment-exempt-work-permit-renewals-extensions-certain-quebec-selection-holders.html
+title: "Specific Quebec Selection Certificate (CSQ) holders currently in Quebec [R205(a) – A73] – International Mobility Program"
+parent_url: 
+depth: 0
+ingest_date: 2026-02-12
+content_hash: "36974093bcdc90e8b03a07130cd95e5216de56f798dd4b6b7044b72a43e48762"
+type: manual_section
+---
+
+Published Time: Thu, 12 Feb 2026 00:42:39 GMT
+
+Specific Quebec Selection Certificate (CSQ) holders currently in Quebec [R205(a) – A73] – International Mobility Program
+========================================================================================================================
+
+All in-Canada visitor extension, study permit and work permit applications must be submitted electronically, with some exceptions. Consult the list of[programs that are exempt from the in-Canada mandatory electronic application requirement](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/place-application-visa-electronic-travel-authorization-study-permit-work-permit/exempt-electronic-applications.html).
+
+This section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.
+
+These instructions apply to IRCC employees. Since applicants cannot submit their applications at a port of entry, the instructions do not apply to border services officers.
+
+The instructions on this page should be reviewed in conjunction with
+
+*   [Employer-specific work permits with Labour Market Impact Assessment exemptions (International Mobility Program)](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/employer-specific-labout-market-impact-assessment-exemptions.html)
+*   [Assessing the genuineness of the offer of employment on a work permit application](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/genuineness.html)
+*   [Conditions and validity period on work permits (temporary workers)](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/eligibility-admissibility-conditions-including-validity-period.html)
+*   [Public list of Employers who have been non-compliant](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/public-list-employers-who-have-been-non-compliant.html)
+
+On June 1, 2012, in agreement with Quebec’s Ministère de l’Immigration, de la Francisation et de l’Intégration (MIFI), IRCC determined that the work of some temporary workers present in Quebec and holding a valid Quebec Selection Certificate (CSQ) creates significant social, cultural or economic benefits or opportunities for Canadian citizens or permanent residents as required by [paragraph 205(a)](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-205.html) of the Immigration and Refugee Protection Regulations (IRPR).
+
+On this page
+------------
+
+*   [Background](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/quebec-cases/labour-market-impact-assessment-exempt-work-permit-renewals-extensions-certain-quebec-selection-holders.html#background)
+*   [Eligibility](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/quebec-cases/labour-market-impact-assessment-exempt-work-permit-renewals-extensions-certain-quebec-selection-holders.html#eligibility)
+*   [Employer compliance fee](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/quebec-cases/labour-market-impact-assessment-exempt-work-permit-renewals-extensions-certain-quebec-selection-holders.html#compliance)
+*   [Application assessment](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/quebec-cases/labour-market-impact-assessment-exempt-work-permit-renewals-extensions-certain-quebec-selection-holders.html#accessment)
+*   [Final decision](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/quebec-cases/labour-market-impact-assessment-exempt-work-permit-renewals-extensions-certain-quebec-selection-holders.html#decision)
+    *   [Approval](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/quebec-cases/labour-market-impact-assessment-exempt-work-permit-renewals-extensions-certain-quebec-selection-holders.html#approval)
+    *   [Refusal](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/quebec-cases/labour-market-impact-assessment-exempt-work-permit-renewals-extensions-certain-quebec-selection-holders.html#refusal)
+
+*   [Extensions](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/quebec-cases/labour-market-impact-assessment-exempt-work-permit-renewals-extensions-certain-quebec-selection-holders.html#extensions)
+*   [Family members](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/quebec-cases/labour-market-impact-assessment-exempt-work-permit-renewals-extensions-certain-quebec-selection-holders.html#family)
+*   [Related information](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/quebec-cases/labour-market-impact-assessment-exempt-work-permit-renewals-extensions-certain-quebec-selection-holders.html#information)
+*   [Previous updates](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/quebec-cases/labour-market-impact-assessment-exempt-work-permit-renewals-extensions-certain-quebec-selection-holders.html#updates)
+
+Background
+----------
+
+Section 108 of the Règlement sur l’immigration au Québec (RIQ), which came into effect on August 2, 2018, specifies that CSQs issued after the coming into force of the section are valid for a duration of 24 months or until IRCC renders a decision on the **permanent residence application**.
+
+Since August 2, 2018, MIFI no longer renews CSQs, as they are issued for 24 months and are **valid for the duration** of the permanent residence application, even if the 24-month period has passed. In addition, CSQs issued before August 2, 2018, are valid for the duration of the permanent residence application, even if the initial 36 months have passed.
+
+Foreign nationals selected by Quebec under its Regular Skilled Worker Program (RSWP), its Programme de l’expérience québécoise (PEQ – Québéc experience program) and its permanent immigration pilot programs (PP), who **currently reside** in the province of Quebec, may be able to have their work authorizations extended with their current employer or renewed with a new employer without having to obtain a Labour Market Impact Assessment (LMIA).
+
+**Note:** Applicants may submit an application for this work permit before or after submitting an application for permanent residence to the IRCC.
+
+Eligibility
+-----------
+
+To be eligible for a work permit issued under paragraph R205(a) and administrative exemption code A73 as the holder of a CSQ, a foreign national must
+
+*   be the principal applicant on the application for permanent residence 
+    *   If the principal applicant has not submitted an application for permanent residence to IRCC, they must provide their letter of acceptance from Quebec with their name 
+        *   This letter entitled “Acceptation de votre demande de sélection permanente” includes the principal applicant’s individual reference number and file number
+
+    *   Principal applicants who submit their work permit application as of January 13, 2023 must provide this supporting document
+
+*   be currently in Canada after being authorized to enter as a temporary resident under [section 22 of the _Immigration and Refugee Protection Act_ (IRPA)](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/section-22.html) or be eligible for restoration of status as a temporary resident
+*   currently **reside in Quebec**
+*   at the time of submission, have existing authorization to work or be eligible to have authorization to work restored or approved because they either 
+    *   have a valid work permit (including an open work permit) or held a work permit immediately before losing their status
+    *   have applied to extend their work permit before it expired (maintained status and [authorization to work without a permit under subsection R186(u)](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/authorization-work-without-work-permit-implied-status.html)) or
+    *   are eligible to apply for a work permit from within Canada under an active public policy
+
+*   have obtained an offer of employment number (A#) from an employer located in Quebec for employment in Quebec
+*   hold a CSQ in one of the two economic immigration programs for skilled workers or in one of Quebec’s three permanent immigration pilot programs (PP): 
+    *   Regular Skilled Worker Program (RSWP);
+    *   Programme de l’expérience québécoise (PEQ – Québec experience program);
+    *   Permanent immigration pilot program for workers in food processing;
+    *   Permanent immigration pilot program for orderlies; and
+    *   Permanent immigration pilot program for workers in the artificial intelligence, information technologies and visual effects sectors.
+
+*   the CSQ of applicants to the PEQ and the three pilot programs must indicate one of the following codes in section 9, Catégorie: 
+    *   Travailleurs qualifiés
+    *   IQ– Travailleurs qualifiés
+    *   IP– Travailleurs
+    *   IT– Travailleurs qualifiés
+    *   IZ– PEQ Travailleurs
+    *   IY– PEQ Étudiants
+    *   I6 – Travailleurs Art.40
+    *   IU – Préposé aux bénéficiaires – Volet travailleur étranger
+    *   IR – Préposé aux bénéficiaires – Volet diplômé du QC
+    *   IX – Travailleur – Transformation alimentaire
+    *   IV – Intelligence artificielle – Volet travailleur étranger
+    *   IW – Intelligence artificielle – Volet diplômé du QC
+    *   IS – Travailleur – TI – Effets visuels
+
+**Note:** The CSQs of applicants under the RSWP indicate either “Catégorie : Travailleur qualifié,” without a code or “Catégorie : Travailleur qualifié” with the code IQ.
+
+*   hold a **CSQ** when they apply for their work permit under this exemption and be in one of the following situations: 
+    *   the CSQ is valid **if they have not yet applied for permanent residence**;
+    *   If an application for permanent residence has been submitted, it must have been received before the CSQ expired and processing of the application is ongoing.
+
+**Note:** If an applicant has a CSQ, they do not need a statement that confirms they are urgently required by the employer who has made them a job offer, as is the case for [foreign workers nominated by a province or territory other than Quebec](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/federal-provincial-territorial-agreements-r204-lmia-exemption-code-t13.html). The Canada–Quebec Accord is not an agreement as specified in [paragraph R204(c)](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-204.html).
+
+The following foreign nationals **are not** eligible under this exemption category:
+
+*   applicants applying for a work permit at a port of entry, as they must be physically in Canada as a temporary resident to be eligible
+*   applicants for [open work permits](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/open.html#LMIA)
+*   spouses or common-law partners who are not principal applicants on the permanent residence application 
+    *   See [Spouses or common-law partners of Quebec selection certificate (CSQ) holders](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/public-policy-competitiveness-economy.html#toc6-2) for information on spousal work permits.
+
+*   entrepreneurs and self-employed applicants 
+    *   They may be eligible as [entrepreneurs/self-employed candidates seeking to operate a business](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/canadian-interests-significant-benefit-entrepreneurs-self-employed-candidates-seeking-operate-business-r205-c11.html) under the LMIA exemption R205(a) with administrative code C11 or C60
+
+Employer compliance fee
+-----------------------
+
+The regulations concerning the International Mobility Program provide that when hiring LMIA-exempt foreign workers, **employers** must pay an employer compliance fee and submit an Offer of Employment to IRCC.
+
+A **work permit application will be refused** under paragraph R200(3)(f.1) if:
+
+*   the employer has not paid the employer compliance fee, as per [section R303.1](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-303.1.html), unless the employer has been exempted from paying the fee under subsection R303.1(5) or 303.2(2); or
+*   the employer has not submitted an Offer of Employment, as per [section R209.11](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-209.11.html).
+
+Refunds of the employer compliance fee **must** be initiated if
+
+*   the work permit application is refused; or
+*   the employer withdraws their offer of employment in writing prior to the issuance of the work permit and the work permit application is therefore refused.
+
+Application assessment
+----------------------
+
+### Review of the offer of employment
+
+When assessing if the work permit application meets the requirements of the IMP category, officers should review either the offer of employment that appears under the Employment Details tab in the Global Case Management System (GCMS) for information provided by the employer, or the matching fields on the IMM 5802 form (if the employer was authorized to use it).
+
+Final decision
+--------------
+
+### Approval
+
+*   If the officer is satisfied that the work of the applicant would create or maintain significant social, cultural or economic benefits or opportunities for Canadian citizens or permanent residents as per[paragraph 205(a)](http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-205.html) and all other requirements of R200 are met, a work permit may be issued 
+*   Under the Application screen, officers should enter the information below in the specified fields
+
+**Note:** If the employer has been authorized to use an IMM 5802 form instead of completing the offer of employment through the Employer Portal, the officer may need to enter some of the codes listed below.
+
+| Field | Selection or input |
+| --- | --- |
+| Case type: | 52 when the offer of employment is submitted through the Employer Portal and an “A” number exists 20**only**when authorized to submit the IMM 5802 form |
+| Province of destination | Quebec |
+| City of destination: | Address of physical job location If there is more than one location, enter the primary location in the “City of Destination” field and the secondary location in the “Remarks” field. |
+| Exemption code | A73 (automatically filled in based on the offer of employment) |
+| NOC | NOC code (automatically filled in based on the offer of employment) |
+| Intended occupation | Job title (automatically filled in based on the offer of employment) |
+| LMIA/LMIA-exempt # | Number beginning with “A” from the offer of employment submitted in the Employer Portal |
+| Employer | Business operating name (automatically filled in based on the offer of employment) |
+| Duration | Based on the offer of employment (maximum of 24 months) Extension is possible if the application for permanent residence is still in processing (generally 12 months). |
+
+### Refusal
+
+A decision is reasonable when the reviewing court is able to trace the decision maker’s reasoning, without encountering fatal flaws in the overarching logic, and is satisfied that there is a line of analysis within the given reasons that could reasonably lead the tribunal from the evidence before it to the decision maker’s conclusion.
+
+The officer needs to engage with the documentary evidence that was provided by the applicant. Simply stating “I have reviewed the submissions, and I am not satisfied that R205 is met” is not sufficient to allow another reasonable person to understand the logic of the decision without reviewing all of the evidence again.
+
+Officers should follow the steps in [Decision making: Standard of review and process for making a reasonable decision](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/service-delivery/decision-standard-review.html) when finalizing their refusal notes.
+
+The conclusion should provide an answer or make a finding of fact for each issue.
+
+The refusal grounds should reflect what the officer has stated in their notes.
+
+Work permits are issued if all of the requirements stated in R200 are met. Therefore, refusal grounds should be linked to one of those requirements. Below are examples of some of the requirements:
+
+R200(1)(b) – if the officer is not satisfied that the applicant will leave Canada at the end of the period authorized for their stay, including any assessment of dual intent. If the officer is not satisfied that the work of the applicant is genuine, it may be reasonable to determine that the applicant will not leave Canada at the end of their stay. However, the officer must provide a reasonable, logical explanation of why they are not satisfied.
+
+R200(3)(a) – if the officer is not satisfied that the applicant will be [able to perform the work](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/prohibitions.html#unable-perform) offered. For example, the applicant does not have the required experience, education, language level, or any other factors that the officer determines are required to perform the work.
+
+R200(3)(f.1) – if the offer of employment under R209.11 has not been completed or the fee required under R303.1 has not been paid prior to the submission of the work permit application.
+
+Extensions
+----------
+
+If a permanent residence application is in processing but has not been finalized, a work permit extension is considered on a case-by-case basis. The duration of an extension is 1 year. However, officers may use their discretion, depending on current [processing times](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html) for Quebec skilled worker permanent residence applications.
+
+Family members
+--------------
+
+For guidance on specific requirements to obtain a work permit for family members, please refer to[Overview of work designated by the Minister [R205(c)(ii)] – Canadian interest – International Mobility Program](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/public-policy-competitiveness-economy.html).
+
+For guidance on specific requirements to obtain a study permit for minors, please refer to[Study permits: Guidelines on minor children](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/guidelines-on-minor-children.html).
+
+Related information:
+--------------------
+
+*   [Quebec Selection Certificate (CSQ) holders currently outside Quebec [R205(a) – A76]](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/quebec-cases/csq-outside-quebec.html)
+*   [Bridging open work permits](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/provincial-nominees-permanent-resident-applicants/bridging-open-work-permits.html)(A75)
+*   [Table (comparison of the different categories for CSQ holders) (PDF)](https://www.canada.ca/content/dam/ircc/documents/pdf/english/corporate/publications-manuals/operational-bulletins-manuals/02.external-comparison-table-of-categories-imp-csq-eng.pdf)
+
+Previous updates
+----------------
+
+*   [January 13, 2023](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/updates/2022-csq-imp-a73.html)
+*   [June 9, 2022](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/updates/2022-csq-holders-quebec.html)
+*   [January 31,2022](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/updates/2022-csq-holders.html)
+*   [May 27,2021](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/updates/2021-csq-holders-quebec.html)
+*   [October 5, 2018](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/updates/2018-young-professionals.html)
+*   [March 17,2016](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/updates/2016-03-17.html)
+*   [OB 420A – May 16, 2013](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/bulletins-2013/420-may-16-2013.html)
+*   [OB 420 – June 1, 2012](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/bulletins-2012/420-june-1-2012.html)
+
+Page details
+------------
+
+ 2025-04-08

@@ -24,7 +24,7 @@ export const MessageBubble: React.FC<{
       return message.citations[idx] || null;
     }
 
-    const refMatch = raw.match(/^([PC])(\d+)$/i);
+    const refMatch = raw.match(/^([PCD])(\d+)$/i);
     if (!refMatch) {
       return null;
     }
@@ -71,14 +71,14 @@ export const MessageBubble: React.FC<{
       }
 
       // Process inline bold and citations
-      const parts = line.split(/(\[(?:P|C)?\d+\]|\*\*.*?\*\*)/g);
+      const parts = line.split(/(\[(?:P|C|D)?\d+\]|\*\*.*?\*\*)/g);
       return (
         <p key={idx} className={cn(
             "mb-4 leading-8 text-[16px] font-normal tracking-wide",
             isUser ? "text-white/95" : "text-slate-700"
         )}>
           {parts.map((part, pIdx) => {
-            if (part.match(/^\[(?:P|C)?\d+\]$/i)) {
+            if (part.match(/^\[(?:P|C|D)?\d+\]$/i)) {
               const refId = part.replace('[', '').replace(']', '');
               const citation = resolveCitation(part);
               

@@ -1,0 +1,212 @@
+---
+url: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/who-needs-study-permit.html
+fetched_url: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/who-needs-study-permit.html
+title: "Study permits: Who needs a study permit"
+parent_url: 
+depth: 0
+ingest_date: 2026-02-12
+content_hash: "527b1f85c5a70b1453eb9b60bf5cb8c9bb522dec626f5b4f12a1f4eb0b55004b"
+type: manual_section
+---
+
+Published Time: Wed, 11 Feb 2026 22:00:49 GMT
+
+Study permits: Who needs a study permit
+=======================================
+
+This section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.
+
+When a study permit is required
+-------------------------------
+
+Foreign nationals are required to obtain a study permit for engaging in academic, professional, vocational or other education or training that is more than 6 months in duration at a [designated learning institution (DLI)](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/designated-learning-institutions.html) in Canada.
+
+The following activities are not considered studies for the purposes of the Immigration and Refugee Protection Act (IRPA) and do not require a study permit:
+
+*   pre-school (pre-kindergarten)
+*   courses of general interest or self-improvement
+*   [distance learning](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/other-considerations.html)
+*   audited courses (typically by sitting in on an academic course, but without obtaining credit for it, or having the ability to obtain credit for it retroactively)
+*   settlement and integration courses offered by a provincial or territorial government through settlement and integration providers (including francization courses offered by the Government of Quebec, as they are considered settlement and integration courses and not language courses by IRCC)
+
+Who is exempt from the requirement for a study permit
+-----------------------------------------------------
+
+A foreign national is exempt from the study permit requirement in the following situations:
+
+*   [minor children inside Canada [A30(2)]](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/who-needs-study-permit.html#minors)
+*   [family members and members of the private staff of accredited foreign representatives [R188(1)(a)]](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/who-needs-study-permit.html#family_privateStaff)
+*   [members of the armed forces of a country designated for the purposes of the Visiting Forces Act (VFA) [R188(1)(b)]](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/who-needs-study-permit.html#armedForces)
+*   [short-term courses [R188(1)(c)]](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/who-needs-study-permit.html#courses)
+*   [registered Indians [R188(1)(d)]](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/who-needs-study-permit.html#registeredIndians)
+*   [Public policy exempting temporary foreign worker apprentices in the construction sector from the study permit requirement [R188(1)] – International Mobility Program (IMP)](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/who-needs-study-permit.html#imp)
+*   [foreign nationals eligible for the temporary public policy allowing certain valid work permit holders or certain foreign nationals who are authorized to work under paragraph R186(u) to study without a study permit as of June 27, 2023](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/who-needs-study-permit.html#eligible)
+
+### Minor children inside Canada [A30(2)]
+
+Consult [guidelines on minor children](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/guidelines-on-minor-children.html).
+
+### Family members and members of the private staff of accredited foreign representatives [R188(1)(a)]
+
+Family members or members of the private staff of a foreign representative who is properly accredited by Global Affairs Canada(GAC) and who is in Canada to carry out official duties as a diplomatic agent, consular officer, representative or official of a country other than Canada, of the United Nations or any of its agencies, or of any international organization of which Canada is a member, do not require a study permit [[R188(1)(a)](http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-188.html)].
+
+All people coming to Canada on posting, including their family members, must be in possession of diplomatic or official visas.
+
+Entry is initially authorized for a period of 6 months. During this period, the passport is sent to the Office of Protocol at GAC. The Office of Protocol will imprint a diplomatic (D), consular (C), official (J) or international (I) acceptance counterfoil to the person’s passport indicating that the person is accredited to Canada and entitled to remain in Canada for the duration of status.
+
+Dependent children under 19 years of age who are considered members of the family forming part of the household will be issued an acceptance counterfoil by the Office of Protocol. They do not require a study permit. Children from 19 to 24 years of age are only issued an acceptance counterfoil if they are registered as full-time students.
+
+Foreign representatives’ dependent children in Canada who are 25 years of age or older may be considered for an official acceptance only in exceptional circumstances.
+
+Consult the [Office of Protocol policy](https://www.international.gc.ca/protocol-protocole/policies-politiques/circular-note_note-circulaire_xdc-0643.aspx?lang=eng) on the accreditation of immediate family members of foreign representatives.
+
+#### Study permit applications submitted before the end of postings
+
+Questions related to foreign representatives in Canada should be directed to the Office of Protocol at GAC. Officers can also consult [GAC’s website](http://www.international.gc.ca/protocol-protocole/index.aspx).
+
+### Members of the armed forces of a country designated for the purposes of the Visiting Forces Act (VFA) [R188(1)(b)]
+
+Members of the armed forces, both military and designated civilian personnel, coming to Canada from a [designated state](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/countries-designated-purposes-visiting-forces-act.html) for the purposes of the [Visiting Forces Act (VFA)](https://laws-lois.justice.gc.ca/eng/acts/V-2/index.html) to attend any school, training course or unit are considered on active duty and are exempt from the study permit requirement as per [paragraph 188(1)(b) of the Immigration and Refugee Protection Regulations (IRPR)](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-188.html) regardless of the length of the course. The military or civilian personnel should be in possession of a letter of acceptance from Canada’s Department of National Defence (DND).
+
+Only military personnel, designated under the VFA, are also exempt from the requirements of a
+
+*   passport under [paragraph R52(2)(e)](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-52.html)
+    *   The member must still provide a valid military identification document issued by their government.
+
+*   temporary resident visa (TRV) under [paragraph R190(3)(d)](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-190.html) or an electronic travel authorization (eTA) as per [paragraph R7.1(3)(f)](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-7.1.html)
+*   medical examination under [paragraph R30(1)(d)](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-30.html)
+
+Civilian personnel are not exempt from the requirements of a passport, TRV, eTA or medical examination, even when travelling under military orders.
+
+**Important:** If the program or training in Canada is longer than 6 months, or upon request, a visitor record should be issued. This will facilitate the military or civilian personnel in obtaining provincial or other federal services while in Canada. A visible user remark stating, “Study permit exempt under paragraph R188(1)(b)” should be added on the visitor record.
+
+Military and civilian personnel from **non-VFA designated countries** are **not exempt** from the requirement for a study permit if their program or training is more than 6 months. In addition, they are **not exempt** from the applicable fees for a study permit, TRV, eTA or biometrics.
+
+Programs or training less than 6 months do not require a study permit, regardless of whether the military or civilian personnel is from a VFA designated country or not. For more guidance, consult [short-term courses](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/who-needs-study-permit.html#courses).
+
+A DLI number was created for military or civilian personnel who are not exempt from the study permit requirement and have been accepted into military educational institutions that are federally administered: **Military Educational Institution O241487822222**.
+
+Accompanying family members, regardless of country of origin, are required to obtain a study permit, TRV, eTA, or have a valid and passed medical certificate, if required, when seeking entry. Minor children of a member are governed by [subsection A30(2)](http://laws-lois.justice.gc.ca/eng/acts/I-2.5/section-30.html) if they are physically in Canada.
+
+Family members are, however, exempt from the TRV fee [[R296(2)(b)](http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-296.html)] and the study permit fee [[R300(2)(e)](http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-300.html)].
+
+**Related guidance:** Military or designated civilian personnel who are entering Canada on exchange with or to join the Canadian Armed Forces (CAF) are entering to work. For more guidance, consult [Military personnel [R186(d)] – Authorization to work without a work permit](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/military.html).
+
+### Short-term courses [R188(1)(c)]
+
+Foreign nationals may enter Canada or remain in Canada without a study permit to attend a course or program of study of 6 months’ duration or less [[R188(1)(c)](http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-188.html)]. This exemption helps to facilitate access to short-term courses, regardless of their subject matter. The course or program of study may be part-time or full-time and should be completed within the period authorized upon entry (that is, up to 6 months).
+
+While a study permit is not required for short-term courses, an officer must accept and process an application for a study permit, even when the duration of the course or program of study is 6 months or less [[R188(2)](http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-188.html)].
+
+Holding a study permit for short-term courses may allow students to apply later, from within Canada [[R215(1)(a)](http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-215.html)], to renew or change the conditions of their study permit for further studies. Study permit holders may also be eligible to participate in work programs that are available to international students [[R186(f)](http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-186.html) and [R205](http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-205.html#docCont)].
+
+The duration of the course or program of study is often a more important consideration than the number of months the foreign national intends to study. With the exception of exchange programs, even if foreign nationals plan to study for 6 months or less, if the course or program is longer than 6 months, they need a study permit.
+
+While a foreign national may attend a short-term course or program without a study permit at a non-DLI, they may not be issued a study permit to attend courses at a non-DLI [[R216(e)](http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-216.html)].
+
+#### Subsequent course or program of study
+
+Generally, foreign nationals in Canada without a study permit wishing to enrol in a subsequent course or program of study must apply outside Canada and obtain a study permit in the normal manner (for example, at a Canadian visa office abroad).
+
+Foreign nationals without a study permit will not be granted an extension of their authorized stay as a visitor simply for the purpose of completing a short-term course or program of less than 6 months that would last beyond their original authorized period of stay. [Paragraph R188(1)(c)](http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-188.html) is not intended to allow a foreign national to complete an entire program without a study permit by taking required program courses one at a time. IRCC recognizes that long-term visitors and foreign workers may engage in occasional studies or programs of study lasting 6 months or less at any time during their stay in Canada.
+
+It is therefore recommended that foreign nationals be encouraged to apply for a study permit for a short-term course or program of study if they intend to apply for another program afterwards or work on the campus of the university or college at which they are a full-time student. [Section R215](http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-215.html) provides an exemption to allow certain foreign nationals to [apply for a study permit after entry to Canada](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/making-application.html).
+
+### Registered Indians [R188(1)(d)]
+
+As per [paragraph R188(1)(d)](http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-188.html), registered, Indians or Indians entitled to be registered as defined under the [Indian Act](http://laws-lois.justice.gc.ca/eng/acts/I-5/index.html), are exempt from having to apply for a study permit.
+
+### Public policy exempting temporary foreign worker apprentices in the construction sector from the study permit requirement [R188(1)] – International Mobility Program (IMP)
+
+This [2-year temporary public policy](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/public-policy-construction-study-permit-exempt.html) came into effect on February 26, 2025, and will expire on February 26, 2027, unless otherwise revoked. This public policy will allow eligible temporary worker (TW) apprentices who meet the eligibility criteria to complete their apprenticeship courses or program without a study permit, as per subsection R188(1).
+
+Scenarios
+---------
+
+Officers should examine the scenarios below to learn whether a study permit would be required in that instance.
+
+### A student plans to come to Canada for a program of less than 6 months at a post-secondary DLI.
+
+No. Although the student may complete a short-term program of study without a study permit, they may not be able to apply for a study permit from within Canada if they wish to enrol in subsequent courses that cannot be completed within their original period of authorized stay.
+
+### A student plans to come to Canada for a program of less than 6 months at a post-secondary institution that has not been designated to host international students.
+
+No. Although students may apply for a study permit to complete a short-term program of study, the issuance of study permits is limited to those attending [DLIs](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/designated-learning-institutions.html). In this scenario, the student must reapply as a visitor.
+
+### A student plans to come to Canada for a one-semester (4 months) Grade 12 high school exchange program.
+
+No. Although Grade 12 is technically 10 months long, if the exchange program is defined as 1 semester, then no study permit is needed, as the program will be completed in less than 6 months. However, foreign nationals from visa-required countries have to apply for a TRV.
+
+### A student plans to come to Canada for Grade 12 in a non-semester school system (but not through an exchange program).
+
+Yes. In this case, Grade 12 is 10 months long; therefore, it will not be completed in less than 6 months.
+
+### A student plans to come to Canada for a 4-month university exchange program and wants to be able to work on campus (and meets other criteria for on-campus work).
+
+Yes. The student does not need a study permit to study, but they need a study permit to [work on campus](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/working-on-campus.html). The university must be a [DLI](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/designated-learning-institutions.html).
+
+### A student plans to come to Canada for 1 semester (4 months) at a college or university (but not through an exchange program).
+
+It depends on how the course or program of study is identified in the letter of acceptance. If the student has been accepted to study in courses or a program that will be completed within 6 months, then they do not need a study permit. If the student has been accepted into a 2-year program, for example, they need a study permit even if they only plan to attend 6 months of the program in Canada.
+
+### A student plans to come to Canada to attend a 4-month English as a second language (ESL) or French as a second language (FSL) course at a DLI and is thinking of following up the course with a 3-month computer course at the same DLI.
+
+Yes. Posts should advise students in such cases to obtain a study permit before going to Canada if they are attending a [DLI](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/designated-learning-institutions.html) for the first course. This will allow them to apply later for an extension or for changes to any conditions that may have been imposed when they entered Canada.
+
+### A student plans to come to Canada to complete a 4-month ESL course, followed by a 4-year academic program at a DLI. The student is conditionally accepted into the 4-year academic program, and successful completion of the ESL course is a prerequisite to the student’s enrolment into the 4-year academic program.
+
+While a study permit is generally not required for short-term courses, students intending to attend a short-term prerequisite course should still be counselled to apply for a study permit before travelling to Canada. In this scenario, a study permit or SX-1 visa should be issued only for the length of the prerequisite program of study plus 90 days. The foreign national may apply for a study permit for the 4-year academic program and may do so from within Canada, pursuant to [subparagraph R215(1)(f)(iii)](https://laws-lois.justice.gc.ca/eng/regulations/sor-2002-227/section-215.html).
+
+### A student plans to come to Canada to complete an 8-month ESL course, followed by a 4-year academic program at a DLI. The student is conditionally accepted into the 4-year academic program, and successful completion of the ESL course is a prerequisite to the student’s enrolment into the 4-year academic program.
+
+Yes. In this scenario, a study permit should be issued only for the length of the prerequisite program of study plus 90 days. The foreign national may apply for a study permit for the 4-year academic program once they demonstrate successful completion of the prerequisite program and may do so from inside Canada, pursuant to [subparagraph R215(1)(f)(iii)](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-215.html).
+
+### A student plans to come to Canada to take a 3-month course, leave Canada for a week to visit friends in the United States (U.S.) and return to Canada to take another 2-month course in another program.
+
+A student who has completed their first 3-month course may leave to enter the U.S. and return to Canada if they hold a study permit issued before they left on the visit and they return before the period of their initial authorized stay ends.
+
+### A student plans to come to Canada to take a 5-month chef course at a DLI during which they will be required to work as a chef in a restaurant for a month.
+
+Yes. Students in such cases should obtain a study permit as well as a work permit under the Co-op Work Permit Program.
+
+### Foreign nationals eligible for the temporary public policy allowing certain valid work permit holders or certain foreign nationals who are authorized to work under R186(u) to study without a study permit as of June 27, 2023
+
+The [temporary public policy](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/public-policies/study-without-study-permit.html) allows certain foreign nationals who hold a valid work permit or have applied to renew their work permit and are authorized to work under [paragraph R186(u)](https://laws-lois.justice.gc.ca/eng/regulations/sor-2002-227/section-186.html) to study in Canada without a study permit from June 27,2023, until June 27,2026.
+
+This applies to eligible foreign nationals
+
+1.   who hold a valid work permit and whose application associated with that permit was received by IRCC on or before June 7,2023, or
+2.   who submitted an application to renew a work permit on or before June 7,2023, and are authorized to work under [paragraph R186(u)](https://laws-lois.justice.gc.ca/eng/regulations/sor-2002-227/section-186.html)
+
+Eligible foreign nationals are authorized to study without a study permit until the earliest of the following occurrences:
+
+*   The work permit application referred to in (2) is refused.
+*   The work permit referred to in (1) or that was issued as a result of the application referred to in (2)expires.
+*   This public policy expires (June 27,2026).
+*   The public policy is revoked.
+
+**Note:** Work permits may include the condition stating “unless authorized, prohibited from attending any educational institution, or taking any academic, professional or vocational training course.” For applicants who are eligible, this public policy provides the authorization being referred to in this condition.
+
+Eligible foreign nationals will be required to apply for a study permit if they wish to pursue a program of study that extends beyond the validity of either
+
+*   their valid work permit or
+*   this public policy (June 27, 2026)
+
+#### Québec Acceptance Certificate (CAQ)
+
+The province of Quebec no longer requires a Québec Acceptance Certificate (CAQ) for studies from foreign nationals who wish to study in Quebec and who are authorized to do so without a study permit as a result of this measure. This CAQ exemption for workers to begin studying without a study permit authorized under this study authorization measure came into effect simultaneously on June 27, 2023. The [MIFI website](https://www.quebec.ca/en/education/study-quebec/obtaining-authorizations/authorizations) was updated on the effective date to reflect these changes.
+
+#### Study permit holders
+
+Foreign nationals who have a study permit **and** a valid co-op work permit are eligible for additional study programs under this measure if
+
+*   they follow the conditions of their current study permit
+*   they continue to study in their main study program
+*   the **additional** study program doesn’t exceed the length of their existing **co-op work permit**
+
+**Note:** They must maintain their study permit to complete their current study program.
+
+Page details
+------------
+
+ 2025-12-22

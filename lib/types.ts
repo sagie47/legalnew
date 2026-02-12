@@ -23,7 +23,7 @@ export interface CitationReference {
   citation: string;
   paragraphNumbers: number[];
   relevanceScore: number;
-  sourceType?: 'pinecone' | 'a2aj_case' | string;
+  sourceType?: 'pinecone' | 'a2aj_case' | 'user_document' | string;
   locator?: string;
   url?: string;
   score?: number;
@@ -35,7 +35,6 @@ export interface CitationReference {
   pageStart?: number;
   pageEnd?: number;
   sourceFile?: string;
-  sourceType?: string;
   sourceUrl?: string;
   snippet?: string;
 }

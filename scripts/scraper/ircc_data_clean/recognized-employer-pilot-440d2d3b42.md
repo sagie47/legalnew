@@ -1,0 +1,203 @@
+---
+url: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/recognized-employer-pilot.html
+fetched_url: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/recognized-employer-pilot.html
+title: "Recognized Employer Pilot"
+parent_url: 
+depth: 0
+ingest_date: 2026-02-12
+content_hash: "536ffb52e43fe6e86bd20f023cddea17ccb790067ee914799fbb96166d0442b4"
+type: manual_section
+---
+
+Published Time: Thu, 12 Feb 2026 00:36:54 GMT
+
+Recognized Employer Pilot
+=========================
+
+This section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.
+
+In these instructions, the term “officer” refers to employees of both IRCC and the Canada Border Services Agency (CBSA).
+
+These instructions should be reviewed in conjunction with
+
+*   [Labour market impact assessments](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/overview.html)
+*   [Labour market impact assessment review](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/validity-suspension-duration-employment.html)
+*   [Seasonal Agricultural Worker Program program delivery instructions](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/sawp.html)
+
+On August 8, 2023, the Minister of Employment, Workforce Development and Official Languages announced the implementation of the [Recognized Employer Pilot](https://www.canada.ca/en/employment-social-development/news/2023/08/backgrounder-temporary-foreign-worker-program-recognized-employer-pilot.html) (REP) as part of the labour market impact assessment (LMIA) process. The REP was rolled out on September 12, 2023, and is scheduled to conclude in December 2026.
+
+The REP offers a streamlined application process for employers who frequently use the Temporary Foreign Worker Program to fill positions identified on the[REP occupations list](https://www.canada.ca/en/employment-social-development/services/foreign-workers/recognized-employer/working-conditions.html#h2.3). This list of occupations designated for the REP is based on the National Occupational Classification (NOC) codes deemed to be in shortage.
+
+Recognized employers enrolled in the REP can receive an LMIA that is valid for up to 36 months, thereby giving employers more time to use their LMIAs to fill their labour needs. Not all REP LMIAs are valid for 36 months as most expire at the end of the pilot program, December 31, 2026. The only REP LMIAs that may remain valid beyond December 31, 2026, are those received during the final 6 months of the pilot, that is, starting July 1, 2026. These applications will automatically obtain a 6-month validity LMIA.
+
+LMIAs enable foreign nationals to apply for work permits until the LMIA is no longer valid or all the spaces have been used. In other words, an LMIA may be reused by an applicant for a subsequent application, as long as it remains valid and there are still REP spaces remaining for the employer. The total number of positions approved can be broken down by year for a total period of 3 years, and this breakdown is recorded and shared in the ESDC comments in GCMS. Employers have the option to adjust their yearly allocation based on their labour needs, as long as they do not exceed the total number of positions approved.
+
+REP LMIAs may be issued under any of the following streams:
+
+*   permanent resident
+*   low-wage
+*   high-wage
+*   primary agriculture (agricultural stream and the Seasonal Agricultural Worker Program)
+*   caregiver
+
+Global Talent Stream occupations already benefit from priority services and **are not** included in the REP.
+
+On this page
+------------
+
+*   [Eligibility](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/recognized-employer-pilot.html#eligibility)
+*   [Application assessment](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/recognized-employer-pilot.html#assessment)
+*   [Labour market impact assessment](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/recognized-employer-pilot.html#lmia)
+*   [Decision](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/recognized-employer-pilot.html#decision)
+    *   [Port of entry (POE)](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/recognized-employer-pilot.html#poe)
+    *   [Approval – Work permit issuance in the Global Case Management System (GCMS)](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/recognized-employer-pilot.html#approval)
+
+*   [Refusal](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/recognized-employer-pilot.html#refusal)
+*   [Related links](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/recognized-employer-pilot.html#links)
+
+Eligibility
+-----------
+
+Officers (from IRCC and CBSA) assess the work permit application to determine the eligibility of the foreign national to work in Canada. Officers must be satisfied that all[eligibility and admissibility](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility.html) requirements are met when they make a decision on a work permit application. Additionally, when assessing whether the applicant meets the requirements of the occupation they are applying for, officers should [review the LMIA](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/validity-suspension-duration-employment.html#reviewing) and the offer of employment to determine whether the applicant can perform the work sought in Canada.
+
+Application assessment
+----------------------
+
+### Overview
+
+Before assessing a work permit under the REP, officers must first confirm that the application is associated with a REP LMIA. They can do this by consulting the notes from Employment and Social Development Canada(ESDC) entered under the Employment Details tab in the Global Case Management System(GCMS).
+
+Officers must then verify there is space remaining under the REP LMIA. Officers can do this by consulting the list of all REP LMIAs issued by ESDC, which includes the number of positions remaining on each LMIA. This list is updated twice a month to include new REP LMIAs that have been issued.
+
+If a foreign national applies to extend their work permit under the REP program,**they can apply under the same LMIA of their initial work permit, provided there is a position available and the LMIA is still valid.**
+
+Labour market impact assessment
+-------------------------------
+
+Under the Employment Details tab in GCMS, officers can verify all [LMIA information](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/validity-suspension-duration-employment.html) related to :
+
+*   LMIA Stream
+*   LMIA Validity Period: Date by which applications for work permits must be submitted. For REP, this validity can be up to 36 months
+*   Employer Information: Legal business name and business address of the employer
+*   NOC Code and Title: NOC code and title as stated in the NOC, which is determined by ESDC and based on the information in the LMIA application
+*   Job Title: Title of position as stated by the employer
+*   Number of Positions: Total number of positions under the LMIA , the yearly breakdown (if applicable) and the total number of work permits to be issued within the validity period of the LMIA (up to 36 months for REP)
+*   Education Requirements
+*   Language Requirements
+*    Recommended duration of the work permit. This varies based on the employment stream (SAWP, high-wage, low-wage)
+*   Location of Employment: Physical address of the employment
+*   Hours of work per day/week
+*   Requirements
+*   ESDC Comments: In this field, ESDC identifies the LMIA as part of the REP, and records the yearly breakdown of positions (if applicable). 
+    *    REP LMIAs should be identified with the following text: **Text: (STREAM) REP. Total TFWs = XX: XX for 2024, XX for 2025, XX for 2026**
+    *   Officers processing work permit applications should review any text in this field for any updates, such as changes in worker names, typos in names, clarification in employment duration. 
+
+If the province of destination is Quebec, [applications must include a Quebec Acceptance Certificate (CAQ).](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/quebec-cases.html)
+
+**Important:** To see the most up-to-date information related to that LMIA, processing officers must refresh the LMIA GCMS screen each time the LMIA information is reviewed, paying particular attention to the ESDC comments section.
+
+### Used versus available LMIA positions
+
+GCMS displays the **total number of positions** approved for the 3 years of the LMIA validity under the Employment Details tab in the “# of positions” field.
+
+For example, a REP LMIA with a total of 12 positions over 36 months could have a breakdown of positions such as:
+
+| 2024 | 2025 | 2026 |
+| --- | --- | --- |
+| 4 | 4 | 4 |
+| 5 | 3 | 4 |
+| 3 | 6 | 3 |
+
+This breakdown is entered manually by ESDC and reflected in the ESDC comments section of the LMIA tab under the Employment Details section in GCMS. The breakdown of positions is not fixed, which means that employers have the option to increase or decrease their yearly allocated positions based on their labour needs, as long as they do not exceed the total number of positions approved. Unused positions can be carried forward to the next year provided that the employer does not exceed the total number of positions approved by ESDC for that LMIA. Employers can decide to change the breakdown of positions at any time, even after the LMIA has been issued.
+
+For example, if an LMIA has 5 total positions and 5 work permits have been issued, then the employer has met their labour needs in accordance with the approved LMIA. If IRCC receives an application for a 6th work permit for this same LMIA, IRCC may refuse the application, as it would not meet the requirements of section 203 of the Immigration and Refugee Protection Regulations.
+
+**To check if there is a position available on the LMIA, consult the list of all REP LMIAs issued by ESDC and search for the LMIA in question. If no position is available according to the list, please refer to the section below for instructions on the next steps.**
+
+### Available positions under the Seasonal Agricultural Worker Program (SAWP)
+
+Special attention needs to be given to applications under the [Seasonal Agricultural Worker Program (SAWP)](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/sawp.html#lmia). For SAWP applications, matching is done internally based on the number of LMIA positions and work permit applications submitted, once the eligibility has been determined and the application is ready for approval.
+
+For SAWP applications, officers must consult the contract or job offer to determine which season the foreign national is applying to as a temporary foreign worker. Additionally, officers need to check which year of the REP LMIA the application is for.
+
+For example, a worker might be returning for the second year as a SAWP worker. In this case, the LMIA details may be the same as the first year, but the job offer will be different because it will be showing the employment duration and end date for the second season or year.
+
+The end of the employment contract for workers in the SAWP is December 15. With the REP LMIA, this remains the same unless the passport or biometrics of the worker expires before that date. The SAWP LMIA duration is always set to December 15. With a REP LMIA, recognized employers can benefit from validity periods of up to 36 months for an LMIA. **Officers are instructed to issue the work permit until December 15 of that year even if the LMIA is valid for a total period of 3 years.**
+
+Decision
+--------
+
+### Port of entry (POE)
+
+Officers should be aware that under subsection 198(2) of the Immigration and Refugee Protection Regulations (IRPR), foreign nationals cannot apply at the port of entry (POE) if they are applying for the SAWP.
+
+**Note:** Applicants who are approved in other regular agricultural streams can apply at the POE[if they meet all other relevant criteria.](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/work-permit/eligibility.html)
+
+Foreign nationals who have applied to IRCC and have been provisionally approved should present their letter of introduction issued by IRCC to the border services officer on arrival at the POE.
+
+Border services officers are requested to review the notes tab in the work permit (GCMS) for any specific IRCC instructions.
+
+**SAWP applications:** Officers are reminded that under subsection R198(2), foreign nationals **cannot apply at the POE** if they are applying under the SAWP.
+
+If an application is made on entry, the border services officer **must not accept or approve** a SAWP work permit application. They should refer the applicant to IRCC.
+
+**Reminder:** If an application is made at the POE under the SAWP (even though the application can’t be made on entry), the border services officer may allow the foreign national into Canada as a temporary resident (with no authority to work). However, first the officer needs to be satisfied that the foreign national is admissible to Canada and will comply with all imposed temporary resident conditions, including “Unless authorized, prohibited from engaging in employment in Canada”.
+
+For all other “officer options” on entry, refer to the ENF 4 POE Processing Manual.
+
+### Approval – Work permit issuance in the Global Case Management System (GCMS)
+
+Information in the system and in the approved work permit must match the information found in the**Employment Details tab – LMIA view**in GCMS. Officers must always refresh the screen to view the latest LMIA information before approving an application.
+
+Officers should issue the work permit for the duration of employment specified in the LMIA, taking into consideration the validity of the passport and other statutory requirements. For work permit issuance, the maximum employment duration applicable to the existing program streams will remain in effect:
+
+*   SAWP - a maximum of 8 months 
+*   Low-wage stream – 1 year
+*   High-wage stream – 3 years 
+
+| Field | Selection or input |
+| --- | --- |
+| **Case type** | 53 – LMIA-required work permit 57 – Live-in Caregiver work permit 98 – SAWP |
+| **Special Program** | For case type 98, the special program code is SAWP. |
+| **Province of destination** | The province of destination is uploaded automatically from the work permit application form. Officers should ensure that the**province matches the location of employment**in the LMIA tab. |
+| **City of destination** | The city of destination is uploaded automatically from the work permit application form. Officers should ensure that the**city matches the location of employment**in the LMIA tab. |
+| **NOC** | Manually enter the NOC from the**Employment Details – LMIA**tab. |
+| **Intended occupation** | The job title is uploaded automatically from the work permit application form. Officers should ensure that the**job title matches the job title**in the Employment Details – LMIA tab. |
+| **LMIA#** | The LMIA number is uploaded from the application form or manually from the LMIA approval letter provided by the applicant. |
+| **If destination is Quebec** | CAQ “valid-to date” also needs to be populated. It cannot be left blank. For SAWP, the CAQ validity date is set by default to December 15 of each year. |
+| **Employer** | For SAWP employer only: Ensure that the **name of the employer on the work permit remains blank**. The name of the employer should not be on the work permit. For other streams: Enter the name of the employer as it appears in the LMIA. |
+| **Duration** | SAWP work permits should be issued untilDecember 15 of the agricultural season for which they are applying.They shouldnot exceed a**maximum duration of employment of 8 months.** For other streams: Enter the duration as it appears in the LMIA. |
+| **User remarks (Mandatory)** | For SAWP employers only: The applicant must be able to work in **all provinces**. The period of cumulative work should not exceed the employment duration specified in the LMIA, up to a maximum of 8 months [subparagraph R185(b)(iv)]. POE: [# months to issue from date of entry / # mois à délivré de la date d’arrivée] Authorized to work at locations specified in the LMIA / Autorisé à travailler dans les lieux spécifiés dans l’EIMT. For C53: **_ENGLISH_** POE: Issue WP for XX months from arrival date. Authorized to work at locations specified in the LMIA. **_FRANÇAIS_** PD’E: Émettre un permis de travail valide pour XX mois à compter de la date d’arrivée. Autorisé à travailler dans les lieux spécifiés dans l ’ EIMT. |
+
+Officers approving work permits must ensure that correctly coded multiple-entry visas are valid for the same period as the work permit or passport, whichever expires first.
+
+Refusal
+-------
+
+Once an officer has assessed that a foreign national is eligible to apply for a work permit (for example, the applicant submitted fees, has a valid passport), they must determine if there are any [prohibitions](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/prohibitions.html) affecting the issuance of the permit. Subsection [R200(3)](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-200.html) specifies the situations where an officer must not issue a work permit.
+
+If the officer has reasonable grounds to believe that the foreign national will not be able to perform their duties, the officer must not issue the work permit based on paragraph R200(3)(a).
+
+The officer must assess whether the foreign national meets the job requirements and whether there are any other factors that may prevent the foreign national from being able to perform the duties of the position.
+
+If, after reviewing the REP LMIA list, the officer determines that the LMIA associated with a work permit application does not have a position remaining for the applicant, the officer can refuse the application based on subsection R203(1).
+
+If an officer has consulted extrinsic evidence affecting their decision on the application, they should send a [procedural fairness](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/service-delivery/procedural-fairness.html#right-to-be-heard) letter to the applicant before rendering a decision. Consultation with ESDC on the number of positions remaining on an LMIA is considered extrinsic evidence.
+
+The officer must record their reasons for refusing the work permit, outlining the rationale underlying the decision, as well as the facts and elements considered. For more information, see [Decision making: Standard of review and process for making a reasonable decision](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/service-delivery/decision-standard-review.html).
+
+Related links
+-------------
+
+*   [Agricultural workers – Work temporarily in Canada](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/special-instructions/agricultural.html)
+*   [Employers who have been found non-compliant](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/employers-non-compliant.html)
+*   [Quebec cases - Temporary Foreign Worker Program (TFWP)](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/quebec-cases.html#temporary-foreign-worker)
+*   [Public list of employers who have been non-compliant](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/public-list-employers-who-have-been-non-compliant.html)
+*   [Temporary residents - Refusals overview](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/refusals-overview.html)
+
+Processing officers can contact ESDC to flag any discrepancies they identify between the total number of positions approved on a REP LMIA, the yearly breakdown of positions, or the number of work permits issued to date, by sending an email to [BOITE_DE_RECEPTION_DE_LUTC-CPU_GENERAL_DELIVERY_INBOX@hrsdc-rhdcc.gc.ca](mailto:BOITE_DE_RECEPTION_DE_LUTC-CPU_GENERAL_DELIVERY_INBOX@hrsdc-rhdcc.gc.ca).
+
+Page details
+------------
+
+ 2025-10-24

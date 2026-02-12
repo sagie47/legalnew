@@ -1,0 +1,391 @@
+---
+url: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/provincial-nominees-permanent-resident-applicants/open-work-permits-startup-business-class-pr-applicants.html
+fetched_url: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/provincial-nominees-permanent-resident-applicants/open-work-permits-startup-business-class-pr-applicants.html
+title: "Start-up business class permanent residence applicants – open work permits [R205(a) – A77] – Canadian interests – International Mobility Program"
+parent_url: 
+depth: 0
+ingest_date: 2026-02-12
+content_hash: "9230b07559468e2e56e072c2c22dd2ac59cdd5c9ce640093a9f4e962b40ea854"
+type: manual_section
+---
+
+Published Time: Wed, 11 Feb 2026 23:45:45 GMT
+
+Start-up business class permanent residence applicants – open work permits [R205(a) – A77] – Canadian interests – International Mobility Program
+================================================================================================================================================
+
+This section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.
+
+Applications should be received electronically unless the applicant is exempt from the mandatory requirement to apply online.
+
+*   for outside of Canada applicants – refer to the[ministerial instructions](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/other-goals/mi62.html) on the submission of online applications for temporary resident visas and other documents
+*   for in-Canada applicants – refer to[programs exempt from the in-Canada mandatory electronic application (e-application) requirement for temporary residents](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/place-application-visa-electronic-travel-authorization-study-permit-work-permit/exempt-electronic-applications.html)
+
+Although temporary resident visa exempt foreign nationals may apply for a work permit under the International Mobility Program work category at the [port of entry](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/persons-who-may-apply-port-entry.html), due to the complexity of the application and for reasons of client service, and program consistency, foreign nationals should be encouraged to submit their work permit application online to IRCC under the administrative code A77.
+
+The instructions on this page should be reviewed in conjunction with the following:
+
+*   [Employer-specific work permits – General processing – International Mobility Program](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/employer-specific-labout-market-impact-assessment-exemptions.html)
+*   [Conditions and validity period on work permits](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/eligibility-admissibility-conditions-including-validity-period.html)
+*   [Public list of employers who have been non-compliant](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/public-list-employers-who-have-been-non-compliant.html)
+
+The Department uses administrative codes to determine if the work an applicant intends to perform **may** create [significant social, cultural or economic benefits](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/canadian-interests-significant-benefit-general-guidelines-r205-c10.html#s3) or opportunities for Canadian citizens or permanent residents, as described in paragraph[205(a)](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-205.html) of the Immigration and Refugee Protection Regulations (IRPR). The factors provided for each administrative code demonstrate how the situation **may** meet the requirements of paragraph R205(a). Officers must always be satisfied that all requirements of section [R200](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-200.html) are met before a work permit may be issued.
+
+The administrative code A77 is the code under which the work of certain applicants, who have submitted a complete permanent residence (PR) application (as per section R10) under the start-up business class (that is, Start-up Visa – “SUV”) and are entering Canada prior to the finalization of their PR application, may be considered as creating significant economic or social benefits to Canada and may be issued an open work permit.
+
+Instructions for applicants are found in[Start-up visa optional open work permit](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa/work-permits.html).
+
+Applications received before October 3, 2024
+--------------------------------------------
+
+As of October 3, 2024, SUV PR applicants who have been deemed essential may be eligible for open work permits, instead of employer-specific permits, prior to obtaining PR.
+
+SUV work permit applications received **before** October 3, 2024, must be assessed using the previous instructions for employer-specific work permits. IRCC does not have the authority to assess an application under different criteria than what was requested in the application.
+
+For previous instructions, see: [Employer-specific work permit applications for start-up visa applicants received before October 3, 2024](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/provincial-nominees-permanent-resident-applicants/work-permits-start-business-class-permanent-resident-visa-applicants.html).
+
+However, an applicant may submit a request to have their pending employer-specific SUV work permit application assessed under the SUV open work permit criteria instead. Upon receiving the applicant’s consent to do so, officers may assess their SUV work permit application under the open work permit criteria as per the instructions below.
+
+Applicants who are issued a work permit based on an application received **before** October 3, 2024, must submit a new work permit application if they would like to request an open work permit.
+
+Any SUV work permit applications received **on or after** October 3, 2024, are to be assessed under the current instructions below for open work permits.
+
+On this page
+------------
+
+*   [Eligibility](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/provincial-nominees-permanent-resident-applicants/open-work-permits-startup-business-class-pr-applicants.html#s1)
+*   [Documentary evidence](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/provincial-nominees-permanent-resident-applicants/open-work-permits-startup-business-class-pr-applicants.html#s2)
+*   [Application assessment](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/provincial-nominees-permanent-resident-applicants/open-work-permits-startup-business-class-pr-applicants.html#s3)
+    *   [Pending permanent resident application](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/provincial-nominees-permanent-resident-applicants/open-work-permits-startup-business-class-pr-applicants.html#s4)
+    *   [Work permit application](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/provincial-nominees-permanent-resident-applicants/open-work-permits-startup-business-class-pr-applicants.html#s5)
+    *   [Commitment certificate – Letter of support](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/provincial-nominees-permanent-resident-applicants/open-work-permits-startup-business-class-pr-applicants.html#s6)
+        *   [Designated entity role](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/provincial-nominees-permanent-resident-applicants/open-work-permits-startup-business-class-pr-applicants.html#s7)
+        *   [Notification of issuance of the commitment certificate](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/provincial-nominees-permanent-resident-applicants/open-work-permits-startup-business-class-pr-applicants.html#s8)
+        *   [Client note](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/provincial-nominees-permanent-resident-applicants/open-work-permits-startup-business-class-pr-applicants.html#s9)
+        *   [Investor groups / team members](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/provincial-nominees-permanent-resident-applicants/open-work-permits-startup-business-class-pr-applicants.html#s10)
+
+    *   [Review of significant benefit factors](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/provincial-nominees-permanent-resident-applicants/open-work-permits-startup-business-class-pr-applicants.html#s11)
+    *   [Ability to perform the work sought](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/provincial-nominees-permanent-resident-applicants/open-work-permits-startup-business-class-pr-applicants.html#s12)
+    *   [Dual intent](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/provincial-nominees-permanent-resident-applicants/open-work-permits-startup-business-class-pr-applicants.html#s13)
+    *   [Proof of support funds](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/provincial-nominees-permanent-resident-applicants/open-work-permits-startup-business-class-pr-applicants.html#s14)
+
+*   [Final decision](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/provincial-nominees-permanent-resident-applicants/open-work-permits-startup-business-class-pr-applicants.html#s15)
+    *   [Updated applications received prior to October 3, 2024](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/provincial-nominees-permanent-resident-applicants/open-work-permits-startup-business-class-pr-applicants.html#s16)
+    *   [Approval](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/provincial-nominees-permanent-resident-applicants/open-work-permits-startup-business-class-pr-applicants.html#s17)
+    *   [Refusal](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/provincial-nominees-permanent-resident-applicants/open-work-permits-startup-business-class-pr-applicants.html#s18)
+        *   [Refusal grounds in the GCMS](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/provincial-nominees-permanent-resident-applicants/open-work-permits-startup-business-class-pr-applicants.html#s19)
+
+Eligibility
+-----------
+
+To be eligible for an SUV open work permit, the applicant must
+
+*   have received notification from a designated entity [Letter of support[IMM 0211] (PDF, 0.1 MB)](https://www.canada.ca/content/dam/ircc/documents/pdf/english/kits/forms/imm0211/01-04-2024/imm0211e.pdf) that a commitment certificate was issued, which 
+    *   indicates the applicant is **essential**
+    *   has the same validity dates as the commitment certificate supporting the permanent resident application 
+        *   Since the applicant must apply for PR prior to submitting their work permit application, they may still apply for their work permit after the expiry date indicated on the letter of support
+
+*   have an SUV PR application pending, which was submitted while the commitment certificate was valid 
+    *   Officers can check in GCMS that the PR application was received and is still pending
+
+*   if the applicant is part of a start-up ownership group, all designated essential members of the group must have pending permanent resident applications (see note below)
+*   intend to reside in a province or territory other than Quebec
+*   have sufficient liquid funds to meet the low-income cut-off (LICO) for their family size for a minimum of 52 weeks
+*   have sufficient liquid funds to meet their investment commitments in the start-up business
+*   have the language skill levels required for the employment 
+    *   Generally, a level 5 in all 4 [language-skill](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/standard-requirements/language-requirements/test-equivalency-charts.html) areas in the Canadian Language Benchmarks (for English) or the Niveaux de compétence linguistique canadiens (for French) demonstrates this, as this aligns with the language requirements for SUV PR applications
+    *   However, officers continue to hold discretion to assess language abilities in relation to the applicant’s ability to perform the work sought, as per [R200(3)(a)](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-200.html)
+
+*   have submitted their work permit application electronically prior to entering Canada or after if they meet the requirements of R199 
+    *   Applications submitted at a port of entry are not eligible for this category
+
+**Note:** As of April 30, 2024, IRCC will only assess SUV PR applications received up to a maximum of 10 start-up businesses per designated entity per calendar year. For the purpose of this cap, a “complete application” means that all members of the same start-up ownership group have submitted an SUV PR application.
+
+Documentary evidence
+--------------------
+
+With the application for an open work permit, officers should be satisfied that they have the following documentary evidence to make an assessment:
+
+*   a completed [Letter of support[IMM 0211] (PDF, 0.1 MB)](https://www.canada.ca/content/dam/ircc/documents/pdf/english/kits/forms/imm0211/01-04-2024/imm0211e.pdf) from the designated entity supporting their PR application that 
+    *   is valid at the time the PR application is received
+    *   confirms that the applicant is essential to the start-up business
+
+*   proof that the applicant has submitted their SUV PR application. Proof can be: 
+    *   a copy of the acknowledgement of receipt
+    *   the tracking receipt or number from a courier**and**proof of payment of application fees for PR applications submitted before September 23, 2022
+    *   a copy of the email confirming that the[application was submitted in the online portal](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/other-goals/mi61.html)and proof of payment of application fees for PR applications submitted after September 23, 2022
+    *   confirmation in the IRCC system that a PR application was received and is still pending
+
+*   if the applicant is part of a start-up ownership group 
+    *   Proof that **all designated essential members** in the group have submitted an SUV PR application
+    *   Proof of application submission from other team members can include: 
+        *   a copy of the acknowledgement of receipt
+        *   the tracking receipt or number from a courier and proof of payment of application fees for PR
+        *   a copy of the email confirming that the application was submitted in the online portal and proof of payment of application fees for PR applications submitted after September 23, 2022
+
+    *   Proof for other team members can be the same as for the applicant.
+
+*   copy of the language test results
+*   proof of liquid support funds (separate from those being invested) as per their family size to meet the LICO for 52 weeks
+*   sufficient proof that satisfies the officer that the applicant will be able to perform the work sought as per [R200(3)(a)](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-200.html)
+    *   For more information, see: [Review of significant benefit factors](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/provincial-nominees-permanent-resident-applicants/open-work-permits-startup-business-class-pr-applicants.html#s11)
+
+*   sufficient proof to satisfy an officer that their work in the start-up business will create or maintain significant benefits to Canada as per [R205(a)](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-205.html). 
+    *   For more information, see: [Significant benefit to Canada [R205(a) – C10] – Canadian interests – International Mobility Program](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/canadian-interests-significant-benefit-general-guidelines-r205-c10.html#s3)
+
+Application assessment
+----------------------
+
+The start-up business class is a PR program under the IRPR. As such, a PR application must be submitted prior to the open work permit application for an officer to be satisfied the applicant is being assessed for the purpose of the Start-up Business Class Program.
+
+When officers are reviewing an SUV open work permit application, the following factors should be assessed:
+
+### Pending permanent resident application
+
+*   An [SUV](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa/about.html)PR application has been submitted and has not been rejected or refused 
+    *   The application for PR does not need to pass the section[R10](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-10.html) completeness check, but it must have been submitted prior to the work permit application
+    *   This supports the policy rationale of entry to begin work while a PR application is pending and the fact that the applicant is in the Start-up Business Class
+    *   Officers can check in GCMS that the PR application was received and is still pending
+
+*   If the applicant is a member of a start-up ownership group, as indicated in the Team Member Information field on the [Letter of support[IMM 0211] (PDF, 0.1 MB)](https://www.canada.ca/content/dam/ircc/documents/pdf/english/kits/forms/imm0211/01-04-2024/imm0211e.pdf)
+    *   All **designated essential** members of the start-up ownership group must have submitted an SUV PR application before a work permit may be approved for any member of the team 
+        *   Officers should ensure that none of the start-up ownership group members designated as essential have had their PR applications withdrawn, rejected or refused, regardless of when the commitment certificate is issued, as this will affect the eligibility of other team members under subsection[R98.08(2)](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-98.08.html)
+        *   Officers should associate all team members in the Global Case Management System (GCMS) and ensure that they are all associated to the Organization ID for the designated entity
+
+### Work permit application
+
+*   The applicant has provided [proof of support funds](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/provincial-nominees-permanent-resident-applicants/open-work-permits-startup-business-class-pr-applicants.html#s14) for 52 weeks per the LICO amount for their family size
+*   The language test results meet the minimum requirements stated in the eligibility section, in alignment with the eligibility requirements for SUV PR applications 
+    *   Officers continue to have discretion to assess the applicant’s language abilities in relation to their ability to perform the work sought, as per [R200(3)(a)](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-200.html)
+
+*   The applicant has provided sufficient proof that their work in the proposed business will create or maintain significant economic, social or cultural benefits
+*   The applicant has provided proof of sufficient liquid funds to meet their investment commitments
+*   A police certificate was provided, if required, as per regular temporary residence processes
+*   A medical examination was completed, if required, as per regular temporary residence processes
+
+### Commitment certificate– Letter of support
+
+The applicant must have provided a Commitment Certificate– Letter of Support from the designated entity:
+
+*   This document must have been valid when the applicant submitted their SUV PR application
+*   Since the applicant must apply for PR prior to submitting their work permit application, they may still apply for their work permit after the expiry date indicated on the letter of support
+
+There must be a note on the Client screen that confirms that a commitment certificate was received by IRCC. The information in the note must match the information in the Letter of Support submitted by the applicant.
+
+All commitment certificates received as of April 30, 2024, must have a unique identifier number that matches the Letter of Support. Officers must verify that the unique identifier in the Letter of Support matches the commitment certificate. The commitment certificate must bear the signatures of the designated entity along with the date. The Letter of Support is separate from the commitment certificate.
+
+IRCC Montréal will include the unique identifier number from the commitment certificate in the client notes. This will assist officers in verifying that the number matches what is on the Letter of Support submitted by the client.
+
+#### Designated entity role
+
+Under subsection[R98.03(2)](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-98.03.html), the Minister may designate specific organizations that are recognized for their expertise and their ability to assess the potential for and assist in the success of start-up business opportunities in Canada.
+
+The designated entity must assess the potential for success of the start-up business opportunity against their own program requirements. Each designated entity may support only 10 start-up businesses per calendar year.
+
+While this assessment may form part of the officer’s decision, it is the processing officer who must complete the assessment under paragraph[R205(a)](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-205.html) and be satisfied that all requirements of section[R200](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-200.html) are met.
+
+Applicants bear the onus of demonstrating they meet the applicable requirements. This includes providing information on why they believe that their work creates or maintains significant benefits (such as a business plan or a letter of explanation outlining the significant benefits created by the business).
+
+#### Notification of issuance of the commitment certificate
+
+Applicants do not receive the commitment certificate directly. Instead, the designated entity will provide them with a portion of it titled [Letter of support [IMM 0211] (PDF, 0.1 MB)](https://www.canada.ca/content/dam/ircc/documents/pdf/english/kits/forms/imm0211/01-04-2024/imm0211e.pdf). The designated entity sends the commitment certificate directly to IRCC.
+
+Each[designated entity](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa/designated-organizations.html)is created as an organization in the GCMS. All applicants should be associated to the designated entity within the GCMS.
+
+#### Client note
+
+On receipt of the commitment certificate and finalization of a peer review (if required), a client note is entered in the Notes tab on the Client screen in the GCMS.
+
+Officers should confirm this note exists. If section 8.0 is completed, information provided in that section will be included in the client note. This will indicate to the processing officer that the commitment certificate exists.
+
+#### Start-up ownership groups / team members
+
+Designated entities may identify as a start-up ownership group, known as team members, in a commitment to a single business proposal (maximum of 5). If 1 of the team members who is deemed an essential person has their SUV PR application withdrawn or **refused**, as per subsection[R98.08(2)](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-98.08.html), all SUV PR applications linked to the same business proposal must be refused for not meeting the requirements of being a member of the start-up business class.
+
+See[Assessing the application (start-up business class)](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/economic-classes/start-business/assessing-application.html#s02).
+
+When 1 essential team member is no longer eligible for PR in the start-up business class, any additional team members should have their work permit applications refused, given that they would no longer be a member of the start-up business class either. If the work permit applicant no longer has the possibility of obtaining PR in the start-up business class because their PR application has been refused or will be, they no longer meet the eligibility criteria for this situation (meaning they do not have a pending SUV PR application). Work permit applicants in this situation should be afforded the opportunity to respond as per [procedural fairness](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/service-delivery/procedural-fairness.html).
+
+### Review of significant benefit factors
+
+Officers should review all supporting documentation provided to determine if the work of the applicant in their business will create or maintain significant economic, cultural or social benefits for Canadians or permanent residents.
+
+**Note:** While an officer must be satisfied that the applicant’s work will create or maintain significant benefit, as per [R205(a)](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-205.html), as part of this assessment, officers may take into consideration:
+
+*   the potential for creating significant economic or social benefits by issuing work permits to SUV PR applicants to facilitate their early entry to Canada, allowing them to begin establishing their business and settle while transitioning to permanent residence
+*   the assessment of the applicant’s business completed by the designated entity
+
+When reviewing business plans, officers should ensure that the plans are specific to the establishment of the business and not a general report on the industry itself. Officers need to determine what the significant benefit is that the applicant has identified as being generated or maintained by their work in Canada.
+
+Questions to consider in determining whether paragraph[R205(a)](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-205.html) is met include, but are not limited to, the following (note: these serve as examples of considerations, rather than requirements, to assess significant benefit):
+
+*   Is the business creating new jobs? 
+    *   Is the number of jobs significant for the location?
+    *   Does the job opportunity already exist within other businesses in the location?
+    *   Will the creation of new jobs simply hire existing trained employees away from other existing businesses or bring in new workers to the field?
+    *   Will the proposed wages be at a rate that could increase wages in the industry?
+
+*   Is the business providing new products or service innovations? 
+    *   What products/services will the applicant be providing?
+    *   Will the applicant be importing a new or innovative product?
+    *   Will the applicant be obtaining their products in Canada? Have plans been made for the purchase of products?
+    *   Will the business provide a service or product not previously available in that location?
+
+*   Is the business viable? 
+    *   Has the applicant specified in detail how they will market their business?
+    *   How will they attract customers or ensure their services are used? Simply entering a specific growth industry does not ensure viability.
+    *   Will the business be competing with existing Canadian businesses? Will the existence of the new business have a negative effect on existing businesses?
+    *   Does the applicant have the language abilities needed to operate the business?
+    *   Does the applicant have a particular background or skills that will improve the viability of the business, including any knowledge/experience in the Canadian market?
+
+For more information on assessing significant benefit, see:
+
+*   [Significant benefit to Canada [R205(a) – C10] – Canadian interests – International Mobility Program](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/canadian-interests-significant-benefit-general-guidelines-r205-c10.html#s3)
+*   [Significant benefit considerations for temporary self-employed or entrepreneurs](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/entrepreneurs-self-employed-seeking-only-temp-residence-r205-c11.html#considerations)
+
+### Ability to perform the work sought
+
+The officer must assess whether there are any other factors that may prevent the applicant from being able to perform the duties of the position. See [Work permit issuance prohibitions](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/prohibitions.html).
+
+If the officer has reasonable grounds to believe that the applicant will not be able to perform their duties, they are prohibited from issuing a work permit as per paragraph[R200(3)(a)](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-200.html).
+
+In relation to the applicant’s ability to perform the work sought, officers should consider their work experience, education and access to sufficient funds (“investment funds”) required for their business activities.
+
+Officers should consider the following in regard to the applicant’s access to sufficient investment funds:
+
+*   What stage of development or implementation is the start-up business? Would funding be required to perform the business activities at this stage? 
+    *   For example, if an applicant’s start-up business is still in the early ideation stage, upon entering Canada, the business activities they intend to perform may include those that could be performed without funding (for example, engaging with additional Canadian investors or business partners).
+
+*   If the applicant’s business activities upon entering Canada can be reasonably expected to require funding to perform, the applicant should demonstrate that their investment funds are available, transferable and unencumbered. 
+    *   The focus should be on the liquidity of the funds, rather than on the amount invested; however, officers maintain discretion in assessing the funds required for the investment.
+
+*   Officers may take into consideration the investments from the designated entity, including investments in-kind (that is, non-monetary contributions), that may support the applicant’s ability to perform their business activities, while considering the following: 
+    *   Does the applicant have, or will they have, access to the investment funds, or investments in-kind, when they arrive in Canada?
+    *   What are the terms and conditions (if any) tied to the investments from the designated entity?
+
+### Dual intent
+
+Although applicants may have a [dual intent](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/dual-intent-applicants.html) to seek status as temporary workers and then eventually as permanent residents, as per paragraph[R200(1)(b)](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-200.html), they must satisfy the officer that they will leave Canada at the end of the period authorized under section[R185](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-185.html).
+
+The applicant must be able to demonstrate that they maintain the capacity and willingness to leave Canada should their employment end or should they fail to obtain permanent residence.
+
+Officers should consider that the expected result of the start-up business class is permanent residence for the applicant. The purpose of this work permit category is to allow the initiation of their business while permanent residence is pending. Therefore, an officer who is not satisfied that the applicant will leave Canada at the end of their period of stay, as required by paragraph R200(1)(b), must provide a rationale and justification given the parameters of the program itself.
+
+### Proof of support funds
+
+There are 2 different types of funds to be considered for the start-up business class work permit:
+
+1.   support funds (as per LICO requirements)
+2.   investment funds
+
+Applicants should show that they have transferable and available funds (excluding any investment made by a designated entity into their business) unencumbered by debts or other obligations of an amount that is equal to the LICO for their family size for a minimum of 52 weeks.
+
+**Note:** While the start-up business is being established, it may not provide sufficient income to pay the cost of living for the applicant and any family members. In cases where only a permanent residence application is submitted, the applicant must only show settlement funds for 26 weeks given that, after permanent residence is obtained, there is no restriction on where the applicant can work.
+
+However, if the work permit application is approved, although holding an open work permit can provide the applicant with means to obtain supplementary income during early development of the start-up business, a minimum of 52 weeks is required for work permit applications to ensure that they can support themselves while actively pursuing development of their start-up business within their first year.
+
+Applicants must provide proof of funds that are separate from their investment funds. Proof of funds can be in the form of
+
+*   cash (bank statements with account activity and balances, bank deposits that are available while in Canada, etc.)
+*   documents that show transferable and available funds unencumbered by debts or other obligations payable to the applicant (stocks, bonds, debentures, treasury bills, etc.)
+*   documents that guarantee payment of a set amount of money, payable to the applicant (bank drafts, travellers’ cheques or money orders, etc.)
+
+The amount of money required is determined by the size of the family. The [LICO table](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa/work-permits/eligibility.html#:~:text=Minimum%2520amount%2520of,June%25203%252C%25202024) is updated every year.
+
+| Number of family members | Funds required (in Canadian dollars) |
+| --- | --- |
+| 1 | $29,380 |
+| 2 | $36,576 |
+| 3 | $44,966 |
+| 4 | $54,594 |
+| 5 | $61,920 |
+| 6 | $69,834 |
+| 7 | $77,750 |
+| If there are more than 7 family members, for each additional member, add | $7,916 |
+
+#### Investment funds
+
+To assess whether the applicant is able to perform the work sought, as per paragraph[R200(3)(a)](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-200.html), applicants should demonstrate that their investment funds are available, transferable and unencumbered. The focus should be on the liquidity of the funds, rather than on the amount invested; however, officers maintain discretion in assessing the funds required for the investment.
+
+In addition, applicants should be able to provide proof of provenance of funds that they indicate they will be investing.
+
+Final decision
+--------------
+
+### Updated applications received prior to October 3, 2024
+
+If, at the applicant’s request, an officer has assessed the application under the post–October 3 criteria, they must ensure that:
+
+*   the client submits proof of payment of the $100 open work permit holder fee
+*   the client (and each investor group member under the same commitment certificate, if applicable) submitted a complete SUV PR application, as per section [R10](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-10.html) and received an Acknowledgement of Receipt Letter
+*   the officer changes the application Case Type from 52 to 20 in the GCMS
+*   the officer manually unmatches the offer of employment from the application (see: [Employer-specific work permits — General processing — International Mobility Program](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/employer-specific-labout-market-impact-assessment-exemptions.html#t8))
+*   the officer initiates a refund for the $230 employer compliance fee
+
+### Approval
+
+The work permit will be issued under the authority of[paragraph R205(a)](http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-205.html).
+
+In the GCMS, on the Application screen, officers should enter the information below in the specified fields.
+
+| Field | Selection or input |
+| --- | --- |
+| Case type | 20 |
+| Special Program Code | “SUV” Start-up visa |
+| Province of destination | Unknown |
+| City of destination | Unknown |
+| Exemption code | A77 |
+| NOC | 99999 |
+| Intended occupation | Open |
+| Duration | Officers may issue a work permit with a duration of up to 3 years or until the expiry of the travel document, which is earlier. If an SUV PR application is in process but not finalized, any work permit extension applications will be considered on a case-by-case basis. |
+| Conditions **(mandatory)** | If no medical examination has been completed, the processing officer must impose the following conditions: * Not authorized to work in childcare, primary/secondary school teachings or health service field occupations * Not authorized to work in agricultural occupations (designated countries only) |
+| Biometrics | Biometric enrolment is required. Regular exemptions, such as age or the 1 in 10 rule, apply. |
+| Fees | $155 work permit processing fee $100 open work permit holder fee $85 biometric fee |
+
+### Refusal
+
+When officers are not satisfied that the specific factors for this administrative code, [R200](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-200.html) and [R205(a)](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-205.html), are met, they need to clearly document their reasons in the refusal note.
+
+A decision is reasonable when the reviewing court is able to trace the decision maker’s reasoning, without encountering fatal flaws in the overarching logic, and is satisfied that there is a line of analysis within the given reasons that could reasonably lead the tribunal from the evidence before it to the decision maker’s conclusion.
+
+The officer needs to engage with the documentary evidence that was provided by the applicant. Simply stating “I have reviewed the submissions and I am not satisfied that R205 is met” is not sufficient for another reasonable person to understand the logic of the decision without reviewing all of the evidence again.
+
+For example, if the applicant has provided a detailed business plan, the officer should summarize the areas of the business plan they are not satisfied with in their notes and explain why they are not satisfied the applicant meets the requirements of [R200](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-200.html) and/or [R205(a)](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-205.html).
+
+In order to reduce the possibility of litigation on the refusal, officers should follow the steps in [Decision making: Standard of review and process for making a reasonable decision](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/service-delivery/decision-standard-review.html) when finalizing their refusal notes.
+
+The officer should ensure that case notes in the GCMS are complete and accurate. The officer should have the following components in their decision note:
+
+*   summary of facts or evidence 
+    *   outline the circumstances of the application and the requirements to be met
+    *   include a brief summary of evidence provided
+
+*   analysis 
+    *   outline the process followed in coming to or making the decision
+    *   take into account any representations made by interested persons (or counsel) and make note of the nature and content of these representations
+
+*   conclusion 
+    *   detail the reasons for the refusal
+
+The grounds in the refusal letter should reflect what the officer has stated in their notes.
+
+Work permits are issued if all of the requirements stated in [R200](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-200.html) are met. Therefore, refusal grounds should be linked to one of those requirements. Below are examples of some of the requirements:
+
+R200(1)(b) – the officer must be satisfied that the applicant will leave Canada at the end of their period of authorized stay, including any assessment of dual intent. If the officer is not satisfied that the applicant’s work is genuine, it may be reasonable to determine that they will not leave Canada at the end of their stay. However, officers must provide a reasonable, logical explanation of why they are not satisfied.
+
+R200(1)(c)(ii) – the requirement is not met if the officer is not satisfied that the applicant’s work (that is, the business) will provide a significant benefit or, in other words, the applicant’s work is not described in R205(a).
+
+R200(3)(a) – the officer is not satisfied that the applicant will be [able to perform the work](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/prohibitions.html#unable-perform) offered. For example, they do not have the required experience, education, language level or any other factors that the officer determines is required to perform the work.
+
+#### Refusal grounds in the GCMS
+
+The GCMS has standard text for refusal grounds. Officers should ensure that the refusal grounds selected for the refusal letter match the reasons that they have stated in their case note.
+
+If an officer has reasonable grounds to believe that the applicant is not able to perform the work sought, they should select the paragraph “R200(3)(a)**You were not able to demonstrate that you will be able to adequately perform the work you seek**.” Officers should ensure that they clearly indicate in their refusal notes why they are not satisfied.
+
+If the officer is not satisfied that the criteria for the work situation described by administrative code A77 are met or that the applicant’s work will create or maintain a significant economic, cultural or social benefit, given that there is no specific refusal ground in the GCMS, **they should select the refusal ground “Other” and add a short explanation in the Comments field** that they are not satisfied that section R200 or paragraph R205(a) is met.
+
+Page details
+------------
+
+ 2025-03-27

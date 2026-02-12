@@ -1,0 +1,4 @@
+pinecone
+openai
+python-frontmatter
+langchain-text-splitters

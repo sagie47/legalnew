@@ -1,0 +1,195 @@
+---
+url: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/religious-work.html
+fetched_url: https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/religious-work.html
+title: "Religious work – [R205(d) – C50] – Canadian interests – International Mobility Program"
+parent_url: 
+depth: 0
+ingest_date: 2026-02-12
+content_hash: "a56afd10601bf55fc83422f1a900444f079a39163da68e9031974752c2064339"
+type: manual_section
+---
+
+Published Time: Wed, 11 Feb 2026 23:15:49 GMT
+
+Religious work – [R205(d) – C50] – Canadian interests – International Mobility Program
+======================================================================================
+
+This section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.
+
+In these instructions “officer” refers to employees of both Immigration, Refugees and Citizenship Canada and the Canada Border Services Agency.
+
+The instructions on this page should be reviewed in conjunction with:
+
+*   [Employer-specific work permits with Labour Market Impact Assessment(LMIA) exemptions (International Mobility Program)](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/employer-specific-labout-market-impact-assessment-exemptions.html)
+*   [Assessing the genuineness of the offer of employment on a work permit application](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/genuineness.html)
+*   [Conditions and validity period on work permits (temporary workers)](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/eligibility-admissibility-conditions-including-validity-period.html)
+*   [Public list of Employers who have been non-compliant](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/public-list-employers-who-have-been-non-compliant.html)
+
+There are 2 separate provisions in the Immigration and Refugee Protection Regulations (IRPR) relating to religious work:
+
+*   [paragraph R186(l)](http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-186.html) provides a [work permit exemption for religious leaders](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/authorization-work-without-work-permit-clergy.html)
+*   [paragraph R205(d)](http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-205.html) is the International Mobility Program (IMP) work permit category (IMP code C50)
+
+In some cases, a foreign national may be eligible under both sections and may choose which one to apply under. Regardless, work of a religious nature typically involves the foreign national **being part of**, or **sharing**, the beliefs of the particular **religious community** where they will **work**, or having the ability to **teach** or **share** religious beliefs, as required by the employer.
+
+On this page
+------------
+
+*   [Eligibility requirements](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/religious-work.html#eligibility)
+*   [Application assessment](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/religious-work.html#assessment)
+    *   [Reviewing the offer of employment](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/religious-work.html#reviewing)
+    *   [Assessing duties of a religious nature](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/religious-work.html#assessing)
+    *   [Processing fee exemption](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/religious-work.html#fee-exemption)
+    *   [Employer compliance fee](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/religious-work.html#compliance-fee)
+
+*   [Final decision](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/religious-work.html#decision)
+    *   [Approval](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/religious-work.html#approval)
+    *   [Refusal](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/religious-work.html#refusal)
+
+*   [Port of entry application process](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/religious-work.html#port)
+    *   [Validity period of the work permit](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/religious-work.html#validity)
+
+*   [Family members](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/religious-work.html#family-members)
+
+Eligibility requirements
+------------------------
+
+To be eligible under [paragraph R205(d)](http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-205.html), IMP code C50, a foreign national must have:
+
+*   an offer of employment that 
+    *   is genuine as per [R200(5)](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-200.html)
+    *   indicates duties of a religious nature
+
+*   evidence of their education and experience
+
+Application assessment
+----------------------
+
+To determine whether an applicant is eligible under paragraph R205(d), officers must assess if the **work** (not the organization) is of a religious nature.
+
+When officers are reviewing the work permit application in the Religious work category, the following factors should be reviewed:
+
+### Reviewing the offer of employment
+
+When assessing if the work permit application meets the requirements that the work is of a religious nature, officers should review the offer of employment that appears under the Employment Details tab in the Global Case Management System(GCMS) for information provided by the employer or the matching fields on the IMM 5802 form (if the employer is authorized to use it).
+
+| Field | Considerations |
+| --- | --- |
+| LMIA Exemption Code | C50 This is the code that the employer selected in the Employer Portal submission of the offer. Ensure that the administrative code matches the description in “Requirements Exemptions Met” |
+| Requirements Exemptions Met | The employer should specify how the duties that the applicant will be performing are religious in nature. Simply because the employer may be a religious organization, does not mean that all the duties conducted to run the organization are religious in nature. Please see the [Assessing duties of a religious nature](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/religious-work.html#assessing) section for more information. |
+| National Occupation Classification(NOC) and Job Title | Is it reasonable for the employer to need a person in this occupation? |
+| Wages | Are the wages sufficient to meet minimum wage in the location of the employment? Are the wages enough to ensure that the applicant will not become unable to support themselves? |
+| Duties and Job Requirements | These are the activities that the foreign national will be performing. Are the [duties of a religious nature](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/religious-work.html#assessing)? Do the duties align with the NOC description of the main duties? Are the duties to be performed a reasonable need for the employer? |
+| Minimum Education Requirements | Are the educational requirements compatible with the stated NOC? Are there any mandatory educational requirements stated in the NOC that the employer has not listed? |
+| Other Training Required | The employer may indicate specialty training as a requirement. |
+| Alternate Compensation Scheme | Is the employer providing room and board or alternatives to a standard wage? |
+
+See [Employer-specific work permits — General processing — International Mobility Program](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/employer-specific-labout-market-impact-assessment-exemptions.html).
+
+### Assessing duties of a religious nature
+
+The primary duties of the foreign national should reflect a particular religious objective. For example, the foreign national may be expected to:
+
+*   provide religious instruction
+*   promote a particular faith
+*   advance the spiritual teachings of a religious faith
+*   maintain the doctrines and spiritual observances on which those teachings are based
+
+**Note:** Religious leaders who are eligible for a work permit exemption under paragraph R186(l) may simultaneously be eligible for an LMIA exemption under paragraph R205(d). There may be circumstances under which the foreign national chooses to apply for a work permit, such as if they wish to stay in Canada for a longer period of time or need a work permit to be eligible for government services and benefits.
+
+Simply being employed by a Canadian religious organization is **not** sufficient proof to meet the requirements under paragraph R205(d). For example, the work of an administrator or office manager in a religious organization is generally not considered to be work of a religious nature. Similarly, clerical duties, accounting, gardening, etc., are not considered work of a religious nature, even if performed for a religious organization.
+
+### Processing fee exemption
+
+The assessment of whether a foreign national is performing work of a religious nature is different than the assessment of whether the foreign national is exempt from the processing fee.
+
+The officer processing the application must assess if a work permit fee exemption applies. In this assessment, it is the **religious nature of the organization** that is important, as well as whether the foreign national is **remunerated**.
+
+Notes about remuneration: Work experience gained as a religious worker that is not remunerated does not meet the definition of work for permanent programs. It does not qualify for experience in the Canadian Experience Class.
+
+To be fee-exempt as per [paragraph R299(2)(f)](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-299.html), the foreign national cannot receive remuneration other than a stipend for living expenses (see the note below), which should be, if monetary, below the minimum wage under the applicable federal, provincial or territorial law. Otherwise, the foreign national should receive only non-monetary benefits (for example, accommodation and health care).
+
+**Note:** Foreign nationals who are provided with free room and board **and** receive a stipend may still qualify for a work permit processing fee exemption provided that the room and board are:
+
+*   integral to the foreign national’s ability to perform the work according to the terms set out in their employment arrangement (meaning on-site residency is a requirement of the job) and
+*   non-monetized (for example, it has little or no market value, is not provided in a monetary form like an allowance, does not constitute a taxable benefit, cannot be converted into an economic payout). For example, a room in a monastery is considered to be of no market value in that it generally isn’t an option available to the public, and even if the employer were to advertise it, it’s not a “real” rental option, and it’s highly unlikely that someone genuinely looking for housing would be interested.
+
+This assessment of remuneration should be used to determine fee exemptions for both initial work permit applications and any subsequent work permit applications.
+
+### Employer compliance fee
+
+In accordance with [subsection R303.1(5)](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-303.1.html), an employer is not required to pay the employer compliance fee referred to in subsection R303.1(1) if the offer of employment is made to a foreign national who under [subsection 299(2)](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-299.html) is not required to pay a work permit processing fee.
+
+In order to be eligible for the employer compliance fee exemption at the time the IMP offer of employment is submitted, employers must show that they are a religious organization and that there is **no remuneration** for the work of the foreign national they intend to hire. Copying information from the religious workers instructions does not constitute evidence of their eligibility for a fee exemption.
+
+**Note:** Fee-exempt employers are still subject to the employer compliance regime.
+
+Final Decision
+--------------
+
+### Approval
+
+The work permit will be issued under the authority of paragraph[R205(d)](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-205.html).
+
+In GCMS under the “Application” screen, officers should enter the information below in the specified fields:
+
+| Field | Selection or Input |
+| --- | --- |
+| Case Type | 52 * **Important:** When the applicant selects the work permit type “Exemption from Labour Market Impact Assessment” on the application, the “Case Type” field in GCMS is set automatically to “**52**.” Consult [Employer-specific work permits — General processing — International Mobility Program](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/employer-specific-labout-market-impact-assessment-exemptions.html) |
+| Exemption Code | C50 This code is auto-populated from the IMP offer of employment. |
+| Province of Destination | **Location:** the province of destination entered by the applicant should match the address of employment in the offer of employment. This information is under the “Employment Details – LMIA Exempt” tab. |
+| City of Destination | The city of destination entered by the applicant should match the address of employment in the offer of employment. This information is under the “Employment Details – LMIA Exempt” tab. |
+| NOC | The National Occupation Classification code is auto-populated from the offer of employment. |
+| Intended Occupation | The job title (auto-populated from the offer of employment) |
+| Employer | Business operating name (auto-populated from the offer of employment) |
+| Duration | If the work permit application is approved, the work permit should be issued for the period specified in the offer of employment. Officers **cannot** issue a work permit or grant authorization as a temporary worker beyond the validity of the passport. For further guidance, please consult the instructions on [Conditions and validity period for work permits (temporary workers)](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/eligibility-admissibility-conditions-including-validity-period.html). |
+| Conditions | **Imposing conditions on the work permit (location)** * Officers are required to refer to the information provided by the employer in their offer of employment, in which the employer includes a primary location and other secondary locations across Canada. In such cases, if the officer does not have any concerns regarding imposing conditions on location, the officer must include “**various locations across Canada as per the offer of employment**” in the user remarks of the work permit. * If the officer determines that the location should be restricted, a note should be left in the application. Any location discrepancy between the offer and the work permit will automatically be considered as an error if there are no notes. |
+| Fees | **Work permit fee** unless the employment is “[without remuneration for a religious organization,”](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/religious-work.html#fee-exemption) in which case: Work permit fee exempt: E02 [R299(2)(f)] [Refer to Processing fee exemptions](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/religious-work.html#fee-exemption) **Employer compliance fee** unless the foreign national has been assessed as fee-exempt. Employer Compliance fee exempt: EC1 [R303.1(5)] |
+| Biometrics | Work permit applicants are required to provide biometric information. They are biometric fee exempt: B23 [[R315.1(2)(d)(ix)](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-315.1.html)] The regular biometric exemptions apply (for example, age or 1 in 10). |
+
+**Note:** If the employer is authorized to use an IMM 5802 form instead of completing the offer of employment through the Employer Portal, please review [Employer-specific work permits — General processing — International Mobility Program](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/employer-specific-labout-market-impact-assessment-exemptions.html).
+
+### Refusal
+
+The assessment of eligibility under paragraph R205(d) is required as per subparagraph R200(1)(c)(ii.1) for the issuance of a work permit; however, foreign nationals must meet all R200 requirements before a work permit is issued.
+
+When officers are not satisfied that the specific eligibility factors for this administrative code are met, they need to clearly document their reasons in the refusal note.
+
+A decision is reasonable when the reviewing court is able to trace the decision maker’s rationale, without encountering fatal flaws in the overarching logic, and is satisfied that there is a line of analysis within the given reasons that could lead the tribunal from the evidence before it to the decision maker’s conclusion.
+
+The officer needs to engage with the documentary evidence that was provided by the applicant. Simply stating “I have reviewed the submissions and I am not satisfied that R205 is met” is not sufficient for another reasonable person to understand the logic of the decision without reviewing all of the evidence again.
+
+If an officer has determined that the applicant does not meet the eligibility requirements, the work permit application should be refused. Officers should follow the steps in [Decision making: Standard of review and process for making a reasonable decision](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/service-delivery/decision-standard-review.html) when finalizing their refusal notes.
+
+The grounds in the refusal letter should reflect what the officer has stated in their notes.
+
+A work permit application must be refused under [paragraph R200(3)(f.1)](http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-200.html) if the employer has **not** done the following:
+
+*   paid the employer compliance fee, as per [section R303.1](http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-303.1.html) (unless the employer has been exempted from paying the fee under subsection R303.1(5))
+*   submitted the offer of employment information, as per [section R209.11](http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-209.11.html)
+
+Work permits shall be issued if all of the requirements stated in [R200](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-200.html) are met. Therefore, refusal grounds should be linked to one of those requirements.
+
+Port of entry application process
+---------------------------------
+
+Individuals who are otherwise eligible to make an application at a port of entry (POE) may apply for a work permit when seeking entry to Canada. All regular processes and required documentation outlined above also apply to applications made at POEs.
+
+### Validity period of the work permit
+
+*   Border services officers need to ensure that all work permits are issued with the proper duration of validity, based on the purpose of entry.
+*   When finalizing a pre-approved work permit, a border services officer will review the notes of the approving office in GCMS disregarding the validity date on any pre-approval documents (letter, draft work permit in GCMS).
+*   The border services officer will update the validity date field in GCMS and issue the work permit for the maximum allowable period from the date of entry, or to the validity date of the applicant’s travel document.
+*   As per [IRCC biometric guidelines](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/identity-management/biometrics/validity.html), the validity period of a temporary residence status document cannot extend beyond the remaining validity period of the biometric information. All biometrics provided for a temporary residence application are valid for 10 years from the date of biometrics enrolment, regardless of the outcome of the application. Just as a permit cannot be issued for a period that exceeds the validity of a passport, a permit cannot be issued that exceeds the validity of the biometrics.
+
+Family members
+--------------
+
+For guidance on specific requirements to obtain a work permit for family members, please refer to [Overview of work designated by the Minister [R205(c)(ii) – Canadian interest – International Mobility Program](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/public-policy-competitiveness-economy.html).
+
+For guidance on specific requirements to obtain a study permit for minors, please refer to [Study permits: Guidelines on minor children](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/guidelines-on-minor-children.html).
+
+Page details
+------------
+
+ 2024-08-13
