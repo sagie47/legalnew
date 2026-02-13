@@ -256,6 +256,11 @@ Phase 0 acceptance checks junior should run:
   - retrieval default tightened to `RAG_NO_SILENT_FALLBACK_ENABLED=true` default in `server/rag/grounding.js`
   - unit tests added:
     - `server/rag/__tests__/responsePolicy.test.js`
+  - S1/S2 arbitration progress:
+    - failure-state user-facing notices centralized via `applyFailureStateNotice(...)` in `server/rag/failureStates.js`
+    - deterministic precedence exported via `failureStatePrecedence()`
+    - runtime policy spec added: `docs/PHASE1_RUNTIME_POLICY.md`
+    - roadmap failure-state set updated to include `BUDGET_EXCEEDED` and `INSUFFICIENT_FACTS`
 - Junior progress status:
   - J2 completed: source policy config + allowlist/blocklist tests
   - J3 completed: eval harness scaffold (`eval/run_eval.js` + gold template)

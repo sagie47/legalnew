@@ -7,7 +7,7 @@ import { retrieveGrounding, buildPrompt, extractCitations, validateCitationToken
 import { buildCitationFromSource } from './rag/citations.js';
 import { chunkUserDocumentText, rankDocumentChunks } from './rag/documents.js';
 import { enforceAuthorityGuard } from './rag/responseGuard.js';
-import { getFailureStateInfo, resolveFailureState } from './rag/failureStates.js';
+import { applyFailureStateNotice, getFailureStateInfo, resolveFailureState } from './rag/failureStates.js';
 import { prependAnalysisDateHeader } from './rag/responsePolicy.js';
 import {
   appendRunTraceEvent,
@@ -556,10 +556,6 @@ app.post('/api/chat', async (req, res) => {
 
     startRunTracePhase(runTrace, 'VALIDATION');
     const guardedText = validateCitationTokens(guardResult.text, citationMap);
-    const finalResponseText = prependAnalysisDateHeader(guardedText, {
-      analysisDateBasis,
-      asOfDate,
-    });
     const citationIds = extractCitations(guardedText);
     const citations = citationIds
       .map((id) => buildCitationFromSource(id, citationMap[id] || {}))
@@ -572,6 +568,11 @@ app.post('/api/chat', async (req, res) => {
       budget: runtimeBudget,
     });
     const failureStateInfo = getFailureStateInfo(failureState);
+    const responseWithFailureNotice = applyFailureStateNotice(guardedText, failureState);
+    const finalResponseText = prependAnalysisDateHeader(responseWithFailureNotice, {
+      analysisDateBasis,
+      asOfDate,
+    });
     completeRunTracePhase(runTrace, 'VALIDATION', {
       outputs: {
         citation_id_count: citationIds.length,

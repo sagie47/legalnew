@@ -45,6 +45,8 @@ Failure states returned to caller:
 | `STALE_VOLATILE_SOURCE` | Volatile source is outdated or cannot be refreshed. |
 | `CITATION_MISMATCH` | Claims do not map to retrieved, allowed evidence. |
 | `OUT_OF_SCOPE_SOURCE` | Source host/path violates allowlist policy. |
+| `BUDGET_EXCEEDED` | Tool/live-fetch budget was exceeded before safe completion. |
+| `INSUFFICIENT_FACTS` | User query lacks enough case facts for a reliable answer. |
 | `INSUFFICIENT_EVIDENCE` | Available evidence is insufficient for a safe conclusion. |
 
 ### 3.2 Case Law Governance

@@ -49,6 +49,25 @@ const FAILURE_STATE_MATRIX = {
   },
 };
 
+const RESPONSE_NOTICE_STATES = new Set([
+  'NO_BINDING_AUTHORITY',
+  'STALE_VOLATILE_SOURCE',
+  'CITATION_MISMATCH',
+  'BUDGET_EXCEEDED',
+  'INSUFFICIENT_FACTS',
+  'INSUFFICIENT_EVIDENCE',
+]);
+const FAILURE_STATE_PRECEDENCE = [
+  'OUT_OF_SCOPE_SOURCE',
+  'BUDGET_EXCEEDED',
+  'CITATION_MISMATCH',
+  'STALE_VOLATILE_SOURCE',
+  'NO_BINDING_AUTHORITY',
+  'INSUFFICIENT_EVIDENCE',
+  'INSUFFICIENT_FACTS',
+  'NONE',
+];
+
 const VAGUE_QUERY_PATTERNS = [
   /\bhelp me\b/i,
   /\bbest immigration pathway\b/i,
@@ -82,6 +101,17 @@ function looksInsufficientFacts(query) {
 export function getFailureStateInfo(code) {
   const normalized = toText(code).toUpperCase();
   return FAILURE_STATE_MATRIX[normalized] || FAILURE_STATE_MATRIX.NONE;
+}
+
+export function applyFailureStateNotice(text, code) {
+  const info = getFailureStateInfo(code);
+  const clean = String(text || '').trim();
+  const message = toText(info?.userMessage);
+  if (!message) return clean;
+  if (!RESPONSE_NOTICE_STATES.has(info.code)) return clean;
+  if (clean.includes(message)) return clean;
+  if (!clean) return message;
+  return `${message}\n\n${clean}`;
 }
 
 export function resolveFailureState({
@@ -131,4 +161,8 @@ export function resolveFailureState({
 
 export function failureStateCodes() {
   return Object.keys(FAILURE_STATE_MATRIX);
+}
+
+export function failureStatePrecedence() {
+  return [...FAILURE_STATE_PRECEDENCE];
 }
