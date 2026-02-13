@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_d487302c6e23",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/permits/final-decisions-issuing-permit.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/permits/final-decisions-issuing-permit.html",
+  "title": "Temporary resident permits: Final decisions and issuing permits",
+  "language": "en",
+  "manual": "Temporary resident permits: Final decisions and issuing permits",
+  "chapter": null,
+  "heading_path": [
+    "Temporary resident permits: Final decisions and issuing permits"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "8583714eb26223acbf7f4672a0f3188fa583c6e4ccfa693b29b503706ffd3141",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/final-decisions-issuing-permit-d487302c6e.md",
+  "text": "Temporary resident permits: Final decisions and issuing permits",
+  "sections": [
+    {
+      "heading": "Temporary resident permits: Final decisions and issuing permits",
+      "heading_path": [
+        "Temporary resident permits: Final decisions and issuing permits"
+      ],
+      "anchor": "#temporary-resident-permits-final-decisions-and-issuing-permits",
+      "text": "Temporary resident permits: Final decisions and issuing permits"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

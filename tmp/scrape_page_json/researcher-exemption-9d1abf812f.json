@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_9d1abf812f7c",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/researcher-exemption.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/researcher-exemption.html",
+  "title": "120-day work permit exemption for researchers – Public policy: International Mobility Program",
+  "language": "en",
+  "manual": "120",
+  "chapter": "day work permit exemption for researchers – Public policy: International Mobility Program",
+  "heading_path": [
+    "120-day work permit exemption for researchers – Public policy: International Mobility Program"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "648fa3cb9c6794967aa436b2301b2c41c2fe2f6037492311d1e9cea34175f21e",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/researcher-exemption-9d1abf812f.md",
+  "text": "120-day work permit exemption for researchers – Public policy: International Mobility Program",
+  "sections": [
+    {
+      "heading": "120-day work permit exemption for researchers – Public policy: International Mobility Program",
+      "heading_path": [
+        "120-day work permit exemption for researchers – Public policy: International Mobility Program"
+      ],
+      "anchor": "#120-day-work-permit-exemption-for-researchers-public-policy-international-mobility-program",
+      "text": "120-day work permit exemption for researchers – Public policy: International Mobility Program"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

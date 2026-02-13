@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_89f10f73c33e",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/assessing-medical-requirements.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/assessing-medical-requirements.html",
+  "title": "Foreign workers: Assessing medical requirements",
+  "language": "en",
+  "manual": "Foreign workers: Assessing medical requirements",
+  "chapter": null,
+  "heading_path": [
+    "Foreign workers: Assessing medical requirements"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "669f0a8a71e53e463b19455dd50fa35bdf287ddd14cbb1271cf84385cf0ddba8",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/assessing-medical-requirements-89f10f73c3.md",
+  "text": "Foreign workers: Assessing medical requirements",
+  "sections": [
+    {
+      "heading": "Foreign workers: Assessing medical requirements",
+      "heading_path": [
+        "Foreign workers: Assessing medical requirements"
+      ],
+      "anchor": "#foreign-workers-assessing-medical-requirements",
+      "text": "Foreign workers: Assessing medical requirements"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

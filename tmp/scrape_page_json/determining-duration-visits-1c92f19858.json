@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_1c92f198588f",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/determining-duration-visits.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/determining-duration-visits.html",
+  "title": "Temporary residents: Determining duration of visits",
+  "language": "en",
+  "manual": "Temporary residents: Determining duration of visits",
+  "chapter": null,
+  "heading_path": [
+    "Temporary residents: Determining duration of visits"
+  ],
+  "last_updated": "2017-10-23",
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "a7094e49a0a9b55fcfb14f037aefaf724405adc871babca05ee3d886a4ef3626",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/determining-duration-visits-1c92f19858.md",
+  "text": "Published Time: Thu, 12 Feb 2026 00:33:02 GMT\n\nTemporary residents: Determining duration of visits\n===================================================\n\nThis section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.\n\nThe duration of a person’s visit to Canada is not determined by the Visa Officer. The Border Services Officer who examines the foreign national upon entry will determine the duration of the visit. Border Services Officers will routinely grant entry for a period of six months to a person requesting entry as a visitor, even where the person requests entry for only a very brief period.\n\nWhen a temporary resident visa is issued, visa officers should consider it very likely that the person will be allowed to remain in Canada for six months. When in doubt that the person is a _bona fide_ visitor, visa officers should not issue the visa (not even a transit visa).\n\nA visa officer may, on a case by case basis, indicate a suggested duration just below the visa This may trigger the examining officer to check CAIPS/FOSS/GCMS. The officer would take those remarks into consideration when making a decision.\n\nFor specific information on how to process applications from citizens of special category and Visitor Information Transmission (VIT) countries, refer to IC 2, Security Vetting of Visitors.\n\nPage details\n------------\n\n 2017-10-23",
+  "sections": [
+    {
+      "heading": "Temporary residents: Determining duration of visits",
+      "heading_path": [
+        "Temporary residents: Determining duration of visits"
+      ],
+      "anchor": "#temporary-residents-determining-duration-of-visits",
+      "text": "Published Time: Thu, 12 Feb 2026 00:33:02 GMT\n\nTemporary residents: Determining duration of visits\n===================================================\n\nThis section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.\n\nThe duration of a person’s visit to Canada is not determined by the Visa Officer. The Border Services Officer who examines the foreign national upon entry will determine the duration of the visit. Border Services Officers will routinely grant entry for a period of six months to a person requesting entry as a visitor, even where the person requests entry for only a very brief period.\n\nWhen a temporary resident visa is issued, visa officers should consider it very likely that the person will be allowed to remain in Canada for six months. When in doubt that the person is a _bona fide_ visitor, visa officers should not issue the visa (not even a transit visa).\n\nA visa officer may, on a case by case basis, indicate a suggested duration just below the visa This may trigger the examining officer to check CAIPS/FOSS/GCMS. The officer would take those remarks into consideration when making a decision.\n\nFor specific information on how to process applications from citizens of special category and Visitor Information Transmission (VIT) countries, refer to IC 2, Security Vetting of Visitors.\n\nPage details\n------------\n\n 2017-10-23"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": false,
+    "notes": []
+  }
+}

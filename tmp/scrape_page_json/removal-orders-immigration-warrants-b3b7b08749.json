@@ -1,0 +1,45 @@
+{
+  "source_id": "pdi_b3b7b08749b4",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/permits/removal-orders-immigration-warrants.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/permits/removal-orders-immigration-warrants.html",
+  "title": "Temporary Resident Permits (TRPs): Removal orders and immigration warrants",
+  "language": "en",
+  "manual": "Temporary Resident Permits (TRPs): Removal orders and immigration warrants",
+  "chapter": null,
+  "heading_path": [
+    "Temporary Resident Permits (TRPs): Removal orders and immigration warrants"
+  ],
+  "last_updated": "2017-10-16",
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "aff75e8259cf70a51c1499de110c95050b1e6f3c8f374b5351e7063496f94580",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/removal-orders-immigration-warrants-b3b7b08749.md",
+  "text": "Published Time: Wed, 11 Feb 2026 22:01:34 GMT\n\nTemporary Resident Permits (TRPs): Removal orders and immigration warrants\n==========================================================================\n\nThis section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.\n\nIssuing temporary resident permits to persons under a removal order\n-------------------------------------------------------------------\n\nUnder the IRPA, a foreign national under a removal order may be issued a TRP. In some circumstances, issuing a TRP may be required when enforcement of the removal order is not possible.\n\n**Consult with CBSA before issuing the TRP, and/or Case Management Branch, depending on the circumstances.**\n\nIndividuals named in an immigration warrant\n-------------------------------------------\n\nUnder [section A55 (1) of IRPA](http://laws-lois.justice.gc.ca/eng/acts/I-2.5/section-55.html?term=55), an officer may issue a warrant for the arrest and detention of a permanent resident or a foreign national who the officer has reasonable grounds to believe is inadmissible and is a danger to the public or is unlikely to appear for examination, for an admissibility hearing, for removal from Canada or at a proceeding that could lead to the making of a removal order by the Minister under [subsection A44(2) of IRPA](http://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-19.html#h-24).\n\nAfter a full investigation, if the foreign national cannot be located, a Canada-wide warrant for their arrest is entered in the Canadian Police Information Centre (CPIC) system by the officer conducting the investigation.\n\n**When an individual named in a warrant submits an application, CIC must inform CBSA.**\n\nPage details\n------------\n\n 2017-10-16",
+  "sections": [
+    {
+      "heading": "Temporary Resident Permits (TRPs): Removal orders and immigration warrants",
+      "heading_path": [
+        "Temporary Resident Permits (TRPs): Removal orders and immigration warrants"
+      ],
+      "anchor": "#temporary-resident-permits-trps-removal-orders-and-immigration-warrants",
+      "text": "Published Time: Wed, 11 Feb 2026 22:01:34 GMT\n\nTemporary Resident Permits (TRPs): Removal orders and immigration warrants\n==========================================================================\n\nThis section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.\n\nIssuing temporary resident permits to persons under a removal order\n-------------------------------------------------------------------\n\nUnder the IRPA, a foreign national under a removal order may be issued a TRP. In some circumstances, issuing a TRP may be required when enforcement of the removal order is not possible.\n\n**Consult with CBSA before issuing the TRP, and/or Case Management Branch, depending on the circumstances.**\n\nIndividuals named in an immigration warrant\n-------------------------------------------\n\nUnder [section A55 (1) of IRPA](http://laws-lois.justice.gc.ca/eng/acts/I-2.5/section-55.html?term=55), an officer may issue a warrant for the arrest and detention of a permanent resident or a foreign national who the officer has reasonable grounds to believe is inadmissible and is a danger to the public or is unlikely to appear for examination, for an admissibility hearing, for removal from Canada or at a proceeding that could lead to the making of a removal order by the Minister under [subsection A44(2) of IRPA](http://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-19.html#h-24).\n\nAfter a full investigation, if the foreign national cannot be located, a Canada-wide warrant for their arrest is entered in the Canadian Police Information Centre (CPIC) system by the officer conducting the investigation.\n\n**When an individual named in a warrant submits an application, CIC must inform CBSA.**\n\nPage details\n------------\n\n 2017-10-16"
+    }
+  ],
+  "links": {
+    "outbound": [
+      "http://laws-lois.justice.gc.ca/eng/acts/I-2.5/section-55.html?term=55",
+      "http://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-19.html"
+    ],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": false,
+    "notes": []
+  }
+}

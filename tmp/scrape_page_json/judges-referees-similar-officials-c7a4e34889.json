@@ -1,0 +1,44 @@
+{
+  "source_id": "pdi_c7a4e348898e",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/judges-referees-similar-officials.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/judges-referees-similar-officials.html",
+  "title": "International Mobility Program: Authorization to work without a work permit – Judges, referees and similar officials",
+  "language": "en",
+  "manual": "International Mobility Program: Authorization to work without a work permit – Judges, referees and similar officials",
+  "chapter": null,
+  "heading_path": [
+    "International Mobility Program: Authorization to work without a work permit – Judges, referees and similar officials"
+  ],
+  "last_updated": "2017-10-16",
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "20e27726b3343544efc7a1ba696e52a388926870d3b9b363ca8d2add765060b5",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/judges-referees-similar-officials-c7a4e34889.md",
+  "text": "Published Time: Wed, 11 Feb 2026 20:44:14 GMT\n\nInternational Mobility Program: Authorization to work without a work permit – Judges, referees and similar officials\n====================================================================================================================\n\nThis section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.\n\nParagraph [R186(_m_)](http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-186.html) applies to judges, referees and similar officials involved in an international amateur sports competition, or an international cultural or artistic event or competition, or an animal or agricultural competition.\n\nAmateur sports competitions/events\n----------------------------------\n\nFor judges, referees and similar officials involved in an international amateur sports competition, the event should be organized by an international amateur sporting association and should be hosted by a Canadian organization. Events may include international or university games, winter or summer Olympics, etc. An “amateur” sports competition is generally defined as one in which the participating athletes are not paid to compete or otherwise participate in the event, although there may be exceptions to this definition.\n\nCultural or artistic competitions/events\n----------------------------------------\n\nJudges or adjudicators of artistic or cultural events such as music and dance festivals are also included, as are judges for animal shows and agricultural competitions.\n\n**Note:** Referees of professional sports competitions require a positive Labour Market Impact Assessment issued by Employment and Social Development Canada(ESDC) and work permits, except for leagues that have reciprocal arrangements for Canadian referees. “Professional” sports competitions are generally defined as competitions in which the participating athletes are paid to compete or otherwise participate in the event, although there may be exceptions to this definition. National Hockey League (NHL) referees who are U.S. citizens or permanent residents qualify for work permits under such a reciprocal arrangement, and may be issued work permits pursuant to R205(b), CEC C20. In cases where high-level professional sports (e.g. NHL, NBA, Major League Baseball) have reciprocity, CEC 20 can be granted to judges and referees at top-level professional competitions.\n\nPage details\n------------\n\n 2017-10-16",
+  "sections": [
+    {
+      "heading": "International Mobility Program: Authorization to work without a work permit – Judges, referees and similar officials",
+      "heading_path": [
+        "International Mobility Program: Authorization to work without a work permit – Judges, referees and similar officials"
+      ],
+      "anchor": "#international-mobility-program-authorization-to-work-without-a-work-permit-judges-referees-and-similar-officials",
+      "text": "Published Time: Wed, 11 Feb 2026 20:44:14 GMT\n\nInternational Mobility Program: Authorization to work without a work permit – Judges, referees and similar officials\n====================================================================================================================\n\nThis section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.\n\nParagraph [R186(_m_)](http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-186.html) applies to judges, referees and similar officials involved in an international amateur sports competition, or an international cultural or artistic event or competition, or an animal or agricultural competition.\n\nAmateur sports competitions/events\n----------------------------------\n\nFor judges, referees and similar officials involved in an international amateur sports competition, the event should be organized by an international amateur sporting association and should be hosted by a Canadian organization. Events may include international or university games, winter or summer Olympics, etc. An “amateur” sports competition is generally defined as one in which the participating athletes are not paid to compete or otherwise participate in the event, although there may be exceptions to this definition.\n\nCultural or artistic competitions/events\n----------------------------------------\n\nJudges or adjudicators of artistic or cultural events such as music and dance festivals are also included, as are judges for animal shows and agricultural competitions.\n\n**Note:** Referees of professional sports competitions require a positive Labour Market Impact Assessment issued by Employment and Social Development Canada(ESDC) and work permits, except for leagues that have reciprocal arrangements for Canadian referees. “Professional” sports competitions are generally defined as competitions in which the participating athletes are paid to compete or otherwise participate in the event, although there may be exceptions to this definition. National Hockey League (NHL) referees who are U.S. citizens or permanent residents qualify for work permits under such a reciprocal arrangement, and may be issued work permits pursuant to R205(b), CEC C20. In cases where high-level professional sports (e.g. NHL, NBA, Major League Baseball) have reciprocity, CEC 20 can be granted to judges and referees at top-level professional competitions.\n\nPage details\n------------\n\n 2017-10-16"
+    }
+  ],
+  "links": {
+    "outbound": [
+      "http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-186.html"
+    ],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": false,
+    "notes": []
+  }
+}

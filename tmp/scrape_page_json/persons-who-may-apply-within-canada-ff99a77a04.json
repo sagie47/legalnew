@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_ff99a77a0428",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/persons-who-may-apply-within-canada.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/persons-who-may-apply-within-canada.html",
+  "title": "Temporary Foreign Worker Program and International Mobility Program: Persons who may apply from within Canada",
+  "language": "en",
+  "manual": "Temporary Foreign Worker Program and International Mobility Program: Persons who may apply from within Canada",
+  "chapter": null,
+  "heading_path": [
+    "Temporary Foreign Worker Program and International Mobility Program: Persons who may apply from within Canada"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "aa4134da956719f022f5d3e4d81a9c24307ee4fa9ad734833343c7049e40047f",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/persons-who-may-apply-within-canada-ff99a77a04.md",
+  "text": "Temporary Foreign Worker Program and International Mobility Program: Persons who may apply from within Canada",
+  "sections": [
+    {
+      "heading": "Temporary Foreign Worker Program and International Mobility Program: Persons who may apply from within Canada",
+      "heading_path": [
+        "Temporary Foreign Worker Program and International Mobility Program: Persons who may apply from within Canada"
+      ],
+      "anchor": "#temporary-foreign-worker-program-and-international-mobility-program-persons-who-may-apply-from-within-canada",
+      "text": "Temporary Foreign Worker Program and International Mobility Program: Persons who may apply from within Canada"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

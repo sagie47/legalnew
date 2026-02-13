@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_81ca455d8291",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/permits/validity-conditions-cancellation.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/permits/validity-conditions-cancellation.html",
+  "title": "Temporary resident permits (TRPs): Validity, conditions and cancellation",
+  "language": "en",
+  "manual": "Temporary resident permits (TRPs): Validity, conditions and cancellation",
+  "chapter": null,
+  "heading_path": [
+    "Temporary resident permits (TRPs): Validity, conditions and cancellation"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "a83c193f27e33f2d20f77b6fbe5b3794f985359c2168667545af17956570cc9b",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/validity-conditions-cancellation-81ca455d82.md",
+  "text": "Temporary resident permits (TRPs): Validity, conditions and cancellation",
+  "sections": [
+    {
+      "heading": "Temporary resident permits (TRPs): Validity, conditions and cancellation",
+      "heading_path": [
+        "Temporary resident permits (TRPs): Validity, conditions and cancellation"
+      ],
+      "anchor": "#temporary-resident-permits-trps-validity-conditions-and-cancellation",
+      "text": "Temporary resident permits (TRPs): Validity, conditions and cancellation"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

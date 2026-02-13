@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_22377d4aeb63",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit.html",
+  "title": "Work without a permit list [R186 and public policies] – International Mobility Program",
+  "language": "en",
+  "manual": "Work without a permit list [R186 and public policies] – International Mobility Program",
+  "chapter": null,
+  "heading_path": [
+    "Work without a permit list [R186 and public policies] – International Mobility Program"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "b2e86dae8252f21a6341605409e2f21f8a5e7a0622d729741216b73a0792faf2",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/work-without-permit-22377d4aeb.md",
+  "text": "Work without a permit list [R186 and public policies] – International Mobility Program",
+  "sections": [
+    {
+      "heading": "Work without a permit list [R186 and public policies] – International Mobility Program",
+      "heading_path": [
+        "Work without a permit list [R186 and public policies] – International Mobility Program"
+      ],
+      "anchor": "#work-without-a-permit-list-r186-and-public-policies-international-mobility-program",
+      "text": "Work without a permit list [R186 and public policies] – International Mobility Program"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

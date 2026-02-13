@@ -20,7 +20,7 @@ Last updated: 2026-02-12
   - A2AJ sources labeled `C1..Cn`
 - Citation safety:
   - model output tokens validated against citation map (`validateCitationTokens`)
-  - invalid `[P#]/[C#]/[D#]` tokens removed before response
+  - invalid `[P#]/[C#]` tokens removed before response
 - UI:
   - inline citation tokens in chat are clickable and open citation popup
   - Sources panel renders from `citations[]` returned by backend
@@ -28,8 +28,6 @@ Last updated: 2026-02-12
 ## Runtime Endpoints
 - `GET /api/health`
 - `GET /api/history` (DB-backed if `DATABASE_URL` configured)
-- `GET /api/documents?sessionId=<uuid>` (session document list)
-- `POST /api/documents/text` (ingest raw text file content into session chunks)
 - `POST /api/chat`
 - `POST /api/ingest/pdi` (URL -> parse -> chunk -> embed -> upsert)
 - `POST /api/ingest` is placeholder (`not implemented`)
@@ -101,42 +99,46 @@ Latest completed crawl summary:
 - known scrape failures persisted in manifest for a small subset
 
 Cleanup completed:
-- removed failed trial directories: `ircc_data_clean_try*`
-- retained canonical output in `scripts/scraper/ircc_data_clean`
+- canonical output retained in `scripts/scraper/ircc_data_clean` (currently populated with 284 markdown files)
+- trial directories `ircc_data_clean_try*` are present and can be kept for comparison or cleaned later
 
 ## Current Phase Focus
-Phase 2 kickoff in progress (document intelligence foundation):
-- new DB migration for documents/chunks: `server/db/migrations/phase2_documents.sql`
-- new document grounding module: `server/rag/documents.js`
-- chat now supports `D#` source tokens in grounding/citation extraction
-- frontend chat supports attaching `.txt`/`.md` files and posting them to `POST /api/documents/text`
-- upload feedback now indicates chunk count and confirms `D#` usage in session grounding
-- new API endpoints:
-  - `POST /api/documents/text` (ingest raw extracted text into session)
-  - `GET /api/documents?sessionId=<uuid>` (list session documents)
-- test coverage expanded:
-  - `server/ingest/pdi/__tests__/documents.test.js` for document chunking/ranking behavior
+Current repo focus remains Phase 1 + ingestion hardening:
+- Chat grounding/citations currently support `P#` and `C#` tokens only.
+- Active ingestion work is in `server/ingest/pdi/*`, `scripts/ingest_md/ingest_md.py`, and `scripts/ingest_pdf/*`.
+- DB persistence currently covers `users`, `sessions`, and `messages` only.
+
+Phase 2 document-intelligence items are not present in this checkout (as of 2026-02-12):
+- no `server/db/migrations/phase2_documents.sql`
+- no `server/rag/documents.js`
+- no `POST /api/documents/text` or `GET /api/documents` endpoints
+- no `D#` citation token handling in grounding/extraction
+- no `server/ingest/pdi/__tests__/documents.test.js`
 
 Phase 1 delegation remains active in parallel:
 - `PHASE1_DELEGATION.md`
 
 ## Latest Debug Update (2026-02-12)
-- Ran one-file markdown ingestion upsert attempt via:
+- Canonical markdown dataset was restored into `scripts/scraper/ircc_data_clean` from Git commit `c1f0b3eadfee6a1be4d6175e5dd65f19bcc7288c`.
+  - current markdown count in canonical directory: `284` files.
+- Markdown ingestion pipeline (`scripts/ingest_md/ingest_md.py`) was fixed for `EMBEDDING_PROVIDER=pinecone`:
+  - non-dry runs now always call real embedding (no dummy-vector fallback).
+  - this resolved prior dimension mismatch failures.
+- Verified one-file end-to-end upsert success:
   - `python scripts/ingest_md/ingest_md.py --directory scripts/scraper/ircc_data_clean --max-files 1`
-- Result in this terminal environment:
-  - chunking executes, but embedding/delete/upsert fail due to DNS/network resolution errors to Pinecone hosts
-  - observed errors include:
-    - `Failed to resolve ...pinecone.io`
-    - `Embedding error: Connection error`
-  - run summary ended with `Vectors upserted: 0`
-- Important nuance:
-  - server-side grounding may still work in other runtime/network paths; failure here is specific to current terminal environment DNS/connectivity.
-- `.env` hygiene issue found:
-  - a stray bare URL line (`https://api.a2aj.ca/mcp`) causes shell `source .env` parsing errors.
-  - Node `dotenv` parsing can still load key-value pairs, so behavior differs between shell and app runtime.
-- ingestion script env mismatch noted:
-  - script currently prefers `EMBED_MODEL`; app config commonly uses `EMBEDDING_MODEL`.
-  - align/fallback behavior should be standardized to avoid silent model selection issues.
+  - summary: `Files processed: 1`, `Chunks embedded: 11`, `Vectors upserted: 11`.
+- Added resumability controls to markdown ingestion:
+  - `--no-delete-existing-source`
+  - `--skip-existing-ids`
+- New target namespace selected for refreshed markdown ingestion:
+  - `ircc-guidance-v1-20260212`
+  - full run started successfully but was user-interrupted before completion.
+- Added delegation/runbook doc:
+  - `MARKDOWN_UPSERT_PIPELINE_DELEGATION.md`
+- Added PDF ingestion MVP scaffold:
+  - `scripts/ingest_pdf/ingest_pdf.py` + modular helpers (`extract`, `normalize`, `structure`, `chunk`, `embed`, `upsert`, `state`, `schemas`)
+  - supports dry-run, state tracking, `--no-delete-existing-source`, `--skip-existing-ids`
+  - OCR flag wired as placeholder (`--enable-ocr`) for later integration.
 
 ## Key Files (High Value)
 - `server/index.js`
@@ -150,13 +152,25 @@ Phase 1 delegation remains active in parallel:
 - `components/chat/SourcesPanel.tsx`
 - `pages/ChatPage.tsx`
 - `server/ingest/pdi/index.js`
+- `scripts/ingest_md/ingest_md.py`
+- `scripts/ingest_pdf/ingest_pdf.py`
+- `scripts/ingest_pdf/extract.py`
+- `scripts/ingest_pdf/chunk.py`
+- `scripts/ingest_pdf/upsert.py`
 - `scripts/scraper/scrape.py`
+- `MARKDOWN_UPSERT_PIPELINE_DELEGATION.md`
 
 ## Commands
 - Install: `npm install`
 - Backend: `npm run dev:server`
 - Frontend: `npm run dev`
 - Server tests: `npm run test:server`
+- Markdown one-file ingestion:
+  - `python scripts/ingest_md/ingest_md.py --directory scripts/scraper/ircc_data_clean --max-files 1`
+- Markdown resumable ingestion (no delete + skip existing IDs):
+  - `python scripts/ingest_md/ingest_md.py --directory scripts/scraper/ircc_data_clean --namespace ircc-guidance-v1-20260212 --no-delete-existing-source --skip-existing-ids`
+- PDF dry-run ingestion (example):
+  - `python scripts/ingest_pdf/ingest_pdf.py --directory scripts/pdfs --namespace ircc-pdf-v1-20260212 --max-files 1 --dry-run`
 - Scraper (resume):
   - `python -u scripts/scraper/scrape.py --input-links-md /workspaces/legalnew/scripts/scraper/input_links.md --output-dir scripts/scraper/ircc_data_clean`
 
@@ -183,6 +197,7 @@ Security/debug:
 
 Ingestion:
 - `EMBEDDING_MODEL`, `EMBEDDING_DIM`, `EMBEDDING_BASE_URL`
+- `EMBEDDING_PROVIDER`, `PINECONE_API_VERSION`
 - `PDI_EMBED_BATCH_SIZE`, `PDI_EMBED_CONCURRENCY`, retry/backoff envs
 - `PDI_UPSERT_BATCH_SIZE`, `PDI_UPSERT_MAX_REQUEST_BYTES`, retry/backoff envs
 

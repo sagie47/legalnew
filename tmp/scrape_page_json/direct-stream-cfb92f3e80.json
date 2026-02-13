@@ -1,0 +1,44 @@
+{
+  "source_id": "pdi_cfb92f3e809c",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/direct-stream.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/direct-stream.html",
+  "title": "Student Direct Stream (SDS)",
+  "language": "en",
+  "manual": "Student Direct Stream (SDS)",
+  "chapter": null,
+  "heading_path": [
+    "Student Direct Stream (SDS)"
+  ],
+  "last_updated": "2024-11-08",
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "c5313aa6db6e4ac6869de4f69a1147633d9273946894015f2737341add16836b",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/direct-stream-cfb92f3e80.md",
+  "text": "Published Time: Thu, 12 Feb 2026 00:34:20 GMT\n\nStudent Direct Stream (SDS)\n===========================\n\nThis section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.\n\nThe Student Direct Stream (SDS) ended **on November 8, 2024, at 2 p.m. ET**. Applications submitted on or after this date and time will be processed as regular study permits.\n\nAll study permit applications**received on or after this date and time**should be processed using regular study permit procedures.\n\nThe Student Direct Stream(SDS) was an expedited study permit processing initiative for those who were applying to study in Canada at a post-secondary[designated learning institution(DLI)](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/designated-learning-institutions.html). The SDS was available to legal residents of\n\n* Antigua and Barbuda\n* Brazil\n* China\n* Colombia\n* Costa Rica\n* India\n* Morocco\n* Pakistan\n* Peru\n* Philippines\n* Saint Vincent and the Grenadines\n* Senegal\n* Trinidad and Tobago\n* Vietnam\n\nTo be eligible for expedited study permit application processing under the SDS initiative, applicants had to meet specific requirements by providing selected documentation up front.\n\nPage details\n------------\n\n 2024-11-08",
+  "sections": [
+    {
+      "heading": "Student Direct Stream (SDS)",
+      "heading_path": [
+        "Student Direct Stream (SDS)"
+      ],
+      "anchor": "#student-direct-stream-sds",
+      "text": "Published Time: Thu, 12 Feb 2026 00:34:20 GMT\n\nStudent Direct Stream (SDS)\n===========================\n\nThis section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.\n\nThe Student Direct Stream (SDS) ended **on November 8, 2024, at 2 p.m. ET**. Applications submitted on or after this date and time will be processed as regular study permits.\n\nAll study permit applications**received on or after this date and time**should be processed using regular study permit procedures.\n\nThe Student Direct Stream(SDS) was an expedited study permit processing initiative for those who were applying to study in Canada at a post-secondary[designated learning institution(DLI)](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/designated-learning-institutions.html). The SDS was available to legal residents of\n\n* Antigua and Barbuda\n* Brazil\n* China\n* Colombia\n* Costa Rica\n* India\n* Morocco\n* Pakistan\n* Peru\n* Philippines\n* Saint Vincent and the Grenadines\n* Senegal\n* Trinidad and Tobago\n* Vietnam\n\nTo be eligible for expedited study permit application processing under the SDS initiative, applicants had to meet specific requirements by providing selected documentation up front.\n\nPage details\n------------\n\n 2024-11-08"
+    }
+  ],
+  "links": {
+    "outbound": [
+      "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/designated-learning-institutions.html"
+    ],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": false,
+    "notes": []
+  }
+}

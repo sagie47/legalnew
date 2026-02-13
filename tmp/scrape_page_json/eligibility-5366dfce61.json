@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_5366dfce6118",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility.html",
+  "title": "Temporary workers: Eligibility and admissibility",
+  "language": "en",
+  "manual": "Temporary workers: Eligibility and admissibility",
+  "chapter": null,
+  "heading_path": [
+    "Temporary workers: Eligibility and admissibility"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "43f6ab412988a4737b0a4be340e6358f986b4cb37dbeea47767212e94b015ee9",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/eligibility-5366dfce61.md",
+  "text": "Temporary workers: Eligibility and admissibility",
+  "sections": [
+    {
+      "heading": "Temporary workers: Eligibility and admissibility",
+      "heading_path": [
+        "Temporary workers: Eligibility and admissibility"
+      ],
+      "anchor": "#temporary-workers-eligibility-and-admissibility",
+      "text": "Temporary workers: Eligibility and admissibility"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "files": {
+    "C-29.pdf": {
+      "content_hash": "1bfc3bca3dc62f1ee50210393b1d01a7b84261a79cfb88c066d4b1d47d20524e",
+      "status": "upserted",
+      "chunks": 340,
+      "error": null
+    },
+    "I-2.5.pdf": {
+      "content_hash": "4d3e4b78e09596ef6bf7c3adf666c53f863a7766fa202726b364be5bf7ec0e93",
+      "status": "upserted",
+      "chunks": 867,
+      "error": null
+    },
+    "O-3.01.pdf": {
+      "content_hash": "85ce2db6fbb621184d4789366574d554f2f4b5e028125ae5309ce50bcc90fd50",
+      "status": "upserted",
+      "chunks": 360,
+      "error": null
+    },
+    "SOR-2002-227.pdf": {
+      "content_hash": "df222cfd0626f18d6c32d0ceee905190b0633a847cc6540ff3548e1af89a40b1",
+      "status": "upserted",
+      "chunks": 2000,
+      "error": null
+    },
+    "cp14-eng.pdf": {
+      "content_hash": "48acff29071397e9149cac572c55e5ab59ec41d1e295e256fb22af8e0b21da1c",
+      "status": "upserted",
+      "chunks": 296,
+      "error": null
+    },
+    "enf-3-admissibility-(en)-final.pdf": {
+      "content_hash": "e2fb6eeb07e95f07e72a30a6b454b3efce0065da74ef23e5339f037ae15894fa",
+      "status": "upserted",
+      "chunks": 288,
+      "error": null
+    },
+    "enf01-eng.pdf": {
+      "content_hash": "f4773878103983fb0099fc1c1b021cd64ca39abd0fc943e592a487640b7f2c17",
+      "status": "upserted",
+      "chunks": 226,
+      "error": null
+    },
+    "enf04-eng.pdf": {
+      "content_hash": "d9b40cb3b6767070f97453e5b6555d03ed328ffebecf64035a0f78af5840ee7f",
+      "status": "upserted",
+      "chunks": 420,
+      "error": null
+    },
+    "enf05-eng.pdf": {
+      "content_hash": "51e3c37d01d06514f9670c3976d75bc2fe84664208c69564d45078ea194d12ba",
+      "status": "upserted",
+      "chunks": 299,
+      "error": null
+    },
+    "enf06-eng.pdf": {
+      "content_hash": "b007f22133dd8215f9a13438ae76516a1498f29de773a0e17bad5dcd72463c16",
+      "status": "upserted",
+      "chunks": 236,
+      "error": null
+    },
+    "enf08-eng.pdf": {
+      "content_hash": "50faa14d653b173749ee025c8447134d0b50a0ae51af65ffd68101327d2c172d",
+      "status": "upserted",
+      "chunks": 160,
+      "error": null
+    },
+    "enf10-eng.pdf": {
+      "content_hash": "13ecae18ba47bd0f2042e1d0b6665928e2800925e62052aa2aa14f2e37fa5904",
+      "status": "upserted",
+      "chunks": 423,
+      "error": null
+    },
+    "enf12-eng.pdf": {
+      "content_hash": "9824f30c00bffe5e7bc9103936d80da1f81e7fed1c9327227f0a1354e43fbd2c",
+      "status": "upserted",
+      "chunks": 246,
+      "error": null
+    },
+    "enf15-eng.pdf": {
+      "content_hash": "62a5df8f9b1d89af51cb08259a8afd4b48f9b22909a7851d16ea2ab823a0e902",
+      "status": "skipped_existing",
+      "chunks": 0,
+      "error": null
+    },
+    "enf17-eng.pdf": {
+      "content_hash": "283c6bef009acacb300827a38821fa0c69d31d77a942a4794745911f46a23d88",
+      "status": "skipped_existing",
+      "chunks": 0,
+      "error": null
+    },
+    "enf18-eng.pdf": {
+      "content_hash": "85acbb8954a541cd05a96cd9626a862f633b5ea5c03fd104ac5ac03d4e091f1d",
+      "status": "upserted",
+      "chunks": 119,
+      "error": null
+    },
+    "enf19-eng.pdf": {
+      "content_hash": "dabbacfc72da1bae78d1f34242876ec8ccd2cade5158bf800357bf26e3ec5e8c",
+      "status": "upserted",
+      "chunks": 220,
+      "error": null
+    },
+    "enf28-eng.pdf": {
+      "content_hash": "f253a42d0bf415282d72e0f687296e7c3ca3e86b8ad27be05824411f1935ce05",
+      "status": "skipped_existing",
+      "chunks": 0,
+      "error": null
+    },
+    "enf29-eng.pdf": {
+      "content_hash": "42b9ff1607402e73ca7d4d3c5495f6f4d3a6a2f8c09343c17115fe12e9ff8673",
+      "status": "skipped_existing",
+      "chunks": 0,
+      "error": null
+    },
+    "enf34-eng.pdf": {
+      "content_hash": "4188d72bda00651da55d1fd55e18e291cbe2de453fbc6d77b3dc50d7ddb83bce",
+      "status": "upserted",
+      "chunks": 108,
+      "error": null
+    },
+    "il3-eng.pdf": {
+      "content_hash": "b2403b465a9a1df7e96d2f236ebb5e5bd7929fa4b3bae599fb88579872b9bcb1",
+      "status": "upserted",
+      "chunks": 216,
+      "error": null
+    }
+  },
+  "runs": [
+    {
+      "started_at": "2026-02-12T23:25:10.575569+00:00",
+      "namespace": "ircc",
+      "files_found": 21,
+      "files_processed": 21,
+      "files_failed": 0,
+      "chunks_built": 7149,
+      "vectors_upserted": 0,
+      "artifacts_written": 21,
+      "finished_at": "2026-02-12T23:25:35.362092+00:00"
+    },
+    {
+      "started_at": "2026-02-12T23:26:46.816725+00:00",
+      "namespace": "ircc",
+      "files_found": 1,
+      "files_processed": 1,
+      "files_failed": 0,
+      "chunks_built": 239,
+      "vectors_upserted": 0,
+      "artifacts_written": 1,
+      "finished_at": "2026-02-12T23:26:48.295970+00:00"
+    },
+    {
+      "started_at": "2026-02-12T23:27:11.111562+00:00",
+      "namespace": "ircc",
+      "files_found": 1,
+      "files_processed": 1,
+      "files_failed": 0,
+      "chunks_built": 236,
+      "vectors_upserted": 0,
+      "artifacts_written": 1,
+      "finished_at": "2026-02-12T23:27:12.787509+00:00"
+    },
+    {
+      "started_at": "2026-02-12T23:27:31.101374+00:00",
+      "namespace": "ircc",
+      "files_found": 21,
+      "files_processed": 21,
+      "files_failed": 0,
+      "chunks_built": 7145,
+      "vectors_upserted": 0,
+      "artifacts_written": 21,
+      "finished_at": "2026-02-12T23:28:07.404647+00:00"
+    },
+    {
+      "started_at": "2026-02-12T23:40:50.652833+00:00",
+      "namespace": "ircc-guidance-v1-20260212",
+      "files_found": 21,
+      "files_processed": 21,
+      "files_failed": 17,
+      "chunks_built": 7145,
+      "vectors_upserted": 321,
+      "artifacts_written": 21,
+      "finished_at": "2026-02-12T23:42:53.594418+00:00"
+    },
+    {
+      "started_at": "2026-02-12T23:43:55.819198+00:00",
+      "namespace": "ircc-guidance-v1-20260212",
+      "files_found": 21,
+      "files_processed": 21,
+      "files_failed": 3,
+      "chunks_built": 7145,
+      "vectors_upserted": 3617,
+      "artifacts_written": 0,
+      "finished_at": "2026-02-12T23:47:58.838866+00:00"
+    },
+    {
+      "started_at": "2026-02-12T23:48:28.536444+00:00",
+      "namespace": "ircc-guidance-v1-20260212",
+      "files_found": 1,
+      "files_processed": 1,
+      "files_failed": 0,
+      "chunks_built": 340,
+      "vectors_upserted": 340,
+      "artifacts_written": 0,
+      "finished_at": "2026-02-12T23:48:44.366797+00:00"
+    },
+    {
+      "started_at": "2026-02-12T23:48:45.610981+00:00",
+      "namespace": "ircc-guidance-v1-20260212",
+      "files_found": 1,
+      "files_processed": 1,
+      "files_failed": 0,
+      "chunks_built": 867,
+      "vectors_upserted": 867,
+      "artifacts_written": 0,
+      "finished_at": "2026-02-12T23:49:22.604188+00:00"
+    },
+    {
+      "started_at": "2026-02-12T23:49:24.006054+00:00",
+      "namespace": "ircc-guidance-v1-20260212",
+      "files_found": 1,
+      "files_processed": 1,
+      "files_failed": 0,
+      "chunks_built": 2000,
+      "vectors_upserted": 2000,
+      "artifacts_written": 0,
+      "finished_at": "2026-02-12T23:51:23.739955+00:00"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_4249c8ba4550",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/commercial-airline-reciprocal-employment-agreements.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/commercial-airline-reciprocal-employment-agreements.html",
+  "title": "International Mobility Program: Commercial airline reciprocal employment agreements",
+  "language": "en",
+  "manual": "International Mobility Program: Commercial airline reciprocal employment agreements",
+  "chapter": null,
+  "heading_path": [
+    "International Mobility Program: Commercial airline reciprocal employment agreements"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "8a4324abf5e728d1066331b39fa89293c5767335756da47faca76ab493c4a91e",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/commercial-airline-reciprocal-employment-agreements-4249c8ba45.md",
+  "text": "International Mobility Program: Commercial airline reciprocal employment agreements",
+  "sections": [
+    {
+      "heading": "International Mobility Program: Commercial airline reciprocal employment agreements",
+      "heading_path": [
+        "International Mobility Program: Commercial airline reciprocal employment agreements"
+      ],
+      "anchor": "#international-mobility-program-commercial-airline-reciprocal-employment-agreements",
+      "text": "International Mobility Program: Commercial airline reciprocal employment agreements"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

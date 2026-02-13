@@ -1,0 +1,152 @@
+{
+  "count": 21,
+  "files": [
+    {
+      "file": "/workspaces/legalnew/manuals/C-29.pdf",
+      "raw_txt": "/workspaces/legalnew/tmp/manuals_raw/C-29.raw.txt",
+      "raw_json": "/workspaces/legalnew/tmp/manuals_raw/C-29.raw.pages.json",
+      "page_count": 71,
+      "total_chars": 276411
+    },
+    {
+      "file": "/workspaces/legalnew/manuals/I-2.5.pdf",
+      "raw_txt": "/workspaces/legalnew/tmp/manuals_raw/I-2.5.raw.txt",
+      "raw_json": "/workspaces/legalnew/tmp/manuals_raw/I-2.5.raw.pages.json",
+      "page_count": 181,
+      "total_chars": 705136
+    },
+    {
+      "file": "/workspaces/legalnew/manuals/O-3.01.pdf",
+      "raw_txt": "/workspaces/legalnew/tmp/manuals_raw/O-3.01.raw.txt",
+      "raw_json": "/workspaces/legalnew/tmp/manuals_raw/O-3.01.raw.pages.json",
+      "page_count": 77,
+      "total_chars": 290534
+    },
+    {
+      "file": "/workspaces/legalnew/manuals/SOR-2002-227.pdf",
+      "raw_txt": "/workspaces/legalnew/tmp/manuals_raw/SOR-2002-227.raw.txt",
+      "raw_json": "/workspaces/legalnew/tmp/manuals_raw/SOR-2002-227.raw.pages.json",
+      "page_count": 417,
+      "total_chars": 1644647
+    },
+    {
+      "file": "/workspaces/legalnew/manuals/cp14-eng.pdf",
+      "raw_txt": "/workspaces/legalnew/tmp/manuals_raw/cp14-eng.raw.txt",
+      "raw_json": "/workspaces/legalnew/tmp/manuals_raw/cp14-eng.raw.pages.json",
+      "page_count": 100,
+      "total_chars": 234083
+    },
+    {
+      "file": "/workspaces/legalnew/manuals/enf-3-admissibility-(en)-final.pdf",
+      "raw_txt": "/workspaces/legalnew/tmp/manuals_raw/enf-3-admissibility-(en)-final.raw.txt",
+      "raw_json": "/workspaces/legalnew/tmp/manuals_raw/enf-3-admissibility-(en)-final.raw.pages.json",
+      "page_count": 87,
+      "total_chars": 216762
+    },
+    {
+      "file": "/workspaces/legalnew/manuals/enf01-eng.pdf",
+      "raw_txt": "/workspaces/legalnew/tmp/manuals_raw/enf01-eng.raw.txt",
+      "raw_json": "/workspaces/legalnew/tmp/manuals_raw/enf01-eng.raw.pages.json",
+      "page_count": 61,
+      "total_chars": 177607
+    },
+    {
+      "file": "/workspaces/legalnew/manuals/enf04-eng.pdf",
+      "raw_txt": "/workspaces/legalnew/tmp/manuals_raw/enf04-eng.raw.txt",
+      "raw_json": "/workspaces/legalnew/tmp/manuals_raw/enf04-eng.raw.pages.json",
+      "page_count": 127,
+      "total_chars": 342028
+    },
+    {
+      "file": "/workspaces/legalnew/manuals/enf05-eng.pdf",
+      "raw_txt": "/workspaces/legalnew/tmp/manuals_raw/enf05-eng.raw.txt",
+      "raw_json": "/workspaces/legalnew/tmp/manuals_raw/enf05-eng.raw.pages.json",
+      "page_count": 78,
+      "total_chars": 210322
+    },
+    {
+      "file": "/workspaces/legalnew/manuals/enf06-eng.pdf",
+      "raw_txt": "/workspaces/legalnew/tmp/manuals_raw/enf06-eng.raw.txt",
+      "raw_json": "/workspaces/legalnew/tmp/manuals_raw/enf06-eng.raw.pages.json",
+      "page_count": 63,
+      "total_chars": 183337
+    },
+    {
+      "file": "/workspaces/legalnew/manuals/enf08-eng.pdf",
+      "raw_txt": "/workspaces/legalnew/tmp/manuals_raw/enf08-eng.raw.txt",
+      "raw_json": "/workspaces/legalnew/tmp/manuals_raw/enf08-eng.raw.pages.json",
+      "page_count": 38,
+      "total_chars": 103896
+    },
+    {
+      "file": "/workspaces/legalnew/manuals/enf10-eng.pdf",
+      "raw_txt": "/workspaces/legalnew/tmp/manuals_raw/enf10-eng.raw.txt",
+      "raw_json": "/workspaces/legalnew/tmp/manuals_raw/enf10-eng.raw.pages.json",
+      "page_count": 104,
+      "total_chars": 300503
+    },
+    {
+      "file": "/workspaces/legalnew/manuals/enf12-eng.pdf",
+      "raw_txt": "/workspaces/legalnew/tmp/manuals_raw/enf12-eng.raw.txt",
+      "raw_json": "/workspaces/legalnew/tmp/manuals_raw/enf12-eng.raw.pages.json",
+      "page_count": 62,
+      "total_chars": 188090
+    },
+    {
+      "file": "/workspaces/legalnew/manuals/enf15-eng.pdf",
+      "raw_txt": "/workspaces/legalnew/tmp/manuals_raw/enf15-eng.raw.txt",
+      "raw_json": "/workspaces/legalnew/tmp/manuals_raw/enf15-eng.raw.pages.json",
+      "page_count": 27,
+      "total_chars": 56062
+    },
+    {
+      "file": "/workspaces/legalnew/manuals/enf17-eng.pdf",
+      "raw_txt": "/workspaces/legalnew/tmp/manuals_raw/enf17-eng.raw.txt",
+      "raw_json": "/workspaces/legalnew/tmp/manuals_raw/enf17-eng.raw.pages.json",
+      "page_count": 21,
+      "total_chars": 62668
+    },
+    {
+      "file": "/workspaces/legalnew/manuals/enf18-eng.pdf",
+      "raw_txt": "/workspaces/legalnew/tmp/manuals_raw/enf18-eng.raw.txt",
+      "raw_json": "/workspaces/legalnew/tmp/manuals_raw/enf18-eng.raw.pages.json",
+      "page_count": 31,
+      "total_chars": 92847
+    },
+    {
+      "file": "/workspaces/legalnew/manuals/enf19-eng.pdf",
+      "raw_txt": "/workspaces/legalnew/tmp/manuals_raw/enf19-eng.raw.txt",
+      "raw_json": "/workspaces/legalnew/tmp/manuals_raw/enf19-eng.raw.pages.json",
+      "page_count": 66,
+      "total_chars": 146975
+    },
+    {
+      "file": "/workspaces/legalnew/manuals/enf28-eng.pdf",
+      "raw_txt": "/workspaces/legalnew/tmp/manuals_raw/enf28-eng.raw.txt",
+      "raw_json": "/workspaces/legalnew/tmp/manuals_raw/enf28-eng.raw.pages.json",
+      "page_count": 33,
+      "total_chars": 70242
+    },
+    {
+      "file": "/workspaces/legalnew/manuals/enf29-eng.pdf",
+      "raw_txt": "/workspaces/legalnew/tmp/manuals_raw/enf29-eng.raw.txt",
+      "raw_json": "/workspaces/legalnew/tmp/manuals_raw/enf29-eng.raw.pages.json",
+      "page_count": 28,
+      "total_chars": 72380
+    },
+    {
+      "file": "/workspaces/legalnew/manuals/enf34-eng.pdf",
+      "raw_txt": "/workspaces/legalnew/tmp/manuals_raw/enf34-eng.raw.txt",
+      "raw_json": "/workspaces/legalnew/tmp/manuals_raw/enf34-eng.raw.pages.json",
+      "page_count": 29,
+      "total_chars": 73534
+    },
+    {
+      "file": "/workspaces/legalnew/manuals/il3-eng.pdf",
+      "raw_txt": "/workspaces/legalnew/tmp/manuals_raw/il3-eng.raw.txt",
+      "raw_json": "/workspaces/legalnew/tmp/manuals_raw/il3-eng.raw.pages.json",
+      "page_count": 104,
+      "total_chars": 163626
+    }
+  ]
+}

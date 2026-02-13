@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_7695134be765",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/fees/immigration/applications-extension-authorization-remain-canada-temporary-resident-r181-r305-1.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/fees/immigration/applications-extension-authorization-remain-canada-temporary-resident-r181-r305-1.html",
+  "title": "Applications for extension of authorization to remain in Canada as a temporary resident – R181 and R217(1) / R201",
+  "language": "en",
+  "manual": "Applications for extension of authorization to remain in Canada as a temporary resident – R181 and R217(1) / R201",
+  "chapter": null,
+  "heading_path": [
+    "Applications for extension of authorization to remain in Canada as a temporary resident – R181 and R217(1) / R201"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "69137d79b5cd381e59c9269230f6e120a822ca7228c78847c49e32b258e968f5",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/applications-extension-authorization-remain-canada-temporary-resident-r181-r305-1-7695134be7.md",
+  "text": "Applications for extension of authorization to remain in Canada as a temporary resident – R181 and R217(1) / R201",
+  "sections": [
+    {
+      "heading": "Applications for extension of authorization to remain in Canada as a temporary resident – R181 and R217(1) / R201",
+      "heading_path": [
+        "Applications for extension of authorization to remain in Canada as a temporary resident – R181 and R217(1) / R201"
+      ],
+      "anchor": "#applications-for-extension-of-authorization-to-remain-in-canada-as-a-temporary-resident-r181-and-r217-1-r201",
+      "text": "Applications for extension of authorization to remain in Canada as a temporary resident – R181 and R217(1) / R201"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

@@ -256,9 +256,11 @@ def process_file(
         for i, chunk_text in enumerate(chunks):
             chunk_id = f"md|{source_id}|{i}"
             
-            # Get embedding
-            if dry_run or not client:
-                # Dummy embedding for dry run
+            # Get embedding.
+            # For non-dry runs we always call embed_chunks(), including when
+            # EMBEDDING_PROVIDER=pinecone (client is intentionally None there).
+            if dry_run:
+                # Dummy embedding for dry run only.
                 embedding = [0.0] * 1536
             else:
                 embeddings = embed_chunks(client, model, [chunk_text])
@@ -321,6 +323,45 @@ def calculate_batch_size(vectors: List[dict], max_bytes: int = 1800000) -> int:
     return max(1, int(max_bytes / avg_size))
 
 
+def filter_existing_vectors(index, namespace: str, vectors: List[dict], fetch_batch_size: int = 500) -> List[dict]:
+    """Return only vectors whose IDs are not already present in the namespace."""
+    if not vectors:
+        return vectors
+
+    existing_ids = set()
+    ids = [v.get('id') for v in vectors if isinstance(v, dict) and v.get('id')]
+
+    for i in range(0, len(ids), fetch_batch_size):
+        batch_ids = ids[i:i + fetch_batch_size]
+        try:
+            response = index.fetch(ids=batch_ids, namespace=namespace)
+            vectors_map = None
+
+            if isinstance(response, dict):
+                vectors_map = response.get('vectors') or {}
+            elif hasattr(response, 'vectors'):
+                vectors_map = response.vectors or {}
+            elif hasattr(response, 'to_dict'):
+                as_dict = response.to_dict()
+                vectors_map = as_dict.get('vectors') or {}
+
+            if isinstance(vectors_map, dict):
+                existing_ids.update(vectors_map.keys())
+            elif isinstance(vectors_map, list):
+                for item in vectors_map:
+                    if isinstance(item, dict) and item.get('id'):
+                        existing_ids.add(item['id'])
+        except Exception as e:
+            logger.warning(f"Failed to fetch existing IDs for dedupe: {e}")
+            return vectors
+
+    filtered = [v for v in vectors if v.get('id') not in existing_ids]
+    skipped = len(vectors) - len(filtered)
+    if skipped > 0:
+        logger.info(f"Skipped {skipped} existing vectors by ID")
+    return filtered
+
+
 def upsert_batches(
     index,
     namespace: str,
@@ -372,6 +413,10 @@ def main():
                         help='Chunk size for splitting')
     parser.add_argument('--chunk-overlap', type=int, default=150,
                         help='Chunk overlap for splitting')
+    parser.add_argument('--no-delete-existing-source', action='store_true',
+                        help='Do not delete existing vectors by source_id before upsert')
+    parser.add_argument('--skip-existing-ids', action='store_true',
+                        help='Before upsert, fetch and skip vectors whose IDs already exist in namespace')
     
     args = parser.parse_args()
     
@@ -439,11 +484,7 @@ def main():
     for file_path in md_files:
         rel_path = str(file_path.relative_to(base_dir))
         source_id = derive_source_id(rel_path)
-        
-        # Delete existing vectors for this source
-        if not args.dry_run:
-            delete_existing_source_vectors(index, args.namespace, source_id)
-        
+
         # Process file
         vectors = process_file(
             file_path=file_path,
@@ -461,6 +502,17 @@ def main():
         if not vectors:
             stats['skipped'] += 1
             continue
+
+        # Delete existing vectors for this source unless explicitly disabled.
+        if not args.dry_run and not args.no_delete_existing_source:
+            delete_existing_source_vectors(index, args.namespace, source_id)
+
+        # Optionally skip vectors that already exist in namespace.
+        if not args.dry_run and args.skip_existing_ids:
+            vectors = filter_existing_vectors(index, args.namespace, vectors)
+            if not vectors:
+                stats['skipped'] += 1
+                continue
         
         stats['files_processed'] += 1
         stats['chunks_embedded'] += len(vectors)

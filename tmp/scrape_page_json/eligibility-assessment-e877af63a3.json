@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_e877af63a342",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/permits/eligibility-assessment.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/permits/eligibility-assessment.html",
+  "title": "Temporary resident permits (TRPs): Eligibility and assessment",
+  "language": "en",
+  "manual": "Temporary resident permits (TRPs): Eligibility and assessment",
+  "chapter": null,
+  "heading_path": [
+    "Temporary resident permits (TRPs): Eligibility and assessment"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "d956b0ab0b827cc919644b0579edd6ffd267e8ba1b8eb588c7107f8f31c95040",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/eligibility-assessment-e877af63a3.md",
+  "text": "Temporary resident permits (TRPs): Eligibility and assessment",
+  "sections": [
+    {
+      "heading": "Temporary resident permits (TRPs): Eligibility and assessment",
+      "heading_path": [
+        "Temporary resident permits (TRPs): Eligibility and assessment"
+      ],
+      "anchor": "#temporary-resident-permits-trps-eligibility-and-assessment",
+      "text": "Temporary resident permits (TRPs): Eligibility and assessment"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

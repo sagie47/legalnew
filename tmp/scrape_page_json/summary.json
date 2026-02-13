@@ -1,0 +1,9 @@
+{
+  "input_dir": "/workspaces/legalnew/scripts/scraper/ircc_data_clean",
+  "output_dir": "/workspaces/legalnew/tmp/scrape_page_json",
+  "files_discovered": 284,
+  "files_attempted": 284,
+  "files_exported": 284,
+  "files_failed": 0,
+  "timestamp": "2026-02-13T00:18:23.561781+00:00"
+}

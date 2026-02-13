@@ -1,0 +1,3672 @@
+
+
+===== PAGE 1 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+1 
+Updates to chapter ........................................................................................................................ 2 
+1. 
+What this chapter is about ...................................................................................................... 3 
+2. 
+Program objectives ................................................................................................................. 3 
+3. 
+The Act and Regulations ........................................................................................................ 3 
+4. 
+Instruments and delegations ................................................................................................ 35 
+5. 
+Departmental policy .............................................................................................................. 35 
+6. 
+Definitions ............................................................................................................................. 36 
+7. 
+Procedure: For obtaining evidence and determining equivalency ....................................... 36 
+7.1. 
+Obtaining evidence for A34(1)(a) .................................................................................. 36 
+7.2. 
+Obtaining evidence for A34(1)(b) .................................................................................. 36 
+7.3. 
+Obtaining evidence for A34(1)(b.1) ............................................................................... 36 
+7.4. 
+Obtaining evidence for A34(1)(c) .................................................................................. 36 
+7.5. 
+Obtaining evidence for A34(1)(d) .................................................................................. 36 
+7.6. 
+Obtaining evidence for A34(1)(e) .................................................................................. 37 
+7.7. 
+Obtaining evidence for A34(1)(f) ................................................................................... 37 
+7.8. 
+Obtaining evidence for A35(1)(a) .................................................................................. 37 
+7.9. 
+Obtaining evidence for A35(1)(b) .................................................................................. 37 
+7.10. 
+Obtaining evidence for A35(1)(c) .............................................................................. 38 
+7.11. 
+Obtaining evidence for A36(1)(a) .............................................................................. 38 
+7.12. 
+Obtaining evidence and determining equivalency for A36(1)(b) ............................... 38 
+7.13. 
+Obtaining evidence and determining equivalency for A36(1)(c) ............................... 40 
+7.14. 
+Obtaining evidence for A36(2)(a) .............................................................................. 41 
+7.15. 
+Obtaining evidence and determining equivalency for A36(2)(b) ............................... 41 
+7.16. 
+Obtaining evidence and determining equivalency for A36(2)(c) ............................... 43 
+7.17. 
+Obtaining evidence for A36(2)(d) .............................................................................. 44 
+7.18. 
+Obtaining evidence for A37(1)(a) .............................................................................. 44 
+7.19. 
+Obtaining evidence for A37(1)(b) .............................................................................. 45 
+7.20. 
+Obtaining evidence for A38(1)(a)(b)(c) ...................................................................... 45 
+7.21. 
+Obtaining evidence for A39 ....................................................................................... 45 
+7.22. 
+Obtaining evidence for A40(1)(a) .............................................................................. 46 
+7.23. 
+Obtaining evidence for A40(1)(b) .............................................................................. 46 
+7.24. 
+Obtaining evidence for A40(1)(c) .............................................................................. 46 
+7.25. 
+Obtaining evidence for A40(1)(d) .............................................................................. 47 
+7.26. 
+Obtaining evidence for A41(a) ................................................................................... 47 
+7.27. 
+Obtaining evidence for A41(b) ................................................................................... 47 
+7.28. 
+Obtaining evidence for A42(a) ................................................................................... 48 
+7.29. 
+Obtaining evidence for A42(b) ................................................................................... 48 
+Appendix 
+A  Some notable inadmissibility jurisprudence ...................................................... 50 
+ 
+
+
+===== PAGE 2 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+2 
+Updates to chapter 
+ 
+Listing by date: 
+ 
+ 
+2013-09-04 
+Sections 3 and 5 have been updated and Section 7.3 has been added, to reflect 
+changes made to the security inadmissibility and ministerial relief provisions that have 
+come into force following the Royal Assent of the Faster Removal of Foreign Criminals 
+Act. The provision on espionage has been amended. The provision on subversion 
+against any democratic government, institution or process has been established under a 
+new paragraph, namely A34(1)(b.1). Ministerial relief provisions under subsections 
+A34(2), A35(2) and A37(2) have been repealed and replaced by section A42.1. 
+ 
+ 
+2008-08-08 
+Changes were made to ENF 1 at 7.11 to correctly reflect the legislation. 
+ 
+ 
+2006-07-13 
+Changes were made to chapter ENF 1 to remove references to “omissions” in the 
+context of criminal inadmissibility. The term, which was contained in the provisions of 
+the former Act, is not contained in the IRPA.   
+ 
+ 
+2005-06-27 
+Changes were made to chapter ENF 1 in order to reflect the CIC and CBSA policy 
+responsibility and service delivery roles. 
+ 
+Caselaw was added in Appendix A for cases involving A37(1)(a) and A40. 
+ 
+ 
+2003-11-25 
+Minor changes were made to chapter ENF 1, entitled Inadmissibility. Section 7.18 and 
+Section 7.19 — Security Review changed to Organized Crime Directorate. 
+ 
+ 
+2003-07-16 
+Both minor and substantive changes and clarifications have been made throughout 
+ENF 1 - Inadmissibility. It is recommended that any former version of this chapter be 
+discarded in favour of the one now appearing in CIC Explore. 
+ 
+ 
+2003-03-04 
+Section 7.19 has been amended to reflect that the Minister’s representative does not 
+have to prove that the organization is involved in criminal activity (A37(1)(b)). 
+
+
+===== PAGE 3 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+3 
+1. 
+What this chapter is about 
+This chapter: 
+ 
+details the particular inadmissibility provisions of the Immigration and Refugee 
+Protection Act (IRPA or the Act) (Division 4 of Part 1); and 
+ 
+provides functional direction and guidance in applying the inadmissibility provisions 
+by giving an analysis of each allegation’s case elements, examples of 
+recommended evidence and, in some cases, a summary of jurisprudence. 
+2. 
+Program objectives 
+The objectives of the Canadian immigration legislation relative to the inadmissibility 
+provisions are: 
+ 
+to protect the health and safety of Canadians and to maintain the security of 
+Canadian society; 
+ 
+to promote international justice and security by fostering respect for human rights 
+and by denying access to Canadian territory to persons who are criminals or 
+security risks; and 
+ 
+to ensure that decisions taken under the Act are consistent with the Canadian 
+Charter of Rights and Freedoms, including its principles of equality and freedom 
+from discrimination and of the equality of English and French as the official 
+languages of Canada. 
+In dealings with persons who may be inadmissible to Canada, officers control the 
+admission and/or allow for the presence of persons in Canada by referencing the 
+various inadmissibility provisions of the IRPA.  
+Part 1, Division 4 of the Act makes distinctions based on categories of inadmissibility 
+related to: 
+ 
+criminality; 
+ 
+organized criminality; 
+ 
+security; 
+ 
+human or international rights violations; 
+ 
+health; 
+ 
+financial reasons; 
+ 
+misrepresentation; 
+ 
+non-compliance; 
+ 
+inadmissible family members. 
+3. 
+The Act and Regulations 
+For information about 
+See 
+A permanent resident or a foreign national is inadmissible on security grounds for 
+ 
+engaging in an act of espionage  that is against Canada or that is contrary to 
+Canada’s interests 
+A34(1)(a) 
+
+
+===== PAGE 4 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+4 
+ 
+engaging in or instigating the subversion by force of any government 
+A34(1)(b) 
+ 
+engaging in an act of subversion against a democratic government, 
+institution or process as they are understood in Canada 
+A34(1)(b.1) 
+ 
+engaging in terrorism 
+A34(1)(c) 
+ 
+being a danger to the security of Canada 
+A34(1)(d) 
+ 
+engaging in acts of violence that would or might endanger the lives or safety 
+of persons in Canada 
+A34(1)(e) 
+ 
+being a member of an organization that there are reasonable grounds to 
+believe engages, has engaged or will engage in acts referred to in paragraph 
+(a), (b). (b.1) or (c) 
+A34(1)(f) 
+A permanent resident or a foreign national is inadmissible on grounds of violating 
+human or international rights for 
+ 
+committing an act outside Canada that constitutes an offence referred to in 
+sections 4 to 7 of the Crimes Against Humanity and War Crimes Act 
+A35(1)(a) 
+ 
+being a prescribed senior official in the service of a government that, in the 
+opinion of the Minister, engages or has engaged in terrorism, systematic or 
+gross human rights violations, or genocide, a war crime or a crime against 
+humanity within the meaning of subsections 6(3) to (5) of the Crimes Against 
+Humanity and War Crimes Act 
+A35(1)(b) 
+ 
+being a person, other than a permanent resident, whose entry into or stay in 
+Canada is restricted pursuant to a decision, resolution or measure of an 
+international organization of states or association of states, of which Canada 
+is a member, that imposes sanctions on a country against which Canada has 
+imposed or has agreed to impose sanctions in concert with that organization 
+or association 
+A35(1)(c) 
+A permanent resident or a foreign national is inadmissible on grounds of serious 
+criminality for 
+ 
+having been convicted in Canada of an offence under an Act of Parliament 
+punishable by a maximum term of imprisonment of at least ten years, or of 
+an offence under an Act of Parliament for which a term of imprisonment of 
+more than six months has been imposed 
+A36(1)(a) 
+ 
+having been convicted of an offence outside Canada that, if committed in 
+Canada, would constitute an offence under an Act of Parliament punishable 
+by a maximum term of imprisonment of at least ten years 
+A36(1)(b) 
+ 
+committing an act outside Canada that is an offence in the place where it 
+was committed and that, if committed in Canada, would constitute an offence 
+under an Act of Parliament punishable by a maximum term of imprisonment 
+of at least ten years 
+A36(1)(c) 
+A foreign national is inadmissible on grounds of criminality for 
+ 
+having been convicted in Canada of an offence under an Act of Parliament 
+punishable by way of indictment, or of two offences under any Act of 
+Parliament not arising out of a single occurrence 
+A36(2)(a) 
+ 
+having been convicted outside Canada of an offence that, if committed in 
+Canada, would constitute an indictable offence under an Act of Parliament, 
+or of two offences not arising out of a single occurrence that, if committed in 
+Canada, would constitute offences under an Act of Parliament 
+A36(2)(b) 
+
+
+===== PAGE 5 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+5 
+ 
+committing an act outside Canada that is an offence in the place where it 
+was committed and that, if committed in Canada, would constitute an 
+indictable offence under an Act of Parliament 
+A36(2)(c) 
+ 
+committing, on entering Canada, an offence under an Act of Parliament 
+prescribed by regulations 
+A36(2)(d) 
+A permanent resident or a foreign national is inadmissible on grounds of 
+organized criminality for 
+ 
+being a member of an organization that is believed on reasonable grounds to 
+be or to have been engaged in activity that is part of a pattern of criminal 
+activity planned and organized by a number of persons acting in concert in 
+furtherance of the commission of an offence punishable under an Act of 
+Parliament by way of indictment, or in furtherance of the commission of an 
+offence outside Canada that, if committed in Canada, would constitute such 
+an offence, or engaging in activity that is part of such a pattern 
+A37(1)(a) 
+ 
+engaging, in the context of transnational crime, in activities such as people 
+smuggling, trafficking in persons or money laundering 
+A37(1)(b) 
+A foreign national is inadmissible on health grounds if their health condition 
+ 
+is likely to be a danger to public health 
+ 
+is likely to be a danger to public safety 
+ 
+might reasonably be expected to cause excessive demand on health or 
+social services 
+A38(1)(a) 
+A38(1)(b) 
+A38(1)(c) 
+A foreign national is inadmissible for financial reasons if they are or will be 
+unable or unwilling to support themselves or any other person who is dependent 
+on them, and have not satisfied an officer that adequate arrangements for care 
+and support, other than those that involve social assistance, have been made 
+A39 
+A permanent resident or a foreign national is inadmissible for misrepresentation 
+ 
+for directly or indirectly misrepresenting or withholding material facts relating 
+to a relevant matter that induces or could induce an error in the 
+administration of the Act 
+A40(1)(a) 
+ 
+for being or having been sponsored by a person who is determined to be 
+inadmissible for misrepresentation 
+A40(1)(b) 
+ 
+on a final determination to vacate a decision to allow the claim for refugee 
+protection by the permanent resident or the foreign national 
+A40(1)(c) 
+ 
+on ceasing to be a citizen under paragraph 10(1)(a) of the Citizenship Act, in 
+the circumstances set out in subsection 10(2) of that Act 
+A40(1)(d) 
+A person is inadmissible for failing to comply with the Act 
+ 
+in the case of a foreign national, through an act or omission which 
+contravenes, directly or indirectly, a provision the Act 
+A41(a) 
+ 
+in the case of a permanent resident, through failing to comply with A27(2) or 
+A28 
+A41(b) 
+A foreign national, other than a protected person, is inadmissible on grounds of 
+an inadmissible family member if 
+ 
+their accompanying family member or, in prescribed circumstances, their 
+non-accompanying family member is inadmissible 
+A42(a) 
+ 
+they are an accompanying family member of an inadmissible person 
+A42(b) 
+ 
+The Minister may, on application by a foreign national, declare that the 
+A42.1(1) 
+
+
+===== PAGE 6 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+6 
+matters referred to in section 34, paragraphs 35(1)(b) and (c) and subsection 
+37(1) do not constitute inadmissibility in respect of the foreign national if they 
+satisfy the Minister that it is not contrary to the national interest. 
+ 
+The Minister may, on the Minister’s own initiative, declare that the matters 
+referred to in section 34, paragraphs 35(1)(b) and (c) and subsection 37(1) 
+do not constitute inadmissibility in respect of a foreign national if the Minister 
+is satisfied that it is not contrary to the national interest. 
+A42.1(2) 
+ 
+In determining whether to make a declaration, the Minister may only take into 
+account national security and public safety considerations, but, in his or her 
+analysis, is not limited to considering the danger that the foreign national 
+presents to the public or the security of Canada. 
+A42.1(3) 
+ 
+CBSA has the policy responsibility with respect to security [A34]. 
+ 
+A34(1)(a) 
+34. (1) A permanent resident or a foreign national is inadmissible on security grounds 
+for 
+(a)  engaging in an act of espionage that is against Canada or that is contrary to 
+Canada’s interests;  
+ 
+Exception 
+ 
+A42.1(1): The Minister may on application by a foreign national , declare that the 
+matters referred to in A34(1)(a) do not constitute inadmissibility in respect of the foreign 
+national if they satisfy the Minister that it is not contrary to the national interest. 
+ 
+A42.1(2): The Minister may, on the Minister’s own initiative, declare that the matters 
+referred to in A34(1)(a) do not constitute inadmissibility in respect of the foreign national 
+if the Minister is satisfied that it is not contrary to the national interest. 
+ 
+ 
+ 
+Case elements: 
+reasonable grounds 
+permanent resident or foreign national 
+in or outside Canada 
+have or are or will engage(d)(ing) in an act of espionage  
+that is against Canada or  
+that is contrary to Canada’s interests 
+For information about recommended evidence and how to obtain it, see Obtaining 
+evidence for A34(1)(a), Section 7.1, below. 
+ 
+Notes 
+“reasonable grounds” means more than mere suspicion but less than the civil test of 
+balance of probabilities. It is a much lower threshold than the criminal standard of 
+“beyond a reasonable doubt.” It is a bona fide belief in a serious possibility based on 
+credible evidence. 
+ 
+“espionage” is the practice of spying; that is, the gathering of information in a 
+surreptitious manner; secretly seeking out information usually from a hostile country to 
+benefit one’s own country. 
+A80: If an A77(1) certificate is determined to be reasonable under A80, it is conclusive 
+proof that the permanent resident or the foreign national named in it is inadmissible; it is 
+a removal order that may not be appealed against and that is in force without the 
+
+
+===== PAGE 7 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+7 
+necessity of holding or continuing an examination or an admissibility hearing;  A101(1): 
+A claim is ineligible to be referred to the Refugee Protection Division (RPD) if: 
+(f) the claimant has been determined to be inadmissible on grounds of security, violating 
+human or international rights, serious criminality or organized criminality, except for 
+persons who are inadmissible solely on the grounds of A35(1)(c). 
+ 
+Jurisprudence: 
+See applicable subsection in Appendix A.  
+ 
+A34(1)(b) 
+34. (1) A permanent resident or a foreign national is inadmissible on security grounds 
+for 
+(b) engaging in or instigating the subversion by force of any government. 
+ 
+Exception 
+ 
+A42.1(1): The Minister may, on application by a foreign national, declare that the 
+matters referred to in A34(1)(b) do not constitute inadmissibility in respect of the foreign 
+national if they satisfy the Minister that it is not contrary to the national interest. 
+ 
+A42.1(2): The Minister may, on the Minister’s own initiative, declare that the matters 
+referred to in A34(1)(b) do not constitute inadmissibility in respect of the foreign national 
+if the Minister is satisfied that it is not contrary to the national interest. 
+ 
+ 
+Case elements: 
+reasonable grounds 
+permanent resident or foreign national 
+in or outside Canada 
+have or are or will engage(d)(ing) in or instigate(d)(ing) the subversion by force of any 
+government 
+For information about recommended evidence and how to obtain it, see Obtaining 
+evidence for A34(1)(b),Section 7.2, below. 
+ 
+A34(1)(b.1) 
+34.(1) A permanent resident or a foreign national is inadmissible on security grounds for 
+ 
+(b.1) engaging in an act of subversion against a democratic government, institution or 
+process as they are understood in Canada. 
+ 
+Exception 
+ 
+A42.1(1): The Minister may, on application by a foreign national, declare that the 
+matters referred to in A34(1)(b.1) do not constitute inadmissibility in respect of the 
+foreign national if they satisfy the Minister that it is not contrary to the national interest. 
+ 
+A42.1(2): The Minister may, on the Minister’s own initiative, declare that the matters 
+referred to in A34(1)(b.1) do not constitute inadmissibility in respect of the foreign 
+national if the Minister is satisfied that it is not contrary to the national interest. 
+ 
+ 
+ 
+Case elements: 
+reasonable grounds 
+permanent resident or foreign national 
+in or outside Canada 
+have or are or will engage(d)(ing) in an act of subversion  
+
+
+===== PAGE 8 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+8 
+against a democratic government or democratic institution or democratic process  
+as understood in Canada 
+For information about recommended evidence and how to obtain it, see Obtaining 
+evidence for A34(1)(b.1), Section 7.3 below. 
+ 
+ 
+Notes 
+“reasonable grounds” means more than mere suspicion but less than the civil test of 
+balance of probabilities. It is a much lower threshold than the criminal standard of 
+“beyond a reasonable doubt.” It is a bona fide belief in a serious possibility based on 
+credible evidence. 
+“subversion” is accomplishing change by illicit means or for improper purposes related 
+to an organization; overturning or overthrowing by force. 
+“democratic” is relating to government by the people, especially where the people hold 
+the supreme political power. 
+“subversion” has to be against “democratic government, institutions or processes as 
+they are understood in Canada.” 
+Subversion need not be by force under this section. 
+A80: If an A77(1) certificate is determined to be reasonable under A80, it is conclusive 
+proof that the permanent resident or the foreign national named in it is inadmissible; it is 
+a removal order that may not be appealed against and that is in force without the 
+necessity of holding or continuing an examination or an admissibility hearing. 
+A101(1): A claim is ineligible to be referred to the Refugee Protection Division (RPD) if: 
+(f) the claimant has been determined to be inadmissible on grounds of security, violating 
+human or international rights, serious criminality or organized criminality, except for 
+persons who are inadmissible solely on the grounds of A35(1)(c). 
+ 
+Jurisprudence: 
+See applicable subsection in Appendix A.  
+ 
+A34(1)(c) 
+34. (1) A permanent resident or a foreign national is inadmissible on security grounds 
+for 
+(c) engaging in terrorism. 
+ 
+Exception 
+ 
+A42.1(1): The Minister may, on application by a foreign national, declare that the 
+matters referred to in A34(1)(c) do not constitute inadmissibility in respect of the foreign 
+national if they satisfy the Minister that it is not contrary to the national interest. 
+ 
+A42.1(2): The Minister may, on the Minister’s own initiative, declare that the matters 
+referred to in A34(1)(c) do not constitute inadmissibility in respect of the foreign national 
+if the Minister is satisfied that it is not contrary to the national interest. 
+ 
+ 
+Case elements: 
+reasonable grounds 
+permanent resident or foreign national 
+in or outside Canada 
+have or are or will engage(d)(ing) in terrorism 
+
+
+===== PAGE 9 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+9 
+For information about recommended evidence and how to obtain it, see Obtaining 
+evidence for A34(1)(c), Section 7.4, below. 
+ 
+Notes 
+“reasonable grounds” means more than mere suspicion but less than the civil test of 
+balance of probabilities. It is a much lower threshold than the criminal standard of 
+“beyond a reasonable doubt.” It is a bona fide belief in a serious possibility based on 
+credible evidence. 
+“terrorism” relates to activities directed toward or in support of the threat or use of acts 
+of violence against persons or property for the purposes of achieving a political 
+objective; an act intended to cause death or serious bodily injury to a civilian, or to any 
+other person not taking an active part in hostilities in a situation of armed conflict, when 
+the purpose of such act, by its nature or context, is to intimidate a population or to 
+compel a government or an international organization to do or to abstain from doing any 
+act. (See jurisprudence relating to "Baroud" and “Suresh” in Appendix A). 
+ 
+A80: If an A77(1) certificate is determined to be reasonable under A80, it is conclusive 
+proof that the permanent resident or the foreign national named in it is inadmissible; it is 
+a removal order that may not be appealed against and that is in force without the 
+necessity of holding or continuing an examination or an admissibility hearing. 
+A101(1): A claim is ineligible to be referred to the Refugee Protection Division (RPD) if: 
+(f) the claimant has been determined to be inadmissible on grounds of security, violating 
+human or international rights, serious criminality or organized criminality, except for 
+persons who are inadmissible solely on the grounds of A35(1)(c). 
+ 
+Jurisprudence: 
+See applicable subsection in Appendix A. 
+ 
+A34(1)(d) 
+34. (1) A permanent resident or a foreign national is inadmissible on security grounds 
+for 
+(d) being a danger to the security of Canada. 
+ 
+Exception 
+ 
+A42.1(1): The Minister may, on application by a foreign national, declare that the 
+matters referred to in A34(1)(d) do not constitute inadmissibility in respect of the foreign 
+national if they satisfy the Minister that it is not contrary to the national interest. 
+ 
+A42.1(2): The Minister may, on the Minister’s own initiative, declare that the matters 
+referred to in A34(1)(d) do not constitute inadmissibility in respect of the foreign national 
+if the Minister is satisfied that it is not contrary to the national interest. 
+ 
+ 
+Case elements: 
+reasonable grounds 
+permanent resident or foreign national 
+in or outside Canada 
+has been or is or will be a danger to the security of Canada 
+For information about recommended evidence and how to obtain it, see Obtaining 
+evidence for A34(1)(d), Section 7.5, below. 
+
+
+===== PAGE 10 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+10 
+ 
+Notes 
+“reasonable grounds” means more than mere suspicion but less than the civil test of 
+balance of probabilities. It is a much lower threshold than the criminal standard of 
+“beyond a reasonable doubt.” It is a bona fide belief in a serious possibility based on 
+credible evidence. 
+A80: If an A77(1) certificate is determined to be reasonable under A80, it is conclusive 
+proof that the permanent resident or the foreign national named in it is inadmissible; it is 
+a removal order that may not be appealed against and that is in force without the 
+necessity of holding or continuing an examination or an admissibility hearing;. 
+A101(1): A claim is ineligible to be referred to the Refugee Protection Division (RPD) if: 
+(f) the claimant has been determined to be inadmissible on grounds of security, violating 
+human or international rights, serious criminality or organized criminality, except for 
+persons who are inadmissible solely on the grounds of A35(1)(c). 
+ 
+Jurisprudence: 
+See applicable subsection in Appendix A. 
+ 
+A34(1)(e) 
+34. (1) A permanent resident or a foreign national is inadmissible on security grounds 
+for 
+(e) engaging in acts of violence that would or might endanger the lives or safety of 
+persons in Canada. 
+ 
+Exception 
+ 
+A42.1(1): The Minister may, on application by a foreign national, declare that the 
+matters referred to in A34(1)(e) do not constitute inadmissibility in respect of the foreign 
+national if they satisfy the Minister that it is not contrary to the national interest. 
+ 
+A42.1(2): The Minister may, on the Minister’s own initiative, declare that the matters 
+referred to in A34(1)(e) do not constitute inadmissibility in respect of the foreign national 
+if the Minister is satisfied that it is not contrary to the national interest. 
+ 
+ 
+Case elements: 
+reasonable grounds 
+permanent resident or foreign national 
+in or outside Canada 
+have or are or will engage(d)(ing) in acts of violence that would or might endanger the 
+lives or safety of persons in Canada 
+For information about recommended evidence and how to obtain it, see Obtaining 
+evidence for A34(1)(e), Section 7.6, below. 
+ 
+Notes 
+“reasonable grounds” means more than mere suspicion but less than the civil test of 
+balance of probabilities. It is a much lower threshold than the criminal standard of 
+“beyond a  
+reasonable doubt.” It is a bona fide belief in a serious possibility based on credible 
+evidence. 
+A80: If an A77(1) certificate is determined to be reasonable under A80, it is conclusive 
+proof that the permanent resident or the foreign national named in it is inadmissible; it is 
+a removal order that may not be appealed against and that is in force without the 
+necessity of holding or continuing an examination or an admissibility hearing. 
+
+
+===== PAGE 11 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+11 
+A101(1): A claim is ineligible to be referred to the Refugee Protection Division (RPD) if: 
+(f) the claimant has been determined to be inadmissible on grounds of security, violating 
+human or international rights, serious criminality or organized criminality, except for 
+persons who are inadmissible solely on the grounds of A35(1)(c). 
+ 
+Jurisprudence: 
+See applicable subsection in Appendix A. 
+ 
+A34(1)(f) 
+34. (1) A permanent resident or a foreign national is inadmissible on security grounds 
+for 
+(f) being a member of an organization that there are reasonable grounds to believe 
+engages, has engaged or will engage in acts referred to in paragraph (a), (b), (b.1) or 
+(c). 
+ 
+Exception 
+ 
+A42.1(1): The Minister may, on application by a foreign national, declare that the 
+matters referred to in A34(1)(f) do not constitute inadmissibility in respect of the foreign 
+national if they satisfy the Minister that it is not contrary to the national interest. 
+ 
+A42.1(2): The Minister may, on the Minister’s own initiative, declare that the matters 
+referred to in A34(1)(f) do not constitute inadmissibility in respect of the foreign national 
+if the Minister is satisfied that it is not contrary to the national interest. 
+  
+ 
+Case elements: 
+reasonable grounds  
+permanent resident or foreign national 
+in or outside Canada 
+were or are or will be a member of an organization 
+that there are reasonable grounds to believe  
+engages or has engaged or will engage in acts of: 
+espionage; or  
+subversion; or  
+subversion by force; or  
+terrorism  
+see A34(1)(a), 34(1)(b), 34(1)(b.1) and 34(1)(c). 
+For information about recommended evidence and how to obtain it, see Obtaining 
+evidence for A34(1)(f), Section 7.7, below. 
+ 
+Notes 
+“reasonable grounds” means more than mere suspicion but less than the civil test of 
+balance of probabilities. It is a much lower threshold than the criminal standard of 
+“beyond a reasonable doubt.” It is a bona fide belief in a serious possibility based on 
+credible evidence. 
+“espionage” is the practice of spying; that is, the gathering of information in a 
+surreptitious manner; secretly seeking out information usually from a hostile country to 
+benefit one’s own. 
+“subversion” is accomplishing change by illicit means or for improper purposes related 
+to an organization; overturning or overthrowing. 
+
+
+===== PAGE 12 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+12 
+“democratic” is relating to government by the people, especially where the people hold 
+the supreme political power. 
+“terrorism” relates to activities directed toward or in support of the threat or use of acts 
+of violence against persons or property for the purposes of achieving a political 
+objective; an act intended to cause death or serious bodily injury to a civilian, or to any 
+other person not taking an active part in hostilities in a situation of armed conflict, when 
+the purpose of such act, by its nature or context, is to intimidate a population or to 
+compel a government or an international organization to do or to abstain from doing any 
+act.(See jurisprudence relating to "Baroud" and “Suresh” in Appendix A. 
+A80: If an A77(1) certificate is determined to be reasonable under A80, it is conclusive 
+proof that the permanent resident or the foreign national named in it is inadmissible; it is 
+a removal order that may not be appealed against and that is in force without the 
+necessity of holding or continuing an examination or an admissibility hearing. 
+A101(1): A claim is ineligible to be referred to the Refugee Protection Division (RPD) if: 
+(f) the claimant has been determined to be inadmissible on grounds of security, violating 
+human or international rights, serious criminality or organized criminality, except for 
+persons who are inadmissible solely on the grounds of A35(1)(c). 
+ 
+Jurisprudence: 
+See applicable subsection in Appendix A. 
+ 
+ 
+The CBSA has the policy responsibility with respect to human and international 
+rights violations [A35]. 
+ 
+A35(1)(a) 
+35. (1) A permanent resident or a foreign national is inadmissible on grounds of 
+violating human or international rights for 
+(a) committing an act outside Canada that constitutes an offence referred to in sections 
+4 to 7 of the  Crimes Against Humanity and War Crimes Act. 
+ 
+Exception 
+None. 
+ 
+Case elements: 
+reasonable grounds 
+permanent resident or foreign national 
+outside Canada 
+have committed an act that constitutes an offence referred to in sections 4-7 of the 
+Crimes Against Humanity and War Crimes Act 
+For information about recommended evidence and how to obtain it, see Obtaining 
+evidence for A35(1)(a), Section 7.8, below. 
+ 
+Notes 
+“reasonable grounds” means more than mere suspicion but less than the civil test of 
+balance of probabilities. It is a much lower threshold than the criminal standard of 
+“beyond a reasonable doubt.” It is a bona fide belief in a serious possibility based on 
+credible evidence. 
+A80: If an A77(1) certificate is determined to be reasonable under A80, it is conclusive 
+proof that the permanent resident or the foreign national named in it is inadmissible; it is 
+a removal order that may not be appealed against and that is in force without the 
+necessity of holding or continuing an examination or an admissibility hearing. 
+A101(1): A claim is ineligible to be referred to the Refugee Protection Division (RPD) if: 
+
+
+===== PAGE 13 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+13 
+(f) the claimant has been determined to be inadmissible on grounds of security, violating 
+human or international rights, serious criminality or organized criminality, except for 
+persons who are inadmissible solely on the grounds of A35(1)(c). 
+S.6(1) of Crimes Against Humanity and War Crimes Act: 
+Every person who, either before or after the coming into force of this section, commits, 
+conspires or attempts to commit, is an accessory after the fact in relation to, or counsels 
+in relation to, outside Canada (a) genocide, (b) a crime against humanity, or (c) a war 
+crime, is guilty of an indictable offence. 
+"crime against humanity" means murder, extermination, enslavement, deportation, 
+imprisonment, torture, sexual violence, persecution or any other inhumane act or 
+omission that is committed against any civilian population or any identifiable group and 
+that, at the time and in the place of its commission, constitutes a crime against humanity 
+according to customary international law or conventional international law or by virtue of 
+its being criminal according to the general principles of law recognized by the 
+community of nations, whether or not it constitutes a contravention of the law in force at 
+the time and in the place of its commission. 
+"genocide" means an act or omission committed with intent to destroy, in whole or in 
+part, an identifiable group of persons, as such, that, at the time and in the place of its 
+commission, constitutes genocide according  to customary international law or 
+conventional international law or by virtue of its being criminal according to the general 
+principles of law recognized by the community of nations, whether or not it constitutes a 
+contravention of the law in force at the time and in the place of its commission. 
+"war crime" means an act or omission committed during an armed conflict that, at the 
+time and in the place of its commission, constitutes a war crime according to customary 
+international law or conventional international law applicable to armed conflicts, whether 
+or not it constitutes a contravention of the law in force at the time and in the place of its 
+commission. 
+See also, chapter ENF 18, War Crimes and Crimes Against Humanity. 
+ 
+Jurisprudence: 
+See applicable subsection in Appendix A. 
+ 
+A35(1)(b) 
+35. (1) A permanent resident or a foreign national is inadmissible on grounds of 
+violating human or international rights for 
+(b) being a prescribed senior official in the service of a government that, in the opinion 
+of the Minister, engages or has engaged in terrorism, systematic or gross human rights 
+violations, or genocide, a war crime or a crime against humanity within the meaning of 
+subsections 6(3) to (5) of the Crimes Against Humanity and War Crimes Act. 
+ 
+ 
+Exception 
+ 
+A42.1(1): The Minister may, on application by a foreign national, declare that the 
+matters referred to in A35(1)(b) do not constitute inadmissibility in respect of the foreign 
+national if they satisfy the Minister that it is not contrary to the national interest. 
+ 
+A42.1(2): The Minister may, on the Minister’s own initiative, declare that the matters 
+referred to in A35(1)(b) do not constitute inadmissibility in respect of the foreign national 
+if the Minister is satisfied that it is not contrary to the national interest. 
+ 
+ 
+  
+Case elements: 
+reasonable grounds 
+
+
+===== PAGE 14 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+14 
+permanent resident or foreign national 
+outside Canada 
+was or is a prescribed senior official in the service of a government that in the opinion of 
+the Minister engages or has engaged in terrorism or systematic human rights violations 
+or gross human rights violations or genocide, or a war crime or a crime against 
+humanity within the meaning of A6(3) to (5) of the Crimes Against Humanity and War 
+Crimes Act. 
+For more information about recommended evidence and how to obtain it, see Obtaining 
+evidence for A35(1)(b), Section 7.9, below. 
+ 
+Notes 
+“reasonable grounds” means more than mere suspicion but less than the civil test of 
+balance of probabilities. It is a much lower threshold than the criminal standard of 
+“beyond a reasonable doubt.” It is a bona fide belief in a serious possibility based on 
+credible evidence. 
+Governments or regimes that, in the opinion of the Minister of PSEP, are or were 
+engaged in systematic or gross human rights violations or war crimes or crimes against 
+humanity are listed in ENF 18, War Crimes and Crimes against Humanity.  
+“terrorism” relates to activities directed toward or in support of the threat or use of acts 
+of violence against persons or property for the purposes of achieving a political 
+objective; an act intended to cause death or serious bodily injury to a civilian, or to any 
+other person not taking an active part in hostilities in a situation of armed conflict, when 
+the purpose of such act, by its nature or context, is to intimidate a population or to 
+compel a government or an international organization to do or to abstain from doing any 
+act. (See jurisprudence relating to "Baroud" and “Suresh” in Appendix A). 
+There is no rebuttable presumption for those positions listed in the Regulations. All 
+other senior government positions carry a rebuttable presumption such that the 
+applicant is deemed inadmissible unless they can satisfy the Minister of PSEP that their 
+presence is not detrimental to national interest. 
+A80: If an A77(1) certificate is determined to be reasonable under A80, it is conclusive 
+proof that the permanent resident or the foreign national named in it is inadmissible; it is 
+a removal order that may not be appealed against and that is in force without the 
+necessity of holding or continuing an examination or an admissibility hearing. 
+A101(1): A claim is ineligible to be referred to the Refugee Protection Division (RPD) if: 
+(f) the claimant has been determined to be inadmissible on grounds of security, violating 
+human or international rights, serious criminality or organized criminality, except for 
+persons who are inadmissible solely on the grounds of A35(1)(c). 
+A64(1): No appeal may be made to the Immigration Appeal Division (IAD) by a foreign 
+national or their sponsor or by a permanent resident if the foreign national or permanent 
+resident has been found to be inadmissible on grounds of security, violating human or 
+international rights, serious criminality or organized criminality. 
+S.6(3) to (5) of Crimes Against Humanity and War Crimes Act: 
+"crime against humanity" means murder, extermination, enslavement, deportation, 
+imprisonment, torture, sexual violence, persecution or any other inhumane act or 
+omission that is committed against any civilian population or any identifiable group and 
+that, at the time and in the place of its commission, constitutes a crime against humanity 
+according to customary international law or conventional international law or by virtue of 
+its being criminal according to the general principles of law recognized by the 
+community of nations, whether or not it constitutes a contravention of the law in force at 
+the time and in the place of its commission. 
+"genocide" means an act or omission committed with intent to destroy, in whole or in 
+part, an identifiable group of persons, as such, that, at the time and in the place of its 
+
+
+===== PAGE 15 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+15 
+commission, constitutes genocide according to customary international law or 
+conventional international law or by virtue of its being criminal according to the general 
+principles of law recognized by the community of nations, whether or not it constitutes a 
+contravention of the law in force at the time and in the place of its commission. 
+"war crime" means an act or omission committed during an armed conflict that, at the 
+time and in the place of its commission, constitutes a war crime according to customary 
+international law or conventional international law applicable to armed conflicts, whether 
+or not it constitutes a contravention of the law in force at the time and in the place of its 
+commission. 
+See also, manual chapter ENF 18, War Crimes and Crimes Against Humanity. 
+ 
+Jurisprudence: 
+See applicable subsection in Appendix A. 
+ 
+A35(1)(c) 
+35. (1) A permanent resident or a foreign national is inadmissible on grounds of 
+violating human or international rights for 
+(c) being a person, other than a permanent resident, whose entry into or stay in Canada 
+is restricted pursuant to a decision, resolution or measure of an international 
+organization of states or association of states, of which Canada is a member, that 
+imposes sanctions on a country against which Canada has imposed or has agreed to 
+impose sanctions in concert with that organization or association. 
+ 
+Exception 
+ 
+A42.1(1): The Minister may, on application by a foreign national, declare that the 
+matters referred to in A35(1)(c) do not constitute inadmissibility in respect of the foreign 
+national if they satisfy the Minister that it is not contrary to the national interest. 
+ 
+A42.1(2): The Minister may, on the Minister’s own initiative, declare that the matters 
+referred to in A35(1)(c) do not constitute inadmissibility in respect of the foreign national 
+if the Minister is satisfied that it is not contrary to the national interest. 
+ 
+ 
+  
+ 
+Case elements: 
+reasonable grounds 
+foreign national 
+entry into or stay in Canada is restricted pursuant to a decision or resolution or measure 
+of an international organization or an association of states, 
+of which Canada is a member, 
+that imposes sanctions on a country against which Canada has imposed or has agreed 
+to impose sanctions in concert with that organization or association 
+For more information about recommended evidence and how to obtain it, see Obtaining 
+evidence for A35(1)(c), Section 7.10, below. 
+ 
+Notes 
+“reasonable grounds” means more than mere suspicion but less than the civil test of 
+balance of probabilities. It is a much lower threshold than the criminal standard of 
+“beyond a reasonable doubt.” It is a bona fide belief in a serious possibility based on 
+credible evidence. 
+
+
+===== PAGE 16 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+16 
+For more information on countries against which Canada has imposed or has agreed to 
+impose sanctions and for a listing and website information, see ENF 2, Appendix C, 
+Evaluating Inadmissibility. 
+ 
+Jurisprudence: 
+See applicable subsection in Appendix A. 
+ 
+ 
+ 
+ 
+ 
+CIC has the policy responsibility with respect to criminality [A36] 
+ 
+ 
+ 
+A36(1)(a) 
+36. (1) A permanent resident or a foreign national is inadmissible on grounds of serious 
+criminality for 
+(a) having been convicted in Canada of an offence under an Act of Parliament 
+punishable by a maximum term of imprisonment of at least 10 years, or of an offence 
+under an Act of Parliament for which a term of imprisonment of more than six months 
+has been imposed. 
+ 
+Exception 
+The exception only applies to persons who have been granted a record suspension that 
+has not ceased to have effect or been revoked under the Criminal Records Act or where 
+there has been a final determination of acquittal [A36(3)(b)]. 
+Inadmissibility may not be based on an offence designated as a contravention under the 
+Contraventions Act or an offence under the Young Offenders Act [A36(3)(e)]. 
+Note: The Regulations are currently being amended to reflect the repeal of the Young 
+Offenders Act and the coming into force of the Youth Criminal Justice Act.  
+ 
+Case elements: 
+convicted 
+permanent resident or foreign national 
+in Canada 
+offence under an Act of Parliament 
+punishable by a maximum term of imprisonment of at least 10 years or for which a term 
+of imprisonment of more than six months has been imposed 
+For information about recommended evidence and how to obtain it, see Obtaining 
+evidence for A36(1)(a), Section 7.11, below. 
+ 
+Notes 
+A36(3)(a): An offence that may be prosecuted either summarily or by way of indictment 
+is deemed to be an indictable offence, even if it has been prosecuted summarily. 
+Referral of a report to the Immigration Division; Removal Order - See R228(1)(a): 
+For the purposes of A44(2), if a report in respect of a foreign national does not include 
+any grounds of inadmissibility other than those set out in the circumstances described 
+under R228(1) (Note: includes A36(1)(a)), then the Minister’s delegate shall not refer 
+the report to the Immigration Division; 
+and if the Minister’s delegate makes a removal order against the foreign national, the 
+removal order shall be a deportation order.  
+
+
+===== PAGE 17 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+17 
+ 
+Jurisprudence: 
+See applicable subsection in Appendix A. 
+ 
+A36(1)(b) 
+36. (1) A permanent resident or a foreign national is inadmissible on grounds of serious 
+criminality for 
+(b) having been convicted of an offence outside Canada that, if committed in Canada, 
+would constitute an offence under an Act of Parliament punishable by a maximum term 
+of imprisonment of at least 10 years. 
+ 
+Exception 
+Persons who, after the prescribed period, have satisfied the Minister of C&I of their 
+rehabilitation; or, persons who are members of a prescribed class that is deemed to 
+have been rehabilitated or have been granted a record suspension that has not ceased 
+to have effect or been revoked under the Criminal Records Act or where there has been 
+a final determination of acquittal are excepted (A36(3)(b),(c)). 
+Inadmissibility may not be based on an offence designated as a contravention under the 
+Contraventions Act or an offence under the Young Offenders Act (A36(3)(e)). 
+Note: The Regulations are currently being amended to reflect the repeal of the Young 
+Offenders Act and the coming into force of the Youth Criminal Justice Act.  
+ 
+Case elements: 
+convicted 
+permanent resident or foreign national 
+outside Canada 
+an offence 
+if committed in Canada, would constitute an offence under an Act of Parliament 
+punishable by a maximum term of imprisonment of at least 10 years 
+reasonable grounds 
+For information about recommended evidence and how to obtain it, see Obtaining 
+evidence and determining equivalency for A36(1)(b), Section 7.12, below. 
+ 
+Notes 
+A36(3)(a): An offence that may be prosecuted either summarily or by way of indictment 
+is deemed to be an indictable offence, even if it has been prosecuted summarily. 
+Sections A36(1)(b) and (c) and A36(2)(b) and (c) do not constitute inadmissibility if, 
+after the prescribed period, they have satisfied the Minister of C&I that the persons are 
+rehabilitated. The Minister of C&I has delegated to others the authority to find persons 
+to be rehabilitated pursuant to the Instruments of Delegation. Please refer to the 
+Designation of Officers and Delegation of Authority documents in IL3 for more details. 
+ 
+Jurisprudence: 
+See applicable subsection in Appendix A. 
+ 
+A36(1)(c) 
+36. (1) A permanent resident or a foreign national is inadmissible on grounds of serious 
+criminality for 
+(c) committing an act outside Canada that is an offence in the place where it was 
+committed and that, if committed in Canada, would constitute an offence under an Act 
+of Parliament punishable by a maximum term of imprisonment of at least 10 years. 
+
+
+===== PAGE 18 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+18 
+ 
+Exception 
+Persons who, after the prescribed period, have satisfied the Minister of C&I of their 
+rehabilitation; or, who are members of a prescribed class that is deemed to have been 
+rehabilitated or have been granted a record suspension that has not ceased to have 
+effect or been revoked under the Criminal Records Act or where there has been a final 
+determination of acquittal are excepted (A36(3)(b),(c)). 
+Inadmissibility may not be based on an offence designated as a contravention under the 
+Contraventions Act or an offence under the Young Offenders Act (A36(3)(e)).  
+Note: The Regulations are currently being amended to reflect the repeal of the Young 
+Offenders Act and the coming into force of the Youth Criminal Justice Act.  
+ 
+Case elements: 
+balance of probabilities (if permanent resident) or reasonable grounds (if foreign 
+national) 
+permanent resident or foreign national 
+outside Canada 
+committed an act  
+an offence in the place where it was committed 
+if committed in Canada would constitute an offence under an Act of Parliament 
+punishable by a maximum term of imprisonment of at least 10 years 
+For information about recommended evidence, how to obtain it, and determining 
+equivalency, see Obtaining evidence and determining equivalency for A36(1)(c), 
+Section 7.13, below. 
+ 
+Notes 
+“reasonable grounds” means more than mere suspicion but less than the civil test of 
+balance of probabilities. It is a much lower threshold than the criminal standard of 
+“beyond a reasonable doubt.” It is a bona fide belief in a serious possibility based on 
+credible evidence. 
+A36(3)(d): A determination of whether a permanent resident has committed an act 
+described in A36(1)(c) must be based on a balance of probabilities. 
+A36(3)(a): An offence that may be prosecuted either summarily or by way of indictment 
+is deemed to be an indictable offence, even if it has been prosecuted summarily. 
+A80: If an A77(1) certificate is determined to be reasonable under A80, it is conclusive 
+proof that the permanent resident or the foreign national named in it is inadmissible; it is 
+a removal order that may not be appealed against and that is in force without the 
+necessity of holding or continuing an examination or an admissibility hearing. 
+A101(1): A claim is ineligible to be referred to the Refugee Protection Division (RPD) if: 
+(f) the claimant has been determined to be inadmissible on grounds of security, violating 
+human or international rights, serious criminality or organized criminality, except for 
+persons who are inadmissible solely on the grounds of A35(1)(c). 
+Paragraphs A36(1)(b) and (c) and A36(2)(b) and (c) do not constitute inadmissibility if, 
+after the prescribed period, the persons have satisfied the Minister of C&I that they are 
+rehabilitated. The Minister of C&I has delegated to others the authority to find persons 
+to be rehabilitated pursuant to the Instruments of Delegation. Please refer to the 
+Designation of Officers and Delegation of Authority documents in IL3 for more details. 
+ 
+ 
+Jurisprudence: 
+See applicable subsection in Appendix A. 
+
+
+===== PAGE 19 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+19 
+ 
+A36(2)(a) 
+36. (2) A foreign national is inadmissible on grounds of criminality for 
+(a) having been convicted in Canada of an offence under an Act of Parliament 
+punishable by way of indictment, or of two offences under any Act of Parliament not 
+arising out of a single occurrence. 
+ 
+Exception 
+The exception only applies to persons who have been granted a record suspension that 
+has not ceased to have effect or been revoked under the Criminal Records Act or where 
+there has been a final determination of acquittal (A36(3)(b)). 
+Inadmissibility may not be based on an offence designated as a contravention under the 
+Contraventions Act or an offence under the Young Offenders Act (A36(3)(e)). 
+Note: The Regulations are currently being amended to reflect the repeal of the Young 
+Offenders Act and the coming into force of the Youth Criminal Justice Act.  
+ 
+ 
+Case elements: 
+convicted 
+foreign national 
+in Canada 
+under an Act of Parliament 
+one offence punishable by way of indictment or two offences not arising out of a single 
+occurrence. 
+For information about recommended evidence and how to obtain it, see Obtaining 
+evidence for A36(2)(a), Section 7.14, below. 
+Notes 
+A36(3)(a): An offence that may be prosecuted either summarily or by way of indictment 
+is deemed to be an indictable offence, even if it has been prosecuted summarily. 
+Although, if a person is convicted summarily of a hybrid offence, the conviction may be 
+classified as a summary conviction. 
+Referral of a report to the Immigration Division; Removal Order - See R228(1)(a): 
+For the purposes of A44(2), if a report in respect of a foreign national does not include 
+any grounds of inadmissibility other than those set out in the circumstances described 
+under R228(1) (Note: includes A36(2)(a)), then the Minister’s delegate shall not refer 
+the report to the Immigration Division; 
+and if the Minister’s delegate makes a removal order against the foreign national, the 
+removal order shall be a deportation order. 
+ 
+Jurisprudence: 
+See applicable subsection in Appendix A. 
+ 
+A36(2)(b) 
+36. (2) A foreign national is inadmissible on grounds of criminality for 
+(b) having been convicted outside Canada of an offence that, if committed in Canada, 
+would constitute an indictable offence under an Act of Parliament, or of two offences not 
+arising out of a single occurrence that, if committed in Canada, would constitute 
+offences under an Act of Parliament. 
+ 
+Exception 
+Persons who, after the prescribed period, have satisfied the Minister of C&I of their 
+rehabilitation; or, who are members of a prescribed class that is deemed to have been 
+
+
+===== PAGE 20 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+20 
+rehabilitated or have been granted a record suspension that has not ceased to have 
+effect or been revoked under the Criminal Records Act or where there has been a final 
+determination of acquittal are excepted (A36(3)(b)). 
+Inadmissibility may not be based on an offence designated as a contravention under the 
+Contraventions Act or an offence under the Young Offenders Act (A36(3)(e).   
+Note: The Regulations are currently being amended to reflect the repeal of the Young 
+Offenders Act and the coming into force of the Youth Criminal Justice Act. 
+ 
+Case elements: 
+Convicted 
+foreign national 
+outside Canada 
+offence(s) 
+if committed in Canada would constitute offence(s) under an Act of Parliament 
+one indictable or any two not arising out of a single occurrence 
+reasonable grounds  
+For information about recommended evidence, how to obtain it and determining 
+equivalency, see Obtaining evidence and determining equivalency for A36(2)(b), 
+Section 7.15, below. 
+ 
+Notes 
+A36(3)(a): An offence that may be prosecuted either summarily or by way of indictment 
+is deemed to be an indictable offence, even if it has been prosecuted summarily. 
+ 
+Jurisprudence: 
+See applicable subsection in Appendix A. 
+ 
+A36(2)(c) 
+36. (2) A foreign national is inadmissible on grounds of criminality for 
+(c) committing an act outside Canada that is an offence in the place where it was 
+committed and that, if committed in Canada, would constitute an indictable offence 
+under an Act of Parliament. 
+ 
+Exception 
+Persons who, after the prescribed period, have satisfied the Minister of C&I of their 
+rehabilitation; or, who are members of a prescribed class that is deemed to have been 
+rehabilitated or have been granted a record suspension that has not ceased to have 
+effect or been revoked under the Criminal Records Act or where there has been a final 
+determination of acquittal are excepted (A36(3)(b)). 
+Inadmissibility may not be based on an offence designated as a contravention under the 
+Contraventions Act or an offence under the Young Offenders Act (A36(3)(e)).   
+Note: The Regulations are currently being amended to reflect the repeal of the Young 
+Offenders Act and the coming into force of the Youth Criminal Justice Act.  
+ 
+Case elements: 
+reasonable grounds 
+foreign national 
+outside Canada 
+committed an act 
+an offence in the place where it was committed 
+
+
+===== PAGE 21 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+21 
+if committed in Canada would constitute an indictable offence under an Act of 
+Parliament 
+For information about recommended evidence, how to obtain it and determining 
+equivalency, see Obtaining evidence and determining equivalency for A36(2)(c), 
+Section 7.16, below. 
+ 
+Notes 
+“reasonable grounds” means more than mere suspicion but less than the civil test of 
+balance of probabilities. It is a much lower threshold than the criminal standard of 
+“beyond a reasonable doubt.” It is a bona fide belief in a serious possibility based on 
+credible evidence. 
+A36(3)(a): An offence that may be prosecuted either summarily or by way of indictment 
+is deemed to be an indictable offence, even if it has been prosecuted summarily. 
+A80: If an A77(1) certificate is determined to be reasonable under A80, it is conclusive 
+proof that the permanent resident or the foreign national named in it is inadmissible; it is 
+a removal order that may not be appealed against and that is in force without the 
+necessity of holding or continuing an examination or an admissibility hearing. 
+A101(1): A claim is ineligible to be referred to the Refugee Protection Division (RPD) if: 
+(f) the claimant has been determined to be inadmissible on grounds of security, violating 
+human or international rights, serious criminality or organized criminality, except for 
+persons who are inadmissible solely on the grounds of A35(1)(c). 
+Sections A36(1)(b) and (c) and A36(2)(b) and (c) do not constitute inadmissibility if, 
+after the prescribed period, the persons have satisfied the Minister of C&I that they are 
+rehabilitated. The Minister of C&I has delegated to others the authority to find persons 
+to be rehabilitated pursuant to the Instruments of Delegation. Please refer to the 
+Designation of Officers and Delegation of Authority documents in IL 3 for more details. 
+ 
+Jurisprudence: 
+See applicable subsection in Appendix A. 
+ 
+A36(2)(d) 
+36. (2) A foreign national is inadmissible on grounds of criminality for 
+(d) committing, on entering Canada, an offence under an Act of Parliament prescribed 
+by regulations. 
+ 
+Exception 
+The exception only applies to persons who have been granted a record suspension that 
+has not ceased to have effect or been revoked under the Criminal Records Act or where 
+there has been a final determination of acquittal (A36(3)(b)). 
+Inadmissibility may not be based on an offence designated as a contravention under the 
+Contraventions Act or an offence under the Young Offenders Act (A36(3)(e)).  
+Note: The Regulations are currently being amended to reflect the repeal of the Young 
+Offenders Act and the coming into force of the Youth Criminal Justice Act. 
+ 
+Case elements: 
+reasonable grounds 
+foreign national 
+entering Canada 
+offence under an Act of Parliament 
+prescribed by regulations 
+For information about recommended evidence and how to obtain it, see Obtaining 
+evidence for A36(2)(d), Section 7.17, below. 
+
+
+===== PAGE 22 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+22 
+ 
+Notes 
+“reasonable grounds” means more than mere suspicion but less than the civil test of 
+balance of probabilities. It is a much lower threshold than the criminal standard of 
+“beyond a reasonable doubt.” It is a bona fide belief in a serious possibility based on 
+credible evidence. 
+A36(3)(a): An offence that may be prosecuted either summarily or by way of indictment 
+is deemed to be an indictable offence, even if it has been prosecuted summarily. 
+R19: Transborder Crime: 
+For the purposes of paragraph A36(2)(d), indictable offences under the following Acts of 
+Parliament are prescribed: 
+the Criminal Code; 
+the Immigration and Refugee Protection Act; 
+the Firearms Act; 
+the Customs Act; and 
+the Controlled Drugs and Substances Act. 
+ 
+Jurisprudence: 
+See applicable subsection in Appendix A. 
+ 
+CBSA has the policy responsibility with respect to organized crime [A37]. 
+ 
+A37(1)(a) 
+37. (1) A permanent resident or a foreign national is inadmissible on grounds of 
+organized criminality for 
+(a) being a member of an organization that is believed on reasonable grounds to be or 
+to have been engaged in activity that is part of a pattern of criminal activity planned and 
+organized by a number of persons acting in concert in furtherance of the commission of 
+an offence punishable under an Act of Parliament by way of indictment, or in 
+furtherance of the commission of an offence outside Canada that, if committed in 
+Canada, would constitute such an offence, or engaging in activity that is part of such a 
+pattern. 
+ 
+Exception 
+ 
+A42.1(1): The Minister may, on application by a foreign national, declare that the 
+matters referred to in A37(1)(a) do not constitute inadmissibility in respect of the foreign 
+national if they satisfy the Minister that it is not contrary to the national interest. 
+ 
+A42.1(2): The Minister may, on the Minister’s own initiative, declare that the matters 
+referred to in A37(1)(a) do not constitute inadmissibility in respect of the foreign national 
+if the Minister is satisfied that it is not contrary to the national interest. 
+ 
+ 
+ 
+A37(1)(a) does not apply in respect of a permanent resident or foreign national if their 
+involvement with organized criminal activity is only that they entered Canada with the 
+assistance of a person involved in organized criminal activity [A37(2)]. 
+ 
+ 
+Case elements: 
+reasonable grounds 
+permanent resident or foreign national 
+in or outside Canada 
+
+
+===== PAGE 23 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+23 
+was or is 
+a member of 
+an organization that is believed 
+on reasonable grounds 
+to be or to have been 
+engaged in activity that is part of a pattern of criminal activity 
+planned and organized by a number of persons acting in concert in furtherance of the 
+commission of 
+an offence or  
+pattern of offences 
+punishable under an Act of Parliament by way of indictment or an equivalent (if 
+committed outside Canada) 
+For information about recommended evidence and how to obtain it, see Obtaining 
+evidence for A37(1)(a), Section 7.18, below. 
+ 
+Notes 
+“reasonable grounds” means more than mere suspicion but less than the civil test of 
+balance of probabilities. It is a much lower threshold than the criminal standard of 
+“beyond a reasonable doubt.” It is a bona fide belief in a serious possibility based on 
+credible evidence. 
+A80: If an A77(1) certificate is determined to be reasonable under A80, it is conclusive 
+proof that the permanent resident or the foreign national named in it is inadmissible; it is 
+a removal order that may not be appealed against and that is in force without the 
+necessity of holding or continuing an examination or an admissibility hearing. 
+A101(1): A claim is ineligible to be referred to the Refugee Protection Division (RPD) if: 
+(f) the claimant has been determined to be inadmissible on grounds of security, violating 
+human or international rights, serious criminality or organized criminality, except for 
+persons who are inadmissible solely on the grounds of A35(1)(c). 
+ 
+Jurisprudence: 
+See applicable subsection in Appendix A 
+ 
+A37(1)(b) 
+37. (1) A permanent resident or a foreign national is inadmissible on grounds of 
+organized criminality for  
+(b) engaging, in the context of transnational crime, in activities such as people 
+smuggling, trafficking in persons or money laundering. 
+ 
+Exception 
+ 
+A42.1(1): The Minister may, on application by a foreign national, declare that the 
+matters referred to in A37(1)(b) do not constitute inadmissibility in respect of the foreign 
+national if they satisfy the Minister that it is not contrary to the national interest. 
+ 
+A42.1(2): The Minister may, on the Minister’s own initiative, declare that the matters 
+referred to in A37(1)(b) do not constitute inadmissibility in respect of the foreign national 
+if the Minister is satisfied that it is not contrary to the national interest. 
+ 
+ 
+ 
+Case elements: 
+reasonable grounds 
+permanent resident or foreign national 
+
+
+===== PAGE 24 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+24 
+in or outside Canada 
+engaged or is engaging or will engage 
+in activities such as (Note: this list is not to be considered exhaustive) 
+people smuggling or trafficking in persons or money laundering 
+in the context of transnational crime 
+For information about recommended evidence and how to obtain it, see Obtaining 
+evidence for A37(1)(b), Section 7.19, below. 
+ 
+Notes 
+“reasonable grounds” means more than mere suspicion but less than the civil test of 
+balance of probabilities. It is a much lower threshold than the criminal standard of 
+“beyond a reasonable doubt.” It is a bona fide belief in a serious possibility based on 
+credible evidence. 
+“transnational crime” is crime that extends or operates across national boundaries. 
+A80: If an A77(1) certificate is determined to be reasonable under A80, it is conclusive 
+proof that the permanent resident or the foreign national named in it is inadmissible; it is 
+a removal order that may not be appealed against and that is in force without the 
+necessity of holding or continuing an examination or an admissibility hearing. 
+A101(1): A claim is ineligible to be referred to the Refugee Protection Division (RPD) if: 
+(f) the claimant has been determined to be inadmissible on grounds of security, violating 
+human or international rights, serious criminality or organized criminality, except for 
+persons who are inadmissible solely on the grounds of A35(1)(c). 
+ 
+Jurisprudence: 
+See applicable subsection in Appendix A. 
+ 
+  CIC has the policy responsibility with respect to inadmissibility on health grounds [A38]. 
+ 
+A38(1) 
+38. (1) A foreign national is inadmissible on health grounds if their health condition 
+(a)  is likely to be a danger to public health;  
+(b)  is likely to be a danger to public safety; or 
+(c)  might reasonably be expected to cause excessive demand on health or social 
+services. 
+ 
+Exception 
+None for A38(1)(a) and (b). 
+A38(1)(c) does not apply to a foreign national who: 
+has been determined to be a member of the family class and to be the spouse, 
+common- law partner or child of a sponsor within the meaning of the regulations; 
+has applied for a permanent resident visa as a Convention refugee or a person in 
+similar circumstances. 
+is a “protected person” (within the meaning of subsection A95(2)); or, 
+is, where prescribed by the regulations, the spouse, common-law partner, child or other 
+family member of a foreign national referred to in any of the aforementioned (A38(2)). 
+ 
+Case elements: 
+balance of probabilities 
+foreign national 
+to be a danger to public health (because of health related reasons) 
+
+
+===== PAGE 25 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+25 
+might be expected to cause excessive demand on health or social services 
+For information about recommended evidence and how to obtain it, see Obtaining 
+evidence for A38(1)(a), Section 7.20, below. 
+ 
+Notes 
+ “balance of probabilities” is the civil standard of proof used in administrative tribunals, 
+unless otherwise specified. It means that the evidence presented must show that the 
+facts as alleged are more probable than not. Accordingly, a party having the burden of 
+proof by a “balance of probabilities” must be able to persuade, by the evidence, that a 
+claim or a fact is more probably true than not true. The evidence presented favours or 
+outweighs opposing evidence. It is a higher standard of proof than “reasonable grounds 
+to believe,” but is lower than the criminal standard of “beyond a reasonable doubt” used 
+in criminal proceedings. 
+R29: For the purposes of A16(2)(b), a medical examination may include any or all of the 
+following: a physical examination, a mental examination, a review of past medical 
+history, laboratory tests, diagnostic tests and a medical assessment of records 
+respecting a person. 
+This allegation requires a medical examination to be done; and the results assessed by 
+an officer who is responsible for the application of R27 through R34. 
+ 
+Jurisprudence: 
+See applicable subsection in Appendix A  
+ 
+CIC has the policy responsibility with respect to inadmissibility for financial 
+reasons [A39]. 
+ 
+A39 
+39. A foreign national is inadmissible for financial reasons if they are or will be unable or 
+unwilling to support themselves or any other person who is dependent on them, and 
+have not satisfied an officer that adequate arrangements for care and support, other 
+than those that involve social assistance, have been made. 
+Please refer to Designation of Officers and Delegation of Authority documents in IL 3 for 
+more details. 
+ 
+Exception 
+R133(4) stipulates that R133(1)(j) (which requires a “minimum necessary income”) does 
+not apply if the sponsor is sponsoring only one or more or the following persons: 
+their spouse or common-law partner, unless they have a dependent child who is a 
+spouse or common-law partner or has dependent children; and 
+a child of the sponsor or of their spouse or common-law partner, if the child is less than 
+22 years of age, is not a spouse or common-law partner and has no dependent 
+children. 
+A foreign national who is a member of the refugee class, and meets the applicable 
+requirements of Part 8, Division 1 (Refugee Class), is exempted from the application of 
+A39 (R139(3)). 
+Protected persons within the meaning of A95(2) are exempted from the application of 
+A39 (R21). 
+ 
+Case elements: 
+balance of probabilities 
+foreign national 
+are or will 
+be unable or unwilling 
+
+
+===== PAGE 26 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+26 
+to support themselves or dependants have not satisfied an officer that adequate 
+arrangements for care and support, other than those that involve social assistance, 
+have been made. 
+For information about recommended evidence and how to obtain it, see Obtaining 
+evidence for A39, Section 7.21, below. 
+ 
+Notes 
+“balance of probabilities” is the civil standard of proof used in administrative tribunals, 
+unless otherwise specified. It means that the evidence presented must show that the 
+facts as alleged are more probable than not. Accordingly, a party having the burden of 
+proof by a “balance of probabilities” must be able to persuade, by the evidence, that a 
+claim or a fact is more probably true than not true. The evidence presented favours or 
+outweighs opposing evidence. It is a higher standard of proof than “reasonable grounds 
+to believe,” but is lower than the criminal standard of “beyond a reasonable doubt” used 
+in criminal proceedings. 
+A39 applies to persons who presently, or who may in the future, become indigent. The 
+allegation will also apply to those persons who refuse to support themselves or any 
+other person who is dependent upon them. It is designed to exclude persons intending 
+to live or who are living on social assistance and to prevent the abuse of Canada’s 
+social services systems. 
+ 
+Jurisprudence: 
+See applicable subsection in Appendix A.  
+ 
+CIC has the policy responsibility with respect to misrepresentation [A40]. 
+ 
+A40(1)(a) 
+40. (1) A permanent resident or a foreign national is inadmissible for misrepresentation  
+(a) for directly or indirectly misrepresenting or withholding material facts relating to a 
+relevant matter that induces or could induce an error in the administration of this Act. 
+ 
+Exception 
+Protected persons within the meaning of A95(2), other than those whose status has 
+been vacated; and persons who have made refugee claims in Canada and whose claim 
+is still being determined (R22). 
+ 
+Case elements: 
+balance of probabilities 
+permanent resident or foreign national 
+directly or indirectly 
+misrepresented or withheld 
+material facts relating to a relevant matter that 
+induces or could induce 
+an error in the administration of this Act 
+For information about recommended evidence and how to obtain it, see Obtaining 
+evidence for A40(1)(a), Section 7.22, below. 
+ 
+Notes 
+“balance of probabilities” is the civil standard of proof used in administrative tribunals, 
+unless otherwise specified. It means that the evidence presented must show that the 
+facts as alleged are more probable than not. Accordingly, a party having the burden of 
+proof by a “balance of probabilities” must be able to persuade, by the evidence, that a 
+claim or a fact is more probably true than not true. The evidence presented favours or 
+
+
+===== PAGE 27 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+27 
+outweighs opposing evidence. It is a higher standard of proof than “reasonable grounds 
+to believe,” but is lower than the criminal standard of “beyond a reasonable doubt” used 
+in criminal proceedings. 
+A40(2)(a): The permanent resident or the foreign national continues to be inadmissible 
+for misrepresentation for a period of two years following, in the case of a determination 
+outside Canada, a final determination of inadmissibility under subsection A40(1) or, in 
+the case of a determination in Canada, the date the removal order is enforced. 
+A64(3): Sponsor’s right to appeal: 
+No appeal may be made under A63(1) in respect of a decision that was based on a 
+finding of inadmissibility on the ground of misrepresentation, unless the foreign national 
+in question is the sponsor’s spouse, common-law partner or child. 
+This is due to the greater humanitarian and compassionate factors that apply in such 
+cases. 
+ 
+Jurisprudence: 
+See applicable subsection in Appendix A. 
+ 
+A40(1)(b) 
+40. (1) A permanent resident or a foreign national is inadmissible for misrepresentation  
+(b) for being or having been sponsored by a person who is determined to be 
+inadmissible for misrepresentation. 
+ 
+Exception 
+This allegation may not be used unless the Minister of C&I is satisfied that the facts of 
+the case justify the inadmissibility (A40(2)(b)). 
+ 
+Case elements: 
+balance of probabilities 
+permanent resident or foreign national 
+being or having been 
+sponsored by a person who is determined to be inadmissible for misrepresentation  
+For information about recommended evidence and how to obtain it, see Obtaining 
+evidence for A40(1)(b), Section 7.23, below. 
+ 
+Notes 
+ “balance of probabilities” is the civil standard of proof used in administrative tribunals, 
+unless otherwise specified. It means that the evidence presented must show that the 
+facts as alleged are more probable than not. Accordingly, a party having the burden of 
+proof by a “balance of probabilities” must be able to persuade, by the evidence, that a 
+claim or a fact is more probably true than not true. The evidence presented favours or 
+outweighs opposing evidence. It is a higher standard of proof than “reasonable grounds 
+to believe,” but is lower than the criminal standard of “beyond a reasonable doubt” used 
+in criminal proceedings. 
+A40(2)(a): The permanent resident or the foreign national continues to be inadmissible 
+for misrepresentation for a period of two years following, in the case of a determination 
+outside Canada, a final determination of inadmissibility under subsection A40(1) or, in 
+the case of a determination in Canada, the date the removal order is enforced. 
+A64(3): Sponsor’s right to appeal: 
+No appeal may be made under A63(1) in respect of a decision that was based on a 
+finding of inadmissibility on the ground of misrepresentation, unless the foreign national 
+in question is the sponsor’s spouse, common-law partner or child. 
+
+
+===== PAGE 28 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+28 
+This is due to the greater humanitarian and compassionate factors that apply in such 
+cases. 
+ 
+Jurisprudence: 
+See applicable subsection in Appendix A. 
+ 
+A40(1)(c) 
+40. (1) A permanent resident or a foreign national is inadmissible for misrepresentation  
+(c) on a final determination to vacate a decision to allow the claim for refugee protection 
+by the permanent resident or the foreign national. 
+ 
+Exception 
+None 
+ 
+Case elements: 
+balance of probabilities 
+permanent resident or foreign national 
+final determination 
+to vacate refugee protection claim 
+For information about recommended evidence and how to obtain it, see Obtaining 
+evidence for A40(1)(c), Section 7.24, below. 
+ 
+Notes 
+“balance of probabilities” is the civil standard of proof used in administrative tribunals, 
+unless otherwise specified. It means that the evidence presented must show that the 
+facts as alleged are more probable than not. Accordingly, a party having the burden of 
+proof by a “balance of probabilities” must be able to persuade, by the evidence, that a 
+claim or a fact is more probably true than not true. The evidence presented favours or 
+outweighs opposing evidence. It is a higher standard of proof than “reasonable grounds 
+to believe,” but is lower than the criminal standard of “beyond a reasonable doubt” used 
+in criminal proceedings. 
+Persons who are deemed inadmissible under the Act for misrepresentation, based on a 
+decision by the Immigration and Refugee Board to vacate refugee status, will also be 
+issued a removal order by the Minister’s delegate without the need to re-establish the 
+grounds of misrepresentation at an inadmissibility hearing (R228(1)(b)). 
+Referral of a report to the Immigration Division; Removal Order – (R228(1)(b)): 
+For the purposes of subsection A44(2) of the Act, if a report in respect of a foreign 
+national does not include any grounds of inadmissibility other than those set out in the 
+circumstances described under R228(1) (Note: includes paragraph A40(1)(c)), then the 
+Minister’s delegate shall not refer the report to the Immigration Division; and if the 
+Minister’s delegate makes a removal order against the foreign national, the Minister’s 
+delegate shall make the removal order a deportation order. 
+ 
+Jurisprudence: 
+See applicable subsection in Appendix A. 
+ 
+A40(1)(d) 
+40. (1) A permanent resident or a foreign national is inadmissible for misrepresentation 
+(d) on ceasing to be a citizen under paragraph 10(1)(a) of the Citizenship Act, in the 
+circumstances set out in subsection 10(2) of that Act. 
+
+
+===== PAGE 29 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+29 
+ 
+Exception 
+Protected persons within the meaning of subsection A95(2), other than those whose 
+status has been vacated; and persons who have made refugee claims in Canada and 
+whose claim is still being determined (R22). 
+ 
+Case elements: 
+balance of probabilities 
+permanent resident or foreign national 
+no longer a citizen under paragraph 10(1)(a) of the Citizenship Act 
+in the circumstances set out in subsection 10(2) of that Act 
+For information about recommended evidence and how to obtain it, see Obtaining 
+evidence for A41(1)(d), Section 7.25, below. 
+ 
+Notes 
+“balance of probabilities” is the civil standard of proof used in administrative tribunals, 
+unless otherwise specified. It means that the evidence presented must show that the 
+facts as alleged are more probable than not. Accordingly, a party having the burden of 
+proof by a “balance of probabilities” must be able to persuade, by the evidence, that a 
+claim or a fact is more probably true than not true. The evidence presented favours or 
+outweighs opposing evidence. It is a higher standard of proof than “reasonable grounds 
+to believe,” but is lower than the criminal standard of “beyond a reasonable doubt” used 
+in criminal proceedings. 
+A40(2): The permanent resident or the foreign national continues to be inadmissible for 
+misrepresentation for a period of two years following, in the case of a determination 
+outside Canada, a final determination of inadmissibility under subsection A40(1) or, in 
+the case of a determination in Canada, the date the removal order is enforced. 
+Paragraph 10(1)(a) and subsection 10(2) of the Citizenship Act read as follows: 
+10(1): Subject to section 18 but notwithstanding any other section of this Act, where the 
+Governor in Council, on a report from the Minister, is satisfied that any person has 
+obtained, retained, renounced or resumed citizenship under this Act by false 
+representation or fraud or by knowingly concealing material circumstances,  
+(a) the person ceases to be a citizen,  
+as of such date as may be fixed by order of the Governor in Council with respect 
+thereto. 
+10(2): A person shall be deemed to have obtained citizenship by false representation or 
+fraud or by knowingly concealing material circumstances if the person was lawfully 
+admitted to Canada for permanent residence by false representation or fraud or by 
+knowingly concealing material circumstances and, because of that admission, the 
+person subsequently obtained citizenship. 
+ 
+Jurisprudence: 
+See applicable subsection in Appendix A. 
+ 
+CIC has the policy responsibility with respect to non-compliance [A41]. 
+ 
+A41(a) 
+41. A person is inadmissible for failing to comply with this Act 
+(a) in the case of a foreign national, through an act or omission which contravenes, 
+directly or indirectly, a provision of this Act. 
+ 
+Exception 
+None. 
+
+
+===== PAGE 30 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+30 
+ 
+Case elements: 
+balance of probabilities 
+foreign national 
+act or omission 
+directly or indirectly 
+contravenes a provision in the Act 
+For information about recommended evidence and how to obtain it, see Obtaining 
+evidence for A41(a), Section 7.26, below. 
+ 
+Notes 
+“balance of probabilities” is the civil standard of proof used in administrative tribunals, 
+unless otherwise specified. It means that the evidence presented must show that the 
+facts as alleged are more probable than not. Accordingly, a party having the burden of 
+proof by a “balance of probabilities” must be able to persuade, by the evidence, that a 
+claim or a fact is more probably true than not true. The evidence presented favours or 
+outweighs opposing evidence. It is a higher standard of proof than “reasonable grounds 
+to believe,” but is lower than the criminal standard of “beyond a reasonable doubt” used 
+in criminal proceedings. 
+Referral of a report to the Immigration Division; Removal Order - See R228(1)(c): 
+For the purposes of A44(2), and subject to R228(3), if a report in respect of a foreign 
+national does not include any grounds of inadmissibility other than those set out in the 
+circumstances described under R228(1) (Note: includes only specific A41 allegations), 
+then the Minister’s delegate shall not refer the report to the Immigration Division; and 
+provided the allegation is specified under  R228(1)(c) and if the Minister’s delegate 
+makes a removal order against the foreign national, then the removal order made by the 
+Minister’s delegate shall be as indicated after each of the following: 
+(i)  for failing to appear for further examination or an admissibility hearing under Part 1 
+of the Act, an exclusion order. 
+(ii)  for failing to obtain the authorization of an officer required by A52(1), a deportation 
+order. 
+(iii)  for failing to establish that they hold the visa or other document as required under 
+A20, an exclusion order. 
+(iv)  for failing to leave Canada by the end of the period authorized for their stay as 
+required by subsection A29(2), an exclusion order. 
+(v)  for failing to comply with A29(2) to comply with any condition set out in R184, an 
+exclusion order. 
+R228(3): If a claim for refugee protection is referred to the Refugee Protection Division 
+(RPD), a departure order is the applicable removal order in the circumstances set out in 
+any of subparagraphs R228(1)(c)(i) and (iii) to (v). 
+Relevant Provisions of the Act: 
+A11(1): A foreign national must, before entering Canada, apply to an officer for a visa or 
+for any other document required by the regulations. 
+A16(1): A person who makes an application must answer truthfully all questions put to 
+them for the purpose of the examination and must produce a visa and all relevant 
+evidence and documents that the officer reasonably requires. 
+A16(1.1) A person who makes an application must, on request of an officer, appear for 
+an examination. 
+Note: The power to compel for an examination under subsection 16(1.1) of IRPA may be used 
+overseas, inland and at ports of entry. 
+A16(2)(b): The foreign national must submit to a medical examination on request. 
+
+
+===== PAGE 31 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+31 
+A16(2.1) A foreign national who makes an application must, on request of an officer, 
+appear for an interview for the purpose of an investigation conducted by the Canadian 
+Security Intelligence Service under section 15 of the Canadian Security Intelligence 
+Service Act for the purpose of providing advice or information to the Minister under 
+section 14 of that Act and must answer truthfully all questions put to them during the 
+interview. 
+Note: The power to compel for a CSIS interview under subsection 16(2.1) can only be used 
+for inland and port of entry applications. 
+A18(1): Every person seeking to enter Canada must appear for an examination to 
+determine whether that person has a right to enter Canada or is or may become 
+authorized to enter and remain in Canada. 
+A20(1)(a): Every foreign national, other than a foreign national referred to in A19, who 
+seeks to enter or remain in Canada must establish, to become a permanent resident, 
+that they hold the visa or other document required under the regulations and have come 
+to Canada in order to establish permanent residence. 
+A20(1)(b): Every foreign national, other than a foreign national referred to in A19, who 
+seeks to enter or remain in Canada must establish, to become a  temporary resident, 
+that they hold the visa or other document required under the regulations and will leave 
+Canada by the end of the period authorized for their stay. 
+A29(2): A temporary resident must comply with any conditions imposed under the 
+regulations and with any requirements under this Act, must leave Canada by the end of 
+the period authorized for their stay and may re- enter Canada only if their authorization 
+provides for re-entry. 
+A30(1): A foreign national may not work or study in Canada unless authorized to do so 
+under this Act. 
+A44(3): An officer or the Immigration Division may impose any conditions, including the 
+payment of a deposit or the posting of a guarantee for compliance with the conditions 
+that the officer or the Division considers necessary on a permanent resident or a foreign 
+national who is the subject of a report, an admissibility hearing or, being in Canada, a 
+removal order. 
+A52(1): If a removal order has been enforced, a foreign national shall not return to 
+Canada unless authorized by an officer or in other prescribed circumstances. 
+ 
+Jurisprudence: 
+See applicable subsection in Appendix A. 
+ 
+A41(b) 
+41. A person is inadmissible for failing to comply with this Act 
+(b) in the case of a permanent resident, through failing to comply with subsection 27(2) 
+or section 28. 
+ 
+Exception 
+None. 
+ 
+Case elements: 
+balance of probabilities 
+permanent resident 
+through failing to comply with  
+subsection A27(2) or section A28 of this Act 
+For information about recommended evidence and how to obtain it, see Obtaining 
+evidence for A41(b), Section 7.27, below. 
+
+
+===== PAGE 32 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+32 
+ 
+Notes 
+“balance of probabilities” is the civil standard of proof used in administrative tribunals, 
+unless otherwise specified. It means that the evidence presented must show that the 
+facts as alleged are more probable than not. Accordingly, a party having the burden of 
+proof by a “balance of probabilities” must be able to persuade, by the evidence, that a 
+claim or a fact is more probably true than not true. The evidence presented favours or 
+outweighs opposing evidence. It is a higher standard of proof than “reasonable grounds 
+to believe,” but is lower than the criminal standard of “beyond a reasonable doubt” used 
+in criminal proceedings. 
+The residency obligation in the Act is based on a period of physical presence in Canada 
+with provisions for prolonged absences from Canada (three years out of every five-year 
+period for any reason). In certain circumstances, permanent residents including 
+accompanying family members, are allowed even longer absences when they are 
+employed abroad. Humanitarian and compassionate considerations, including the best 
+interests of a child, will be taken into account in all residency obligation status 
+determinations and, when justified, will overcome any breach of those obligations that 
+may have occurred prior to the determination (A28(2)(c)). 
+R228(2): For the purposes of subsection A44(2), if the Minister’s delegate makes a 
+removal order against a permanent resident who fails to comply with the residency 
+obligation under A28, the order shall be a departure order. 
+Relevant Provisions of the Act: 
+A44(3):  An officer or the Immigration Division may impose any conditions, including the 
+payment of a deposit or the posting of a guarantee for compliance with the conditions 
+that the officer or the Division considers necessary on a permanent resident or a foreign 
+national who is the subject of a report, an admissibility hearing or, being in Canada, a 
+removal order. 
+A27(2): A permanent resident must comply with any conditions imposed under the 
+regulations. 
+A28(1): A permanent resident must comply with a residency obligation with respect to 
+every five- year period. 
+A28(2): The following provisions govern the residency obligation under subsection 
+A28(1): 
+(a)  a permanent resident complies with the residency obligation with respect to a five-
+year period if, on each of a total or at least 730 days in that five-year period, they are: 
+(i)  physically present in Canada, 
+(ii)  outside Canada accompanying a Canadian citizen who is their spouse or 
+common-law partner or, in the case of a child, their parent, 
+(iii)  outside Canada employed on a full-time basis by a Canadian business or in the 
+public service of Canada or of a province 
+(iv)  outside Canada accompanying a permanent resident who is their spouse or 
+common-law partner or, in the case of a child, their parent and who is employed on 
+a full-time basis by a Canadian business or in the public service of Canada or of a 
+province, or 
+(v)  referred to in regulations providing for other means of compliance 
+(b)  it is sufficient for a permanent resident to demonstrate at examination:  
+(i)  if they have been a permanent resident for less than five years, that they will be 
+able to meet the residency obligation in respect of the five-year period immediately 
+after they became a permanent resident; 
+(ii)  if they have been a permanent resident for five years or more, that they have 
+met the residency obligation in respect of the five- year period immediately before 
+the examination; and 
+
+
+===== PAGE 33 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+33 
+(c) a determination by an officer that humanitarian and compassionate considerations 
+relating to a permanent resident, taking into account the best interests of a child directly 
+affected by the determination, justify the retention of permanent resident status 
+overcomes any breach of the residency obligation prior to the determination. 
+ 
+Jurisprudence: 
+See applicable subsection in Appendix A.  
+ 
+CIC has the policy responsibility with respect to inadmissible family members 
+[A42]. 
+ 
+A42(a)    
+42. A foreign national, other than a protected person, is inadmissible on grounds of an 
+inadmissible family member if 
+(a) their accompanying family member or, in prescribed circumstances, their non- 
+accompanying family member is inadmissible. 
+ 
+Exception 
+A protected person within the meaning of subsection A95(2). 
+ 
+Case elements: 
+balance of probabilities 
+foreign national (other than a protected person) 
+entering Canada 
+their accompanying family member or non-accompanying family member (in prescribed 
+circumstances) is inadmissible 
+For information about recommended evidence and how to obtain it, see Obtaining 
+evidence for A42(a), Section 7.28, below. 
+ 
+Notes 
+“balance of probabilities” is the civil standard of proof used in administrative tribunals, 
+unless otherwise specified. It means that the evidence presented must show that the 
+facts as alleged are more probable than not. Accordingly, a party having the burden of 
+proof by a “balance of probabilities” must be able to persuade, by the evidence, that a 
+claim or a fact is more probably true than not true. The evidence presented favours or 
+outweighs opposing evidence. It is a higher standard of proof than “reasonable grounds 
+to believe,” but is lower than the criminal standard of “beyond a reasonable doubt” used 
+in criminal proceedings. 
+Under the provisions of A42, foreign nationals may be found inadmissible if their 
+accompanying family member or, in circumstances prescribed by Regulations, a family 
+member who does not accompany them is inadmissible. Further, they may be found to 
+be inadmissible themselves if they accompany an inadmissible family member. 
+The person concerned must be “of the family” or “a family member”; in the absence of 
+this, the allegation is unsupportable. 
+Referral of a report to the Immigration Division; Removal Order - See R228(1)(d): 
+For the purposes of subsection A44(2), and subject to R228(3), if a report in respect of 
+a foreign national does not include any grounds of inadmissibility other than those set 
+out in the circumstances described under R228(1) (Note: includes section A42), then 
+the Minister’s delegate shall not refer the report to the Immigration Division; 
+and 
+if the Minister’s delegate makes a removal order against the foreign national, the 
+Minister’s delegate shall make the same removal order as was made in respect of the 
+inadmissible family member. 
+
+
+===== PAGE 34 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+34 
+R228(3): If a claim for refugee protection is referred to the Refugee Protection Division 
+(RPD), a departure order is the applicable removal order in the circumstances set out in 
+any of subparagraphs R228(1)(c)(i) and (iii) to (v). 
+ 
+Jurisprudence: 
+See applicable subsection in Appendix A.  
+ 
+A42(b) 
+42. A foreign national, other than a protected person, is inadmissible on grounds of an 
+inadmissible family member if 
+(b) they are an accompanying family member of an inadmissible person. 
+ 
+Exception 
+A protected person within the meaning of subsection A95(2). 
+ 
+Case elements: 
+balance of probabilities 
+foreign national (other than a protected person) 
+entering Canada 
+they are an accompanying family member of an inadmissible person 
+For information about recommended evidence and how to obtain it, see Obtaining 
+evidence for A42(b), Section 7.29, below. 
+ 
+Notes 
+“balance of probabilities” is the civil standard of proof used in administrative tribunals, 
+unless otherwise specified. It means that the evidence presented must show that the 
+facts as alleged are more probable than not. Accordingly, a party having the burden of 
+proof by a “balance of probabilities” must be able to persuade, by the evidence, that a 
+claim or a fact is more probably true than not true. The evidence presented favours or 
+outweighs opposing evidence. It is a higher standard of proof than “reasonable grounds 
+to believe,” but is lower than the criminal standard of “beyond a reasonable doubt” used 
+in criminal proceedings. 
+Under the provisions of section A42, foreign nationals may be found inadmissible if their 
+accompanying family member or, in circumstances prescribed by the Regulations, a 
+family member who does not accompany them is inadmissible. Further, the person 
+concerned may be found to be inadmissible themselves if they accompany an 
+inadmissible family member. 
+The person concerned must be “of the family” or “a family member”; in the absence of 
+this, the allegation is unsupportable. 
+Referral of a report to the Immigration Division; Removal Order - See R228(1)(d): 
+For the purposes of subsection A44(2), and subject to R228(3), if a report in respect of 
+a foreign national does not include any grounds of inadmissibility other than those set 
+out in the circumstances described under R228(1) (Note: includes section A42), then 
+the Minister’s delegate shall not refer the report to the Immigration Division; 
+and 
+if the Minister’s delegate makes a removal order against the foreign national, the 
+Minister’s delegate shall make the same removal order as was made in respect of the 
+inadmissible family member. 
+R228(3): If a claim for refugee protection is referred to the Refugee Protection Division 
+(RPD), a departure order is the applicable removal order in the circumstances set out in 
+any of subparagraphs R228(1)(c)(i) and (iii) to (v). 
+
+
+===== PAGE 35 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+35 
+ 
+Jurisprudence: 
+See applicable subsection in Appendix A.  
+4. 
+Instruments and delegations 
+The Designation of Officers and Delegation of Authority documents for the various 
+admissibility sections of the Act have been described in more detail in ENF2/OP18. 
+Please refer to the Designation of Officers and Delegation of Authority documents in IL3 
+for more details. 
+5. 
+Departmental policy 
+Division 4 of Part 1 of the IRPA contains the core provisions relating to inadmissibility; 
+that is to say, most provisions relating to inadmissibility are contained in the Act. 
+The Minister of Citizenship and Immigration (C&I) is responsible for the administration 
+of IRPA, with the exception of the areas for which the Minister of Public Safety and 
+Emergency Preparedness (PSEP) has responsibility as described below. 
+The Minister of PSEP is responsible for the administration of the IRPA as it relates to: 
+ the examination at ports of entry; 
+ the enforcement of the Act, including arrest, detention and removal; 
+ Designation under A20.1(1) 
+ the establishment of policies respecting the enforcement of the Act and 
+inadmissibility on grounds of security, organized criminality or violating human 
+or international rights; or 
+ declarations under A42.1(1) and A42.1(2).  
+Section A43 authorizes the making of regulations to provide for matters relating to 
+inadmissibility and to define circumstances in which a class of permanent residents or 
+foreign nationals is exempted from any of the inadmissibility provisions. 
+The use of regulations allows the government to introduce a greater degree of 
+transparency. In most cases, persons not covered by the regulations may still be 
+considered described or eligible for a specific relief provision after an assessment of the 
+individual evidence. In this way, the regulations and schedules are not exhaustive but 
+will address the most straightforward cases. 
+The purpose of regulations is to more objectively define criteria for specified allegations. 
+The aim is to increase the objective factor and reduce the subjective factor in the 
+decision-making process through greater codification in the regulations where possible. 
+With improved definition, greater transparency is introduced and outcomes or decisions 
+become more predictable for some cases. 
+Reliance on regulations and schedules provides maximum flexibility and retains the 
+government’s capacity to respond quickly to environmental or policy shifts. 
+The Act groups regulation-making authority with the sections of the Act to which the 
+regulations will be applicable. This makes it clearer, when reading the Act, where 
+regulatory authority comes from, as well as its scope, limits and application. 
+The Act requires the Ministers to table any proposed regulations respecting 
+examinations, rights and obligations of permanent and temporary residents, loss of 
+status and removal, detention and release, refugee eligibility, the pre-removal risk 
+assessment, transportation companies and information-sharing before each House of 
+Parliament for referral to the appropriate Committee of that House. This will allow the 
+Standing Committees to provide input into regulations and will strengthen citizens’ 
+
+
+===== PAGE 36 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+36 
+capacity to play an active role in shaping regulations through an open and transparent 
+regulatory process. 
+(See also Chapter ENF 2, Evaluating Inadmissibility.) 
+For information on writing and reviewing A44 reports, please refer to ENF 5 and ENF 6. 
+6. 
+Definitions 
+Nil. 
+7. 
+Procedure: For obtaining evidence and determining equivalency 
+7.1. 
+Obtaining evidence for A34(1)(a) 
+The officer may obtain evidence for A34(1)(a) by collecting: 
+ 
+police or intelligence reports; 
+ 
+statutory declaration supported by evidence of statements made to an officer; 
+ 
+other documentary evidence including, but not limited to, media articles, scholarly 
+journals, expert evidence (i.e., evidence from a person who is a specialist in a 
+subject and who may present an “expert” opinion). 
+7.2. 
+Obtaining evidence for A34(1)(b) 
+The officer may obtain evidence for A34(1)(b) by collecting: 
+ 
+police or intelligence reports; 
+ 
+statutory declaration supported by evidence of statements made to an officer; 
+ 
+other documentary evidence including, but not limited to, media articles, scholarly 
+journals, expert evidence (i.e., evidence from a person who is a specialist in a 
+subject and who may present an “expert” opinion). 
+7.3. 
+Obtaining evidence for A34(1)(b.1) 
+The officer may obtain evidence for A34(1)(b.1) by collecting: 
+ 
+police or intelligence reports; 
+ 
+statutory declaration supported by evidence of statements made to an officer; 
+ 
+other documentary evidence including, but not limited to, media articles, scholarly 
+journals, expert evidence (i.e., evidence from a person who is a specialist in a 
+subject and who may present an “expert” opinion). 
+7.4. 
+Obtaining evidence for A34(1)(c) 
+The officer may obtain evidence for A34(1)(c) by collecting: 
+ 
+police or intelligence reports; 
+ 
+statutory declaration supported by evidence of statements made to an officer; 
+ 
+other documentary evidence including, but not limited to, media articles, scholarly 
+journals, expert evidence (i.e., evidence from a person who is a specialist in a 
+subject and who may present an “expert” opinion). 
+7.5. 
+Obtaining evidence for A34(1)(d) 
+The officer may obtain evidence for A34(1)(d) by collecting: 
+ 
+police or intelligence reports; 
+
+
+===== PAGE 37 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+37 
+ 
+statutory declaration supported by evidence of statements made to an officer; 
+ 
+other documentary evidence including, but not limited to, media articles, scholarly 
+journals, expert evidence (i.e., evidence from a person who is a specialist in a 
+subject and who may present an “expert” opinion). 
+7.6. 
+Obtaining evidence for A34(1)(e) 
+The officer may obtain evidence for A34(1)(e) by collecting: 
+ 
+police or intelligence reports; 
+ 
+statutory declaration supported by evidence of statements made to an officer; 
+ 
+weapon(s) or documentation that may be in the person’s possession that indicate 
+planned violence; 
+ 
+available public writings that establish the propensity for violent acts by the 
+individual (e.g., newspaper articles about individuals such as hijackers or terrorists); 
+ 
+other documentary evidence including, but not limited to, media articles, scholarly 
+journals, expert evidence (i.e., evidence from a person who is a specialist in a 
+subject and who may present an “expert” opinion). 
+7.7. 
+Obtaining evidence for A34(1)(f) 
+The officer may obtain evidence for A34(1)(f) by collecting: 
+ 
+police or intelligence reports; 
+ 
+statutory declaration supported by evidence of statements made to an officer; 
+ 
+other documentary evidence including, but not limited to, media articles, scholarly 
+journals, expert evidence (i.e., evidence from a person who is a specialist in a 
+subject and who may present an “expert” opinion). 
+7.8. 
+Obtaining evidence for A35(1)(a) 
+In all paragraph A35(1)(a) human or international rights violation cases, officers are 
+advised to contact their Regional War Crimes Unit or the Modern War Crimes Unit, 
+National Security Division, CBSA, NHQ, for assistance with case file preparation. 
+Experience has shown that there is considerable effort required before these types of 
+cases may go forward. 
+The officer may obtain evidence for A35(1)(a) by collecting: 
+ 
+statutory declaration including documentary evidence, testimony from witnesses, or 
+an admission by the person him/herself establishing that the person concerned has 
+committed an act that constitutes a war crime or a crime against humanity as 
+defined in the Crimes Against Humanity and War Crimes Act; 
+ 
+evidence that the act committed is a contravention of international law or convention 
+by securing the text of the applicable international law or convention; 
+ 
+other documentary evidence including, but not limited to, media articles, scholarly 
+journals, expert evidence (i.e., evidence from a person who is a specialist in a 
+subject and who may present an “expert” opinion). 
+7.9. 
+Obtaining evidence for A35(1)(b) 
+In all paragraph A35(1)(b) human or international rights violation cases, officers are 
+advised to contact their Regional War Crimes Unit or the Modern War Crimes Unit, 
+National Security Division, CBSA, NHQ, for assistance with case file preparation. 
+Experience has shown that there is considerable effort required before these cases may 
+go forward. 
+
+
+===== PAGE 38 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+38 
+The officer may obtain evidence for A35(1)(b) by collecting: 
+ 
+statutory declaration including documentary evidence, testimony from witnesses, or 
+an admission by the person him/herself establishing that they held one of the 
+named positions set out in R16; 
+ 
+documentary evidence, testimony from witnesses, or an admission by the person 
+him/herself establishing that the person was able, by virtue of the position they held 
+in the regime (see ENF 18, Appendix E), to exert significant influence on that 
+regime’s exercise of its powers even if the person concerned did not hold one of the 
+positions listed in R16 but nonetheless held a senior position in the listed regime; 
+ 
+other documentary evidence including, but not limited to, media articles, scholarly 
+journals, expert evidence (i.e., evidence from a person who is a specialist in a 
+subject and who may present an “expert” opinion). 
+7.10. 
+Obtaining evidence for A35(1)(c) 
+The officer may obtain evidence for A35(1)(c) by collecting: 
+ 
+proof that the person concerned is a citizen of a country against which Canada has 
+imposed or has agreed to impose sanctions; 
+ 
+proof of the international organization of states of association of states valid 
+decision, resolution or measure (see also ENF 2, Evaluating Inadmissibility); 
+ 
+other documentary evidence including, but not limited to, media articles; scholarly 
+journals; expert evidence (i.e., evidence from a person who is a specialist in a 
+subject and who may present an “expert” opinion). 
+7.11. 
+Obtaining evidence for A36(1)(a) 
+The officer may obtain evidence for A36(1)(a) by collecting: 
+ 
+proof of conviction: This is preferable and should be introduced into evidence at an 
+admissibility hearing so that it forms part of the record, even if the person 
+concerned concedes the allegation. Such proof consists of a certified copy of the 
+Conviction Certificate or the Warrant of Committal. A certified copy of the court 
+information containing the accusations against the person concerned and indicating 
+a conviction may also be used; 
+ 
+text of the Canadian statute to prove that the offence is punishable by a term of 
+imprisonment of at least ten years or proof that a term of imprisonment of more than 
+six months was imposed, whichever is applicable; 
+ 
+statutory declaration – evidence of statements made to an officer; 
+ 
+statutory declaration including documentary evidence, testimony from witnesses, or 
+an admission by the person him/herself establishing that the person concerned has 
+been convicted of an offence in Canada. If a person is not contesting a criminality 
+allegation, then the person's admission of such criminality, which may take the form 
+of a statutory declaration, can also constitute sufficient evidence. In-Canada 
+convictions may be confirmed through the Canadian Police Information Centre 
+(CPIC). See ENF 13, CPIC and Interpol Procedures for CIC.  
+Note: Testimony and/or declarations of the person concerned or witnesses: This method of 
+establishing inadmissibility, when used in the absence of documentary evidence, is the least 
+desirable as the person concerned may be unable to recite the details of the conviction. 
+7.12. 
+Obtaining evidence and determining equivalency for A36(1)(b) 
+The officer may obtain evidence for A36(1)(b) by collecting: 
+
+
+===== PAGE 39 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+39 
+ 
+proof of conviction: This is preferable and should be introduced into evidence at the 
+admissibility hearing even if the person concerned concedes the allegation. Such 
+proof includes conviction certificates, warrants of committal, appropriately noted 
+information or indictment (bill of indictment), or a telexed, e-mailed or telephoned 
+statement from the appropriate foreign authorities confirming that the relevant 
+records indicate a conviction. If confirmation of conviction is received by telephone, 
+the receiving officer should complete a statutory declaration attesting to that fact; 
+ 
+factual background that led to the conviction(s). This evidence may be obtained 
+from the courts, the police authorities in the foreign country, or the person 
+concerned; 
+ 
+statutory declaration - evidence of statements made to an officer; 
+ 
+statutory declaration including documentary evidence, testimony from witnesses, or 
+an admission by the person him/herself establishing that the person concerned has 
+been convicted of an offence outside Canada. If a person is not contesting a 
+criminality allegation, then the person's admission of such criminality which may 
+take the form of a statutory declaration can also constitute sufficient evidence. 
+Convictions in the United States of America may be confirmed through the 
+Canadian Police Information Centre (CPIC). See AD 13, CPIC and Interpol 
+Procedures for CIC; 
+Note: Testimony and/or declarations of the person concerned or witnesses: This method of 
+establishing inadmissibility, when used in the absence of documentary evidence, is the least 
+desirable as the person concerned may be unable to recite the details of the conviction. 
+ 
+the text of the foreign offence and the text of the equivalent Canadian offence. This 
+evidence is required to establish equivalence. With respect to the foreign offence, a 
+photocopy of the relevant provision of the foreign law is sufficient. This may be 
+obtained from law libraries, embassies, or consulates. The texts must be introduced 
+into evidence at the admissibility hearing so that they will form part of the official 
+record. It is recognized that not all countries codify their criminal laws in a text of 
+statutes as is done in Canada. In such cases, officers should use their best efforts 
+to obtain a legal description of the foreign offence. Such descriptions may be 
+obtained from foreign jurisprudence in law libraries or from embassies or 
+consulates. In the absence of such a description, evidence of the facts that led to 
+the conviction may be sufficient to support a finding that the person is described; 
+ 
+in preparation for the admissibility hearing, evidence should be obtained showing 
+that the person concerned has not satisfied the Minister of C&I that they have 
+rehabilitated themselves. Although the person concerned has the onus of proving 
+that the Minister of C&I has approved of their rehabilitation, the officer should 
+nevertheless confirm whether such approval has been issued in order to ascertain 
+whether the referral for a hearing should be withdrawn or to counter possible 
+testimony by the person him/herself that rehabilitation approval was issued; 
+ 
+other documentary evidence including, but not limited to, media articles, scholarly 
+journals, expert evidence (i.e., evidence from a person who is a specialist in a 
+subject and who may present an “expert” opinion). 
+Equivalency can be determined three ways: 
+ 
+by comparison of the precise wording in each statute both through documents and, 
+if available, through the evidence of an expert or experts in the foreign law with a 
+view to determining the essential ingredients of the respective offences; 
+ 
+by examining the evidence adduced before the member of the Immigration Division, 
+both oral and documentary, to ascertain whether or not that evidence was sufficient 
+to establish that the essential ingredients of the offence in Canada had been proven 
+
+
+===== PAGE 40 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+40 
+in the foreign proceedings, whether precisely described in the initiating documents 
+or in the statutory provisions in the same words or not; or 
+ 
+by a combination of the two. 
+7.13. 
+Obtaining evidence and determining equivalency for A36(1)(c) 
+The officer may obtain evidence for A36(1)(c) by collecting: 
+ 
+statutory declaration -  evidence of statements made to an officer; 
+ 
+statutory declaration including documentary evidence, testimony from witnesses, or 
+an admission by the person him/herself establishing that the person concerned has 
+committed an act outside Canada that is an offence in the place where it was 
+committed. If a person is not contesting a criminality allegation, then the person's 
+admission of such criminality, which may take the form of a statutory declaration, 
+can also constitute sufficient evidence; 
+Note: Testimony and/or declarations of the person concerned or witnesses: This method of 
+establishing inadmissibility, when used in the absence of documentary evidence, is the least 
+desirable as the person concerned may be unable to recite the details of the offence. 
+ 
+evidence that constitutes “a balance of probabilities” that the person concerned 
+committed a prohibited act outside Canada. Evidence may consist of security or 
+police reports, court records, newspaper clippings, or statutory declarations from 
+foreign authorities that demonstrate that an offence has been committed; that an 
+arrest warrant is outstanding; that charges are pending; and/or that the person has 
+been indicted; 
+ 
+the text of the foreign legislation and the text of the Canadian legislation to establish 
+equivalence and to prove that the offence is punishable under an Act of Parliament 
+by way of indictment for a maximum term of imprisonment of at least ten years. 
+With respect to the foreign offence, a photocopy of the relevant provision of the 
+foreign law is sufficient. This may be obtained from law libraries, embassies, or 
+consulates. The texts must be introduced into evidence at the admissibility hearing 
+so that they will form part of the official record. It is recognized that not all countries 
+codify their criminal laws in a text of statutes as is done in Canada. In such cases, 
+officers should use their best efforts to obtain a legal description of the foreign 
+offence. Such descriptions may be obtained from foreign jurisprudence in law 
+libraries or from embassies or consulates. In the absence of such a description, 
+evidence of the facts that led to the conviction may be sufficient to support a finding 
+that the person is described; 
+ 
+in preparation for the admissibility hearing, evidence should be obtained showing 
+that the person concerned has not satisfied the Minister of C&I that they have 
+rehabilitated themselves. Although the person concerned has the onus of proving 
+that the Minister of C&I has approved of their rehabilitation, the officer should 
+nevertheless confirm whether such approval has been issued in order to ascertain 
+whether the referral for a hearing should be withdrawn or to counter possible 
+testimony by the person him/herself that rehabilitation approval was issued; 
+ 
+other documentary evidence including, but not limited to, media articles, scholarly 
+journals, expert evidence (i.e., evidence from a person who is a specialist in a 
+subject and who may present an “expert” opinion). 
+Equivalency can be determined three ways: 
+ 
+by comparison of the precise wording in each statute both through documents and, 
+if available, through the evidence of an expert or experts in the foreign law with a 
+view to determining the essential ingredients of the respective offences; 
+
+
+===== PAGE 41 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+41 
+ 
+by examining the evidence adduced before the member of the Immigration Division, 
+both oral and documentary, to ascertain whether or not that evidence was sufficient 
+to establish that the essential ingredients of the offence in Canada had been proven 
+in the foreign proceedings, whether precisely described in the initiating documents 
+or in the statutory provisions in the same words or not; or 
+ 
+by a combination of the two. 
+7.14. 
+Obtaining evidence for A36(2)(a) 
+The officer may obtain evidence for A36(2)(a) by collecting: 
+ 
+proof of conviction: This is preferable and should be introduced into evidence so 
+that it forms part of the record even if the person concerned concedes the 
+allegation. Such proof consists of a certified copy of the conviction certificate or the 
+warrant of committal. A certified copy of the court information containing the 
+accusations against the person concerned and indicating a conviction may also be 
+used; 
+ 
+text of the Canadian statute setting out the indictable offence or summary 
+convictions of which the person concerned has been convicted; 
+ 
+statutory declaration - evidence of statements made to an officer; 
+ 
+statutory declaration including documentary evidence, testimony from witnesses, or 
+an admission by the person him/herself establishing that the person concerned has 
+been convicted of an offence or offences in Canada. If a person is not contesting a 
+criminality allegation, then the person's admission of such criminality which may 
+take the form of a statutory declaration can also constitute sufficient evidence. In-
+Canada convictions may be confirmed through the Canadian Police Information 
+Centre (CPIC). See AD 13 CPIC and Interpol Procedures for CIC; 
+Note: Testimony and/or declarations of the person concerned or witnesses: This method of 
+establishing inadmissibility, when used in the absence of documentary evidence, is the least 
+desirable as the person concerned may be unable to recite the details of the conviction. 
+ 
+evidence that the convictions did not arise from the same occurrence (if applicable). 
+This evidence can usually be found in court or police documents setting out the 
+factual background of the offence, such as the court information or the police 
+reports; 
+ 
+evidence, where relevant, that the person concerned is not a Canadian citizen or a 
+permanent resident. To establish that the person concerned is not a Canadian 
+citizen, an admission by the person directly or documented through a statutory 
+declaration is considered sufficient evidence. A letter from CPC Sydney stating that 
+there is no record that the person concerned is a citizen of Canada is also sufficient. 
+To establish that the person concerned is not a permanent resident of Canada, an 
+admission by the person directly or documented through a statutory declaration is 
+considered sufficient evidence. A Query Response Centre (QRC), CIC, document 
+indicating no confirmation of permanent residence is also sufficient. 
+7.15. 
+Obtaining evidence and determining equivalency for A36(2)(b) 
+The officer may obtain evidence for A36(2)(b) by collecting: 
+ 
+proof of conviction: This is preferable and should be introduced into evidence at the 
+admissibility hearing even if the person concerned concedes the allegation. Such 
+proof includes conviction certificates, warrants of committal, appropriately noted 
+information or indictment (bill of indictment), or a telexed, e-mailed or telephoned 
+statement from the appropriate foreign authorities confirming that the relevant 
+
+
+===== PAGE 42 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+42 
+records indicate a conviction. If confirmation of conviction is received by telephone, 
+the receiving officer should complete a statutory declaration attesting to that fact; 
+ 
+factual background that led to the conviction(s). This evidence may be obtained 
+from the courts, the police authorities in the foreign country, or the person 
+concerned; 
+ 
+statutory declaration - evidence of statements made to an officer; 
+ 
+statutory declaration including documentary evidence, testimony from witnesses, or 
+an admission by the person him/herself establishing that the person concerned has 
+been convicted of an offence or offences outside Canada. If a person is not 
+contesting a criminality allegation, then the person's admission of such criminality 
+which may take the form of a statutory declaration can also constitute sufficient 
+evidence. Convictions in the United States of America may be confirmed through 
+the Canadian Police Information Centre (CPIC). See AD 13, CPIC and Interpol 
+Procedures for CIC; 
+Note: Testimony and/or declarations of the person concerned or witnesses: This method of 
+establishing inadmissibility, when used in the absence of documentary evidence, is the least 
+desirable as the person concerned may be unable to recite the details of the conviction. 
+ 
+the text of the foreign legislation and the text of the Canadian legislation to establish 
+equivalence. With respect to the foreign offence, a photocopy of the relevant 
+provision of the foreign law is sufficient. This may be obtained from law libraries, 
+embassies, or consulates. The texts must be introduced into evidence at the 
+admissibility hearing so that they will form part of the official record. It is recognized 
+that not all countries codify their criminal laws in a text of statutes as is done in 
+Canada. In such cases, officers should use their best efforts to obtain a legal 
+description of the foreign offence. Such descriptions may be obtained from foreign 
+jurisprudence in law libraries or from embassies or consulates. In the absence of 
+such a description, evidence of the facts that led to the conviction may be sufficient 
+to support a finding that the person is described; 
+ 
+evidence that the convictions did not arise from the same occurrence (if applicable). 
+This evidence can usually be found in court or police documents setting out the 
+factual background of the offence, such as the court information or the police 
+reports; 
+ 
+evidence, where relevant, that the person concerned is not a Canadian citizen or a 
+permanent resident. To establish that the person concerned is not a Canadian 
+citizen, an admission by the person directly or documented through a statutory 
+declaration is considered sufficient evidence. A letter from CPC Sydney stating that 
+there is no record that the person concerned is a citizen of Canada is also sufficient. 
+To establish that the person concerned is not a permanent resident of Canada, an 
+admission by the person directly or documented through a statutory declaration is 
+considered sufficient evidence. A Query Response Centre (QRC), CIC, document 
+indicating no confirmation of permanent residence is also sufficient; 
+ 
+other documentary evidence including, but not limited to, media articles, scholarly 
+journals, expert evidence (i.e., evidence from a person who is a specialist in a 
+subject and who may present an “expert” opinion). 
+Equivalency can be determined three ways: 
+ 
+by comparison of the precise wording in each statute both through documents and, 
+if available, through the evidence of an expert or experts in the foreign law with a 
+view to determining the essential ingredients of the respective offences; 
+
+
+===== PAGE 43 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+43 
+ 
+by examining the evidence adduced before the member of the Immigration Division, 
+both oral and documentary, to ascertain whether or not that evidence was sufficient 
+to establish that the essential ingredients of the offence in Canada had been proven 
+in the foreign proceedings, whether precisely described in the initiating documents 
+or in the statutory provisions in the same words or not; or 
+ 
+by a combination of the two. 
+7.16. 
+Obtaining evidence and determining equivalency for A36(2)(c) 
+The officer may obtain evidence for A36(2)(c) by collecting: 
+ 
+statutory declaration -  evidence of statements made to an officer; 
+ 
+statutory declaration including documentary evidence, testimony from witnesses, or 
+an admission by the person him/herself establishing that the person concerned has 
+committed an act outside Canada that is an offence in the place where it was 
+committed. If a person is not contesting a criminality allegation, then the person's 
+admission of such criminality which may take the form of a statutory declaration can 
+also constitute sufficient evidence; 
+Note: Testimony and/or declarations of the person concerned or witnesses: This method of 
+establishing inadmissibility, when used in the absence of documentary evidence, is the least 
+desirable as the person concerned may be unable to recite the details of the offence. 
+ 
+evidence that constitutes “reasonable grounds” that the person concerned 
+committed prohibited act(s) outside Canada. Evidence may consist of security or 
+police reports, court records, newspaper clippings, or statutory declarations from 
+foreign authorities that demonstrate that an offence has been committed, and that 
+an arrest warrant is outstanding, that charges are pending and/or that the person 
+has been indicted; 
+ 
+the text of the foreign legislation and the text of the Canadian legislation to establish 
+equivalence. With respect to the foreign offence, a photocopy of the relevant 
+provision of the foreign law is sufficient. This may be obtained from law libraries, 
+embassies, or consulates. The texts must be introduced into evidence at the 
+admissibility hearing so that they will form part of the official record. It is recognized 
+that not all countries codify their criminal laws in a text of statutes as is done in 
+Canada. In such cases, officers should use their best efforts to obtain a legal 
+description of the foreign offence. Such descriptions may be obtained from foreign 
+jurisprudence in law libraries or from embassies or consulates. In the absence of 
+such a description, evidence of the facts that led to the conviction may be sufficient 
+to support a finding that the person is described; 
+ 
+in preparation for the admissibility hearing, evidence should be obtained showing 
+that the person concerned has not satisfied the Minister of C&I that they have 
+rehabilitated themselves. Although the person concerned has the onus of proving 
+that the Minister of C&I has approved of their rehabilitation, the officer should 
+nevertheless confirm whether such approval has been issued in order to ascertain 
+whether the referral for a hearing should be withdrawn or to counter possible 
+testimony by the person him/herself that rehabilitation approval was issued; 
+ 
+evidence, where relevant, that the person concerned is not a Canadian citizen or a 
+permanent resident. To establish that the person concerned is not a Canadian 
+citizen, an admission by the person directly or documented through a statutory 
+declaration is considered sufficient evidence. A letter from CPC Sydney stating that 
+there is no record that the person concerned is a citizen of Canada is also sufficient. 
+To establish that the person concerned is not a permanent resident of Canada, an 
+admission by the person directly or documented through a statutory declaration is 
+
+
+===== PAGE 44 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+44 
+considered sufficient evidence. A Query Response Centre (QRC), CIC, document 
+indicating no confirmation of permanent residence is also sufficient; 
+ 
+other documentary evidence including, but not limited to, media articles, scholarly 
+journals, expert evidence (i.e., evidence from a person who is a specialist in a 
+subject and who may present an “expert” opinion). 
+Equivalency can be determined three ways: 
+ 
+by comparison of the precise wording in each statute both through documents and, 
+if available, through the evidence of an expert or experts in the foreign law with a 
+view to determining the essential ingredients of the respective offences; 
+ 
+by examining the evidence adduced before the member of the Immigration Division, 
+both oral and documentary, to ascertain whether or not that evidence was sufficient 
+to establish that the essential ingredients of the offence in Canada had been proven 
+in the foreign proceedings, whether precisely described in the initiating documents 
+or in the statutory provisions in the same words or not; or 
+ 
+by a combination of the two. 
+7.17. 
+Obtaining evidence for A36(2)(d) 
+The officer may obtain evidence for A36(2)(d) by collecting: 
+ 
+statutory declaration, including evidence, indicating that the person concerned did 
+commit, upon entering Canada, a prescribed offence. For example, a statutory 
+declaration signed by the person concerned admitting having committed a 
+prescribed offence or signed by an officer (be that a CBSA officer or a Police 
+officer)—confirming, that the person did commit, upon entering Canada, a 
+prescribed offence; 
+ 
+other documentary evidence including, but not limited to, media articles, scholarly 
+journals, expert evidence (i.e., evidence from a person who is a specialist in a 
+subject and who may present an “expert” opinion); 
+ 
+the text of the Act of Parliament that was violated; 
+ 
+proof that the act is one prescribed by the Regulations; 
+ 
+evidence, where relevant, that the person concerned is not a Canadian citizen or a 
+permanent resident. To establish that the person concerned is not a Canadian 
+citizen, an admission by the person directly or documented through a statutory 
+declaration is considered sufficient evidence. A letter from CPC Sydney stating that 
+there is no record that the person concerned is a citizen of Canada is also sufficient. 
+To establish that the person concerned is not a permanent resident of Canada, an 
+admission by the person directly or documented through a statutory declaration is 
+considered sufficient evidence. A Query Response Centre (QRC), CIC, document 
+indicating no confirmation of permanent residence is also sufficient. 
+7.18. 
+Obtaining evidence for A37(1)(a) 
+The officer may obtain evidence for A37(1)(a) by collecting: 
+ 
+police or intelligence reports; 
+ 
+statutory declaration and/or confirming testimony of credible witnesses; 
+ 
+proof that the organization is involved in criminal activity; 
+ 
+text of the applicable Canadian offence that may be punishable by way of 
+indictment; 
+
+
+===== PAGE 45 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+45 
+ 
+other documentary evidence including, but not limited to, media articles, scholarly 
+journals, expert evidence (i.e., evidence from a person who is a specialist in a 
+subject and who may present an “expert” opinion); 
+Where the evidence (establishing that the person concerned may be described in 
+A37(1)(a)) consists of reliable, confidential, unreleasable documents, no action is to be 
+taken until a confidential report is prepared on the case and submitted to the Director 
+General Intelligence Directorate, National Security Division, CBSA, NHQ, in accordance 
+with IC 1. The Director General will review the case and provide guidance on how to 
+proceed. 
+7.19. 
+Obtaining evidence for A37(1)(b) 
+The officer may obtain evidence for A37(1)(b) by collecting: 
+ 
+police or intelligence reports; 
+ 
+statutory declaration and/or confirming testimony of credible witnesses; 
+ 
+other documentary evidence including, but not limited to, media articles, scholarly 
+journals, expert evidence (i.e., evidence from a person who is a specialist in a 
+subject and who may present an “expert” opinion); 
+7.20. 
+Obtaining evidence for A38(1)(a)(b)(c) 
+The officer may obtain evidence for A38(1)(a), (b) and (c) by collecting: 
+ 
+a medical certificate signed by an officer who is responsible for the application of 
+sections R27 through R34; 
+ 
+copies of any records reviewed by the officer who assessed the person’s health 
+condition are not necessary but would be desirable. It is important that the 
+assessing officer’s statement of opinion accurately and correctly identifies the 
+person concerned. Factors that are to be considered by an officer who assesses a 
+person’s health condition are described in the Regulations; 
+ 
+other documentary evidence including, but not limited to, media articles, scholarly 
+journals, expert evidence (i.e., evidence from a person who is a specialist in a 
+subject and who may present an “expert” opinion); 
+ 
+evidence, where relevant, that the person concerned is not a Canadian citizen or a 
+permanent resident. To establish that the person concerned is not a Canadian 
+citizen, an admission by the person directly or documented through a statutory 
+declaration is considered sufficient evidence. A letter from CPC Sydney stating that 
+there is no record that the person concerned is a citizen of Canada is also sufficient. 
+To establish that the person concerned is not a permanent resident of Canada, an 
+admission by the person directly or documented through a statutory declaration is 
+considered sufficient evidence. A Query Response Centre (QRC), CIC, document 
+indicating no confirmation of permanent residence is also sufficient. 
+7.21. 
+Obtaining evidence for A39 
+The officer may obtain evidence for A39 by collecting: 
+ 
+statutory declaration supported by evidence of statements made to an officer 
+including evidence of the person’s current financial situation; the likelihood that they 
+will have access to funds; and what arrangements, if any, have been made for their 
+care and support. This evidence may consist of bank statements, bank books, 
+letters from employers, pay cheque stubs and testimony from friends or relatives; 
+ 
+documentary evidence of an individual’s dependence on social assistance or failure 
+to provide for him/herself and/or any dependants. This evidence may consist of 
+
+
+===== PAGE 46 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+46 
+letters from the social services authorities (indicating that the individual is in receipt 
+of social assistance), benefit payment cheque stubs, cancelled receipts, etc.; 
+ 
+where relevant, the hearings officer must be prepared to establish that the person 
+concerned is not a Canadian citizen or a permanent resident. To establish that the 
+person concerned is not a Canadian citizen, an admission by the person directly or 
+documented through a statutory declaration is considered sufficient evidence. A 
+letter from CPC Sydney stating that there is no record that the person concerned is 
+a citizen of Canada is also sufficient. To establish that the person concerned is not 
+a permanent resident of Canada, an admission by the person directly or 
+documented through a statutory declaration is considered sufficient evidence. A 
+Query Response Centre (QRC), CIC, document indicating no confirmation of 
+permanent residence is also sufficient. 
+7.22. 
+Obtaining evidence for A40(1)(a) 
+The officer may obtain evidence for A40(1)(a) by collecting: 
+ 
+proof of the misrepresentation (misrepresentation may also be referred to as “false 
+pretences”). This may include a false document, forensic laboratory evidence 
+certifying that a document is false, etc.; 
+ 
+testimony from expert witnesses or an admission in the form of a statutory 
+declaration from the person concerned or witnesses; 
+ 
+proof that the fact misrepresented was material to the decision rendered or being 
+contemplated; this is usually done in submissions, by reference to the relevant 
+provisions of the Act and Regulations. What must be shown is that the 
+misrepresentation was material to the question of determining admissibility, status 
+or removal. A statutory declaration completed by the officer addressing the issue(s) 
+may be considered as evidence; 
+ 
+proof of the correct information and, if available, proof that the person concerned 
+was subjectively aware of the incorrectness of the misrepresented fact. 
+7.23. 
+Obtaining evidence for A40(1)(b) 
+The officer may obtain evidence for A40(1)(b) by collecting: 
+ 
+proof of the correct information and, if available, proof that the person concerned 
+was subjectively aware of the incorrectness of the misrepresented fact; 
+ 
+proof of the misrepresentation (misrepresentation may also be referred to as “false 
+pretences”). This may include a false document, forensic laboratory evidence 
+certifying that a document is false; 
+ 
+testimony from witnesses or an admission in the form of a statutory declaration from 
+the person concerned or witnesses; 
+ 
+proof that the fact misrepresented was material to the decision rendered or being 
+contemplated; this is usually done in submissions, by reference to the relevant 
+provisions of the Act and Regulations. What must be shown is that the 
+misrepresentation was material to the question of determining admissibility, status 
+or removal. A statutory declaration completed by the officer addressing this issue 
+may be considered as evidence; 
+7.24. 
+Obtaining evidence for A40(1)(c) 
+The officer may obtain evidence for A40(1)(c) by collecting: 
+ 
+proof, from the Refugee Protection Division (RPD), that there has been a final 
+determination to vacate a decision to allow a claim for refugee protection; and 
+
+
+===== PAGE 47 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+47 
+ 
+proof, from the Refugee Appeal Division (RAD), that there has been no appeal filed 
+(pursuant to A110(1)) and that the period of time within which an appeal may be 
+filed, has elapsed. 
+7.25. 
+Obtaining evidence for A40(1)(d) 
+The officer may obtain evidence for A40(1)(d) by collecting: 
+ 
+proof, in the form of a copy of the decision issued by the Governor-in-Council, that 
+the person concerned ceased to be a citizen for reasons outlined in paragraph 
+10(1)(a) of the Citizenship Act; 
+ 
+text of paragraph 10(1)(a) and subsection 10(2) of the Citizenship Act; 
+ 
+evidence that establishes that the person concerned is no longer a Canadian 
+citizen. To establish that a person is not a Canadian citizen, an admission by the 
+person directly or documentation in the form of a statutory declaration is considered 
+sufficient evidence. A letter from CPC Sydney, stating that there is no record that 
+the person is a citizen of Canada, is also sufficient. 
+7.26. 
+Obtaining evidence for A41(a) 
+The officer may obtain evidence for A41(a) by collecting: 
+ 
+the direct testimony of the person concerned, evidenced by a statutory declaration 
+signed by the person concerned. Other evidence may include a statutory 
+declaration from an officer (or officers) detailing statements made by the person 
+concerned (or others) to an officer. [Statutory declarations from other credible 
+witnesses may also be used as evidence.] All evidence must attest to the fact that 
+the person concerned did not comply with a provision of the Act and that the person 
+concerned did so, either directly or indirectly, through an act or omission, or both; 
+ 
+proof that may also include certified copies of documents available from the Query 
+Response Centre (QRC), CIC, such as a “Temporary Resident Record” or a “Work 
+Permit.” Further proof may include any relevant documentation that the person may 
+have presented, produced or may have otherwise been found to be in possession 
+of; or documentation that others might have in their possession. 
+ 
+evidence, where relevant, that the person concerned is not a Canadian citizen or a 
+permanent resident. To establish that the person concerned is not a Canadian 
+citizen, an admission by the person directly or documented through a statutory 
+declaration is considered sufficient evidence. A letter from CPC Sydney stating that 
+there is no record that the person concerned is a citizen of Canada is also sufficient. 
+To establish that the person concerned is not a permanent resident of Canada, an 
+admission by the person directly or documented through a statutory declaration is 
+considered sufficient evidence. A Query Response Centre (QRC), CIC, document 
+indicating no confirmation of permanent residence is also sufficient. 
+7.27. 
+Obtaining evidence for A41(b) 
+The officer may obtain evidence for A41(b) by collecting: 
+ 
+the direct testimony of the person concerned, evidenced by a statutory declaration 
+signed by the person concerned. Other evidence may include a statutory 
+declaration from an officer (or officers) detailing statements made by the person 
+concerned (or others) to an officer. Statutory declarations from other credible 
+witnesses may also be used as evidence; 
+ 
+proof that may also include certified copies of documents available from the Query 
+Response Centre (QRC), CIC, provincial health authorities or established business, 
+all to evidence that, despite conditions having been lawfully imposed, the person 
+concerned did not comply with those conditions. Examples may include, inter alia, 
+
+
+===== PAGE 48 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+48 
+non-compliance with medical surveillance requirements or business entrepreneurial 
+requirements; 
+ 
+proof that may include any relevant documentation that the person may have 
+presented, produced or may have otherwise been found to be in possession of; or 
+documentation that others may/might have in their possession; 
+ 
+documentation to support the allegation of non-compliance with the residency 
+obligation may include, inter alia, the original or a certified true copy of the person’s 
+application for a permanent resident card; employment verification letters 
+concerning the person; copies of any residential mortgage documents, bank 
+records or other such information pertaining to the person concerned; any landlord 
+rental agreements and/or rental receipt copies; passports, travel papers, travel 
+documents of any kind; driver’s license and/or photo-identity card information and 
+any records pertaining to each; certified true copies of the person’s income tax 
+returns or notices of assessment within the meaning of the Income Tax Act. 
+7.28. 
+Obtaining evidence for A42(a) 
+The officer may obtain evidence for A42(a) by collecting: 
+ 
+the direct testimony of the person concerned, evidenced by a statutory declaration 
+signed by the person concerned. Other evidence may include a statutory 
+declaration from an officer (or officers) detailing statements made by the person 
+concerned (or others) to an officer. Statutory declarations from other credible 
+witnesses may also be used as evidence; 
+ 
+proof that a family member is inadmissible: this may include certified copies of 
+documents available from the Query Response Centre (QRC), CIC, such as a copy 
+of a “removal order” issued to a family member. Further proof may include any 
+relevant documentation that the person concerned may have presented, produced 
+or may have otherwise been found to be in possession of; or documentation that 
+others may have in their possession that pertains to an inadmissible family member; 
+ 
+copies of any visa refusal letter that may have been issued to a family member. A 
+copy of an “Allowed to Leave”, “Direction to Return” or “Rejection Order” issued to 
+an inadmissible family member may also be used as evidence; 
+ 
+evidence, where relevant, that the person concerned is not a Canadian citizen or a 
+permanent resident. To establish that the person concerned is not a Canadian 
+citizen, an admission by the person directly or documented through a statutory 
+declaration is considered sufficient evidence. A letter from CPC Sydney stating that 
+there is no record that the person concerned is a citizen of Canada is also sufficient. 
+To establish that the person concerned is not a permanent resident of Canada, an 
+admission by the person directly or documented through a statutory declaration is 
+considered sufficient evidence. A Query Response Centre (QRC), CIC, document 
+indicating no confirmation of permanent residence is also sufficient. 
+7.29. 
+Obtaining evidence for A42(b) 
+The officer may obtain evidence for A42(b) by collecting: 
+ 
+the direct testimony of the person concerned, evidenced by a statutory declaration 
+signed by the person concerned. Other evidence may include a statutory 
+declaration from an officer (or officers) detailing statements made by the person 
+concerned (or others) to an officer. Statutory declarations from other credible 
+witnesses may also be used as evidence; 
+ 
+evidence that the person concerned is a family member and that the person whom 
+they are accompanying is inadmissible. Proof of family relationship may take the 
+form of birth certificate copies or other relevant documentation/correspondence; 
+
+
+===== PAGE 49 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+49 
+ 
+evidence that the inadmissible family member whom they are accompanying is in 
+fact inadmissible. This evidence may take the form of, inter alia, a visa refusal letter; 
+a copy of the original “Removal Order” or “Allowed to Leave”, “Direction to Return” 
+or “Rejection Order” that was issued to the inadmissible family member; 
+ 
+evidence, where relevant, that the person concerned is not a Canadian citizen or a 
+permanent resident. To establish that the person concerned is not a Canadian 
+citizen, an admission by the person directly or documented through a statutory 
+declaration is considered sufficient evidence. A letter from CPC Sydney stating that 
+there is no record that the person concerned is a citizen of Canada is also sufficient. 
+To establish that the person concerned is not a permanent resident of Canada, an 
+admission by the person directly or documented through a statutory declaration is 
+considered sufficient evidence. A Query Response Centre (QRC), CIC, document 
+indicating no confirmation of permanent residence is also sufficient. 
+
+
+===== PAGE 50 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+50 
+Appendix 
+ A  Some notable inadmissibility jurisprudence 
+Department of Justice Regional Office or Departmental Legal Services counsel will be 
+able to assist hearings officers regarding the provision of applicable and updated 
+jurisprudence. 
+A34(1)(a), (b), (b.1), (c), (d), (e) and (f) 
+Jurisprudence 
+Baroud, Re (1995), 98 F.T.R. 99 (Fed. T.D.) 
+ 
+“Terrorism” must receive an unrestrictive interpretation in order to prevent the arrival 
+of persons considered to be a danger to Canadian society. 
+Canada (Attorney General) v. Jolly, [1975] F.C. 216, 54 D.L.R. (3d) 277, 7 N.R. 271 
+(Fed.C.A.) 
+ 
+The question is not will the applicant engage in espionage or subversion or 
+terrorism, but whether there are reasonable grounds for believing that the person 
+will so behave. Even if evidence is given negating this fact, it is only necessary for 
+the Minister to show the existence of reasonable grounds for believing the fact. It is 
+not necessary for the Minister to go further in establishing the subversive character 
+of the persons subject to the proceeding. 
+Kashmiri v. Canada (Minister of Citizenship and Immigration) (1996), 37 C.R.R. (2d) 
+264, 116 F.T.R. 316 (Fed. T.D.) 
+ 
+If found inadmissible on security grounds, the onus to satisfy the Minister that their 
+presence in Canada would not be detrimental to the national interest lies on the 
+applicant. 
+Qu v. Canada (Minister of Citizenship and Immigration) (2000), 5 Imm. L.R. (3d) 129 
+(Fed. T.D.) 
+ 
+“Subversion” and “espionage” are defined and addressed. 
+Suresh v. Canada (Minister of Citizenship and Immigration) (2000), 5 Imm. L.R. (3d) 1, 
+183 D.L.R. (4th) 629, 18 Admin. L.R. (3d) 159, 252 N.R. 1 (Fed. C.A.), [2002] S.C.C. 1 
+ 
+Denying entry to Convention refugees on security grounds is a violation of s. 7 of 
+the Charter, BUT is saved by s. 1. 
+ 
+Denying entry to Convention refugees on security grounds is not a violation of the 
+Convention Against Torture, Covenant on Civil and Political Rights or the 
+Convention Relating to the Status of Refugees.  
+ 
+It is permissible for a state to rid itself of those who pose a security risk without 
+being in breach of its international obligations. 
+Yamani v. Canada (Minister of Citizenship and Immigration) (March 14, 2000), Doc. 
+IMM-1919-98 (Fed. T.D.) 
+ 
+The term “subversion” was found to violate s. 7 of the Charter by being too vague 
+constitutionally but the judge then found that s. 1 of the Charter could be used to 
+save the provision so that, in the final analysis, this term was found to be 
+constitutional. 
+Yamani v. Canada (Solicitor General) (1995), 31 Imm. L.R. (2d) 191, 129 D.L.R. (4th) 
+226, 32 C.R.R. (2d) 295, 103 F.T.R. 105, [1996] 1 F.C. 174 (Fed. T.D.) 
+ 
+The Court declined to hear the argument that s. 19(1)(g) [now s.34(1)(e)] violates 
+s. 15 of the Charter. 
+
+
+===== PAGE 51 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+51 
+A35(1)(a), (b) and (c) 
+Jurisprudence 
+Adam v. Canada (Minister of Citizenship and Immigration) (1997), 137 F.T.R. 68 (Fed. 
+T.D.) 
+ 
+The Federal Court held in the case of Adam (F.C.T.D., IMM-3380-96, August 29, 
+1997; upheld on appeal by F.C.A., A-19-98, January 11, 2001) that there is no 
+rebuttable presumption for those who held one of the government positions listed [in 
+the Regulations], meaning that if a person is found to have occupied the position 
+mentioned, that fact in itself will result in inadmissibility even if there is nothing to 
+show that the person actually exercised influence on the regime in question. 
+ 
+In matters where ministerial discretion may be exercised, reasons may be required 
+where the decision on its face seems perverse. 
+Esse v. Canada (Minister of Citizenship and Immigration) (January 16, 1998), Doc. 
+IMM-4523-96 (Fed. T.D.) 
+ 
+The purpose of A35(1)(b) is to ensure that Canada does not become a haven for 
+persons who have engaged in terrorism, systematic or gross human rights 
+violations, war crimes or crimes against humanity. 
+ 
+Persons holding specific positions within a government are deemed to be senior 
+members of or senior officials in the service of a government for that purpose. To 
+obtain a Minister’s acceptance, one would have to demonstrate that, 
+notwithstanding their position, there was no complicity in the objectionable acts of 
+that government. 
+Hussein v. Canada (Minister of Citizenship and Immigration) (1997), 41 Imm. L.R. (2d) 
+42 (Can. Imm. & Ref. Bd. (App.Div.)) 
+Rudolph v. Canada (Minister of Employment and Immigration) (1992), 73 C.C.C. (3d) 
+442, 91 D.L.R. (4th) 686 (Fed. C.A.) 
+ 
+Double criminality—paragraph 19(1)(j) of the Immigration Act, 1976, in conjunction 
+with subsection 7(3.6) of the Criminal Code, mandates the notional transfer to 
+Canadian soil of the actus reus only and not of the entire surrounding 
+circumstances so as to permit a plea of obedience to de facto foreign state 
+authority. The fact that the German government ordered or condoned the 
+applicant’s conduct during WWII is no defence to a charge of doing the same thing 
+in Canada. 
+A36(1)(a), (b) and (c) 
+Jurisprudence 
+Barnett v. Canada (Minister of Citizenship and Immigration) (1996), 33 Imm. L.R. (2d) 1, 
+109 F.T.R. 154 (Fed. T.D.) 
+ 
+Where another country, whose legal system is based on similar foundation and 
+values as our own, has enacted legislation which reflects goals and objectives 
+analogous to those encompassed within our own system, then that law should be 
+accorded respect and recognized for purposes of Canadian immigration law. 
+ 
+The question is not whether Canada has identical legislation in place but whether 
+the underlying rationale of the foreign legislation is consistent with some 
+fundamental principle of justice esteemed within our society. 
+
+
+===== PAGE 52 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+52 
+ 
+A foreign pardon granted under a legal system that reflects goals and objectives 
+analogous to those encompassed within our own should be followed for the 
+purpose of Canadian immigration law. 
+Canada (Minister of Employment and Immigration) v. Fenner (December 11, 1981), 
+Doc. V81-6126 (Imm. App. Bd.) 
+ 
+A foreign legal procedure that is not equivalent to an absolute or conditional 
+discharge will not be treated as such in Canada. The conviction remains for the 
+purpose of A36(1). 
+Dayan v. Canada (Minister of Employment and Immigration) (1987), 78 N.R. 134 (Fed. 
+C.A.) 
+ 
+Test for equivalency. 
+ 
+Reliance on the concept of offences as malum in se to prove equivalency with the 
+provisions of the Canadian Criminal Code is a device that should be resorted to 
+only when, for a very good reason, proof of foreign law has been difficult to make, 
+and then only when the foreign law is that of a non-common law country. 
+Halm v. Canada (Minister of Employment and Immigration) (1995), 27 C.R.R. (2d) 23, 
+91 F.T.R. 106 
+ 
+Equivalency is not met in the case where the Canadian statute is struck down for 
+unconstitutionality. 
+ 
+Equivalency is not required to be proven beyond a reasonable doubt. All that is 
+required is that the adjudicator determine that the applicant is a person with respect 
+to whom there are “reasonable grounds to believe” that they have been convicted 
+outside of Canada of an equivalent offence. 
+Hill v. Canada (Minister of Employment and Immigration) (1987), 1 Imm. L.R. (2d) 1, 73 
+N.R. 315 (Fed. C.A.) 
+ 
+Onus lies on [hearings officers] to present evidence of foreign law and necessary 
+definitions. 
+Kiani v. Canada (Minister of Citizenship and Immigration) (1995), 96 F.T.R. 241, 31 
+Imm. L.R. (2d) 269 
+ 
+Foreign police reports, oral admissions, and other circumstantial evidence may be 
+enough to prove that there are reasonable grounds to believe that the applicant was 
+convicted of a serious offence abroad. 
+Lavi v. Canada (Minister of Employment and Immigration) (April 24, 1985), Doc. T-83-
+9929 (Imm. App. Bd.) 
+ 
+Although the Minister establishes equivalency with a section of the Criminal Code, 
+the Immigration and Refugee Board (IRB) is not restricted to the provisions 
+selected, but is able to explore various other provisions of Canadian law. 
+Legault v. Canada (Secretary of State) (1997), 42 Imm. L.R. (2d) 192, 133 F.T.R. 320 
+(note), 219 N.R. 376 (Fed. C.A.); leave to appeal to S.C.C. refused (1998), 227 N.R. 
+(note) (S.C.C.) 
+ 
+“Reasonable grounds” are enough to show that the applicant falls within A36(1)(b) 
+and (c). In this case, a warrant and indictment were sufficient. 
+Lei v. Canada (Solicitor General) (1994), 74 F.T.R. 67 
+ 
+If the Canadian statute is narrower than the foreign equivalent, the adjudicator must 
+be presented with additional evidence surrounding the circumstances to establish 
+
+
+===== PAGE 53 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+53 
+that the person would have been convicted if the same offence were committed in 
+Canada. 
+Leung v. Canada (Minister of Citizenship and Immigration) (May 3, 2000), Doc. A-283-
+98 (Fed. C.A.) 
+ 
+It is not incumbent on the visa officer to question the reasonableness of the 
+Minister’s decision. 
+Lui v. Canada (Minister of Citizenship and Immigration) (1997), 39 Imm. L.R. (2d) 60, 
+134 F.T.R. 308 (Fed. T.D.) 
+ 
+The following test must be used when determining equivalency (for convictions or 
+pardons) between Canadian and foreign law: 
+ the laws and legal system of the foreign jurisdiction must be similar to those of 
+Canada; 
+ the foreign law in question must be similar in (a) aim or purpose; (b) content; 
+and (c) effect, but not necessarily identical to the Canadian law. 
+Masasi v. Canada (Minister of Citizenship and Immigration) (1997), 40 Imm. L.R. (2d) 
+133, 138 F.T.R. 121 (Fed. T.D.) 
+ 
+When establishing equivalency between foreign and Canadian offences, it is 
+necessary to establish the essential elements of the offences AND to actually 
+examine them in order to determine whether they were equivalent or not. 
+Mohammad v. Canada (Minister of Employment and Immigration) (1989), 2 F.C. 363, 
+55 D.L.R. (4th) 321, 21 F.T.R. 240 (note) (Fed. C.A.) 
+ 
+It is not a precondition that the Minister shall have considered the question of 
+rehabilitation. The fact that a person described in A36 does not possess proof of 
+satisfaction of the Minister is sufficient evidence for inadmissibility. 
+ 
+The immigration officer is not required to give the person concerned an opportunity 
+to answer allegations contained in that report. 
+ 
+There are no problems of institutional independence because the adjudication 
+division and the [hearings] officers are separate divisions that do not provide or take 
+advice to/from the other. 
+R. v. Wardley (1978), 43 C.C.C. (2d) 345 (Ont. C.A.) 
+ 
+If the person is charged with an indictable offence and pleads guilty to an included 
+offence, then the plea constitutes a plea of guilty to the indictable offence and the 
+maximum sentence for the conviction of the indictable offence governs with respect 
+to penalty. 
+Robertson v. Canada (Minister of Employment and Immigration), [1979] 1 F.C. 197, 43 
+C.C.C. (2d) 354, 91 D.L.R. (3d) 93 (Fed. C.A.) 
+ 
+The person can be deported under A36 only if the maximum punishment is 10 
+years’ imprisonment at the date of the deportation order. If it was 10 years (or more) 
+but has since been reduced, then the person cannot be deported under A36. 
+Saini v. Canada (Minister of Citizenship and Immigration) (2000), 184 D.L.R. (4th) 568 
+(Fed. T.D.) 
+ 
+An officer cannot ignore a valid pardon given in another country with a similar 
+justice system. 
+Singleton v. Canada (Minister of Citizenship and Immigration) (November 7, 1983), 
+Doc. A-813-83 (Fed. C.A.) 
+
+
+===== PAGE 54 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+54 
+ 
+Lack of a certificate of the applicant’s conviction leaves something to be desired in 
+the particularity of the evidence, however, it will not automatically result in the 
+applicant’s entry into Canada. 
+Smith v. Canada (Minister of Citizenship and Immigration) (1998), 44 Imm. L.R. (2d) 
+154, [1998] 3 F.C. 144, 152 F.T.R. 242 (Fed. T.D.) 
+ 
+A valid deportation or exclusion order may not be enforced after a record 
+suspension has been granted for the offence in question: the conviction has been 
+revoked under the Criminal Records Act or there has been a final determination of 
+an acquittal. 
+Steward v. Canada (Minister of Employment and Immigration) (1988), 84 N.R. 236 
+(Fed. C.A.). 
+ 
+Equivalency can be determined in three ways: 
+ by comparison of the precise wording in each statute both through documents 
+and, if available, through the evidence of an expert or experts in the foreign law 
+with a view to determining the essential ingredients of the respective offences; 
+ by examining the evidence adduced before the adjudicator, both oral and 
+documentary, to ascertain whether or not that evidence was sufficient to 
+establish that the essential ingredients of the offence in Canada had been 
+proven in the foreign proceedings, whether precisely described in the initiating 
+documents or in the statutory provisions in the same words or not; or 
+ by a combination of the two. 
+Taei v. Canada (Minister of Citizenship and Immigration) (1993), 19 Imm. L.R. (2d) 187, 
+64 F.T.R. 311 (Fed. T.D.) 
+ 
+A Convention refugee that is later accused of committing an act described in A36(1) 
+may not be granted permanent resident status until the criminal charges are 
+disposed of. 
+Taubler v. Canada (Minister of Employment and Immigration) [1981] 1 F.C. 620 (Fed. 
+C.A.) 
+ 
+In the absence of evidence to the contrary, it was presumed that the equivalent 
+foreign law involved the element of mens rea and that a conviction indicates that a 
+finding of guilty intent was made. 
+Tei v. Canada (Minister of Citizenship and Immigration) (1998), 48 Imm. L.R. (2d) 120, 
+161 F.T.R. 51 (Fed. T.D.) 
+ 
+An applicant who falls under A36(1) and is denied entry into Canada may challenge 
+the Minister’s decision not to grant rehabilitation but they may not challenge the 
+officer’s decision. 
+A36(2)(a), (b), (c) and (d) 
+Jurisprudence 
+Alouache v. Canada (Minister of Citizenship and Immigration) (1995), 31 Imm. L.R. (2d) 
+68, 102 F.T.R. 1 (Fed. T.D.); affirmed (1996), 197 N.R. 305 (Fed. C.A.); reconsideration 
+refused (June 26, 1996), Doc. A-681-95 (Fed. C.A.) 
+ 
+The term “occurrence” is synonymous with the terms “event” and “incident” and not 
+synonymous with “a course of events.” 
+
+
+===== PAGE 55 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+55 
+Lavi v. Canada (Minister of Employment and Immigration) (April 24, 1985), Doc. T-83-
+9929 (Imm. App. Bd.) 
+ 
+Although the Minister establishes equivalency with a section of the Criminal Code, 
+the Immigration and Refugee Board (IRB) is not restricted to the provisions 
+selected, but is able to explore various other provisions of Canadian law. 
+Lei v. Canada (Solicitor General) (1994), 74 F.T.R. 67 
+ 
+If the Canadian statute is narrower than the foreign equivalent, the adjudicator must 
+be presented with additional evidence surrounding the circumstances to establish 
+that the person would have been convicted if the same offence were committed in 
+Canada. 
+Li v. Canada (Minister of Citizenship and Immigration) (1996), 34 Imm. L.R. (2d) 109, 
+[1997] 1 F.C. 235, 37 C.R.R. (2d) 360, 138 D.L.R. (4th) 275, 200 N.R. 307, 119 F.T.R. 
+130 (note) (Fed. C.A.) 
+ 
+If the Canadian statute is narrower than the foreign equivalent, the adjudicator must 
+be presented with additional evidence surrounding the circumstances to establish 
+that the person would have been convicted if the same offence were committed in 
+Canada. 
+Libby v. Canada (Minister of Employment and Immigration) (1988), 50 D.L.R. (4th) 573 
+(Fed. C.A.) 
+ 
+Two offences that do not happen concurrently yet have their source in the same 
+event are considered to arise out of a single occurrence. 
+Lui v. Canada (Minister of Citizenship and Immigration) (1997), 39 Imm. L.R. (2d) 60, 
+134 F.T.R. 308 (Fed. T.D.) 
+ 
+The following test must be used when determining equivalency (for convictions or 
+pardons) between Canadian and foreign law: 
+ the laws and legal system of the foreign jurisdiction must be similar to those of 
+Canada; 
+ the foreign law in question must be similar in (a) aim or purpose; (b) content; 
+and (c) effect, but not necessarily identical to the Canadian law. 
+R. v. Wardley (1978), 43 C.C.C. (2d) 345 (Ont. C.A.) 
+ 
+If the person is charged with an indictable offence and pleads guilty to an included 
+offence, then the plea constitutes a plea of guilty to the indictable offence and the 
+maximum sentence for the conviction of the indictable offence governs with respect 
+to penalty. 
+Saini v. Canada (Minister of Citizenship and Immigration) (2000), 184 D.L.R. (4th) 568 
+(Fed. T.D.) 
+ 
+An officer cannot ignore a valid pardon given in another country with a similar 
+justice system. 
+Singleton v. Canada (Minister of Citizenship and Immigration) (November 7, 1983), 
+Doc. A-813-83 (Fed. C.A.) 
+ 
+Lack of a certificate of the applicant’s conviction leaves something to be desired in 
+the particularity of the evidence, however, it will not automatically result in the 
+applicant’s entry into Canada. 
+Steward v. Canada (Minister of Employment and Immigration) (1988), 84 N.R. 236 
+(Fed. C.A.) 
+
+
+===== PAGE 56 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+56 
+ 
+Equivalency can be determined in three ways: 
+ by comparison of the precise wording in each statute both through documents 
+and, if available, through the evidence of an expert or experts in the foreign law 
+with a view to determining the essential ingredients of the respective offences; 
+ by examining the evidence adduced before the adjudicator, both oral and 
+documentary, to ascertain whether or not that evidence was sufficient to 
+establish that the essential ingredients of the offence in Canada had been 
+proven in the foreign proceedings, whether precisely described in the initiating 
+documents or in the statutory provisions in the same words or not; or 
+ by a combination of the two. 
+Taubler v. Canada (Minister of Employment and Immigration) [1981] 1 F.C. 620 (Fed. 
+C.A.) 
+ 
+In the absence of evidence to the contrary, it was presumed that the equivalent 
+foreign law involved the element of mens rea and that a conviction indicates that a 
+finding of guilty intent was made. 
+Tei v. Canada (Minister of Citizenship and Immigration) (1998), 48 Imm. L.R. (2d) 120, 
+161 F.T.R. 51 (Fed. T.D.) 
+ 
+An applicant who falls under A36(1) and is denied entry into Canada may challenge 
+the Minister’s decision not to grant rehabilitation but they may not challenge the 
+officer’s decision. 
+W. (Y.Y.) v. Canada (Minister of Citizenship and Immigration) (February 22, 2000), Doc. 
+IMM-4464- 98 (Fed. T.D.) 
+ 
+Inadmissibility under A36 may not be based on an offence committed while the 
+person would qualify under the Canadian Young Offenders Act regardless of the 
+foreign law. 
+A37(1)(a) and (b) 
+Jurisprudence 
+MCI v. Thanaratnam, [2005] FCA 122  
+ 
+Confirmed that “being a member” is not required to be described of A37(1)(a) 
+inadmissibility.  Decision-makers have a duty to consider evidence of a person’s 
+involvement in gang-related events in order to establish if a person was “engaging 
+in activity that is part of such a pattern.” 
+Chiau v. Canada (Minister of Citizenship and Immigration) (1997), 141 F.T.R. 81, [1998] 
+2 F.C. 642 (Fed. T.D.), [2001] S.C.C.A. No. 71 
+ 
+The immigration officer is under no obligation to provide the person concerned with 
+a summary of any confidential information relied upon by the visa officer. 
+Yuen v. Canada (Minister of Citizenship and Immigration) (1999), 48 Imm. L.R. (2d) 24, 
+63 C.R.R. (2d) 333, 162 F.T.R. 282 (Fed. T.D.) 
+ 
+A37 does not violate s.2(d) of the Charter. That right does not extend beyond the 
+boundaries of Canada to protect the right of a foreign national to be a member of a 
+foreign criminal organization. 
+Moreno v. Canada (Minister of Employment & Immigration) (1994), 1 F.C. 298 (FCA); 
+and Ramirez v. Canada (Minister of Employment & Immigration) (1992), 2 F.C. 306 
+(FCA) 
+
+
+===== PAGE 57 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+57 
+ 
+Jurisprudence regarding “membership” and “organization.” 
+A38(1)(a), (b) and (c) 
+Jurisprudence 
+Ahir v. Canada (Minister of Employment and Immigration) (1983), 49 N.R. 185, 2 D.L.R. 
+(4th) 163 (Fed. C.A.) 
+Ajanee v. Canada (Minister of Citizenship and Immigration) (1996), 33 Imm. L.R. (2d) 
+165, 110 F.T.R. 172 (Fed. T.D.) 
+Anvari v. Canada (Employment and Immigration Commission) (1988), 10 C.H.R.R. 
+D/5816, 152 N.R. 241 (Human Rights Trib.); varied (1993), 14 C.H.R.R. D/292 (Human 
+Rights Review Trib.); reversed (1993), 19 Imm. L.R. (2d) 192 (Fed. C.A.) 
+Badwal v. Canada (Minister of Employment and Immigration) (1989), 9 Imm. L.R. (2d) 
+85, 64 D.L.R. (4th) 561 (Fed. C.A.) 
+Bola v. Canada (Minister of Employment and Immigration) (1990), 11 Imm. L.R. (2d) 14, 
+107 N.R. 311 (Fed. C.A.) 
+Cabaldon v. Canada (Minister of Citizenship and Immigration) (1998), 42 Imm. L.R. (2d) 
+12, 140 F.T.R. 296 (Fed. T.D.) 
+Canada (Minister of Employment and Immigration) v. Sihota (1989), 8 Imm. L.R. (2d) 1 
+(Fed. C.A.) 
+Choi v. Canada (Minister of Citizenship and Immigration) (1995), 29 Imm. L.R. (2d) 85, 
+98 F.T.R. 308 
+Deol v. Canada (Minister of Employment and Immigration) (1992), 18 Imm. L.R. (2d) 1 
+(Fed. C.A.) 
+Fei v. Canada (Minister of Citizenship and Immigration) (1997), 131 F.T.R. 81, 39 Imm. 
+L.R. (2d) 266, [1998] 1 F.C. 274 (Fed. T.D.)) 
+Fung v. Canada (Minister of Employment and Immigration) (1986), 18 Admin. L.R. 260, 
+4 F.T.R. 118 (Fed. T.D.) 
+Hiramen v. Canada (Minister of Employment and Immigration) (1986), 65 N.R. 67 (Fed. 
+C.A.) 
+Ismaili v. Canada (Minister of Citizenship and Immigration) (1995), 29 Imm. L.R. (2d) 1, 
+100 F.T.R. 139 (Fed. T.D.) 
+Jiwanpuri v. Canada (Minister of Employment and Immigration) (1990), 10 Imm. L.R. 
+(2d) 241, 109 N.R. 293 (Fed. C.A.) 
+Kaila v. Canada (Minister of Citizenship and Immigration) (1997), 42 Imm. L.R. (2d) 316 
+(Imm. & Ref. Bd. (App. Div.)) 
+King v. Canada (Minister of Citizenship and Immigration) (1996), 115 F.T.R. 306 (Fed. 
+T.D.) 
+Lau v. Canada (Minister of Citizenship and Immigration) (1998), 43 Imm. L.R. (2d) 8, 
+146 F.T.R. 116 (Fed. T.D.) 
+Law v. Canada (Minister of Citizenship and Immigration) (1998), 140 F.T.R. 307 (Fed. 
+T.D.) 
+Litt v. Canada (Minister of Citizenship and Immigration) (1995), 26 Imm. L.R. (2d) 253 
+(Fed. T.D.) 
+Ludwig v. Canada (Minister of Citizenship and Immigration) (1996), 33 Imm. L.R. (2d) 
+213, 111 F.T.R. 271 (Fed. T.D.) 
+Mangat v. Canada (Minister of Employment and Immigration) (February 25, 1985), Doc. 
+T-153-85 (Fed. T.D.) 
+
+
+===== PAGE 58 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+58 
+Mohamed v. Canada (Minister of Employment and Immigration), [1986] 3 F.C. 90, 68 
+N.R. 220 (Fed. C.A.) 
+Ng v. Canada (Minister of Citizenship and Immigration) (1996), 106 F.T.R. 140 (Fed. 
+T.D.) 
+Pattar v. Canada (Minister of Employment and Immigration) (1988), 8 Imm. L.R. (2d) 79, 
+98 N.R. 98 (Fed. C.A.) 
+Poste v. Canada (Minister of Citizenship and Immigration) (1997), 140 F.T.R. 126, 42 
+Imm. L.R. (2d) 84, 5 Admin. L.R. (3d) 69 (Fed. T.D.) 
+Rabang v. Canada (Minister of Citizenship and Immigration) (November 29, 1999), Doc. 
+IMM-4576- 98 (Fed. T.D.) 
+Rudrakumar v. Canada (Minister of Citizenship and Immigration) (1996), 38 Imm. L.R. 
+(2d) 82 (Imm. & Ref. Bd. (App. Div.)) 
+Sabater v. Canada (Minister of Citizenship and Immigration) (1995), 31 Imm. L.R. (2d) 
+59, 102 F.T.R. 268 (Fed. T.D.) 
+Sall v. Canada (Minister of Employment and Immigration) (1989), 9 Imm. L.R. (2d) 179, 
+29 F.T.R. 176 (Fed. T.D.) 
+Seyoum v. Canada (Minister of Employment and Immigration) (1990), 134 N.R. 233 
+(Fed. C.A.) 
+Shan v. Canada (Minister of Citizenship and Immigration) (1998), 153 F.T.R. 238 (Fed. 
+T.D.) 
+Shanker v. Canada (Minister of Employment and Immigration) (June 25, 1987), Doc. A-
+535-86 (Fed. C.A.) 
+Sooknanan v. Canada (Minister of Citizenship and Immigration) (1998), 142 F.T.R. 155 
+(Fed. T.D.) 
+Tam v. Canada (Minister of Citizenship and Immigration) (1996), 35 Imm. L.R. (2d) 201 
+(Fed. T.D.) 
+Tan v. Canada (Minister of Citizenship and Immigration) (1997), 40 Imm. L.R. (2d) 113 
+(Imm. & Ref. Bd. (App. Div.)) 
+Thangarajan v. Canada (Minister of Citizenship and Immigration) 1 Imm. L.R. (3d) 118, 
+[1999] 4 F.C. 167, 242 N.R. 183, 176 D.L.R. (4th) 125 (Fed. C.A.) 
+Tong v. Canada (Minister of Citizenship and Immigration) (1998), 45 Imm. L.R. (2d) 27, 
+153 F.T.R. 115 (Fed. T.D.) 
+Tong v. Canada (Minister of Citizenship and Immigration) (October 31, 1997), Doc. 
+IMM-2565-96 (Fed. T.D.) 
+Tsang v. Canada (Minister of Employment and Immigration) (April 1, 1981), Doc. T80-
+9437 (Imm. App. Bd.) 
+Uppal v. Canada (Minister of Employment and Immigration) (1987), 2 imm. L.R. (2d) 
+143, 78 N.R. 152 (Fed. C.A.) 
+Wong v. Canada (Minister of Citizenship and Immigration) (1996), 34 Imm. L.R. (2d) 18 
+(Fed. T.D.) 
+Wong v. Canada (Minister of Citizenship and Immigration) (1998), 42 Imm. L.R. (2d) 17, 
+141 F.T.R. 62 (Fed. T.D.); additional reasons at (1998), 43 Imm. L.R. (2d) 24, 145 
+F.T.R. 119 (Fed. T.D.) 
+Wong v. Canada (Minister of Employment and Immigration), 42 F.T.R. 209, [1991] 2 
+F.C. 186; affirmed (1992), 146 N.R. 319 (Fed. C.A.) 
+Yogeswaran v. Canada (Minister of Citizenship and Immigration) (1999), 1 Imm. L.R. 
+(3d) 177, 247 N.R. 221 (Fed. C.A.) 
+
+
+===== PAGE 59 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+59 
+A39 
+Jurisprudence 
+Khakoo v. Canada (Minister of Citizenship and Immigration) (1995), 103 F.T.R. 284 
+(Fed. T.D.) 
+ 
+The existence of the undertaking of support must be considered proof of support 
+and not proof of the sponsor’s history of providing support. 
+Nicolau v. Canada (Minister of Employment and Immigration) (1994), 74 F.T.R. 38 
+ 
+Regardless of the applicant’s willingness to work, if they are unable to work in 
+Canada, there must be proof of adequate arrangements for support. 
+Orantes v. Canada (Minister of Citizenship and Immigration) (1990), 34 F.T.R. 184 
+ 
+Cabinet cannot exempt anyone from any provision of the Act itself; this can only be 
+done by regulation, if permitted. This is necessary to preserve the rule of law. 
+Xu v. Canada (Minister of Citizenship and Immigration) (April 13, 2000), Doc. IMM-
+6396-98 (Fed. T.D.) 
+ 
+The existence of the undertaking of support must be considered proof of support 
+and not proof of an ability of the sponsor to fulfill the undertaking. 
+A40(1)(a), (b), (c) and (d) 
+Jurisprudence 
+Bellido v. MCI. [2005] FC 452 
+ 
+Canada (Attorney General) v. Chanoine (1987), 4 Imm. L.R. (2d) 136, 15 F.T.R. 143 
+(Fed. T.D.). 
+ 
+A permanent resident has been defined as a person who has been granted landing 
+and who has not ceased to be a permanent resident pursuant to A46. 
+ 
+This case should be read in conjunction with Canada (Minister of Employment and 
+Immigration) v. Selby, [1981] 1 F.C. 273, 110 D.L.R. (3d) 126 (Fed. C.A.). 
+Canada (Minister of Citizenship and Immigration) v. Nemsila (1996), 35 Imm. L.R. (2d) 
+56, [1997] 1 F.C. 260, 118 F.T.R. 310 (Fed. T.D.), affirmed (1997), 38 Imm. L.R. (2d) 
+242, 3 Admin. L.R. (3d) 83, 214 N.R. 383 (Fed. C.A.) 
+ 
+Due to the fact that the applicant’s entry into Canada was based upon deception 
+and misrepresentation, they were not lawfully admitted to Canada and therefore 
+could not have gained “landing” within the meaning of the Act. Due to the fact the 
+respondent was never landed, he was held to never have acquired Canadian 
+domicile. 
+Canada (Minister of Employment and Immigration) v. Gudino (1981), [1982] 2 F.C. 40, 
+124 D.L.R. (3d) 748, 38 N.R. 361 (Fed. C.A.) 
+ 
+An applicant who obtains a visa under material circumstances that change (e.g., 
+loss of employer as sponsor) must report the change in circumstances to an 
+Immigration officer. 
+Canada (Minister of Employment and Immigration) v. Mercier (September 16, 1980), 
+Doc. 79-1243 (Imm. App. Bd.) 
+
+
+===== PAGE 60 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+60 
+ 
+A visa is no more than a stamp on a piece of paper issued outside Canada which 
+may give the holder a colour of right to come into Canada, but no more. Immigration 
+status is acquired at the port-of-entry. A change in marital status (from single to 
+married) is a material fact that must be disclosed. 
+Coombs v. Canada (Minister of Employment and Immigration), [1982] 1 F.C. 113 (Fed. 
+C.A.) 
+ 
+The question “Are you a resident of Canada?” does not necessarily mean 
+“permanent resident”. 
+D’Souza v. Canada (Minister of Employment and Immigration), [1983] 1 F.C. 343 (Fed. 
+C.A.) 
+ 
+An applicant need not be aware of a misrepresentation made on his behalf by 
+another in order to qualify under A40. 
+Devrim v. Canada (Minister of Employment and Immigration) (April 24, 1979), Doc. 78-
+6192 (Imm. App. Bd.) 
+ 
+A40(1)(a) imposes an obligation of absolute liability and thus the defence of due 
+diligence is not available. 
+Jaber v. Canada (Minister of Citizenship and Immigration) (1999), 3 Imm. L.R. (3d) 30, 
+[2000] 1 F.C. 603, 250 N.R. 235, 180 D.L.R. (4th) 683 (Fed. C.A.) 
+ 
+A person who obtains permanent residency via misrepresentation may appeal to 
+the Appeal Division of the IRB according to A63. 
+Khamsei v. Canada (Minister of Manpower & Immigration), [1981] 1 F.C. 222 (Fed. 
+C.A.) 
+ 
+Whether a misrepresentation was of a material fact is a question of fact. There does 
+not need to be direct evidence that a visa would not have been granted had there 
+been no misrepresentation. 
+ 
+An adjudicator will decide whether failure to disclose results in misrepresentation. 
+Medel v. Canada (Minister of Employment and Immigration) 10 Imm. L.R. (2d) 274, 
+[1990] 2 F.C. 345, 113 N.R. 1 (Fed. C.A.) 
+ 
+The applicant must subjectively know that they are withholding information. 
+Mohammed v. Canada (Minister of Citizenship and Immigration), [1997] 3 F.C. 299, 130 
+F.T.R. 294 (Fed. T.D.) 
+ 
+The Court rejected the argument that in order for there to be “misrepresentation” 
+there must be an act of concealment. One can misrepresent as easily and 
+effectively by silence as one can by actively stating a lie. 
+ 
+The Court rejected the argument that a misrepresentation must be knowingly or 
+willfully made. 
+Moore v. Canada (Minister of Employment and Immigration) (December 6, 1978), Doc. 
+78-3016 (Imm. App. Bd.) 
+ 
+The Board held that mens rea is not an element of A27(2)(g), at least insofar as the 
+disclosure of the existence of dependants is concerned. 
+
+
+===== PAGE 61 =====
+ENF 1 Inadmissibility 
+ 2013-09-04 
+ 
+61 
+A42(a) and (b) 
+Jurisprudence 
+Saini v. Canada (Minister of Manpower & Immigration) (1978), 22 N.R. 22, 86 D.L.R. 
+(3d) 492 (Fed. C.A.) 
+ 
+The Court, with the consent of counsel for the Crown, set aside a deportation order 
+against the wife of the applicant because she was not herself the subject of an A44 
+report. 

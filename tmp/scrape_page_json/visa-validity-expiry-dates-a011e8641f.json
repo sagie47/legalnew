@@ -1,0 +1,44 @@
+{
+  "source_id": "pdi_a011e8641f2c",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/visa-validity-expiry-dates.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/visa-validity-expiry-dates.html",
+  "title": "Temporary resident visa: validity (expiry dates)",
+  "language": "en",
+  "manual": "Temporary resident visa: validity (expiry dates)",
+  "chapter": null,
+  "heading_path": [
+    "Temporary resident visa: validity (expiry dates)"
+  ],
+  "last_updated": "2023-11-09",
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "3a317c53f08d9e46f7092c0934f58ab0f33b335e05b5101eb2e160080b68884a",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/visa-validity-expiry-dates-a011e8641f.md",
+  "text": "Published Time: Thu, 12 Feb 2026 00:33:17 GMT\n\nTemporary resident visa: validity (expiry dates)\n================================================\n\nThis section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.\n\nThe expiry date on the temporary resident visa (TRV) is the date by which the visa must be used to seek admission to Canada. If the visa is not used on or before that date, it ceases to be valid.\n\nThe validity date is **not** the suggested duration of the visit. At the port of entry examination, CBSA officers determine the length of time temporary residents are authorized to stay in Canada.\n\nTypically, when an officer is satisfied that the foreign national is admissible, entry is granted for a 6-month period, unless the national holds a super visa (PG-1 or letter of introduction from the visa office), in which case the period authorized for their stay is 5 years on each entry.\n\nValidity of stay upon re-entry\n------------------------------\n\nAs per paragraph [R190(3)(f)](http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-190.html?term=190), foreign nationals who are normally required to have TRVs to enter Canada are exempt from that requirement when they seek to re-enter, if, since leaving Canada after being authorized to enter as a temporary resident, they have **only** visited **St. Pierre and Miquelon** or **the United States (US)** (including the territories and possessions of the US, but not including cruises that enter international waters), and they\n\n* are returning **within the initial period authorized** by an officer or\n* are in possession of a **valid** visitor record (VR), work permit (WP), study permit (SP) or a temporary resident permit (TRP) (authorizing re-entry) and are returning **within the initial period authorized by an officer**\n\n**An example of paragraph R190(3)(f):** A foreign national in possession of a TRV valid for 1 year, who is subsequently issued a 4-year SP at a port of entry (POE), may leave and return to Canada after the expiry of the TRV as long as they have visited only the US or St. Pierre and Miquelon, and the SP is still valid.\n\n**Not an example of paragraph R190(3)(f):** A foreign national on a cruise ship departing from the US and entering international waters would not qualify for the visa exemption. They would require a valid TRV to re-enter Canada.\n\nUpon re-entry, foreign nationals must comply with all other admissibility requirements. If they visit any country other than the ones stated above, they are not TRV-exempt under this provision.\n\nIn determining the length of stay, the examining officers may\n\n* grant admission for an additional 6-month period or\n* refer to the initial period granted and limit the stay to that period (officer's discretion)\n\nPage details\n------------\n\n 2023-11-09",
+  "sections": [
+    {
+      "heading": "Temporary resident visa: validity (expiry dates)",
+      "heading_path": [
+        "Temporary resident visa: validity (expiry dates)"
+      ],
+      "anchor": "#temporary-resident-visa-validity-expiry-dates",
+      "text": "Published Time: Thu, 12 Feb 2026 00:33:17 GMT\n\nTemporary resident visa: validity (expiry dates)\n================================================\n\nThis section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.\n\nThe expiry date on the temporary resident visa (TRV) is the date by which the visa must be used to seek admission to Canada. If the visa is not used on or before that date, it ceases to be valid.\n\nThe validity date is **not** the suggested duration of the visit. At the port of entry examination, CBSA officers determine the length of time temporary residents are authorized to stay in Canada.\n\nTypically, when an officer is satisfied that the foreign national is admissible, entry is granted for a 6-month period, unless the national holds a super visa (PG-1 or letter of introduction from the visa office), in which case the period authorized for their stay is 5 years on each entry.\n\nValidity of stay upon re-entry\n------------------------------\n\nAs per paragraph [R190(3)(f)](http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-190.html?term=190), foreign nationals who are normally required to have TRVs to enter Canada are exempt from that requirement when they seek to re-enter, if, since leaving Canada after being authorized to enter as a temporary resident, they have **only** visited **St. Pierre and Miquelon** or **the United States (US)** (including the territories and possessions of the US, but not including cruises that enter international waters), and they\n\n* are returning **within the initial period authorized** by an officer or\n* are in possession of a **valid** visitor record (VR), work permit (WP), study permit (SP) or a temporary resident permit (TRP) (authorizing re-entry) and are returning **within the initial period authorized by an officer**\n\n**An example of paragraph R190(3)(f):** A foreign national in possession of a TRV valid for 1 year, who is subsequently issued a 4-year SP at a port of entry (POE), may leave and return to Canada after the expiry of the TRV as long as they have visited only the US or St. Pierre and Miquelon, and the SP is still valid.\n\n**Not an example of paragraph R190(3)(f):** A foreign national on a cruise ship departing from the US and entering international waters would not qualify for the visa exemption. They would require a valid TRV to re-enter Canada.\n\nUpon re-entry, foreign nationals must comply with all other admissibility requirements. If they visit any country other than the ones stated above, they are not TRV-exempt under this provision.\n\nIn determining the length of stay, the examining officers may\n\n* grant admission for an additional 6-month period or\n* refer to the initial period granted and limit the stay to that period (officer's discretion)\n\nPage details\n------------\n\n 2023-11-09"
+    }
+  ],
+  "links": {
+    "outbound": [
+      "http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-190.html?term=190"
+    ],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": false,
+    "notes": []
+  }
+}

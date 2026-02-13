@@ -1,0 +1,44 @@
+{
+  "source_id": "pdi_9d5931f95243",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/authorization-work-without-work-permit-examiners-evaluators.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/authorization-work-without-work-permit-examiners-evaluators.html",
+  "title": "International Mobility Program: Authorization to work without a work permit - Examiners and evaluators",
+  "language": "en",
+  "manual": "International Mobility Program: Authorization to work without a work permit",
+  "chapter": "Examiners and evaluators",
+  "heading_path": [
+    "International Mobility Program: Authorization to work without a work permit - Examiners and evaluators"
+  ],
+  "last_updated": "2017-10-16",
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "f3fbde7840ce7303ab261c2b4e87d5142e07bdc2737e0ce4c1b7c366a372c317",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/authorization-work-without-work-permit-examiners-evaluators-9d5931f952.md",
+  "text": "Published Time: Thu, 12 Feb 2026 00:35:49 GMT\n\nWarning: This page contains iframe that are currently hidden, consider enabling iframe processing.\nWarning: This page contains shadow DOM that are currently hidden, consider enabling shadow DOM processing.\n\nInternational Mobility Program: Authorization to work without a work permit - Examiners and evaluators\n======================================================================================================\n\nThis section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.\n\nParagraph [R186(_n_)](http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-186.html) allows eminent individuals who direct the studies and review the work done by university students that are under their tutelage to, on occasion, enter Canada to review their student’s thesis and papers. R186(_n_) also includes foreign professors and researchers seeking entry to evaluate academic university programs or research proposals [including evaluation of proposals from organizations such as the Natural Sciences and Engineering Research Council of Canada (NSERC)].\n\nPage details\n------------\n\n 2017-10-16",
+  "sections": [
+    {
+      "heading": "International Mobility Program: Authorization to work without a work permit - Examiners and evaluators",
+      "heading_path": [
+        "International Mobility Program: Authorization to work without a work permit - Examiners and evaluators"
+      ],
+      "anchor": "#international-mobility-program-authorization-to-work-without-a-work-permit-examiners-and-evaluators",
+      "text": "Published Time: Thu, 12 Feb 2026 00:35:49 GMT\n\nWarning: This page contains iframe that are currently hidden, consider enabling iframe processing.\nWarning: This page contains shadow DOM that are currently hidden, consider enabling shadow DOM processing.\n\nInternational Mobility Program: Authorization to work without a work permit - Examiners and evaluators\n======================================================================================================\n\nThis section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.\n\nParagraph [R186(_n_)](http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-186.html) allows eminent individuals who direct the studies and review the work done by university students that are under their tutelage to, on occasion, enter Canada to review their student’s thesis and papers. R186(_n_) also includes foreign professors and researchers seeking entry to evaluate academic university programs or research proposals [including evaluation of proposals from organizations such as the Natural Sciences and Engineering Research Council of Canada (NSERC)].\n\nPage details\n------------\n\n 2017-10-16"
+    }
+  ],
+  "links": {
+    "outbound": [
+      "http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-186.html"
+    ],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": false,
+    "notes": []
+  }
+}

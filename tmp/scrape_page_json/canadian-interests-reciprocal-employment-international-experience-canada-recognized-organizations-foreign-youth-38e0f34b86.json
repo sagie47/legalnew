@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_38e0f34b8651",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/international-experience/canadian-interests-reciprocal-employment-international-experience-canada-recognized-organizations-foreign-youth.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/international-experience/canadian-interests-reciprocal-employment-international-experience-canada-recognized-organizations-foreign-youth.html",
+  "title": "Recognized organizations for foreign youth – IEC [R205(b) - C21] – Reciprocity – International Mobility Program",
+  "language": "en",
+  "manual": "Recognized organizations for foreign youth – IEC [R205(b)",
+  "chapter": "C21] – Reciprocity – International Mobility Program",
+  "heading_path": [
+    "Recognized organizations for foreign youth – IEC [R205(b) - C21] – Reciprocity – International Mobility Program"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "a8ac1ca3ab3fe2cba0a9a11abc7466d8facacccf68855b827fdc107983564b6a",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/canadian-interests-reciprocal-employment-international-experience-canada-recognized-organizations-foreign-youth-38e0f34b86.md",
+  "text": "Recognized organizations for foreign youth – IEC [R205(b) - C21] – Reciprocity – International Mobility Program",
+  "sections": [
+    {
+      "heading": "Recognized organizations for foreign youth – IEC [R205(b) - C21] – Reciprocity – International Mobility Program",
+      "heading_path": [
+        "Recognized organizations for foreign youth – IEC [R205(b) - C21] – Reciprocity – International Mobility Program"
+      ],
+      "anchor": "#recognized-organizations-for-foreign-youth-iec-r205-b-c21-reciprocity-international-mobility-program",
+      "text": "Recognized organizations for foreign youth – IEC [R205(b) - C21] – Reciprocity – International Mobility Program"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

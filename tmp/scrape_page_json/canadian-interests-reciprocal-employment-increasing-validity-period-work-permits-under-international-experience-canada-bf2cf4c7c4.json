@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_bf2cf4c7c4d2",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/international-experience/canadian-interests-reciprocal-employment-increasing-validity-period-work-permits-under-international-experience-canada.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/international-experience/canadian-interests-reciprocal-employment-increasing-validity-period-work-permits-under-international-experience-canada.html",
+  "title": "Extending the period of participation or changing employers – IEC [R204(d) - C21] – Reciprocity – International Mobility Program",
+  "language": "en",
+  "manual": "Extending the period of participation or changing employers – IEC [R204(d)",
+  "chapter": "C21] – Reciprocity – International Mobility Program",
+  "heading_path": [
+    "Extending the period of participation or changing employers – IEC [R204(d) - C21] – Reciprocity – International Mobility Program"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "eff287b68c1d259e73f7f039cc0c49d6b33ebee28fabb1c70fb0950b276af48e",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/canadian-interests-reciprocal-employment-increasing-validity-period-work-permits-under-international-experience-canada-bf2cf4c7c4.md",
+  "text": "Extending the period of participation or changing employers – IEC [R204(d) - C21] – Reciprocity – International Mobility Program",
+  "sections": [
+    {
+      "heading": "Extending the period of participation or changing employers – IEC [R204(d) - C21] – Reciprocity – International Mobility Program",
+      "heading_path": [
+        "Extending the period of participation or changing employers – IEC [R204(d) - C21] – Reciprocity – International Mobility Program"
+      ],
+      "anchor": "#extending-the-period-of-participation-or-changing-employers-iec-r204-d-c21-reciprocity-international-mobility-program",
+      "text": "Extending the period of participation or changing employers – IEC [R204(d) - C21] – Reciprocity – International Mobility Program"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

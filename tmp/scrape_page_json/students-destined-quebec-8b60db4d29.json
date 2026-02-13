@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_8b60db4d2958",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/students-destined-quebec.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/students-destined-quebec.html",
+  "title": "Study permits: Students destined to Quebec",
+  "language": "en",
+  "manual": "Study permits: Students destined to Quebec",
+  "chapter": null,
+  "heading_path": [
+    "Study permits: Students destined to Quebec"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "3e8938d60bc3b95abb2f42e9c18e51da41db72305982da29528d48d32a135751",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/students-destined-quebec-8b60db4d29.md",
+  "text": "Study permits: Students destined to Quebec",
+  "sections": [
+    {
+      "heading": "Study permits: Students destined to Quebec",
+      "heading_path": [
+        "Study permits: Students destined to Quebec"
+      ],
+      "anchor": "#study-permits-students-destined-to-quebec",
+      "text": "Study permits: Students destined to Quebec"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

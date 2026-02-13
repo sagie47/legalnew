@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_1f54952b05ed",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/business/sales.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/business/sales.html",
+  "title": "International Mobility Program: Sales",
+  "language": "en",
+  "manual": "International Mobility Program: Sales",
+  "chapter": null,
+  "heading_path": [
+    "International Mobility Program: Sales"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "4243acbedddea2ca703385681584aa76208c017de1f92e9c41f2e2b854d0ac3d",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/sales-1f54952b05.md",
+  "text": "International Mobility Program: Sales",
+  "sections": [
+    {
+      "heading": "International Mobility Program: Sales",
+      "heading_path": [
+        "International Mobility Program: Sales"
+      ],
+      "anchor": "#international-mobility-program-sales",
+      "text": "International Mobility Program: Sales"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

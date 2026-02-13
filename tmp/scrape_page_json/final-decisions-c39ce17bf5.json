@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_c39ce17bf5b4",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/final-decisions.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/final-decisions.html",
+  "title": "Study permits: Final decisions",
+  "language": "en",
+  "manual": "Study permits: Final decisions",
+  "chapter": null,
+  "heading_path": [
+    "Study permits: Final decisions"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "ed0d549fd829ffed59e7b9a515e47c9b833fb20baa785682fcbc00e82ac2ca38",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/final-decisions-c39ce17bf5.md",
+  "text": "Study permits: Final decisions",
+  "sections": [
+    {
+      "heading": "Study permits: Final decisions",
+      "heading_path": [
+        "Study permits: Final decisions"
+      ],
+      "anchor": "#study-permits-final-decisions",
+      "text": "Study permits: Final decisions"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "source_id": "pdi_d416d697b112",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/convention-organizers.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/convention-organizers.html",
+  "title": "International Mobility Program: Authorization to work without a work permit – Convention organizers",
+  "language": "en",
+  "manual": "International Mobility Program: Authorization to work without a work permit – Convention organizers",
+  "chapter": null,
+  "heading_path": [
+    "International Mobility Program: Authorization to work without a work permit – Convention organizers"
+  ],
+  "last_updated": "2017-10-16",
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "a909490e35466a840eb88bf73c34e93666d204d48ace44cca49f17cfb4a9b5fe",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/convention-organizers-d416d697b1.md",
+  "text": "Published Time: Thu, 12 Feb 2026 00:35:44 GMT\n\nInternational Mobility Program: Authorization to work without a work permit – Convention organizers\n===================================================================================================\n\nThis section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.\n\nParagraph [R186(_k_)](http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-186.html) applies to persons organizing a convention or conference, and to administrative support staff of the organizing committee. The types of event which are covered are association and corporate meetings and congresses, incentive meetings, trade shows or exhibitions and consumer exhibitions/shows. It should be noted that R186(_k_) does **not** apply to “hands-on” service providers such as those who provide audio-visual services, installation and dismantling, show decorating or services, or exhibit builders.\n\nForeign convention organizers working for a Canadian event are not eligible for a work permit exemption under R186(_k_). A Canadian event is one being held by an organization which is located in Canada. The organization must be actively doing business in Canada. If an event is conducted by a Canadian branch or a subsidiary of a foreign based organization, then it is a Canadian event (and employees of the foreign branch would require a work permit to work on the event in Canada).\n\nSee [_International Mobility Program: Sales_](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/business/sales.html), which includes guidelines for sales and other jobs related to conventions.\n\n**Note:** Persons and delegates attending a conference or meeting are exempt from the requirement for a work permit pursuant to R186(a).\n\nPage details\n------------\n\n 2017-10-16",
+  "sections": [
+    {
+      "heading": "International Mobility Program: Authorization to work without a work permit – Convention organizers",
+      "heading_path": [
+        "International Mobility Program: Authorization to work without a work permit – Convention organizers"
+      ],
+      "anchor": "#international-mobility-program-authorization-to-work-without-a-work-permit-convention-organizers",
+      "text": "Published Time: Thu, 12 Feb 2026 00:35:44 GMT\n\nInternational Mobility Program: Authorization to work without a work permit – Convention organizers\n===================================================================================================\n\nThis section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.\n\nParagraph [R186(_k_)](http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-186.html) applies to persons organizing a convention or conference, and to administrative support staff of the organizing committee. The types of event which are covered are association and corporate meetings and congresses, incentive meetings, trade shows or exhibitions and consumer exhibitions/shows. It should be noted that R186(_k_) does **not** apply to “hands-on” service providers such as those who provide audio-visual services, installation and dismantling, show decorating or services, or exhibit builders.\n\nForeign convention organizers working for a Canadian event are not eligible for a work permit exemption under R186(_k_). A Canadian event is one being held by an organization which is located in Canada. The organization must be actively doing business in Canada. If an event is conducted by a Canadian branch or a subsidiary of a foreign based organization, then it is a Canadian event (and employees of the foreign branch would require a work permit to work on the event in Canada).\n\nSee [_International Mobility Program: Sales_](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/business/sales.html), which includes guidelines for sales and other jobs related to conventions.\n\n**Note:** Persons and delegates attending a conference or meeting are exempt from the requirement for a work permit pursuant to R186(a).\n\nPage details\n------------\n\n 2017-10-16"
+    }
+  ],
+  "links": {
+    "outbound": [
+      "http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-186.html",
+      "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/business/sales.html"
+    ],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": false,
+    "notes": []
+  }
+}

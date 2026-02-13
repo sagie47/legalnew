@@ -1,0 +1,94 @@
+{
+  "source_id": "pdi_a8cdb52f46db",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/table-contents.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/table-contents.html",
+  "title": "Table of Contents - Operations Manual",
+  "language": "en",
+  "manual": "Table of Contents",
+  "chapter": "Operations Manual",
+  "heading_path": [
+    "Table of Contents - Operations Manual"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-13T00:22:39.926960+00:00",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "5bd71b798735c6921d8467b8dd37b54749237e264246a8dddabdd283bdbfabef",
+  "raw_html_path": null,
+  "markdown_path": "fixtures/toc_heavy.md",
+  "text": "# Table of Contents\n\n## Part 1: Temporary Residents\n\n### Chapter 1: Work Permits\n1.1. Employer-specific work permits...... 5\n1.2. Open work permits................. 15\n1.3. Post-graduation work permits...... 25\n\n### Chapter 2: Study Permits\n2.1. General requirements.............. 35\n2.2. Designated learning institutions... 45\n2.3. Study permit conditions............ 55\n\n### Chapter 3: Visitor Visas\n3.1. Temporary resident visas........... 65\n3.2. Electronic travel authorization.... 75\n3.3. Super visa requirements............ 85\n\n## Part 2: Permanent Residents\n\n### Chapter 4: Express Entry\n4.1. Federal Skilled Worker............ 95\n4.2. Federal Skilled Trades............ 105\n4.3. Canadian Experience Class......... 115\n\n### Chapter 5: Provincial Nominees\n5.1. Nomination programs............... 125\n5.2. Express Entry-linked streams...... 135\n\n## Part 3: Citizenship\n\n### Chapter 6: Citizenship Grants\n6.1. Eligibility requirements........... 145\n6.2. Application process............... 155\n6.3. Citizenship tests................. 165",
+  "sections": [
+    {
+      "heading": "Chapter 1: Work Permits",
+      "heading_path": [
+        "Table of Contents",
+        "Part 1: Temporary Residents",
+        "Chapter 1: Work Permits"
+      ],
+      "anchor": "#chapter-1-work-permits",
+      "text": "1.1. Employer-specific work permits...... 5\n1.2. Open work permits................. 15\n1.3. Post-graduation work permits...... 25"
+    },
+    {
+      "heading": "Chapter 2: Study Permits",
+      "heading_path": [
+        "Table of Contents",
+        "Part 1: Temporary Residents",
+        "Chapter 2: Study Permits"
+      ],
+      "anchor": "#chapter-2-study-permits",
+      "text": "2.1. General requirements.............. 35\n2.2. Designated learning institutions... 45\n2.3. Study permit conditions............ 55"
+    },
+    {
+      "heading": "Chapter 3: Visitor Visas",
+      "heading_path": [
+        "Table of Contents",
+        "Part 1: Temporary Residents",
+        "Chapter 3: Visitor Visas"
+      ],
+      "anchor": "#chapter-3-visitor-visas",
+      "text": "3.1. Temporary resident visas........... 65\n3.2. Electronic travel authorization.... 75\n3.3. Super visa requirements............ 85"
+    },
+    {
+      "heading": "Chapter 4: Express Entry",
+      "heading_path": [
+        "Table of Contents",
+        "Part 2: Permanent Residents",
+        "Chapter 4: Express Entry"
+      ],
+      "anchor": "#chapter-4-express-entry",
+      "text": "4.1. Federal Skilled Worker............ 95\n4.2. Federal Skilled Trades............ 105\n4.3. Canadian Experience Class......... 115"
+    },
+    {
+      "heading": "Chapter 5: Provincial Nominees",
+      "heading_path": [
+        "Table of Contents",
+        "Part 2: Permanent Residents",
+        "Chapter 5: Provincial Nominees"
+      ],
+      "anchor": "#chapter-5-provincial-nominees",
+      "text": "5.1. Nomination programs............... 125\n5.2. Express Entry-linked streams...... 135"
+    },
+    {
+      "heading": "Chapter 6: Citizenship Grants",
+      "heading_path": [
+        "Table of Contents",
+        "Part 3: Citizenship",
+        "Chapter 6: Citizenship Grants"
+      ],
+      "anchor": "#chapter-6-citizenship-grants",
+      "text": "6.1. Eligibility requirements........... 145\n6.2. Application process............... 155\n6.3. Citizenship tests................. 165"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": true,
+    "is_low_text": false,
+    "notes": []
+  }
+}

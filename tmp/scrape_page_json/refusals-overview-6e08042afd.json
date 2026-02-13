@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_6e08042afd49",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/refusals-overview.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/refusals-overview.html",
+  "title": "Temporary residents – Refusals overview",
+  "language": "en",
+  "manual": "Temporary residents – Refusals overview",
+  "chapter": null,
+  "heading_path": [
+    "Temporary residents – Refusals overview"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "fb0dd86e2812f9e6403799e1d24e34471d2f8056bf0ae559ec57c6e2c3ed7d55",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/refusals-overview-6e08042afd.md",
+  "text": "Temporary residents – Refusals overview",
+  "sections": [
+    {
+      "heading": "Temporary residents – Refusals overview",
+      "heading_path": [
+        "Temporary residents – Refusals overview"
+      ],
+      "anchor": "#temporary-residents-refusals-overview",
+      "text": "Temporary residents – Refusals overview"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

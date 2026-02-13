@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_cd1825f393c7",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/refusal-port-entry.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/refusal-port-entry.html",
+  "title": "Temporary residents: Refusal at the Port of Entry",
+  "language": "en",
+  "manual": "Temporary residents: Refusal at the Port of Entry",
+  "chapter": null,
+  "heading_path": [
+    "Temporary residents: Refusal at the Port of Entry"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "0cd132ee05e585f02e422a49bc8d51c886d94e6af5d3cf125ede66f866c1479f",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/refusal-port-entry-cd1825f393.md",
+  "text": "Temporary residents: Refusal at the Port of Entry",
+  "sections": [
+    {
+      "heading": "Temporary residents: Refusal at the Port of Entry",
+      "heading_path": [
+        "Temporary residents: Refusal at the Port of Entry"
+      ],
+      "anchor": "#temporary-residents-refusal-at-the-port-of-entry",
+      "text": "Temporary residents: Refusal at the Port of Entry"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

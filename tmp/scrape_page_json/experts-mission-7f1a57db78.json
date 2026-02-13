@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_7f1a57db7813",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/unique-situations/experts-mission.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/unique-situations/experts-mission.html",
+  "title": "Experts on mission working for a United Nations office in Canada [R205(a) - C10] – Canadian interests – International Mobility Program",
+  "language": "en",
+  "manual": "Experts on mission working for a United Nations office in Canada [R205(a)",
+  "chapter": "C10] – Canadian interests – International Mobility Program",
+  "heading_path": [
+    "Experts on mission working for a United Nations office in Canada [R205(a) - C10] – Canadian interests – International Mobility Program"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "42f486845b52b12cc0eb74f43f7cd7fb9bde120b3cb0bdd7624e91185306863c",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/experts-mission-7f1a57db78.md",
+  "text": "Experts on mission working for a United Nations office in Canada [R205(a) - C10] – Canadian interests – International Mobility Program",
+  "sections": [
+    {
+      "heading": "Experts on mission working for a United Nations office in Canada [R205(a) - C10] – Canadian interests – International Mobility Program",
+      "heading_path": [
+        "Experts on mission working for a United Nations office in Canada [R205(a) - C10] – Canadian interests – International Mobility Program"
+      ],
+      "anchor": "#experts-on-mission-working-for-a-united-nations-office-in-canada-r205-a-c10-canadian-interests-international-mobility-program",
+      "text": "Experts on mission working for a United Nations office in Canada [R205(a) - C10] – Canadian interests – International Mobility Program"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

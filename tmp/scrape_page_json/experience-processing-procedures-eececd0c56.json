@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_eececd0c565a",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/experience-processing-procedures.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/experience-processing-procedures.html",
+  "title": "Processing applications: International Experience Canada (IEC) [R204(d) – C21] – International Mobility Program",
+  "language": "en",
+  "manual": "Processing applications: International Experience Canada (IEC) [R204(d) – C21] – International Mobility Program",
+  "chapter": null,
+  "heading_path": [
+    "Processing applications: International Experience Canada (IEC) [R204(d) – C21] – International Mobility Program"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "92bffeb45e863f175bc284059452fad98216eeaab4bc0635758a52e4661468cc",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/experience-processing-procedures-eececd0c56.md",
+  "text": "Processing applications: International Experience Canada (IEC) [R204(d) – C21] – International Mobility Program",
+  "sections": [
+    {
+      "heading": "Processing applications: International Experience Canada (IEC) [R204(d) – C21] – International Mobility Program",
+      "heading_path": [
+        "Processing applications: International Experience Canada (IEC) [R204(d) – C21] – International Mobility Program"
+      ],
+      "anchor": "#processing-applications-international-experience-canada-iec-r204-d-c21-international-mobility-program",
+      "text": "Processing applications: International Experience Canada (IEC) [R204(d) – C21] – International Mobility Program"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

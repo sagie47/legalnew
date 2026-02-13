@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_76c20b74d622",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/what-is-work.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/what-is-work.html",
+  "title": "Temporary Foreign Worker and International Mobility Programs: What is work?",
+  "language": "en",
+  "manual": "Temporary Foreign Worker and International Mobility Programs: What is work?",
+  "chapter": null,
+  "heading_path": [
+    "Temporary Foreign Worker and International Mobility Programs: What is work?"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "2e1463d0bba69a3249782c9f5b2751ce30e099553a6d0cfcfe67db61f95ac2ca",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/what-is-work-76c20b74d6.md",
+  "text": "Temporary Foreign Worker and International Mobility Programs: What is work?",
+  "sections": [
+    {
+      "heading": "Temporary Foreign Worker and International Mobility Programs: What is work?",
+      "heading_path": [
+        "Temporary Foreign Worker and International Mobility Programs: What is work?"
+      ],
+      "anchor": "#temporary-foreign-worker-and-international-mobility-programs-what-is-work",
+      "text": "Temporary Foreign Worker and International Mobility Programs: What is work?"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

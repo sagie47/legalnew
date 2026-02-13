@@ -1,0 +1,47 @@
+{
+  "source_id": "pdi_b29dc8d9b31c",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/without-visa.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/without-visa.html",
+  "title": "Transit through Canada without a visa",
+  "language": "en",
+  "manual": "Transit through Canada without a visa",
+  "chapter": null,
+  "heading_path": [
+    "Transit through Canada without a visa"
+  ],
+  "last_updated": "2019-08-28",
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "60d6f34090040404063ca70b1ff3a8a54cf8ba4e4b26c3773700dedc0ab801d8",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/without-visa-b29dc8d9b3.md",
+  "text": "Published Time: Wed, 11 Feb 2026 22:37:45 GMT\n\nTransit through Canada without a visa\n=====================================\n\nYou may be eligible to transit through a Canadian airport without a visa if you are travelling to and from the United States (U.S.), and meet certain requirements.\n\nSee if you’re eligible to transit without a visa\n------------------------------------------------\n\nFind out if you are eligible to transit through a Canadian airport without a visa through the:\n\n* [Transit Without Visa Program](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/without-visa/eligibility.html)\n* [China Transit Program](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/without-visa/china-transit-eligibility.html)\n\nTake part as an airport authority or airline\n--------------------------------------------\n\nFind out how an airport authority or airline can take part in the:\n\n* [Transit Without Visa Program](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/without-visa/airport-authority-airline.html)\n* [China Transit Program](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/without-visa/china-transit-airport-authority-airline.html)\n\nFeatures\n--------\n\nPage details\n------------\n\n 2019-08-28",
+  "sections": [
+    {
+      "heading": "Transit through Canada without a visa",
+      "heading_path": [
+        "Transit through Canada without a visa"
+      ],
+      "anchor": "#transit-through-canada-without-a-visa",
+      "text": "Published Time: Wed, 11 Feb 2026 22:37:45 GMT\n\nTransit through Canada without a visa\n=====================================\n\nYou may be eligible to transit through a Canadian airport without a visa if you are travelling to and from the United States (U.S.), and meet certain requirements.\n\nSee if you’re eligible to transit without a visa\n------------------------------------------------\n\nFind out if you are eligible to transit through a Canadian airport without a visa through the:\n\n* [Transit Without Visa Program](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/without-visa/eligibility.html)\n* [China Transit Program](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/without-visa/china-transit-eligibility.html)\n\nTake part as an airport authority or airline\n--------------------------------------------\n\nFind out how an airport authority or airline can take part in the:\n\n* [Transit Without Visa Program](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/without-visa/airport-authority-airline.html)\n* [China Transit Program](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/without-visa/china-transit-airport-authority-airline.html)\n\nFeatures\n--------\n\nPage details\n------------\n\n 2019-08-28"
+    }
+  ],
+  "links": {
+    "outbound": [
+      "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/without-visa/eligibility.html",
+      "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/without-visa/china-transit-eligibility.html",
+      "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/without-visa/airport-authority-airline.html",
+      "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/without-visa/china-transit-airport-authority-airline.html"
+    ],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": false,
+    "notes": []
+  }
+}

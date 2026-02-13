@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_2304e4968245",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/bilingual-remarks-observations.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/bilingual-remarks-observations.html",
+  "title": "Bilingual Remarks/Observations for Visitor Records, Work Permits and Study Permits",
+  "language": "en",
+  "manual": "Bilingual Remarks/Observations for Visitor Records, Work Permits and Study Permits",
+  "chapter": null,
+  "heading_path": [
+    "Bilingual Remarks/Observations for Visitor Records, Work Permits and Study Permits"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "46d1c6812d94a3a2bc5c96cc379333bea925cf19c4f9960fb382d386ecc63d1d",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/bilingual-remarks-observations-2304e49682.md",
+  "text": "Bilingual Remarks/Observations for Visitor Records, Work Permits and Study Permits",
+  "sections": [
+    {
+      "heading": "Bilingual Remarks/Observations for Visitor Records, Work Permits and Study Permits",
+      "heading_path": [
+        "Bilingual Remarks/Observations for Visitor Records, Work Permits and Study Permits"
+      ],
+      "anchor": "#bilingual-remarks-observations-for-visitor-records-work-permits-and-study-permits",
+      "text": "Bilingual Remarks/Observations for Visitor Records, Work Permits and Study Permits"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

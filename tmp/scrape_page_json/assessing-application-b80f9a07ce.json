@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_b80f9a07cef2",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/assessing-application.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/assessing-application.html",
+  "title": "Study permits: Assessing the application",
+  "language": "en",
+  "manual": "Study permits: Assessing the application",
+  "chapter": null,
+  "heading_path": [
+    "Study permits: Assessing the application"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "2dbbea12cb71d8405673115a9f360f8239b61380886c2b4e3753b5ebda649054",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/assessing-application-b80f9a07ce.md",
+  "text": "Study permits: Assessing the application",
+  "sections": [
+    {
+      "heading": "Study permits: Assessing the application",
+      "heading_path": [
+        "Study permits: Assessing the application"
+      ],
+      "anchor": "#study-permits-assessing-the-application",
+      "text": "Study permits: Assessing the application"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

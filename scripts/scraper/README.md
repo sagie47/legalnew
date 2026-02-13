@@ -112,6 +112,28 @@ python bulk_ingest.py list "https://.../page1.html" "https://.../page2.html"
 - `failed_urls.json`
 - `_crawl_state.json`
 
+## Page JSON Prep (Pre-Chunking)
+
+Export page-level JSON from scraped markdown:
+```bash
+python export_page_json.py \
+  --input-dir scripts/scraper/ircc_data_clean \
+  --output-dir tmp/scrape_page_json
+```
+
+Validate JSON contract:
+```bash
+python validate_scrape_json.py tmp/scrape_page_json
+```
+
+Generate quality report:
+```bash
+python report_quality.py tmp/scrape_page_json > tmp/scrape_page_json/quality_report.json
+```
+
+Contract doc:
+- `SCRAPE_JSON_CONTRACT.md`
+
 `bulk_ingest.py` writes into `data/`.
 
 ## Rate Limiting

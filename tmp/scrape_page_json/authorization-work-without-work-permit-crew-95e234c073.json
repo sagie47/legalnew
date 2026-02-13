@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_95e234c0739e",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/authorization-work-without-work-permit-crew.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/authorization-work-without-work-permit-crew.html",
+  "title": "Work related to transportation (marine, land, or air travel)",
+  "language": "en",
+  "manual": "Work related to transportation (marine, land, or air travel)",
+  "chapter": null,
+  "heading_path": [
+    "Work related to transportation (marine, land, or air travel)"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "3a64f2f3d928c04d69dcae5fb4c79d85f0dbea2142014739c76b81853adc0883",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/authorization-work-without-work-permit-crew-95e234c073.md",
+  "text": "Work related to transportation (marine, land, or air travel)",
+  "sections": [
+    {
+      "heading": "Work related to transportation (marine, land, or air travel)",
+      "heading_path": [
+        "Work related to transportation (marine, land, or air travel)"
+      ],
+      "anchor": "#work-related-to-transportation-marine-land-or-air-travel",
+      "text": "Work related to transportation (marine, land, or air travel)"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

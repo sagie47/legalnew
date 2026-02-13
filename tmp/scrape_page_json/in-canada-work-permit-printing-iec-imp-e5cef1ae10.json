@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_e5cef1ae10d6",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/international-experience/in-canada-work-permit-printing-iec-imp.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/international-experience/in-canada-work-permit-printing-iec-imp.html",
+  "title": "In-Canada work permit printing for subsequent International Experience Canada (IEC) participants – IEC [R204(d) – C21] – Reciprocity – International Mobility Program (IMP)",
+  "language": "en",
+  "manual": "In",
+  "chapter": "Canada work permit printing for subsequent International Experience Canada (IEC) participants – IEC [R204(d) – C21] – Reciprocity – International Mobility Program (IMP)",
+  "heading_path": [
+    "In-Canada work permit printing for subsequent International Experience Canada (IEC) participants – IEC [R204(d) – C21] – Reciprocity – International Mobility Program (IMP)"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "92648be098f69e0c3478205c1f8ea1fd7d7e588f8d5b7ccab72c33af2cde5cc7",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/in-canada-work-permit-printing-iec-imp-e5cef1ae10.md",
+  "text": "In-Canada work permit printing for subsequent International Experience Canada (IEC) participants – IEC [R204(d) – C21] – Reciprocity – International Mobility Program (IMP)",
+  "sections": [
+    {
+      "heading": "In-Canada work permit printing for subsequent International Experience Canada (IEC) participants – IEC [R204(d) – C21] – Reciprocity – International Mobility Program (IMP)",
+      "heading_path": [
+        "In-Canada work permit printing for subsequent International Experience Canada (IEC) participants – IEC [R204(d) – C21] – Reciprocity – International Mobility Program (IMP)"
+      ],
+      "anchor": "#in-canada-work-permit-printing-for-subsequent-international-experience-canada-iec-participants-iec-r204-d-c21-reciprocity-international-mobility-program-imp",
+      "text": "In-Canada work permit printing for subsequent International Experience Canada (IEC) participants – IEC [R204(d) – C21] – Reciprocity – International Mobility Program (IMP)"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

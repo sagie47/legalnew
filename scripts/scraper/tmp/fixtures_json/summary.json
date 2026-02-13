@@ -1,0 +1,9 @@
+{
+  "input_dir": "/workspaces/legalnew/scripts/scraper/fixtures",
+  "output_dir": "/workspaces/legalnew/scripts/scraper/tmp/fixtures_json",
+  "files_discovered": 4,
+  "files_attempted": 4,
+  "files_exported": 4,
+  "files_failed": 0,
+  "timestamp": "2026-02-13T00:22:39.927561+00:00"
+}

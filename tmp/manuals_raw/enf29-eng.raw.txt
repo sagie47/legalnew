@@ -1,0 +1,1632 @@
+
+
+===== PAGE 1 =====
+ENF 29
+Alternative Means of Examination 
+Programs
+
+
+===== PAGE 2 =====
+ENF 29 Alternative Means of Examination Programs 
+ 
+2005-06-17 
+ 
+1 
+1. 
+What this chapter is about .....................................................................................................................2 
+2. 
+Program objectives ................................................................................................................................2 
+3. 
+The Act and Regulations........................................................................................................................2 
+3.1. 
+Forms required ............................................................................................................................3 
+4. 
+Instruments and delegations..................................................................................................................3 
+5. 
+Departmental policy ...............................................................................................................................3 
+6. 
+Definitions ..............................................................................................................................................3 
+6.1. 
+Overview of programs..................................................................................................................4 
+7. 
+Procedures: CBSA Immigration Processing Centre..............................................................................7 
+7.1. 
+Overview......................................................................................................................................7 
+7.2. 
+Risk assessment..........................................................................................................................7 
+7.3. 
+FOSS ...........................................................................................................................................7 
+7.4. 
+Permanent residents....................................................................................................................8 
+7.5. 
+Residency obligation....................................................................................................................8 
+7.6. 
+Criminality ....................................................................................................................................9 
+7.7. 
+Pending applications..................................................................................................................10 
+7.8. 
+Correspondence to applicants...................................................................................................10 
+7.9. 
+Correspondence from applicants...............................................................................................10 
+7.10. 
+Canadian citizens ......................................................................................................................10 
+7.11. 
+Immigration violations................................................................................................................11 
+7.12. 
+Approved applications ...............................................................................................................11 
+7.13. 
+Self-disclosure (Risk assessment phase)..................................................................................11 
+7.14. 
+Denied applications ...................................................................................................................11 
+7.15. 
+Rehabilitation counselling..........................................................................................................12 
+7.16. 
+Non-computer-based entries (NCB) in FOSS ...........................................................................12 
+7.17. 
+Additional risk assessment at the CBSA IPC ............................................................................12 
+7.18. 
+Yearly review .............................................................................................................................12 
+8. 
+Procedures: Enrolment phase .............................................................................................................13 
+8.1. 
+Overview....................................................................................................................................13 
+8.2. 
+Interview process.......................................................................................................................13 
+8.3. 
+Additional risk assessment at the EC........................................................................................14 
+8.4. 
+Biometrics ..................................................................................................................................15 
+8.5. 
+Membership counselling............................................................................................................15 
+8.6. 
+The membership card................................................................................................................16 
+9. 
+Passage ...............................................................................................................................................16 
+9.1. 
+Technology at passage..............................................................................................................16 
+9.2. 
+Referrals ....................................................................................................................................16 
+9.3. 
+Seizure of participant membership card....................................................................................17 
+Appendix 
+A Immigration violations ........................................................................................................18 
+Appendix 
+B  Letter requesting additional information to determine admissibility and residency ..........20 
+Appendix 
+C Standard format of NCB entries into FOSS.......................................................................21 
+Appendix 
+D Residency obligation for permanent residents ..................................................................22 
+Appendix 
+E  Request for Residency Determination Form.....................................................................24 
+Appendix 
+F FOSS Results Form...........................................................................................................25 
+Appendix 
+G Contact information for the Criminal Rehabilitation Processing Centre ............................26 
+Appendix 
+H AME SECURITY REVIEW FORM.....................................................................................27 
+
+
+===== PAGE 3 =====
+ENF 29 Alternative Means of Examination Programs 
+ 
+2005-06-17 
+ 
+2 
+ 
+1. 
+What this chapter is about  
+This chapter provides functional direction and guidance to Canada Border Services Agency 
+(CBSA) officers, managers and others with regard to the alternative means of examination (AME) 
+programs.  These programs were previously referred to as alternate inspection systems (AIS). 
+2. 
+Program objectives  
+Advanced screening programs and procedures are tools that enhance the orderly flow of low-risk 
+travellers seeking entry into Canada and the United States depending on the AME program.  Pre-
+screening programs such as CANPASS, NEXUS, Free and Secure Trade (FAST) and 
+Commercial Driver Registration Program (CDRP) are available to pre-approved citizens and 
+permanent residents of Canada or the U.S. Such programs are designed to expedite the entry of 
+authorized persons without having to proceed through the traditional customs and immigration 
+examination process. 
+NEXUS programs and FAST stem from the Canada-United States of America Accord on Our 
+Shared Border (SBA) and are some of the initiatives of the Smart Border Declaration's (SBD) 32-
+Point Plan.  More information about the SBD can be found at the following link:   
+http://www.dfait.gc.ca/can-am/menu-en.asp?mid=1&cat=10 
+The CANPASS programs are initiatives under the Customs Action Plan (CAP) that are based on 
+a risk-assessment system that allow customs and immigration to streamline the processing of 
+low-risk travellers and focus resources on higher or unknown risks. More information about the 
+CAP can be found at the following link: 
+http://www.cbsa-asfc.gc.ca/general/blue_print/menu-e.html 
+3. 
+The Act and Regulations  
+ 
+For more information about:  
+Refer to: 
+Notes: 
+Alternative means of examination  
+R38(a), R38(b), R38(g), R38(h) 
+Previously referred to as alternate 
+inspection systems (AIS) 
+Authorization to present himself or 
+herself in an alternative manner 
+Subsection 11.1(1) of the 
+Customs Act 
+ 
+Examination by officer where 
+person makes an application 
+A15(1), R28(a) 
+ 
+Report on inadmissibility 
+A44(1) 
+ 
+Residency obligation 
+A28 
+ 
+Examination by officer 
+A18(1) 
+ 
+Seizure 
+A140(1) 
+Authority to seize or hold an  AME 
+membership card or document 
+Where an application is made in 
+writing 
+R28(a) 
+For the purpose of A15(1) 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 4 =====
+ENF 29 Alternative Means of Examination Programs 
+ 
+2005-06-17 
+ 
+3 
+A18(1) states:  
+18(1) Every person seeking to enter Canada must appear for an examination to 
+determine whether that person has a right to enter Canada or is or may become 
+authorized to enter and remain in Canada.   
+This requirement is satisfied once the person has been risk assessed by officers of the CBSA 
+Immigration Processing Centre (CBSA IPC) and/or the Enrolment Centre (EC).  A15(1) 
+authorizes an officer to proceed with an examination where a person makes an application to the 
+officer.   
+R28(a) stipulates that a person makes an application in accordance with the Act by submitting an 
+application in writing. R38 provides the legislative authority for an officer to allow a person to be 
+examined by the means indicated as alternative to appearing for an examination by an officer at a 
+port of entry (POE) unless otherwise directed.   
+The CBSA customs officers are responsible for rendering decisions on the eligibility of all 
+applicants to AME programs. Specifically, subsection 11.1(1) of the Customs Act states that any 
+person may be issued an authorization to present himself or herself in an alternative manner. 
+CBSA immigration officers are responsible for determining the admissibility of persons applying 
+for AME programs who are foreign nationals and permanent residents of Canada. Sections A34 
+to A42 set the grounds that could make such persons inadmissible to Canada. 
+3.1. 
+Forms required 
+Title 
+Number 
+Notice of Seizure 
+IMM 5265 
+4. 
+Instruments and delegations 
+The CBSA’s immigration officers’ role is to ensure that persons applying to participate in an AME 
+program meet the requirements of the program as they pertain to admissibility to Canada. Such 
+programs are contemplated by A18(1) and R38. The full authority to conduct examinations of 
+persons seeking to enter Canada, including those conducted pursuant to section R38, is given to 
+a range of officials, including POE officers.  
+For more information on the Delegation of Authority and Designation of Officers document,  see 
+chapter IL 3 at 
+http://www.ci.gc.ca/Manuals/immigration/il/il3/index_e.asp 
+5. 
+Departmental policy 
+R38 stipulates that for the purposes of A18(1), a person may be examined by the means 
+indicated as alternative to appearing for an examination by an officer at a POE when they have 
+previously been examined and hold an  authorization issued under subsection 11.1(1) of the 
+Customs Act.   
+The Presentation of Persons (2003) Regulations under the Customs Act prescribe the classes of 
+persons who may be authorized to present themselves in an alternative manner and the 
+requirements and conditions that are to be met before an authorization may be issued. 
+6. 
+Definitions  
+Acronym/Initialism 
+Definition 
+AIS 
+Alternate Inspection Systems 
+
+
+===== PAGE 5 =====
+ENF 29 Alternative Means of Examination Programs 
+ 
+2005-06-17 
+ 
+4 
+AME 
+Alternative Means of Examination 
+CAP 
+Customs Action Plan 
+CBSA 
+Canada Border Services Agency 
+CBSA PC 
+Canada Border Services Agency Processing 
+Centre (previously referred to as  Customs 
+Processing Centre-CPC) 
+CBSA IPC 
+Canada Border Services Agency Immigration 
+Processing Centre (previously referred to as 
+Immigration Processing Centre-IPC) 
+CDRP 
+Commercial Driver Registration Program 
+CPIC 
+Canadian Police Information Centre 
+FAST 
+Free and Secure Trade 
+EC 
+Enrolment Centre 
+GEC 
+Global Enrolment Component 
+ICS 
+Integrated Customs System  
+ICES 
+Integrated Customs Enforcement System  
+IPBM 
+Immigration Ports and Border Management 
+Directorate, Border and Compliance Programs 
+Directorate, Admissibility Branch (CBSA) 
+ 
+IPIL 
+Integrated Primary Inspection Line   
+NCB 
+A FOSS Non-Computer-Based Entry  
+NCIC 
+National Crime Information Center (U.S.) 
+PIL 
+Primary Inspection Line 
+PIRS 
+Police Information Retrieval System 
+POE  
+Port of Entry 
+RABC 
+Remote Area Border Crossing—CANPASS 
+SBA 
+Shared Border Accord 
+SBD 
+Shared Border Declaration 
+U.S. CBP 
+United States Customs and Border Protection  
+6.1. 
+Overview of programs 
+ 
+CANPASS Private Aircraft 
+The CANPASS Private Aircraft program makes clearing customs and immigration easier for low-
+risk private aircraft owners and their passengers travelling to Canada from the U.S. Persons who 
+fly directly from the U.S. to Canada and land at small airports benefit from this initiative. The 
+program is open to citizens and permanent residents of the U.S. or Canada.  
+For more information, see 
+http://www.cbsa-asfc.gc.ca/travel/canpass/privateair-e.html 
+ 
+CANPASS Corporate Aircraft 
+The CANPASS Corporate Aircraft program makes clearing customs and immigration easier for 
+business travellers, who are citizens or permanent residents of the U.S or Canada, flying to 
+Canada from the U.S. on a corporate aircraft. The program is geared towards companies that 
+own or operate a corporate aircraft that fly frequently to Canada directly from the U.S. This 
+program allows access to more airports and provides expedited clearances for low-risk, pre-
+screened travellers. The corporation can register employees and other individuals who are 
+integral to its business operations. CANPASS corporate flights can land at any airport of entry or 
+CANPASS-only airports in Canada at any time during the facility’s hours of operation.  
+For more information, see 
+
+
+===== PAGE 6 =====
+ENF 29 Alternative Means of Examination Programs 
+ 
+2005-06-17 
+ 
+5 
+http://www.cbsa-asfc.gc.ca/travel/canpass/corporateair-e.html 
+ 
+CANPASS Private Boats  
+The CANPASS Private Boats program streamlines the customs and immigration clearance of 
+low-risk boaters. The program combines a telephone reporting system with a pre-approval permit 
+for recreational boaters.The CANPASS Private Boats permit allows boaters, who have enrolled 
+and been security cleared, the option of calling before they arrive in order to receive clearance to 
+enter Canada. Travellers may declare goods by telephone and pay any applicable duties and 
+taxes by credit card. For cash payments, travellers must report to the nearest CBSA cashier. The 
+program is open to citizens and permanent residents of the U.S. or Canada. 
+For more information, see 
+http://www.cbsa-asfc.gc.ca/travel/canpass/canpassprivateboat-e.html 
+ 
+CANPASS Air  
+The CANPASS Air program is an initiative of the CBSA which facilitates efficient and secure entry 
+into Canada for pre-approved, low-risk air travellers at major international Canadian airports. The 
+program is open to citizens and permanent residents of the U.S. or Canada who have 
+continuously resided in Canada or the U.S., or a combination of both countries, for the last three 
+consecutive years. CANPASS Air allows pre-approved travellers to clear customs and 
+immigration by simply looking into a camera that recognizes the iris of their eye as proof of 
+identity. The program permits enforcement activities to be targeted elsewhere. 
+For more information, see 
+http://www.cbsa-asfc.gc.ca/travel/canpass/canpassair-e.html 
+ 
+CANPASS Remote Area Border Crossing 
+The CANPASS Remote Area Border Crossing (RABC) permit is an initiative that allows the 
+bearer of a permit to cross the border into Canada at certain remote areas without reporting to a 
+POE, as long as imported goods are declared. Citizens and permanent residents of the U.S. or 
+Canada may apply for this permit. 
+The permit is valid for the following locations: 
+• 
+from Pigeon River through to and including Lake of the Woods;  
+• 
+the Canadian shore of Lake Superior; and 
+• 
+Cockburn Island  
+For more information, see 
+http://www.cic.gc.ca/english/visit/rabc.html 
+ 
+Commercial Driver Registration Program (CDRP) 
+In order to transport goods under the Customs Self Assessment (CSA) option, commercial 
+carriers and drivers must be registered and able to demonstrate a high level of compliance with 
+the laws and regulations administered by the CBSA. CDRP involves a rigorous pre-screening and 
+approval process for participants’ registration. 
+Citizens and permanent residents of Canada or the U.S. may apply to register with the CDRP. 
+Prospective CDRP participants are required to provide proof of citizenship or legal permanent 
+residence, a copy of their driver's licence and other detailed personal information. A thorough 
+screening process is conducted using customs, immigration and police databases to determine if 
+the eligibility criteria are met.   
+
+
+===== PAGE 7 =====
+ENF 29 Alternative Means of Examination Programs 
+ 
+2005-06-17 
+ 
+6 
+For more information, see 
+http://www.cbsa-asfc.gc.ca/import/programs-e.html 
+ 
+Free and Secure Trade (FAST)  
+The CBSA and the Department of Homeland Security’s United States Customs and Border 
+Protection (U.S. CBP) are working together to end threats to public security and safety, while 
+keeping the border open to the free flow of low-risk, legitimate trade. For that reason, Canada and 
+the U.S. have agreed to align, to the maximum extent possible, the customs commercial 
+programs along the border. This agreement marks the creation of FAST, which is the result of a 
+shared objective to enhance safety and security while enhancing the economic prosperity of both 
+countries. The program is open to citizens and permanent residents of the U.S. or Canada. 
+For more information, see 
+http://www.cbsa-asfc.gc.ca/import/fast/menu-e.html 
+ 
+NEXUS Highway  
+NEXUS Highway was implemented jointly by the CBSA and U.S. CBP. This program is designed 
+to simplify and expedite land border crossings for pre-approved, low-risk travellers. The program 
+is open to citizens and permanent residents of the U.S. or Canada who have continuously resided 
+in Canada or the U.S, or a combination of these two countries, for the last three consecutive 
+years.  
+NEXUS is harmonized and bi-national, which means that participants will complete only one 
+membership application allowing entry to both Canada and the U.S.   
+Members of the NEXUS Highway program can: 
+• 
+use dedicated NEXUS lanes in Canada and the U.S. (where available);  
+• 
+benefit from simplified and expedited border crossing and entry into Canada and the U.S. as 
+they are not subject to traditional customs and immigration questioning.  
+NEXUS members may be subject to an examination at any time. 
+For more information, see 
+http://www.cbsa-asfc.gc.ca/travel/nexus/menu-e.html 
+ 
+NEXUS Air 
+In 2002, Canada and the U.S. announced the creation of a bi-national working group to design 
+and implement a NEXUS Air Pilot Project for air travellers. The project was implemented in 
+November 2004 and is available at the Vancouver International Airport for the duration of the pilot. 
+The CBSA and U.S. CBP have designed NEXUS Air to facilitate passage into Canada and the 
+U.S. for pre-approved, low-risk, frequent air travellers. The pilot project uses automated kiosks 
+with iris-recognition biometric technology and is open to citizens and permanent residents of the 
+U.S. or Canada who have continuously resided in Canada or the U.S., or a combination of both 
+countries, for the last three consecutive years. Members of NEXUS Air will enter Canada or the 
+U.S. without further interaction with customs or immigration officials, unless selected randomly for 
+inspection. NEXUS Air is a bi-national initiative that builds upon the technological innovations of 
+CANPASS Air. 
+For more information, see 
+http://www.cbsa-asfc.gc.ca/travel/nexus/menu-e.html 
+
+
+===== PAGE 8 =====
+ENF 29 Alternative Means of Examination Programs 
+ 
+2005-06-17 
+ 
+7 
+ 
+NEXUS Marine 
+The NEXUS Marine Detroit River Pilot Project serves those persons who often travel between 
+Canada and the U.S. using private pleasure boats and is implemented in the Windsor/ Detroit 
+area only. The project allows boaters, who have enrolled and been security cleared, the option of 
+calling before they arrive in order to receive clearance to enter Canada and the U.S. Since 
+NEXUS Marine is being offered as an extension to the NEXUS Highway program, applicants 
+need only complete one application to be considered for both programs. The pilot project is open 
+to citizens and permanent residents of the U.S. or Canada who have continuously resided in 
+Canada or the U.S., or a combination of both, for the last three consecutive years. 
+NEXUS Marine Pilot Project will be in operation during the 2005 boating season. 
+For more information, see 
+http://www.cbsa-asfc.gc.ca/travel/nexus/menu-e.html 
+7. 
+Procedures: CBSA Immigration Processing Centre  
+7.1. 
+Overview 
+The CBSA Immigration Processing Centre forms an integral part of the risk assessment process. 
+Every person who applies to a national AME program must be approved by the CBSA Processing 
+Centre (Customs) and the CBSA IPC (Immigration).  Persons who apply to a bi-national AME 
+must be approved by the CBSA and U.S. CBP. The CBSA IPCs provide security screening of 
+AME applicants by completing detailed checks and reviews of various law enforcement 
+databases. The three CBSA IPCs that operate in Canada are located in Douglas (British 
+Columbia), Niagara Falls (Ontario) and Montréal (Québec).     
+7.2. 
+Risk assessment 
+While it is the CBSA immigration officer’s role to ensure that applicants who are foreign nationals 
+or permanent residents are admissible to Canada, it is necessary for officers to understand the 
+different eligibility criteria of each program in order to make the proper recommendation to the 
+CBSA PC. Officers working at the CBSA IPC are responsible for performing the following 
+functions: 
+• 
+Determine admissibility into Canada for non-Canadian citizen applicants;  
+• 
+Evaluate and equate criminal offences for applicants or participants that are not Canadian 
+citizens; 
+• 
+Review any immigration violations associated with the applicant or participant as found in the 
+FOSS records; 
+• 
+Provide the CBSA PC with recommendations based on program eligibility criteria when an 
+immigration violation has been associated to an application or other eligibility issues that 
+have come to the attention of the CBSA IPC. 
+For specific program requirements relating to immigration violations, please refer to the 
+appropriate AME program located in Appendix A, entitled “Immigration Violations.” 
+7.3. 
+FOSS 
+CBSA IPC officers will conduct a complete FOSS check of all applicants, including Canadian 
+citizens and permanent residents.  The purpose of conducting a FOSS check on all applicants is 
+to assist in determining whether the applicant is admissible to Canada and/or to determine if they 
+
+
+===== PAGE 9 =====
+ENF 29 Alternative Means of Examination Programs 
+ 
+2005-06-17 
+ 
+8 
+have ever had any immigration violations. This includes the review of all FOSS records in the 
+form of reports, orders, lookouts and all non-computer-based entries. A complete FOSS check 
+must include a review of the remarks from the history of permanent residents in order to 
+determine whether any previous criminal convictions or immigration violations exist.  
+In certain circumstances CBSA IPC officers will find evidence that a permanent resident may not 
+have met their residency obligation pursuant to A28. In such circumstances, officers are advised 
+to follow the procedures outlined in section 7.5 below entitled “Residency obligation.”   
+7.4. 
+Permanent residents 
+While permanent residents retain the right to enter Canada under the Act, their acceptance into 
+an AME program may be affected by various factors including previous immigration legislation 
+violations or criminality. This is especially important for those programs that will not accept 
+applicants who have been convicted of an offence or have been found in violation of immigration 
+law. For example, NEXUS programs have a zero-tolerance policy. 
+7.5. 
+Residency obligation  
+As a permanent resident is required under section A28 to reside in Canada for 730 days in a five-
+year period, unless otherwise exempted under that section, it may become evident during the 
+processing of their AME application that they have not met their residency obligation. Should an 
+officer of the CBSA IPC encounter such a situation, it will be necessary to conduct further 
+examination of the applicant’s residency history prior to approval of their AME application.  
+In the interim, the CBSA IPC officer should contact the applicant by letter and keep the 
+applicant’s file “pending” for a maximum of 90 days. See Appendix B entitled “Letter requesting 
+additional information to determine admissibility and residency” for the initial letter to be sent to 
+the applicant. An NCB should also be entered into FOSS at this time by the CBSA IPC officer 
+indicating that a residency determination is required.  See Appendix C entitled “Standard format 
+of NCB (non-computer-based entries) in FOSS” for more information on standard FOSS remarks. 
+If a response is not received from the applicant within 30 days, the CBSA IPC will change the 
+status of the file from “pending” to a recommendation of “fail.”  The CBSA PC must be advised of 
+the information in order to render a final decision on the application. 
+Please refer to Appendix F entitled “FOSS results form” to view the worksheet used to 
+communicate the information to the CBSA PC. Depending on the AME program, CBSA IPC 
+results may be entered electronically by using the Global Enrolment Component (GEC) system.   
+If the applicant responds to the letter within 30 days, the CBSA IPC officer will request that the 
+applicant provide proof of their residence in order to satisfy the residency requirement. This can 
+be done via the telephone and/or in writing by sending supporting documentation by fax. If the 
+CBSA IPC officer is satisfied that the applicant has met the residency obligation under A28, the 
+officer will change the status of the file from “pending” to a recommendation of “pass.”  The CBSA 
+PC will be advised accordingly. 
+If the CBSA IPC officer is not satisfied that the applicant has met the residency obligation and 
+additional information is not required to make this determination, the officer may change the 
+status of the file from “pending” to a recommendation of “fail” .The CBSA PC must be advised of 
+the information in order to render a final decision on the application.  The NCB in FOSS must be 
+updated accordingly. 
+If the CBSA IPC officer is of the opinion that the residency obligation determination requires a 
+more in-depth examination, the officer will send the applicant a second letter; see Appendix D 
+entitled “Residency obligation for permanent residents.” This subsequent letter advises the 
+applicant to present themselves at the nearest inland office or Canadian Consulate/ Embassy 
+abroad for an interview. In such cases, the file will remain in “pending” status until a residency 
+determination is made. 
+
+
+===== PAGE 10 =====
+ENF 29 Alternative Means of Examination Programs 
+ 
+2005-06-17 
+ 
+9 
+CBSA IPC officers may receive a request for a residency obligation determination from the 
+Enrolment Centre. See Appendix E entitled “Request for Residency Determination Form” to view 
+this form. If such a request is made by the EC, it will be necessary for the CBSA IPC officer to 
+contact the applicant using the procedures outlined above. Officers of the CBSA IPC will be 
+required to follow up with the EC to advise them of the outcome of the residency obligation 
+determination request.   
+If the applicant is a permanent resident of Canada, but holds citizenship or permanent resident 
+status in the U.S., the CBSA IPC officer should “pass” the applicant (assuming that the applicant 
+is not otherwise inadmissible to Canada). It is not necessary to place these files in “pending” 
+status since the applicant remains eligible to apply to the program regardless of whether or not 
+they meet their residency obligation in Canada. An NCB “Watch-For” must be added in FOSS to 
+ensure that the applicant is referred for a secondary examination the first time they use the AME 
+program. This will provide CBSA Immigration officers with the opportunity to complete a residency 
+determination during the secondary examination and, if applicable, have the member voluntarily 
+relinquish their Canadian permanent resident status.   
+For further information on loss of permanent resident status, see ENF 23 Loss of permanent 
+resident status at: 
+http://www.ci.gc.ca/Manuals/immigration/enf/enf23/index_e.asp 
+7.6. 
+Criminality 
+Officers of the CBSA IPC are called upon to review the criminal history of all non-Canadian 
+applicants. It is the responsibility of the CBSA IPC officers to determine if applicants are 
+admissible to Canada and to provide a recommendation regarding eligibility, on occasion, to the 
+CBSA PC based on the applicable AME program’s criteria.   
+The CBSA PC conducts the initial screening of applicants and subsequently provides the CBSA 
+IPC officers with a printout or flags their names for further investigation. These cases can also be 
+assigned electronically to the CBSA IPC officers through the Global Enrolment Component (GEC) 
+depending on the program. If information is missing, incomplete or when otherwise required, 
+officers of the CBSA IPC will conduct further database checks. 
+An application is referred or assigned for criminality by the CBSA PC in the following 
+circumstances: 
+• 
+Applicant may have a “hit” for CPIC wants, warrants and/or criminal history; 
+• 
+Applicant may have a “hit” for NCIC wants, warrants and/or criminal history;  
+• 
+Applicant self-disclosed a criminal conviction on the application form for which they have not 
+received a Canadian pardon. 
+CBSA IPC officers will review the applicant’s information and compare this to the criminal history 
+“hit” in order to ascertain if the person is admissible to Canada. Chapters ENF 1 and ENF 2 offer 
+guidance on the inadmissibility of clients. These chapters are available at: 
+http://www.ci.gc.ca/Manuals/immigration/enf/enf1/index_e.asp 
+http://www.ci.gc.ca/Manuals/immigration/enf/enf2/index_e.asp 
+If a CBSA IPC officer is required to obtain further information pertaining to an applicant’s criminal 
+history, they may contact the applicant by phone or letter in order to determine their admissibility.  
+This letter can be found in Appendix B entitled “Letter requesting additional information to 
+determine admissibility and residency.” The officer must ensure that privacy legislation is adhered 
+to as it relates to third-party information. 
+
+
+===== PAGE 11 =====
+ENF 29 Alternative Means of Examination Programs 
+ 
+2005-06-17 
+ 
+10 
+7.7. 
+Pending applications 
+If an admissibility determination cannot be made due to a lack of information, the CBSA IPC 
+officers will temporarily place their file in “pending” status and contact the applicant. The preferred 
+method will be by letter requesting the applicant to contact the CBSA IPC to provide further 
+information. This will mitigate any question of identity involving an applicant whose application is 
+with the CBSA IPC for risk assessment. The applicant are advised that they have 30 days from 
+the date of the letter to respond to the request. This letter is found at Appendix B entitled “Letter 
+requesting additional information to determine admissibility and residency.” 
+7.8. 
+Correspondence to applicants 
+The CBSA IPC officers may correspond with applicants for matters arising out of information 
+located within immigration-related databases. CBSA IPC officers may also communicate with 
+applicants in regards to criminal history found in the FOSS, CPIC, and NCIC databases. The 
+applicant will be requested in the letter to contact the CBSA IPC by telephone within 30 days of 
+the date on the letter. This letter is found at Appendix B entitled “Letter requesting additional 
+information to determine admissibility and residency.” The officer must ensure that privacy 
+legislation is adhered to in relation to third party information.  
+7.9. 
+Correspondence from applicants 
+If the applicant responds to a request for further information within 30 days of the date of the letter 
+and the CBSA IPC officer considers the person inadmissible to Canada, the officer will forward a 
+recommendation of “fail” to the CBSA PC. If an applicant responds within 30 days and a request 
+is made for further information, i.e., a police record check, the applicant will be given an additional 
+60 days to comply. Any further extensions will be at the discretion of the CBSA IPC officer. If the 
+applicant does not respond within the 30-day time limit, the CBSA IPC officer will forward a 
+recommendation of “fail” to the CBSA PC. 
+If the applicant provides sufficient proof, through satisfactory documentation, that they are not 
+inadmissible to Canada, a recommendation of “pass” will be made to the CBSA PC.   
+If information exists that an applicant is ineligible for the program but remains admissible to 
+Canada, the CBSA PC must be advised of the information in order to render a final decision.  
+Note: The applicant is still considered admissible to Canada, but a recommendation of “fail” will be 
+provided to the CBSA PC in terms of eligibility to the program.  
+See Appendix F entitled “FOSS Results Form” to view the worksheet used to communicate the 
+information to the CBSA PC. Depending on the AME program, the CBSA IPC results may be 
+entered electronically by using the Global Enrolment Component system.  
+7.10. 
+Canadian citizens 
+It is important to note the following information pertaining to Canadian citizens. 
+While Canadian citizens retain the right to enter and remain in Canada under the Act, their 
+acceptance into an AME program may be affected by various factors including previous 
+immigration legislation violations or criminality. An applicant who is a Canadian citizen may be 
+ineligible to participate in certain AME programs as the result of previous immigration violations. 
+Please refer to Appendix A  entitled “Immigration violations.” 
+If a criminal or immigration violation history is found in FOSS, it will be the CBSA IPC officer’s 
+responsibility to make a recommendation to the CBSA PC as to the applicant’s eligibility to join 
+the program based on that program’s criteria. See Appendix F entitled “FOSS Results Form” to 
+view the worksheet used to communicate the information to the CBSA PC. Depending on the 
+AME program, CBSA IPC results may be entered electronically by using the Global Enrolment 
+Component system.   
+
+
+===== PAGE 12 =====
+ENF 29 Alternative Means of Examination Programs 
+ 
+2005-06-17 
+ 
+11 
+CBSA IPC officers may not review the criminal history of a Canadian citizen unless that history is 
+found in FOSS. 
+7.11. 
+Immigration violations 
+Once admissibility to Canada has been determined, CBSA IPC officers will further review the 
+FOSS database for documented immigration violations. The CBSA IPC officer can refer to 
+Appendix A entitled “Immigration violations” as a guide to recommend “fail” or “pass” to the CBSA 
+PC based on the program criteria. Please note that admissibility to Canada supersedes all other 
+program eligibility criteria.   
+To view the worksheet used to communicate the information to the CBSA PC, refer to Appendix F 
+entitled “FOSS Results Form.”  Depending on the AME program, CBSA IPC results may be 
+entered electronically by using the Global Enrolment system.   
+7.12. 
+Approved applications 
+If there are no concerns regarding admissibility or eligibility (i.e., no criminality or immigration 
+violations) during the risk-assessment phase of the process, officers at the CBSA IPC will provide 
+a recommendation of “pass” to the CBSA PC. See Appendix F entitled “FOSS Results Form” to 
+view the worksheet used to communicate the information to the CBSA PC. Depending on the 
+AME program, CBSA IPC results may be entered electronically by using the Global Enrolment 
+Component system.   
+7.13. 
+Self-disclosure (Risk assessment phase) 
+Pursuant to A11 for foreign nationals and A21 for permanent residents, an applicant must satisfy 
+an officer that they are not inadmissible to Canada and that they meet all other requirements 
+provided in the aforementioned sections of the Act. Situations may occur where an applicant 
+discloses previous violations or other inadmissibility grounds on their application form, in 
+response to a letter or over the phone during the risk assessment phase.  
+Officers may obtain information from an applicant that does not affect admissibility although the 
+disclosure will affect their eligibility into the AME program. In these situations, a recommendation 
+of “fail” in terms of the believed ineligibility should be forwarded to the CBSA PC.  See Appendix 
+F entitled “FOSS Results Form” to view the worksheet used to communicate the information to 
+the CBSA PC. Depending on the AME program, the CBSA IPC results may be entered 
+electronically by using the Global Enrolment Component system.   
+See “Self-disclosure by applicant at interview (Enrolment phase)” in section 8.2 below.. 
+7.14. 
+Denied applications 
+If upon review of the security-screening information, an officer determines that an applicant is 
+inadmissible to Canada, the CBSA IPC officer will forward a recommendation of “fail” to the 
+CBSA PC for the final determination of eligibility to the AME program. Officers may encounter 
+situations in which the applicant is admissible to Canada but has previously been in violation of 
+immigration law or has been convicted of an offence that does not affect their admissibility. In 
+such circumstances, the applicant may still be ineligible for the AME program for which they have 
+applied. Please refer to Appendix F entitled “FOSS Results Form” to view the worksheet used to 
+communicate the information to the CBSA PC. Depending on the AME program, the CBSA PC 
+results may be entered electronically by using the Global Enrolment Component system.   
+It is the CBSA IPC officer’s responsibility to ensure that an NCB (General) is entered into FOSS 
+reflecting the recommendation to the CBSA PC that an applicant be refused into the program.  
+This will ensure that border officials are aware of the circumstances involving the denial of an 
+applicant into any AME program. Refer to section 7.16 entitled “Non-computer-based entries 
+(NCB) in FOSS”  below for more detail. 
+
+
+===== PAGE 13 =====
+ENF 29 Alternative Means of Examination Programs 
+ 
+2005-06-17 
+ 
+12 
+Clients may seek redress by requesting a review from the CBSA Customs where applications 
+have been refused. 
+7.15. 
+Rehabilitation counselling 
+Any applicant who is denied membership into an AME program (except for NEXUS programs) as 
+a result of criminality should be counselled to seek rehabilitation, if eligible, from a Canadian 
+Consulate abroad or upon entry into Canada at a POE. However, applicants applying to the 
+FAST and/or CDRP programs may apply to the designated rehabilitation centre that has been 
+established for that purpose in Niagara Falls.   
+The contact information for the Criminal Rehabilitation Processing Centre has been provided in 
+Appendix G for your convenience. 
+For more information on criminal rehabilitation, consult the chapter ENF 14: 
+http://www.ci.gc.ca/Manuals/index_e.asp 
+7.16. 
+Non-computer-based entries (NCB) in FOSS 
+The use of an NCB is particularly important when an applicant has been refused membership into 
+an AME program for inadmissibility. Should the CBSA IPC officer’s determination be based on 
+information provided by law enforcement databases or any other source including self- 
+disclosure, it is imperative that an NCB be placed in FOSS. An NCB should also be placed in 
+FOSS for those persons who are potentially inadmissible based on the above-noted sources of 
+information and if they have not responded to a request by the CBSA IPC for further information.   
+An enforcement NCB should only be used in the case of inadmissibility or other urgent requests 
+to intercept a person seeking entry. It is recommended that a “General Information” NCB be used 
+in all other cases.  
+Please refer to Appendix C entitled “Standard format of NCB (non-computer-based entries) in 
+FOSS” for more information on standard FOSS remarks. 
+7.17. 
+Additional risk assessment at the CBSA IPC 
+When an applicant discloses information at the EC interview that is not on the original application, 
+or an error is discovered on the application (i.e., incorrect date of birth, name spelled incorrectly, 
+maiden name not listed, etc.), the interviewing officer will suspend the process. The EC officer 
+must forward the new and/or corrected information to the CBSA PC where the information will 
+verified a second time against the databases. Once the CBSA PC officer completes the security 
+checks, the new and/or corrected information will be referred to the CBSA IPC for reassessment.  
+See Appendix H entitled “AME Security Review Form” for more information. 
+7.18. 
+Yearly review 
+Yearly risk assessments will be conducted for members of all AME programs to ensure that they 
+continue to be admissible to Canada and eligible to participate in the programs. The CBSA PC 
+will refer the membership information to the CBSA IPC for FOSS checks and if applicable, for 
+CPIC/NCIC reviews. If information is discovered during the yearly risk assessment that may affect 
+admissibility and/or eligibility, the officers will advise the CBSA PC of their findings and make the 
+appropriate recommendation. 
+
+
+===== PAGE 14 =====
+ENF 29 Alternative Means of Examination Programs 
+ 
+2005-06-17 
+ 
+13 
+8. 
+Procedures: Enrolment phase  
+8.1. 
+Overview 
+ECs are unique in that they offer a chance for officers of the CBSA and U.S. CBP, as applicable, 
+to work in shared offices. The location of ECs varies depending on the program, though they are 
+generally located at or in close proximity to POEs at both land borders and airports.   
+At the enrolment phase, the applicant will be required to have a digital photo of their face taken 
+for their membership card. This image will be stored in secure government databases.  
+Depending on the program, the applicant will be required to submit fingerprints which will be used 
+to assess risk. Finally, the applicant will be provided with training on the relevant technology and 
+program terms and conditions.   
+8.2. 
+Interview process 
+Applicants who have met the screening criteria established by the pertinent agencies will be 
+contacted regarding the next stage of the process. This phase of the process requires applicants, 
+if applicable, to present themselves at the EC where they will be interviewed by an officer of the 
+CBSA and/or U.S. CBP depending on the specific AME program.  
+Note: Face-to-face interviews are not required for all AME programs.   
+ 
+Interview scheduling 
+Each program’s local working groups determine how interviews are best scheduled, based on a 
+number of factors including client volumes, availability of resources, number of computer 
+terminals, and the maximum number of clients the EC is able to accommodate at once. Walk-ins 
+as well as scheduled interviews should be considered. The designation of Canada and/or U.S. 
+days may also be contemplated in order to clear a backlog. 
+ 
+Interviewing applicants and guidelines 
+When interviewing an applicant at the EC, it is important for officers to be aware that, prior to the 
+applicant’s arrival, a thorough screening process has been conducted, including verification of 
+FOSS, CPIC, PIRS, ICES, NCIC and other U.S. databases (depending on the AME program),  .  
+CBSA EC immigration officers will not be able to verify databases at the EC. Applicants will be 
+interviewed by officials of the CBSA and U.S. CBP depending on the program. Typically, CBSA 
+EC immigration officers will interview applicants who are not Canadian citizens (i.e., U.S. citizens 
+and resident aliens and Canadian permanent residents). CBSA EC immigration officers will verify, 
+through questioning and the review of information, the applicant’s identity, citizenship, permanent 
+resident status, residency, purpose of travel to Canada, intentions while in Canada, personal 
+history including employment ties to Canada if any, health, and criminality.   
+The interview provides the appropriate agencies with an opportunity to review with the applicant 
+all the information provided up to this stage and to make a final determination on their: 
+• 
+admissibility to both countries as appropriate; 
+• 
+eligibility for the individual program for which an application has been submitted. 
+For further information on examination procedures, see ENF 4 at 
+http://www.ci.gc.ca/Manuals/immigration/enf/enf4/index_e.asp 
+
+
+===== PAGE 15 =====
+ENF 29 Alternative Means of Examination Programs 
+ 
+2005-06-17 
+ 
+14 
+ 
+Self-disclosure by applicant at interview (enrolment phase) 
+Situations may occur where the security risk assessment of an applicant does not yield the 
+existence of any violation, criminal conviction or other criminal offence, but during the interview, 
+the applicant voluntarily discloses a previous violation, criminal conviction or criminal offence. 
+Where the existence of the violation, conviction or other criminal offence would affect the 
+applicant’s eligibility, based on the eligibility criteria for the program, an additional security risk 
+assessment will be performed searching for a documented record of the violation, conviction or 
+other criminal offence.  
+See Appendix H entitled “AME Security Review Form” to communicate the information to the 
+CBSA PC. 
+ 
+Permanent resident determinations 
+During the enrolment interview, it may come to the attention of the EC CBSA immigration officer 
+that a permanent resident of Canada may not meet the residency obligation pursuant to A28.  In 
+these cases, since the EC officer is not in the position to perform such a lengthy interview, the 
+officer will follow the guidelines below. 
+The officer will explain to the applicant that membership in the program cannot be completed until 
+their Canadian permanent residency obligation status has been determined by an immigration 
+officer.   
+The CBSA immigration officer will complete the Request for Residency Determination form and 
+fax it to the appropriate CBSA IPC which processed their application.  See Appendix E entitled 
+“Request for Residency Determination Form.”  
+The status of the applicant’s membership should remain in "pending" status until the CBSA IPC 
+advises the EC to proceed with the interview or to change the status to "fail." To ensure an 
+appropriate follow-up, the EC officer will advise the applicant that a letter will be mailed to them 
+by the CBSA IPC. See section 7.5  entitled “Residency obligation” for more information on the 
+CBSA IPC’s role and responsibilities in residency obligation determinations.    
+The EC CBSA immigration officer will counsel the applicant on the type of information that they 
+will need to send to the IPC and/or for their status determination interview.  
+8.3. 
+Additional risk assessment at the EC 
+Every applicant is required to provide true and complete information on their application including 
+any conviction for which they have not received a pardon. It is important to note that the eligibility 
+criteria for AME programs stipulate that membership will not be granted to those who have a 
+criminal conviction where no pardon has been granted or where the person has not been deemed 
+rehabilitated pursuant to the Act. Persons applying to AME programs, with the exception of 
+NEXUS programs, may be granted membership if they have been deemed rehabilitated by a 
+CIC/CBSA immigration officer.  
+Additional risk assessments should not be performed by the EC officers as all criminal records 
+and customs and immigration background checks have already been completed by the 
+processing centres. In the event that new information is obtained on an applicant that was not 
+previously disclosed or was not discovered by the processing centres, the following procedure 
+must be followed for CBSA EC immigration officers: 
+The CBSA EC immigration officer must contact the CBSA PC and notify the U.S. CBP at the EC 
+that an additional risk assessment is required.  The officer will then contact the CBSA IPC by fax 
+advising them of the disclosure or discovery of additional information. Please refer to Appendix H 
+entitled “AME Security Review Form.” 
+
+
+===== PAGE 16 =====
+ENF 29 Alternative Means of Examination Programs 
+ 
+2005-06-17 
+ 
+15 
+The officer will advise the applicant that they must conduct further checks before final approval 
+into the AME program may be granted and that the CBSA PC will contact them in writing with 
+their decision. 
+8.4. 
+Biometrics 
+Individuals wishing to join certain AME programs are required to submit biometric information for 
+the purpose of security screening during enrolment and/or to confirm identity at passage. Please 
+consult the table below for the biometrics requirements of each program. 
+ 
+• 
+PROGRAM: 
+• 
+BIOMETRICS: 
+• 
+NEXUS HIGHWAY 
+• 
+TWO INDEX FINGERPRINTS/ PHOTO / 
+DISCRETIONARY FULL SET OF 
+FINGERPRINTS 
+• 
+NEXUS AIR 
+• 
+IRIS/ PHOTO/ TWO INDEX FINGERPRINTS/ 
+DISCRETIONARY FULL SET OF 
+FINGERPRINTS 
+• 
+NEXUS MARINE 
+• 
+TWO INDEX FINGERPRINTS/ PHOTO / 
+DISCRETIONARY FULL SET OF 
+FINGERPRINTS 
+• 
+FAST 
+• 
+TWO INDEX FINGERPRINTS/ MANDATORY 
+FULL SET OF FINGERPRINTS/ PHOTO  
+• 
+CDRP 
+• 
+PHOTO  
+• 
+CANPASS AIR 
+• 
+IRIS / PHOTO/ DISCRETIONARY FULL SET 
+OF FINGERPRINTS 
+• 
+CANPASS RABC 
+• 
+NONE 
+• 
+CANPASS: PRIVATE AIR, CORPORATE AIR, 
+PRIVATE BOAT 
+• 
+NONE 
+8.5. 
+Membership counselling 
+Once approved, members should receive information and clarification of any questions they may 
+have about the relevant program. These instructions may involve a demonstration of the 
+appropriate technology of the program, including the use of the kiosk or a proximity card.  
+All new participants to any program should be briefed on the major components of the program 
+as they relate to their needs. EC officers will provide the following: 
+• 
+The program’s Participant Guide; with particular emphasis on: 
+♦ membership rights and obligations. This would include the obligation to carry proof of 
+citizenship and permanent resident status;  
+• 
+Other government departments’ requirements; 
+• 
+Other travel documents that may be required, including work and study permits; 
+• 
+Currency reporting obligations. 
+
+
+===== PAGE 17 =====
+ENF 29 Alternative Means of Examination Programs 
+ 
+2005-06-17 
+ 
+16 
+8.6. 
+The membership card 
+The card is a trigger for accessing the relevant program’s database. It does not have any 
+privileged, personal or financial information on it. 
+Member must be aware that lost or stolen membership cards are to be reported immediately to 
+one of the government partners. 
+The membership card is not an official travel document. 
+Approved applicants are issued the appropriate identification card. This card remains the property 
+of the Canadian and U.S. governments. 
+9. 
+Passage 
+Participation in these programs shall not be authorized for the purpose of circumventing the 
+provisions of the Act or its Regulations. Members seeking entry into Canada or the U.S. may be 
+subject to a random immigration examination at the discretion of an officer.  CBSA immigration 
+officers will rigorously enforce the Act and its Regulations when a violation is encountered during 
+a secondary examination. Further, any documentation issued under the provisions of the AME 
+programs will not replace the requirement for the member to have in their possession official 
+travel documents demonstrating their citizenship, resident status or other status obtained from 
+CIC, the CBSA immigration or the U.S. CBP. 
+9.1. 
+Technology at passage  
+A wide variety of technology exists to assist CBSA and U.S. CBP officers in the risk assessment 
+of AME program members seeking entry into Canada and the U.S.   
+Members seeking entry into Canada or the U.S. by land using a dedicated lane are required to 
+present their program-specific membership card.   
+For the FAST program, PIL officers are required to swipe the member’s card through a magnetic 
+strip reader which validates the member’s status.  Proximity technology is used by FAST 
+members entering the U.S. 
+In the case of the NEXUS Highway program, members present their card to a proximity reader 
+(where the technology is available) so that a PIL officer may verify their identity and confirm 
+membership status.  
+When travelling by air, members of the CANPASS Air or NEXUS Air program seeking entry into 
+Canada or the U.S. use automated kiosks to capture their iris in order to confirm their identity by 
+comparing it to information contained within the secure database. These programs utilize the 
+photo capture found on the membership card as a secondary method of identification.   
+9.2. 
+Referrals 
+Though it has been shown that there are few customs or immigration program violations by AME 
+members, it is necessary to have checks and balances in place. These measures have been 
+created to ensure compliance and integrity with the programs, government laws and regulations.  
+Violations will result in definitive sanctions. 
+AME program members are advised at the interview that each agency involved in the program 
+retains the right to randomly refer members for further inspection.   
+The Participant’s Guide of each program also states that anytime a member enters the U.S. or 
+Canada, border officials of their respective country may perform a full inspection. 
+
+
+===== PAGE 18 =====
+ENF 29 Alternative Means of Examination Programs 
+ 
+2005-06-17 
+ 
+17 
+ 
+Referrals and CBSA immigration secondary examination 
+Any intentional violation of any of the program’s terms and conditions, violation of law or new 
+enforcement action taken against a member will warrant a mandatory referral.   
+Example: Mandatory referrals to CBSA immigration secondary examination include:  
+A member who is travelling on expired immigration status documents; 
+The member’s name is an exact match on the FOSS enforcement database. 
+Procedures for mandatory referrals also apply for all other referrals, including selective and 
+random referrals. 
+Any violation of AME program rules that is discovered at the time of passage at the POE must be 
+documented and sent to the CBSA PC. Members found in violation of an AME program may be 
+faced with sanctions ranging from a verbal warning at the time of passage followed by a letter, 
+membership suspension, and even membership cancellation depending on the specific program. 
+See the procedures for the specific AME program for the necessary reporting mechanisms when 
+a program violation occurs. 
+9.3. 
+Seizure of participant membership card 
+If during a secondary examination a CBSA immigration officer is of the opinion that a person is 
+inadmissible to Canada, the officer may seize the person’s membership card pursuant to 
+subsection A140(1), fill out the IMM 5265 "Notice of Seizure," and provide a copy to that person.  
+When a CBSA immigration officer seizes a membership card, they are to send an e-mail to their 
+immediate supervisor and to the applicable CBSA IPC. The e-mail should contain the section of 
+the Act that was used to determine inadmissibility, the client’s FOSS number, the date of the 
+seizure, the client’s membership card number and the officer's name and badge number.   
+The officer’s supervisor will then be responsible to advise the CBSA superintendent at the POE of 
+the seizure information. This must be done in writing, accompanied by the membership card.  
+This process has been created in order to have the membership privileges suspended or revoked 
+by the CBSA Customs and to ensure that they update their appropriate databases. Where 
+memberships have been suspended or revoked, clients may seek redress by requesting a review 
+from the CBSA Customs. 
+ 
+
+
+===== PAGE 19 =====
+ENF 29 Alternative Means of Examination Programs 
+ 
+2005-06-17 
+ 
+18 
+Appendix 
+A Immigration violations 
+The following chart is to be used by CBSA IPC officers when reviewing applicant information. 
+Once admissibility to Canada has been determined, CBSA IPC officers will further review the 
+FOSS database for documented immigration violations. CBSA IPC officers are asked to use this 
+eligibility matrix to provide a recommendation of “pass” or “fail” based on the following criteria:   
+Note: Admissibility to Canada supersedes all other program eligibility criteria. 
+ 
+• 
+Program 
+• 
+Eligibility criteria: Immigration 
+violations 
+• 
+NEXUS 
+• 
+Clients may be eligible to participate in the 
+NEXUS program if no documented immigration 
+violation appears on their FOSS record. (See 
+section What “documented immigration 
+violation” means below.) 
+• 
+CANPASS Corporate Air 
+• 
+CANPASS Private Air 
+• 
+CANPASS Boat 
+• 
+CANPASS Air 
+• 
+FAST 
+• 
+CDRP 
+• 
+Clients may be eligible to participate in these 
+programs if three or more years have elapsed 
+since the final disposition date of the 
+documented immigration violation. (See section 
+What “the final disposition date means below.)  
+ 
+What “documented immigration violation” means: 
+An inadmissibility report has been transmitted to the Minister under A44(1) and the Minister or the 
+Minister’s delegate is of the opinion that the report is well-founded and a removal order has been 
+made.   
+Exception A40(2)(a): The definition of an immigration violation also includes a determination of 
+inadmissibility for misrepresentation that is made outside Canada in which case, a permanent 
+resident or foreign national continues to be inadmissible for a period of two years. In these cases, 
+the final disposition date is the date of the final determination of inadmissibility under A40(1). 
+Note: An inadmissibility report and a conditional removal order made with respect to a refugee claim will 
+not be considered as an immigration violation if the refugee claim was successful. Where criminality 
+was recorded at the time of the report, the assessment on the recommendation will be based on the 
+criminality. 
+Written proof of one of the following under immigration law: 
+• 
+Human smuggling and trafficking;  
+• 
+Offences related to documents; 
+• 
+General offences;  
+• 
+Proceeds of crime;  
+• 
+Officers authorized to enforce the Act;  
+• 
+Ticketable Offences; 
+
+
+===== PAGE 20 =====
+ENF 29 Alternative Means of Examination Programs 
+ 
+2005-06-17 
+ 
+19 
+• 
+Collection of debts due to Her Majesty. 
+ 
+What “the final disposition date” means:  
+The date on which the removal order has been made, whether or not this removal order is 
+enforceable pursuant to A48. 
+Exception A40(2)(a):  The definition of an immigration violation also includes a determination of 
+inadmissibility for misrepresentation that is made outside Canada in which case a permanent 
+resident or foreign national continues to be inadmissible for a period of two years. In these cases, 
+the final disposition date is the date of the final determination of inadmissibility made pursuant to 
+A40 (1). 
+Note: Where a report is still before the Minister's delegate under A44(2) or has been referred to the 
+Immigration Division, the eligibility determination must be put on hold until the outcome of the 
+inadmissibility hearing is known. If a removal order is under appeal to the IAD or the subject of judicial 
+review before the courts, the eligibility recommendation will be negative, i.e., fail. 
+To determine the final disposition date of any immigration violation included in “Part 3 
+Enforcement” of the Act relating to: 
+• 
+Human smuggling and trafficking; 
+• 
+Offence related to documents; 
+• 
+General offences;  
+• 
+Proceeds of crime;  
+• 
+Officers authorized to enforce the Act;  
+• 
+Ticketable offences;  
+• 
+Collection of debts due to Her Majesty;  
+refer the case to the AME Travellers’ Programs, Immigration Ports and Border Management, 
+Border and Compliance Programs Directorate, Admissibility—CBSA at: ais@cic.gc.ca 
+
+
+===== PAGE 21 =====
+ENF 29 Alternative Means of Examination Programs 
+ 
+2005-06-17 
+ 
+20 
+ 
+Appendix 
+B  Letter requesting additional information to determine 
+admissibility and residency 
+ 
+PERSONAL & CONFIDENTIAL  
+ 
+This letter is for the eyes of the addressee only. If you have received this correspondence 
+in error, please immediately return to the address listed at the bottom. 
+Date 
+ 
+FILE NUMBER: «Canpass_ID_Number» 
+Dear  «Given_Names»  «Surname» : 
+Your application to participate in the {{FAST/NEXUS/CANPASS}} program has been received at 
+the Canadian Processing Centre.  
+In order to proceed with the verification of your application, we require additional information to: 
+   determine your admissibility to Canada.   
+   ensure that you are in compliance with the residency obligation under the Immigration and 
+Refugee Protection Act if you are a permanent resident of Canada. 
+We ask that you contact us within 30 days from the date of this letter to discuss your application.  
+You may reach our Processing Centre at (area code) (telephone number) from Monday to Friday 
+08:00 to 16:00 (your time zone) only. 
+If you don't reply within 30 days from the date of this letter, we will have insufficient information to 
+process your application. Consequently, we will recommend that your application be denied. In 
+that event, if you wish to re-apply, another application and processing fee will be required. 
+Sincerely, 
+Officer, 
+(Address of applicable processing centre) 
+
+
+===== PAGE 22 =====
+ENF 29 Alternative Means of Examination Programs 
+ 
+2005-06-17 
+ 
+21 
+Appendix 
+C Standard format of NCB entries into FOSS 
+ 
+ 
+ 
+ 
+ 
+ 
+Standard FOSS remark for an immigration violation 
+“Application for XXXXXXX program—Recommend fail to CBSA PC for immigration violation 
+criteria.” 
+• 
+Detailed information regarding the immigration violation may be provided to assist in future 
+enquiries. 
+ 
+Standard FOSS remark for criminality/ inadmissibility 
+“Application for XXXXXXX program—Recommend fail to CBSA PC for the following offence.” 
+• 
+Detailed offence information should be entered. 
+Note: The general information NCB may be created in FOSS for an applicant who has been deemed 
+rehabilitated. The applicant may or may not be approved into an AME program depending on the 
+eligibility criteria. It is important to record this type of information in FOSS should the person commit a 
+subsequent offence thereby becoming inadmissible to Canada. 
+ 
+Standard FOSS remark for no response as a result of request for information 
+“Application for XXXXXXX program – Recommend fail to the CBSA PC for failure to respond to a 
+request for information.” 
+• 
+Limited information relating to the nature of the request should follow. 
+ 
+Standard FOSS remark for a request for residency obligation determination 
+“Application for XXXXXXX program—Recommend examination for residency obligation.” 
+• 
+Indicate time and place where PR has been referred for further examination if applicable.   
+• 
+Provide details as to information that has led to the decision to defer for residency obligation 
+determination. 
+• 
+Include detailed notes on the contact information of the officer who requested the residency 
+determination. This will facilitate contacting that officer once the determination has been 
+completed.  
+ 
+ 
+
+
+===== PAGE 23 =====
+ENF 29 Alternative Means of Examination Programs 
+ 
+2005-06-17 
+ 
+22 
+Appendix 
+D Residency obligation for permanent residents 
+ 
+PERSONAL & CONFIDENTIAL: 
+ 
+This letter is for the eyes of the addressee only. If you have received this correspondence 
+in error, please immediately return to the address listed at the bottom. 
+Date 
+ 
+FILE NUMBER: « ID_Number» 
+Dear «Given_Names»  «Surname» : 
+Your application to participate in the XXXXXXX has been received at the Processing Office.  
+Under subsection 28(2) of the the Immigration and Refugee Protection Act, a permanent resident 
+of Canada must comply with the residency obligation with respect to every five-year period. 
+Based on the information you have provided on your application and the information that is 
+available to us in our database, your permanent resident status must be determined before we 
+proceed with your application.  
+In order to have your Canadian permanent resident status determined by an immigration officer, 
+you must present yourself for examination. If you reside in Canada please call 1-888-242-2100 to 
+find the location of the nearest Canadian Immigration Centre. If you reside in the United States, 
+you must present yourself to the nearest Canadian Consulate in the United States. There is an 
+enclosed list of Canadian Consulates in the United States for your reference.   
+You must bring proof of your residency for the last 5 years to the scheduled interview with an 
+immigration officer. Documentation you may be asked to provide includes utility bills in your 
+name, receipts of purchases in Canada, bank statements showing transactions at Canadian 
+Institutions. This list is not exhaustive and an immigration officer may ask you for further 
+documentation. This information must satisfy the immigration officer that you have complied with 
+the residency requirements as set out in the Immigration and Refugee Protection Act. 
+Failure to present yourself for an examination within 60 days from the date of this letter 
+may result in the refusal of your application in the above-noted program. 
+Please note that if you seek re-entry into Canada at any time during this process, you may be 
+asked to address your residency obligation.  
+Should you require clarification on this matter, please contact me at the number below. 
+Sincerely, 
+Officer, 
+ Canada Border Services Agency 
+(Address/phone number of the originating CBSA IPC) 
+ 
+CANADA REPRESENTATIVES LOCATED IN THE UNITED STATES OF AMERICA 
+ 
+
+
+===== PAGE 24 =====
+ENF 29 Alternative Means of Examination Programs 
+ 
+2005-06-17 
+ 
+23 
+ 
+ 
+ 
+ 
+Washington, D.C. 
+ 
+The Embassy of Canada 
+501 Pennsylvania Avenue, N.W. 
+Washington, D.C. 
+20001-2114, USA  
+Tel: (202) 682-1740 Fax: (202) 682-7701 
+e-mail: wshdc.outpack@dfait-maeci.gc.ca 
+Web site:  
+http://www.canadianembassy.org/ 
+homepage/index-en.asp 
+Territory: Eastern Pennsylvania, Delaware, 
+Maryland, and Virginia, District of Columbia 
+ 
+ 
+New York 
+ 
+Consulate General of Canada 
+1251 Avenue of the Americas 
+New York, NY 
+10020-1175, USA 
+Tel: (212) 596-1628 Fax: (212) 596-1793 
+e-mail: cngny-td@dfait-maeci.gc.ca 
+Web site: http://www.can-am.gc.ca/new_york 
+Territory: Southern New York State, 
+Connecticut, New Jersey (other: Bermuda) 
+ 
+Seattle 
+ 
+Consulate General of Canada 
+412 Plaza 600 Building 
+Sixth Avenue and Stewart Street 
+Seattle, WA 
+98101-1286, USA 
+Tel: (206) 443-1777 Fax: (206) 443-9735 
+e-mail: seatl-gr@dfait-maeci.gc.ca 
+Web site: http://www.can-am.gc.ca/seattle 
+Territory: Washington State, Alaska, Idaho, 
+Oregon 
+ 
+Buffalo 
+ 
+The Consulate General of Canada 
+HSBC Center, Suite 3000 
+Buffalo, NY 
+14203-2884, USA 
+Tel: (716) 858-9500 Fax: (716) 858-9562 
+e-mail: bfalo-td@dfait-maeci.gc.ca 
+Web site: http://www.can-am.gc.ca/buffalo 
+Territory: Western, Central and Upstate New 
+York State, Western and Central Pennsylvania, 
+West Virginia 
+ 
+Detroit 
+ 
+Consulate General of Canada 
+600 Renaissance Center, Suite 1100 
+Detroit, MI 
+48243-1798, USA 
+Tel: (313) 567-2340 Fax: (313) 567-2164 
+e-mail: dtrot@dfait-maeci.gc.ca 
+Web site: http://www.can-am.gc.ca/detroit 
+Immigration Inquires 
+Tel: (313) 567-2085 Fax: (313) 567-2125 
+e-mail: dtrot-im@dfait-maeci.gc.ca 
+Territory: Michigan, Indiana, Kentucky, Ohio 
+ 
+ 
+Los Angeles 
+ 
+Consulate General of Canada 
+550 South Hope Street, 9th Floor 
+Los Angeles, CA 
+90071-2627, USA 
+Tel: (213) 346-2700 Fax: (213) 346-2767 
+e-mail: lngls-td@dfait-maeci.gc.ca 
+Web site: http://www.dfait-
+maeci.gc.ca/los_angeles/ 
+Territory: California, Arizona, Hawaii, Nevada, 
+Utah 
+
+
+===== PAGE 25 =====
+ENF 29 Alternative Means of Examination Programs 
+ 
+2005-06-17 
+ 
+24 
+Appendix 
+E  Request for Residency Determination Form 
+ 
+ 
+ 
+ 
+ 
+AME Residency Determination 
+ 
+EC Location: 
+      
+  
+Officer Name: 
+      
+Telephone number: 
+      
+ 
+Applicant Information 
+Date of Examination (yyyy-mm-dd): 
+      
+Current Address: 
+      
+      
+ 
+      
+ 
+      
+City 
+ 
+Province/State 
+Postal/zip code 
+Surname: 
+      
+Given Name(s): 
+      
+Client Identification: 
+      
+FOSS Identification: 
+      
+Date of Birth (yyyy-mm-dd): 
+      
+Country of Birth: 
+      
+Background/ Synopsis of interview: 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 26 =====
+ENF 29 Alternative Means of Examination Programs 
+ 
+2005-06-17 
+ 
+25 
+Appendix 
+F FOSS Results Form 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FOSS Results 
+Alternative Means of Examination Programs 
+ 
+Note:  This form is to be used to communicate FOSS results for programs that have not 
+been incorporated into GEC. 
+ 
+ 
+Surname: ______________________ 
+Given Name(s): ______________________   
+Date of Birth: _____________________ 
+ 
+What program is the person applying for? 
+  CDRP 
+ FAST 
+  CANPASS Private Aircraft   CANPASS Corporate Aircraft    CANPASS Private Boat 
+ 
+Is the applicant admissible to Canada?  Yes     No 
+ 
+ 
+ 
+Pass     Fail                                   FOSS # _ _ _ _ - _ _ _ _ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          _ _ _ _ - _ _ _ _ 
+Comments: (includes type(s) and description of violation(s), date(s) and location(s) of violation(s)) 
+______________________________________________________________________
+______________________________________________________________________
+______________________________________________________________________
+______________________________________________________________________
+______________________________________________________________________
+______________________________________________ 
+ 
+___________________  
+______ / _____ / _______    
+        
+CBSA (immigration) Officer  
+ 
+        Day              Month 
+       Year 
+Personal Information 
+Recommendation
+CPC #: 
+
+
+===== PAGE 27 =====
+ENF 29 Alternative Means of Examination Programs 
+ 
+2005-06-17 
+ 
+26 
+Appendix 
+G Contact information for the Criminal Rehabilitation 
+Processing Centre 
+Criminal Rehabilitation Processing Centre 
+Canada Border Services Agency 
+6080 McLeod Road, Unit 10 
+Niagara Falls, Ontario, Canada 
+L2G 7T4 
+(905) 354-4687 
+ 
+
+
+===== PAGE 28 =====
+ENF 29 Alternative Means of Examination Programs 
+ 
+2005-06-17 
+ 
+27 
+ 
+Appendix 
+H AME SECURITY REVIEW FORM 
+ 
+AME SECURITY REVIEW FORM 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+SECURITY REVIEW FORM 
+ 
+CBSA Processing Centre  
+Montréal, Québec 
+ 
+ 
+ 
+ 
+      Fax: 514-283-4604 
+Niagara Falls, Ontario  
+ 
+ 
+      
+      Fax: 905-354-2332 
+Douglas, British Columbia 
+ 
+ 
+ 
+      Fax: 604-535-7215 
+ 
+DATE: 
+ 
+CLIENT NUMBER: 
+ 
+LAST NAME (First 3 letters only): 
+ 
+This AME application requires further security checks. During the interview process, the following 
+concerns/discrepancies (i.e., criminality, wrong DOB, name misspelled, etc.) were discovered: 
+_____________________________________________________________________________
+_____________________________________________________________________________
+_____________________________________________________________________________
+_____________________________________________________________________________
+____________________________ 
+Please identify any previous FOSS worksheet number and then forward these documents to 
+Intelligence and Contraband for further security checks. 
+        ***PREVIOUS FOSS WORKSHEET # _______________________*** 
+I & C Security: 
+Please conduct an additional NCIC query on this subject based on the information provided 
+above. It is also requested that you conduct an NCIC query on the following state(s) and advise 
+any results.   
+Note: If there are no U.S. States indicated below, then only a standard NCIC check is required. 
+NCIC Requested State(s) Query 
+1/ 
+ 
+ 
+ 
+ 
+ 
+2/ 
+ 
+ 
+ 
+ 
+  
+3/  
+ 
+ 
+ 
+ 
+ 
+Enrolment Centre (Immigration) Officer   
+ 
+ 
+ 
+ 

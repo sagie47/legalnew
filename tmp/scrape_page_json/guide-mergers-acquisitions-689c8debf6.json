@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_689c8debf6f3",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/guide-mergers-acquisitions.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/guide-mergers-acquisitions.html",
+  "title": "Employer name changes and corporate restructurings",
+  "language": "en",
+  "manual": "Employer name changes and corporate restructurings",
+  "chapter": null,
+  "heading_path": [
+    "Employer name changes and corporate restructurings"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "70a03246eb07762ab015be07ff83cec2dffa5ed22770ca4bc4af6dcde364e705",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/guide-mergers-acquisitions-689c8debf6.md",
+  "text": "Employer name changes and corporate restructurings",
+  "sections": [
+    {
+      "heading": "Employer name changes and corporate restructurings",
+      "heading_path": [
+        "Employer name changes and corporate restructurings"
+      ],
+      "anchor": "#employer-name-changes-and-corporate-restructurings",
+      "text": "Employer name changes and corporate restructurings"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_b05862060ff8",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/wages-occupation-working-conditions.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/wages-occupation-working-conditions.html",
+  "title": "Review of wages, occupation and working conditions provided to previous temporary workers",
+  "language": "en",
+  "manual": "Review of wages, occupation and working conditions provided to previous temporary workers",
+  "chapter": null,
+  "heading_path": [
+    "Review of wages, occupation and working conditions provided to previous temporary workers"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "c048f009a27a41a9283ac2526092b35a6ca5ad122d53e12a60b6c20a7ba391cf",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/wages-occupation-working-conditions-b05862060f.md",
+  "text": "Review of wages, occupation and working conditions provided to previous temporary workers",
+  "sections": [
+    {
+      "heading": "Review of wages, occupation and working conditions provided to previous temporary workers",
+      "heading_path": [
+        "Review of wages, occupation and working conditions provided to previous temporary workers"
+      ],
+      "anchor": "#review-of-wages-occupation-and-working-conditions-provided-to-previous-temporary-workers",
+      "text": "Review of wages, occupation and working conditions provided to previous temporary workers"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

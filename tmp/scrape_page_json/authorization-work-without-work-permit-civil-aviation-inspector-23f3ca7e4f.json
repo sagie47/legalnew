@@ -1,0 +1,44 @@
+{
+  "source_id": "pdi_23f3ca7e4f74",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/authorization-work-without-work-permit-civil-aviation-inspector.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/authorization-work-without-work-permit-civil-aviation-inspector.html",
+  "title": "International Mobility Program: Authorization to work without a work permit – Civil aviation inspector",
+  "language": "en",
+  "manual": "International Mobility Program: Authorization to work without a work permit – Civil aviation inspector",
+  "chapter": null,
+  "heading_path": [
+    "International Mobility Program: Authorization to work without a work permit – Civil aviation inspector"
+  ],
+  "last_updated": "2017-10-16",
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "bbf349482d2e7792db8678d101822d301aab24cb3924a9dc0273dcbb732a0bcc",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/authorization-work-without-work-permit-civil-aviation-inspector-23f3ca7e4f.md",
+  "text": "Published Time: Thu, 12 Feb 2026 00:35:56 GMT\n\nWarning: This page contains iframe that are currently hidden, consider enabling iframe processing.\nWarning: This page contains shadow DOM that are currently hidden, consider enabling shadow DOM processing.\n\nInternational Mobility Program: Authorization to work without a work permit – Civil aviation inspector\n======================================================================================================\n\nThis section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.\n\nParagraph [R186(_q_)](http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-186.html) applies to flight operations inspectors and cabin safety inspectors who enter the country temporarily while inspecting safety procedures on commercial international flights. These inspectors are employed by the recognized aeronautical authority conducting the inspections, and would be in possession of valid documentation and/or identification establishing that they are aviation inspectors carrying out inspection duties.\n\nPage details\n------------\n\n 2017-10-16",
+  "sections": [
+    {
+      "heading": "International Mobility Program: Authorization to work without a work permit – Civil aviation inspector",
+      "heading_path": [
+        "International Mobility Program: Authorization to work without a work permit – Civil aviation inspector"
+      ],
+      "anchor": "#international-mobility-program-authorization-to-work-without-a-work-permit-civil-aviation-inspector",
+      "text": "Published Time: Thu, 12 Feb 2026 00:35:56 GMT\n\nWarning: This page contains iframe that are currently hidden, consider enabling iframe processing.\nWarning: This page contains shadow DOM that are currently hidden, consider enabling shadow DOM processing.\n\nInternational Mobility Program: Authorization to work without a work permit – Civil aviation inspector\n======================================================================================================\n\nThis section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.\n\nParagraph [R186(_q_)](http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-186.html) applies to flight operations inspectors and cabin safety inspectors who enter the country temporarily while inspecting safety procedures on commercial international flights. These inspectors are employed by the recognized aeronautical authority conducting the inspections, and would be in possession of valid documentation and/or identification establishing that they are aviation inspectors carrying out inspection duties.\n\nPage details\n------------\n\n 2017-10-16"
+    }
+  ],
+  "links": {
+    "outbound": [
+      "http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-186.html"
+    ],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": false,
+    "notes": []
+  }
+}

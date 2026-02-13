@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_c11d2977f279",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/health-students.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/health-students.html",
+  "title": "Immigration medical examination: Healthcare students who are work permit-exempt",
+  "language": "en",
+  "manual": "Immigration medical examination: Healthcare students who are work permit",
+  "chapter": "exempt",
+  "heading_path": [
+    "Immigration medical examination: Healthcare students who are work permit-exempt"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "6b17ab79abc7353bc02e71caf25054c576d6f3ad4e50c758ac5fc853134fd1c5",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/health-students-c11d2977f2.md",
+  "text": "Immigration medical examination: Healthcare students who are work permit-exempt",
+  "sections": [
+    {
+      "heading": "Immigration medical examination: Healthcare students who are work permit-exempt",
+      "heading_path": [
+        "Immigration medical examination: Healthcare students who are work permit-exempt"
+      ],
+      "anchor": "#immigration-medical-examination-healthcare-students-who-are-work-permit-exempt",
+      "text": "Immigration medical examination: Healthcare students who are work permit-exempt"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_52adafacfaf6",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/restoration-status.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/restoration-status.html",
+  "title": "Restoration of temporary resident status",
+  "language": "en",
+  "manual": "Restoration of temporary resident status",
+  "chapter": null,
+  "heading_path": [
+    "Restoration of temporary resident status"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "63d40b1c2987381bb0f02749a0bfed2c6a1e3e5cb306a4f3c8fa33f8933e8208",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/restoration-status-52adafacfa.md",
+  "text": "Restoration of temporary resident status",
+  "sections": [
+    {
+      "heading": "Restoration of temporary resident status",
+      "heading_path": [
+        "Restoration of temporary resident status"
+      ],
+      "anchor": "#restoration-of-temporary-resident-status",
+      "text": "Restoration of temporary resident status"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

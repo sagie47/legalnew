@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_6c2bca54f941",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/other-considerations.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/other-considerations.html",
+  "title": "Study permits: Other considerations",
+  "language": "en",
+  "manual": "Study permits: Other considerations",
+  "chapter": null,
+  "heading_path": [
+    "Study permits: Other considerations"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "7a7a9558c38e29d165af09ddef9940dab0afc46a1677d0407d0023030b67568b",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/other-considerations-6c2bca54f9.md",
+  "text": "Study permits: Other considerations",
+  "sections": [
+    {
+      "heading": "Study permits: Other considerations",
+      "heading_path": [
+        "Study permits: Other considerations"
+      ],
+      "anchor": "#study-permits-other-considerations",
+      "text": "Study permits: Other considerations"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

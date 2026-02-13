@@ -1,0 +1,3280 @@
+
+
+===== PAGE 1 =====
+22 August 2024  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ENF 19 
+Appeals before the Immigration 
+Appeal Division (IAD) of the 
+Immigration and Refugee Board (IRB) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 2 =====
+22 August 2024  
+ 
+ 
+Active Operational Bulletins (OBs) 
+ 
+Most recent date of changes: 2024-08-22 
+ENF 19: Table of Contents 
+Updates to chapter ................................................................................................................. 6 
+1. What this chapter is about.................................................................................................. 9 
+2. Program objectives ............................................................................................................. 9 
+3. The Act and Regulations .................................................................................................... 9 
+3.1. Forms .................................................................................................................... 15 
+4. Instrument of delegation and designation ....................................................................... 15 
+5. Departmental policy.......................................................................................................... 16 
+5.1. Officer safety and security.................................................................................. 16 
+5.2. Incident report writing ......................................................................................... 16 
+6. Definitions ......................................................................................................................... 17 
+7. Procedure: General hearing............................................................................................. 20 
+7.1. Calculating time limits......................................................................................... 20 
+7.2. Withdrawing an appeal (IAD rule 94) ................................................................ 20 
+7.3. Reinstating an appeal after withdrawal (IAD rule 95-96) .................................. 21 
+7.4. Proof document was provided (IAD rule 25) ..................................................... 21 
+7.5. Applications to reopen an appeal ...................................................................... 21 
+7.6. Applications......................................................................................................... 22 
+7.7. Loss of appeal rights .......................................................................................... 23 
+7.8. Non-disclosure of information: Prior to an appeal hearing ............................... 23 
+7.9. Non-disclosure of information: During an appeal hearing ................................ 24 
+
+
+===== PAGE 3 =====
+22 August 2024  
+ 
+7.10. Pre-hearing conferences .................................................................................... 24 
+7.11. Liaison with the Department of Justice.............................................................. 24 
+7.12. Applications for judicial review ........................................................................... 25 
+7.13 Post hearing procedures .............................................................................................. 26 
+8. Procedure: Family class sponsorship appeals ............................................................... 27 
+8.1. Family class sponsorship appeals ..................................................................... 27 
+8.2. Notice of appeal .................................................................................................. 27 
+8.3. Designated representative ................................................................................. 27 
+8.4. Grounds for appeal ............................................................................................. 28 
+8.5. Disputed appeal rights........................................................................................ 28 
+8.6. Preparation of the record ................................................................................... 28 
+8.7. Requirements to be eligible to sponsor ............................................................. 29 
+8.8. Failure to meet financial criteria ......................................................................... 30 
+8.9. Other sponsorship eligibility requirements ........................................................ 31 
+8.10. Humanitarian and compassionate grounds related to sponsorship................. 31 
+8.11. Bad faith marriage [R4(1)] .................................................................................. 32 
+8.12. New relationship [R4.1] ...................................................................................... 33 
+8.13. Sponsors residing in provinces under federal-provincial agreements [A8(1) 
+and A9(2)] ........................................................................................................... 34 
+8.14. Members of the family class .............................................................................. 35 
+8.15. Filing evidence .................................................................................................... 35 
+8.16. Consenting to an appeal—Communication with the IRCC office .................... 35 
+8.17. Authorization to return to Canada and refusal of permanent residency 
+application ........................................................................................................... 36 
+
+
+===== PAGE 4 =====
+22 August 2024  
+ 
+9. Procedure for appeals involving medical inadmissibility ................................................ 36 
+9.1. Overview of process for medical refusal ........................................................... 36 
+9.2. Grounds for appeal ............................................................................................. 36 
+9.3. When to consider a new medical examination during the appeal process ..... 37 
+9.4. Procedures upon receipt of new medical information during the appeal ........ 37 
+9.5. New medical examination .................................................................................. 38 
+9.6. Communicating medical results ......................................................................... 39 
+9.7. Medical officers’ statutory declaration ............................................................... 39 
+9.8. Effective communication .................................................................................... 40 
+10. Alternative dispute resolution conference (ADR) [IAD rule 69(1)]................................ 41 
+10.1. Purpose of ADR .................................................................................................. 41 
+10.2. Responsibilities of hearings officers for dispute resolution .............................. 41 
+11. Procedure for removal order appeals ............................................................................ 43 
+11.1. Persons who may appeal against removal orders ............................................ 43 
+11.2. Criminality ........................................................................................................... 43 
+11.3. All the circumstances of the case ...................................................................... 44 
+11.4. Mandatory conditions to be imposed by the IAD .............................................. 44 
+11.5. Discretionary conditions in criminal inadmissibility cases ................................ 45 
+11.6. Monitoring compliance with the conditions of a stay of removal ...................... 46 
+11.7. Cancellation of stays by operation of law .......................................................... 47 
+11.8. Permanent resident visa holders ....................................................................... 47 
+12. Procedure: Loss of residency status appeals................................................................ 49 
+12.1. In Canada............................................................................................................ 49 
+
+
+===== PAGE 5 =====
+22 August 2024  
+ 
+12.2. Outside Canada .................................................................................................. 49 
+12.3. Record of refusal (outside Canada)................................................................... 49 
+12.4. Requests to return to Canada for the hearing (Outside of Canada) ................ 50 
+12.5. Dismissed appeals—Type of removal order ..................................................... 50 
+12.6. Failure to appear at an appeal ........................................................................... 50 
+13. Procedure: The Minister's appeal rights ........................................................................ 51 
+14. Procedure: Roles and responsibilities ........................................................................... 52 
+Appendix A – Detention, Safety & Security Annex ............................................................. 54 
+Appendix B – Examples of cases that do not need to be forwarded to Operations 
+Directorate, Migration Health Branch, NHQ, by the officer ............................................ 62 
+Appendix C – Sample letter from hearings officer to appellant or counsel for the appellant 
+- New medical examinations ............................................................................................ 63 
+Appendix D – Statement of Service ..................................................................................... 64 
+Appendix E – Notice of cancellation, by operation of law, of a stay of removal order 
+granted by the IAD [A68(4)] ............................................................................................. 65 
+ 
+
+
+===== PAGE 6 =====
+22 August 2024  
+ 
+ 
+Updates to chapter 
+ 
+Listing by date: 
+ 
+Date: 2024-08-22 
+ 
+Changes have been made throughout this chapter. All previous versions should be discarded in 
+favour of the current one. Changes have been made throughout this chapter to reflect the 
+revised Immigration Appeal Division Rules (2022-12-15), updating the name of the Litigation 
+Management Unit to the Judicial Review Unit as well as directions on recording final decisions 
+in GCMS. 
+ 
+Date: 2018-08-03 
+ 
+Changes have been made throughout this chapter. All previous versions should be discarded in 
+favour of the current one. 
+ 
+Of particular importance are changes and additions as follows: 
+ 
+ 
+Content from previous section 5 has been moved to section 4 and reworded 
+ 
+Updates to section 7.5 application to re-open appeals 
+ 
+Section 7.7 updated to reflect change in definition of serious criminality 
+ 
+Section 7.7 updated to reflect SCC Tran decision, conditional sentence is not considered a 
+term of imprisonment 
+ 
+Section 7.11 DOJ has a new name and contact information for requests to assign a 
+litigator 
+ 
+Old 8.9 right of permanent residence fee refund has been deleted 
+ 
+Update to section 8.8 Failure to meet financial criteria 
+ 
+New 8.9 has amended old 8.10 replacing sponsorship exclusion with other sponsorship 
+eligibility requirements 
+ 
+Old 8.11 is now 8.10 
+ 
+New section added 8.11 Bad faith marriage R4(1) 
+ 
+New section added 8.12 New relationship R4.1 
+ 
+Old 8.12 now 8.13 
+ 
+Old 8.13 now 8.14 
+ 
+Old 8.14 deleted, 
+ 
+New section added 8.17 ARC 
+ 
+Old 8.17 now 8.18 
+ 
+Old 8.18 deleted 
+ 
+The old section 11.6 from the 2005-12-30 version has been deleted. 
+ 
+Old 11.7 (now 11.6) amended to remove distinction between criminal and entrepreneurial 
+cases 
+ 
+Old 11.8 now 11.7 
+ 
+Old 11.9 deleted 
+ 
+The old Appendix A Procedural fairness letter has been deleted 
+ 
+New Appendix A added for the Detention, Safety and Security Annex 
+
+
+===== PAGE 7 =====
+22 August 2024  
+ 
+ 
+The old Appendix B Letter to medical officer – new medical information has been deleted 
+ 
+Old Appendix C is now Appendix B 
+ 
+Old Appendix D is now Appendix C 
+ 
+Old Appendix E is now Appendix D 
+ 
+Old Appendix F is now Appendix E 
+ 
+The old Appendix G Application to reconsider an appeal (A197, A64) has been deleted 
+ 
+The old Appendix H Application to reconsider an appeal (A197, A68(4)) has been deleted 
+
+
+===== PAGE 8 =====
+22 August 2024  
+ 
+ 
+Date: 2005-12-30 
+ 
+Changes have been made throughout this chapter. All previous versions should be discarded in 
+favour of the current one. 
+ 
+Of particular importance are changes and additions as follows: 
+ 
+ 
+Dispositions with respect to guardianship have been deleted in the Regulations amending 
+the Immigration and Refugee Protection Regulations, which came into force on March 22, 
+2005. Changes throughout this chapter have been made accordingly. 
+ 
+Changes have been made to reflect sharing of policy responsibility between the Minister 
+of Citizenship and Immigration and the Minister of Public Safety and Emergency 
+Preparedness. The latter is also responsible for the service delivery of hearings before the 
+Immigration Appeal Division. 
+ 
+More comprehensive sections have been added in relation to the conditions, mandatory and 
+discretionary, imposed by the Immigration Appeal Division when a decision to stay a removal 
+order is taken. See new sections 11.4, 11.5, 11.6 and 11.7. 
+ 
+2003-10-01 
+ 
+Important changes have been made to ENF 19 - Appeals before the Immigration Appeal Division 
+(IAD) of the Immigration and Refugee Board (IRB). Among the changes to this chapter, the 
+highlights include: 
+ 
+ 
+A new Section 11.7 provides guidelines on the interpretation and the application of A197 
+of the transitional provisions of the IRPA (appellant who has been granted a stay of the 
+removal order and who breaches a condition of the stay); 
+ 
+Appendix F has been updated to reflect changes to the Immigration Appeal Division 
+Rules; 
+ 
+a new Appendix G provides guidance on how to prepare an application to reconsider an 
+appeal pursuant to A197 and A64 of the IRPA and rule 26 of the IAD Rules; 
+ 
+a new Appendix H provides guidance on how to prepare an application to reconsider an 
+appeal pursuant to A197 and A68(4) of the IRPA and rule 26 of the IAD Rules; 
+ 
+It is recommended that any former version of this chapter be discarded in favour of the one now 
+appearing in IRCC Connexion. 
+
+
+===== PAGE 9 =====
+22 August 2024  
+ 
+ 
+1. What this chapter is about 
+ 
+This chapter describes the role of a Canada Border Service Agency (CBSA) hearings officer while 
+acting as counsel at appeals heard before the Immigration Appeal Division (IAD) of the 
+Immigration and Refugee Board (IRB) for either the Minister of Immigration, Refugee, 
+Citizenship Canada (IRCC) or the Minister of Public Safety and Emergency Preparedness (PSEP). 
+Procedures for the preparation of an appeal, the conduct of appeal proceedings and for post- 
+hearing responsibilities are all covered in this chapter. In addition, this chapter will also outline 
+the program objectives, the role and jurisdiction of the IAD, the different types of IAD hearings 
+and the ways in which they may be resolved are discussed. 
+ 
+ 
+2. Program objectives 
+ 
+Canada’s Immigration and Refugee Protection Act (IRPA) allows specific groups of people to 
+appeal to the IAD in order to: 
+ 
+ 
+ensure that prescribed groups of people ordered to be removed from Canada after an 
+examination or admissibility hearing have had the benefit of a full hearing on the 
+allegations against them. The Act recognizes an additional commitment to permanent 
+residents, protected persons and foreign nationals who hold a permanent resident visa  by 
+allowing them to appeal their removal orders to the IAD, not only on the basis of legal 
+and factual questions relating to the allegations at the admissibility hearing, but also on 
+the basis that special considerations may be warranted; 
+ 
+ensure that the reunion in Canada of Canadians and permanent residents with their close 
+relatives from abroad is facilitated by providing a review, by way of appeal, of refusals of 
+sponsored applications for permanent residence from members of the family class; and 
+ 
+ensure that the rights of permanent residents are given due consideration by allowing an 
+oral appeal to the IAD for loss of residency status determinations made both within and 
+outside Canada. 
+ 
+Pursuant to A63(5) the Minister may appeal to the Immigration Appeal Division against a 
+decision of the Immigration Division (ID) in an admissibility hearing. 
+ 
+The right of appeal to the IAD is consistent with the objectives of IRPA in that it helps to 
+accomplish the following: 
+ 
+ 
+ensure that families are reunited in Canada; and 
+ 
+protect the health and safety of Canadians and maintain the security of Canadian society. 
+ 
+ 
+3. The Act and Regulations 
+ 
+The following statutory and regulatory provisions apply to appeals before the IAD. 
+
+
+===== PAGE 10 =====
+22 August 2024  
+ 
+ 
+Provision 
+IRPA and its Regulations 
+Definition of foreign national 
+A2(1) 
+Definition of permanent resident 
+A2(1) 
+Family reunification 
+A12(1) 
+Sponsorship of foreign nationals 
+A13(1) 
+Obligation-answer truthfully (non-compliance) 
+A16 
+Residency obligation – permanent resident residency 
+obligation 
+For more details regarding the residency obligation, 
+see ENF 23, Loss of Permanent Resident Status, OP 
+10, Permanent Residency Status Determination, and 
+ENF 1, Inadmissibility 
+A28(1), A A28(2) 
+Security - inadmissibility on security grounds 
+For more details, see ENF 1 ,ENF 2 
+A34(1) 
+Human or international rights violations – 
+inadmissibility for violating human or international 
+rights 
+For more details, see ENF 1, ENF 18 
+A35(1) 
+Serious criminality – inadmissibility for serious 
+criminality 
+For more details, see ENF 1, ENF 2, Evaluating 
+inadmissibility 
+A36(1) 
+Criminality – inadmissibility for criminality 
+For more details, see ENF 1 
+A36(2) 
+Organized Criminality – inadmissibility for criminality 
+For more details, see ENF 1, ENF 2, Evaluating 
+inadmissibility 
+A37(1) 
+Health grounds – inadmissibility for health grounds 
+For more details, see ENF 1,see ENF 2, /OP 18, 
+Evaluating Inadmissibility, section 8, 
+https://www.canada.ca/en/immigration-refugees- 
+citizenship/corporate/man date/policies-operational- 
+instructions-agreements/excessive-demand-june- 
+2018.html 
+A38(1) 
+
+
+===== PAGE 11 =====
+22 August 2024  
+ 
+ 
+Financial reasons – inadmissibility for financial 
+reasons 
+For more details, see ENF 2, /OP 18, Evaluating 
+Inadmissibility, section 8 
+A39 
+Misrepresentation – inadmissibility for 
+misrepresentation 
+For more details, see ENF 1, ENF 2, Evaluating 
+inadmissibility, section 9 
+A40 
+Inadmissibility – cessation of refugee protection 
+A40.1 
+Non-compliance with the Act – inadmissibility for 
+non-compliance with the Act 
+For more details, see ENF 1, Inadmissibility, ENF 2, 
+Evaluating inadmissibility 
+A41 
+Non-compliance with the Act and failure to meet 
+residency obligations 
+A41/A28 
+Inadmissible family member 
+See, ENF 2, Evaluating inadmissibility, for more 
+details 
+A42 
+Loss of status – loss of permanent resident status 
+For more details regarding the residency obligation, 
+see ENF 23, Loss of Permanent Resident Status, OP 
+10, Permanent Residency Status Determination and 
+ENF 1, Inadmissibility, ENF 2 - Evaluating 
+inadmissibility 
+A46 
+Right to appeal - visa refusal of family class 
+A63(1) 
+Right to appeal – visa holder and removal order 
+A63(2) 
+Right to appeal - removal order 
+A63(3) 
+Right of appeal - residency obligation 
+A63(4) 
+Right of appeal - PSEP Minister 
+A63(5) 
+No appeal rights – inadmissibility 
+A64(1) 
+No appeal rights – serious criminality 
+A64(2) 
+No appeal rights – misrepresentation 
+A64(3) 
+Humanitarian and compassionate considerations 
+A65 
+
+
+===== PAGE 12 =====
+22 August 2024  
+ 
+ 
+Disposition of an appeal 
+A66 
+Allowing an appeal 
+A67 
+Effect of allowing an appeal 
+A67(2) 
+Staying a removal order 
+A68 
+Effect of staying a removal order 
+A68(2) 
+Reconsideration of a stay of a removal order 
+A68(3) 
+Termination of a stay of a removal order 
+A68(4) 
+Dismissal of an appeal 
+A69(1) 
+Minister’s appeal 
+A69(2) 
+Making a removal order 
+A69(3) 
+IAD decision binding 
+A70(1) 
+Examination suspended 
+A70(2) 
+Reopening appeal 
+A71 
+Judicial review 
+A72 
+Judicial consideration 
+A78 
+Application for non-disclosure of information 
+A86 
+Composition of the IRB 
+A151 
+Sole and exclusive jurisdiction 
+A162(1) 
+Proceedings before all Divisions 
+A166 
+Abandonment of proceeding 
+A168(1) 
+Abuse of process 
+A168(2) 
+Decisions and reasons 
+A169 / Rule 54(1) 
+IAD - Court of record 
+A174(1) 
+Powers of the IAD 
+A174(2) 
+IAD proceedings 
+A175(1) 
+Presence of a permanent resident at a hearing 
+A175(2) 
+Transition – Application of the Act 
+A190 
+Transition – Immigration Appeal Division 
+A192 
+Transition – Loss of appeal rights 
+A196 
+Transition – Stays – Breach of conditions – 
+Application of the Act 
+A197 
+Definition of common-law partner 
+R1(1) 
+
+
+===== PAGE 13 =====
+22 August 2024  
+ 
+ 
+Definition of family member 
+R1(3) 
+Definition of marriage 
+R2 
+Definition of conjugal partner 
+R2 
+Definition of dependent child 
+R2 
+Definition of Hague Convention on Adoption 
+R2 
+Definition of relative 
+R2 
+Definition of minimum necessary income 
+R2 
+Definition of social assistance 
+R2 
+Family relationships – Bad faith 
+R4(1) 
+Adopted children 
+R4(2) 
+New relationship 
+R4.1 
+Excluded relationships 
+R5 
+Medical examination required 
+R30(1) 
+Danger to public health 
+R31 
+Danger to public safety 
+R33 
+Definition of excessive demand 
+R1 
+Definition of health services 
+R1 
+Definition of social services 
+R1 
+Excessive demand on health services or social 
+services 
+R34 
+Definition of Canadian business (residency 
+obligation) 
+Employment outside Canada (residency obligation) 
+Renounce permanent residence 
+R61 
+R61(3) 
+R72.5 
+Member of the family class 
+R117(1) 
+Adoption under 18 
+R117(2) 
+Best interests of the child 
+R117(3) 
+Adoption over 18 
+R117(4) 
+Excluded relationships 
+R117(9) 
+Member of the spouse or common-law partner in 
+Canada class 
+R123 
+
+
+===== PAGE 14 =====
+22 August 2024  
+ 
+ 
+Sponsorship eligibility 
+R130 
+Sponsorship undertaking 
+R131 
+Requirements for sponsor 
+R133 
+Income calculation rules 
+R134 
+Rehabilitation 
+R18 
+Inadmissibility on health grounds 
+R20 
+Types of removal order 
+R223 
+Specified removal order – Permanent resident loss of 
+residency status 
+R228(2) 
+Country of removal 
+R241 
+IAD – Mandatory conditions for stayed removal 
+orders 
+R251 
+ 
+ 
+ 
+Provision 
+IAD Rules 
+Definitions 
+Rule 1 
+Appeal by sponsor – Notice of appeal 
+Rule  13(1)(a) 
+Time limit 
+Rule  16(a) 
+Appeal record 
+Rule 20 
+Time limit 
+Rule  22 
+Late appeal record 
+Rule  23 
+Removal order appeals made at an admissibility 
+hearing 
+Rule  13(1)(b) 
+Appeal record – admissibility hearing 
+Rule  20(2) 
+Appeal record - Removal order appeals made at an 
+examination 
+Rule  20(3) 
+Appeals of decisions made outside Canada on 
+residency obligations 
+Rule  13(1)(c) 
+Appeal record – residency obligation 
+Rule  20(4) 
+Appeals by the Minister 
+Rule  15 
+Counsel of record 
+Rule 10 
+Designated representative 
+Rule  42 
+ Informal resolution process 
+Rule  64 
+
+
+===== PAGE 15 =====
+22 August 2024  
+ 
+ 
+Alternative dispute resolution conference 
+Rule 69(1) 
+Party in custody 
+Rule  62 
+Stay of removal order 
+Rule  78 
+Disclosure of documents 
+Rule  24 
+Witnesses 
+Rule  55 
+Applications 
+Rule  84 
+ 
+3.1. Forms 
+ 
+Title 
+Number 
+Application to Sponsor and Undertaking 
+IMM 1344E 
+Medical Notification 
+IMM 5365E 
+ 
+4. Instrument of delegation and designation 
+ 
+Except as otherwise provided in section 4 of the Immigration and Refugee Protection Act (IRPA), 
+the Minister of IRCC is responsible for the administration of IRPA and the Minister of PSEP is 
+responsible for the administration of IRPA as it relates to: 
+ 
+a) examination at ports of entry; 
+b) the enforcement of IRPA, including arrest, detention and removal; 
+c) the establishment of policies respecting the enforcement of IRPA and inadmissibility on 
+grounds of security (A34), organized criminality (A37) or violating human or international 
+rights (A35); or 
+d) declarations referred to in section 42.1 of the IRPA. 
+ 
+The Minister of IRCC is responsible for appeals pertaining to visa refusal of family class 
+(sponsorship appeals) and residency obligation appeals re decisions made abroad. Consequently 
+the CBSA hearings officers represent the Minister of IRCC for these appeals. 
+ 
+The Minister of PSEP is responsible for removal order appeals (including for residency obligation 
+appeals re in-Canada decisions) and Ministerial appeals against a decision by the IRB 
+Immigration Division in an admissibility hearing. The CBSA hearings officers represent the 
+Minister of PSEP for these appeals. 
+ 
+The Minister of IRCC has delegated to the CBSA hearings officers the authority to make an 
+application for non-disclosure of information during an appeal before the IAD made under 
+subsections 63(1) and 63(4) of the IRPA (Item 121 in the June 2017 Instrument). 
+ 
+The Minister of PSEP has delegated to the CBSA Manager of the Judicial Review Unit and the IRCC 
+Director of Litigation Management the authority to appeal under 63(5). 
+
+
+===== PAGE 16 =====
+22 August 2024  
+ 
+Refer to IL 3, Designation of Officers and Delegation of Authority, for IRCC and the CBSA. 
+ 
+ 
+5. Departmental policy 
+ 
+Under section 167 of the IRPA the Minister (whichever Minister that may be according to the 
+areas of responsibility articulated in section 4 of the IRPA) may be represented by legal or other 
+counsel. Prior to the creation of the CBSA, IRCC officers represented the Minister before the IAD. 
+Legal assistance or personal attendance by a Government lawyer at a hearing was, when 
+required, provided by the Department of Justice (DOJ). 
+ 
+With the creation of the CBSA, the responsibility to represent the Minister before the IAD was 
+passed from IRCC officers to the CBSA hearings officers. 
+ 
+There will be rare circumstances where the assistance of a DOJ lawyer may be required. Such 
+assistance will usually be in the form of consultation and advice to the hearings officer however 
+personal attendance by the Government lawyer to present legal arguments is also possible. 
+ 
+5.1. Officer safety and security 
+ 
+If an officer perceives a threat to their safety prior to a hearing, they should immediately 
+inform their manager and communicate those concerns to the IRB. The officer should 
+communicate their safety and security concerns to the IRB by using the form entitled 
+“Identification of Potential Security Risk in IRB Proceedings”. If time does not permit, the IRB 
+could be alerted of the security concern verbally and the form submitted as soon as possible. The 
+IRB security unit will conduct a risk assessment to determine if additional security measures 
+should be implemented. In certain circumstances, depending on the safety and security concerns 
+and location of the scheduled hearing, it may be more appropriate for hearings officers to file an 
+application to request a change of hearing location. A164 provides that whether an IAD hearing 
+is to be conducted in the presence of the person who is subject to the proceedings or by means 
+of live telecommunication is in the division’s discretion. 
+ 
+Situations may arise during a hearing in which an officer feels their personal safety or the 
+safety of others is being compromised. When an officer feels their safety has been threatened, 
+such as in situations of intimidation by witnesses, the uttering of threats or other safety 
+concerns, they should immediately bring the matter to the attention of the presiding member 
+first and then their manager at the earliest opportunity, and take any necessary measure within 
+reason to protect their own safety according to the IRB protocol. 
+ 
+IRB procedures for safety and security should help prevent such situations and provide guidance 
+for managing them if they do arise. See Appendix A Detention Safety and Security Annex. 
+ 
+5.2. Incident report writing 
+ 
+Where an incident occurs before, or during, a hearing where an officer feels their safety has been 
+threatened, they should complete an incident report. Reporting procedures enable the CBSA to 
+
+
+===== PAGE 17 =====
+22 August 2024  
+ 
+ 
+make important decisions regarding the safety and security of staff, ongoing training needs, and 
+the recognition of exemplary performance in difficult situations. 
+ 
+ 
+6. Definitions 
+ 
+The hearing process 
+Immigration Appeal 
+Division (IAD) 
+The IAD is an administrative tribunal that provides an independent 
+review of decisions made under the immigration program where a right 
+of appeal exists. The IAD examines cases before it for possible errors 
+in law, in fact, and mixed law and fact, or for failure to observe a 
+principle of natural justice. It also has the authority to reverse valid 
+decisions on humanitarian and compassionate grounds. This Division is 
+part of the IRB and is completely independent of the IRCC, the PSEP 
+and their respective Ministers. 
+A174 states that the IAD is a court of record. It conducts public 
+hearings on the basis of the adversary system and established judicial 
+principles, rules and precedents. The IAD has all the powers, rights and 
+privileges vested in a superior court of record with respect to any 
+matter necessary for the exercise of its jurisdiction, including the 
+swearing and examination of witnesses, the production and inspection 
+of documents, and the enforcement of its orders. 
+The matters that may be brought before the IAD are: 
+ 
+refusal to issue a visa to a member of the family class A63(1); 
+ 
+removal orders made against foreign nationals who hold 
+permanent resident visas A63(2); 
+ 
+removal orders made against permanent residents and 
+protected persons at an examination or admissibility hearing 
+A63(3) ; 
+ 
+appeals of overseas decisions on loss of permanent resident 
+status A63(4); and 
+ 
+Minister’s appeal of a decision made by a member of the 
+Immigration Division A63(5). 
+Humanitarian and 
+compassionate 
+considerations 
+The IAD has an equitable jurisdiction, which allows it to consider 
+factors that may warrant an appeal being allowed despite the fact the 
+decision is valid in law. IRPA sets out the test to be applied by the IAD 
+in order to allow a case for reasons of equity. Under IRPA, the test of 
+equity, which the IAD is to apply, has been consolidated into one test 
+for all types of appeals to the IAD by a party other than the Minister. 
+A67(1)(c) states that the IAD must be satisfied that, at the time the 
+appeal is disposed of “…taking into account the best interests of a child 
+
+
+===== PAGE 18 =====
+22 August 2024  
+ 
+ 
+directly affected by the decision, sufficient humanitarian and 
+compassionate considerations warrant special relief in light of all the 
+circumstances of the case." 
+The IAD will balance factors such as those set out below against the 
+grounds for the removal order or refusal under appeal if it finds in 
+favour of the appellant, it will set aside the decision. In the case of an 
+appeal regarding an application based on membership in the family 
+class, the IAD must first be satisfied that the foreign national is a 
+member of the family class and the sponsor is a sponsor within the 
+meaning of the Regulations before it can consider humanitarian and 
+compassionate considerations [A65]. Minister of Public Safety and 
+Emergency Preparedness v. Hagos, IMM 6378-11, April 20, 2012]. 
+Factors to be considered by the IAD in appeals of removal orders 
+include: 
+ 
+the seriousness of the offence leading to the removal order, 
+where applicable; 
+ 
+the possibility of rehabilitation, where applicable; 
+ 
+the length of time spent in Canada and the degree to which the 
+appellant is established here; 
+ 
+the family in Canada and the dislocation to the family that the 
+deportation would cause; 
+ 
+the support available to the appellant, not only within the 
+family but also within the community; 
+ 
+the degree of hardship that would be caused to the appellant by 
+their return to their country of nationality, provided that the 
+likely country of removal has been established by the appellant 
+on a balance of probabilities. 
+These factors have been established by the Immigration Appeal 
+Commission in Ribic v. Canada (Minister of Employment and 
+Immigration), [1985] I.A.B.D. No. 4 (QL). The Supreme Court of 
+Canada in Chieu v. Canada (Minister of Citizenship and Immigration, 
+[2002] 1 S.C.R. 84 at paragraph 90, reaffirmed that “The factors set 
+out in Ribic, [supra], remain the proper ones for the IAD to consider 
+during an appeal...” 
+When considering a family class appeal, some of the factors that may 
+be considered by the IAD include: 
+ 
+whether authorizing the applicant to enter would result in the 
+reunion in Canada of the appellant with close family; 
+ 
+the strength of the relationship between the applicant and the 
+appellant; 
+
+
+===== PAGE 19 =====
+22 August 2024  
+ 
+ 
+ 
+the degree to which the applicant is established abroad; 
+ 
+whether an applicant has demonstrated the potential to adapt 
+to Canadian society; 
+ 
+whether the parties to the application have obligations to one 
+another based on their cultural background; 
+ 
+whether the applicant is alone in their country; 
+ 
+the availability of health services to the applicant in Canada and 
+abroad (for refusals based on medical grounds); 
+ 
+whether there is evidence of rehabilitation or the risk of the 
+applicant re-offending (for refusals based on criminal grounds). 
+Hearings 
+IAD hearings are de novo and therefore not limited strictly to reviewing 
+the evidence that led up to the refusal or removal order. In Kahlon v. 
+Canada (Minister of Employment and Immigration), (1989) 7 Imm. 
+L.R. (2d) 91; 97 N.R. 349 (F.C.A.), the Federal Court of Appeal 
+established that the IAD must hear the whole case and consider any 
+additional facts brought to its attention. 
+Evidence 
+The IAD has broader powers regarding the admission of evidence than 
+regular courts since it is not bound by any legal or technical rules of 
+evidence [A175(1)c)]. During a hearing, the IAD may receive, and 
+base a decision, on evidence it considers credible or trustworthy in the 
+circumstances, even if the strict rules of evidence have not been met 
+by either party to the proceedings. 
+Decisions 
+The IAD may dispose of an appeal by allowing it or dismissing it. In the 
+case of an appeal against a removal order, the IAD may also direct 
+that the enforcement of the order be stayed for a set period of time, 
+with conditions attached [A68]. Stays are sometimes granted by the 
+IAD in cases where the residency obligation has not been complied 
+with. These stays can be seen in files where a removal order has been 
+issued at a port of entry but can also apply to cases against a decision 
+made outside Canada on the residency obligation when a member 
+authorizes their return to Canada for their hearing. IRPA requires the 
+IAD to impose mandatory conditions specified in R251 as well as any 
+other conditions that it considers necessary. The IAD can reconsider a 
+decision to stay a removal order at any time. A reconsideration  of a 
+stay may be initiated either by application by the appellant or the 
+Minister’s counsel or on the IAD’s own initiative. [IAD rule 78 & 79] 
+Where the Minister is successful in appealing a favourable decision 
+made by the Immigration Division, the IAD may make or stay the 
+removal order that the member of the Immigration Division did not 
+make. 
+
+
+===== PAGE 20 =====
+22 August 2024  
+ 
+ 
+A decision that is delivered orally at a hearing takes effect when the 
+member states the decision. A decision made in writing takes effect 
+when the member signs and dates the decision [IAD rule 104]. 
+Reasons 
+The IAD is required to provide written reasons for all decisions 
+regarding an appeal by a sponsor and for decisions that stay a removal 
+order. For all other decisions, the person concerned or the Minister of 
+IRCC or Minister of PSEP may request written reasons [IAD rule 103]. 
+ 
+ 
+7. Procedure: General hearing 
+ 
+7.1. Calculating time limits 
+ 
+The Interpretation Act governs the calculation of time limits in federal statutes, regulations and 
+rules: 
+ 
+Pursuant to subsection 27(2) of the Interpretation Act, when a statute refers to a number of 
+days (not clear days) between two events, officers will exclude the day on which the first event 
+happened and include the day on which the second event is to occur. When the time limit for the 
+performance of a required action expires or falls on a holiday, the action may be performed on 
+the next workday after the holiday. Pursuant to sections 26 and 35 of the Interpretation Act, 
+Sundays are holidays, Saturdays are not. 
+ 
+For example, if there is a 15-day limit to appeal a decision made on June 2, the count begins on 
+June 3 and ends on June 17. Holidays are not left out in counting up to the 15th day. June 17 
+would therefore be the last day to file, unless it were a Sunday, in which case, June 18 would be 
+the last day. If June 17 is a Saturday and the office is closed, then the appeal must be filed on 
+June 16. 
+ 
+7.2. Withdrawing an appeal (IAD rule 94) 
+ 
+An appellant may apply in writing to the IAD to withdraw their appeal. Should the IAD determine 
+that withdrawing the appeal would likely have a negative effect on the integrity of the IAD 
+Division, it may determine that the withdrawal is an abuse of process and refuse to allow the 
+appellant to withdraw their appeal. 
+ 
+If an appeal is withdrawn before the record is prepared or distributed, it is not necessary to 
+distribute the record. 
+ 
+When a decision is received from the IAD indicating that an appeal has been withdrawn, the 
+Global Case Management System (hereinafter “GCMS”) “Appeals” screen and National Case 
+Management System (NCMS) should be updated by the hearings officer. 
+
+
+===== PAGE 21 =====
+22 August 2024  
+ 
+ 
+7.3. Reinstating an appeal after withdrawal (IAD rule 95-96) 
+ 
+An appellant may apply to the IAD to reinstate an appeal that has been withdrawn. The 
+application must conform to the IAD Rules for applications and include the appellant’s address 
+and telephone number. The IAD may reinstate the appeal if it is satisfied that it failed to observe 
+a principle of natural justice or that it is in the interest of justice to do so [IAD rule 96]. 
+ 
+If an appeal is reinstated by the IAD, the decision must be entered in GCMS and NCMS by the 
+hearings officer. 
+ 
+7.4. Proof document was provided (IAD rule 25) 
+ 
+A written statement stating how and when the documents were provided to the other party must 
+accompany all applications, documents and records of appeal filed with the IAD. A sample 
+statement of service is attached in Appendix D. 
+ 
+7.5. Applications to reopen an appeal 
+ 
+A foreign national who has not left Canada under a removal order may make an application to 
+the IAD to reopen their appeal. The IAD may grant the application and reopen the appeal only if 
+it is satisfied that it failed to observe a principle of natural justice [A71]. 
+ 
+The IAD does not have jurisdiction to hear an appeal once the deportation order has been 
+executed. [Corpuz Ledda v. Canada (Citizenship and Immigration), 2012 FC 14; Ramkissoon v 
+Canada (MCI); [1978] 2 FC 290 (FCA); Canada (MCI) v Toledo, [2000] 3 FCR 563 (FCA). The 
+powers conferred upon IAD under IRPA (sections 66-69, 71) with respect to removal order 
+appeals refer to possible action before the enforcement of the deportation order. The IRPA does not 
+confer power for the IAD to take any action in cases where the deportation order has been enforced. 
+As such, the IAD does not have jurisdiction to re-open an appeal if the foreign national who filed an 
+application to re-open has been removed before their application is determined by the IAD. 
+ 
+Hearings officers should strongly oppose any application to reopen unless they are satisfied there 
+was a breach of natural justice that merits the appeal being reopened. Hearings officers should 
+file a motion on the ground that the IAD has no jurisdiction against any application to reopen 
+where the foreign national has already been removed from Canada. 
+ 
+Please note the following section of operation bulletin PRG-2017-67 as it pertains to attempts to 
+re-open appeal hearings: 
+ 
+Attempts based on Tran (Tran v. Canada (Public Safety and Emergency Preparedness), 2017 
+SCC 50), 2017 SCC 50) to reopen final ID or IAD decisions where a determination of 
+inadmissibility has been made, a removal order issued, and all avenues of appeal and/or judicial 
+review exhausted can be opposed by the hearings officers on the basis of the doctrine of res 
+judicata. The purpose of the Operational Bulletin (hereinafter “OB”) is to direct the regions to  use 
+res judicata in the present context where the law has changed and where we do not want all 
+
+
+===== PAGE 22 =====
+22 August 2024  
+ 
+ 
+individuals who received valid removal orders at the time they were issued to re-litigate post 
+Tran. 
+ 
+7.6. Applications 
+ 
+The IAD Rules specify that unless the IAD Rules provide otherwise, requests made to the IAD 
+must be made in an application in writing [IAD rule 84,85]. Applications may also be made 
+orally at a proceeding. Procedures for applications made orally at an appeal will be determined 
+by the IAD at the proceeding. 
+ 
+Applications made in writing must: 
+ 
+ 
+state the decision that the applicant wants the IAD to make; 
+ 
+give reasons why the IAD should make the decision; 
+ 
+state whether the other party agrees to the application; and 
+ 
+include any evidence that the applicant wants the IAD to consider when it renders its 
+decision. 
+ 
+Evidence included with an application must be in the form of a statutory declaration or affidavit 
+[IAD rule  85(3)]. This rule, however, does not apply to applications to change the location of a 
+hearing or the date or time of a hearing or applications to reconsider the appeal, where a stay of 
+removal has previously been granted. 
+ 
+Written applications must first be provided to the other party and then filed at the IAD registry 
+with a written statement indicating how and when the other party w as provided with the 
+application. The sample statement of service (Appendix D) may be used to meet the proof of 
+service requirement. 
+ 
+Some examples of requests that must be made by way of application are: 
+ 
+ 
+requests to change the location of a proceeding IAD rule 88(1); 
+ 
+requests for non-disclosure of information (A86) 
+ 
+requests to change the date or time of a proceeding IAD rule  90; 
+ 
+requests to change or extend time limits; 
+ 
+requests to hold a hearing in the absence of the public IAD rule  93; and 
+ 
+requests to withdraw or reinstate an appeal IAD rules94,95. 
+ 
+Responses to written applications must be in writing [IAD rule 86(1) ]. A written response must 
+include the same information as noted above for the application. The response must be filed with 
+the IAD no later than seven days after the respondent receives the application [IAD rule 86(5)  
+An applicant may reply in writing to the response no later than five days after they have received 
+the response. [IAD rule 87(3) ]. 
+ 
+When an application is received, it should be reviewed to determine whether it has merit and 
+warrants the Minister’s consent or should be opposed. 
+
+
+===== PAGE 23 =====
+22 August 2024  
+ 
+ 
+When an application is filed or received, the “Application” screen of NCMS should be completed 
+by the hearings officer showing that an application has been initiated. All events in the 
+application process should be entered into NCMS. 
+ 
+7.7. Loss of appeal rights 
+ 
+A64 specifies the circumstances under which a foreign national, their sponsor or a permanent 
+resident loses their right of appeal. If a foreign national or permanent resident is determined by 
+an officer or the Immigration Division to be inadmissible on grounds of security, violating human 
+or international rights, serious criminality or organized criminality, they do not have a right to 
+appeal to the IAD. 
+ 
+Serious criminality—Term of imprisonment of 6 months or more for a crime that was 
+punished in Canada or crime described in paragraph A36(1)(b) or (c) [A64(2)]. 
+ 
+In order for the loss of appeal rights to apply on grounds of serious criminality, the person must 
+have received a sentence of 6 months or more for a crime punished in Canada or must have 
+been found inadmissible for a crime described in A36(1)(b) or (c). In cases where there has been 
+time served, i.e., pre-sentence custody, the officer must verify the credit given by the criminal 
+court sentencing judge for the pre-sentence custody by reviewing the criminal court transcript as 
+time spent in pre-trial detention may form part of a term of imprisonment for the purpose of 
+A64(2). Canada (Minister of Citizenship and Immigration) v. Atwal, 2004 FC 7. It is important 
+that officers gather information as to the actual sentence served. When calculating the total 
+sentence imposed, it is imperative that the sentence be calculated to the day and not rounded 
+off to the month as the repercussion of meeting the 6 months threshold is the loss of a right of 
+appeal. (R. v. Wust, [2000] 1 S.C.R. 455, 2000 SCC 18, para. 44 and 45). A sentence of 6 
+months is considered 183 days of imprisonment. 
+ 
+A64(2) is not meant to include multiple, consecutive sentences. It refers to only a single 
+sentence. As a result of the SCC decision in Tran, a conditional sentence order is not considered 
+a term of imprisonment for the purposes of A64(2) [Tran v. Canada (Public Safety and 
+Emergency Preparedness), 2017 SCC 50]. 
+ 
+Misrepresentation 
+ 
+If a sponsored application for permanent residence is rejected based on a finding of 
+inadmissibility on grounds of misrepresentation, there is no right of appeal. However, this 
+provision does not apply if the foreign national is the sponsor’s spouse, common-law partner or 
+child [A64(3)]. 
+ 
+7.8. Non-disclosure of information: Prior to an appeal hearing 
+ 
+There exists some information in the possession of the Minister that should not be disclosed to 
+the IAD or to the other party. Different sources of information may be received by the public, the 
+applicant, the sponsor, law enforcement, or other government departments. 
+
+
+===== PAGE 24 =====
+22 August 2024  
+ 
+ 
+The methods available to the Minister to protect this information include: 
+ 
+ 
+a valid privilege over the information (common law public interest privilege, informer 
+privilege) 
+ 
+an application for non-disclosure (A86) 
+ 
+the security certificate regime (A77) 
+ 
+redacting irrelevant portions of a document 
+ 
+not relying on a document (when the Minister is not under an obligation to disclose all 
+information) 
+ 
+For the purposes of the production of an appeal record, the Minister must first determine if the 
+tip needs to be included in the record. Then, the Minister must take steps to determine if the tip 
+needs to be redacted from the appeal record and finally, decide on which method is best suited 
+to protect this information. 
+ 
+For guidelines on non-disclosure of information [A86] and protecting information, see ENF 31 
+and the Hearings Fundamentals Manual. 
+ 
+7.9. Non-disclosure of information: During an appeal hearing 
+ 
+ 
+should the Minister’s counsel present a written application for the non-disclosure of 
+information [A86], the IAD member adjourns the hearing. The IAD member determines 
+whether section 86 proceedings apply. 
+ 
+For guidelines on non-disclosure of information [A86] and protecting information, see ENF 31. 
+ 
+7.10. Pre-hearing conferences 
+ 
+When officers enter into an undertaking with counsel and the IAD at a pre-hearing conference, it 
+must be detailed in writing on the file. For example, if the Minister’s counsel agrees on a 
+statement of facts, concedes on certain issues or undertake to take specific actions, it must be 
+clearly noted on file. 
+ 
+Where one officer has entered into an undertaking, any officer who subsequently has 
+responsibility for that appeal is bound by the undertaking made by the previous officer unless 
+new information supports a change in position. 
+ 
+7.11. Liaison with the Department of Justice 
+ 
+IRCC and the CBSA’s Legal Services must be the primary source of legal advice to IRCC and the 
+CBSA respectively to ensure uniform advice and to keep IRCC and the CBSA senior officials 
+informed of new or unexpected issues. 
+ 
+The office concerned should inform the Hearings Program as early as possible of appeals 
+involving important Charter questions or issues that could have a potentially serious impact on 
+the immigration program and the interpretation of the legislation. IRCC or the 
+
+
+===== PAGE 25 =====
+22 August 2024  
+ 
+ 
+CBSA will consult Legal Services to decide if assigning a Department of Justice lawyer to the case 
+is warranted. 
+ 
+When the hearings officer requires urgent assistance in relation to an upcoming IAD hearing, 
+they should consult their Justice Liaison Officer (JLO) who may request the assignment of 
+counsel by contacting the Legal Issues Coordination Group (LICG) at 
+LICG_Litigation_Assignments@justice.gc.ca with a copy to the Hearings Program (Hearings- 
+Audiences-Programs@cbsa-asfc.gc.ca), and the CBSA Judicial Review Unit (JRU) (CBSA-
+ASFC_SecurityLitigationManagement-Gestiondeslitigessécurité <SLM-GLS@CBSA-
+ASFC.GC.CA>) for questions under the responsibility of the Minister of PSEP or the Hearings 
+Program and the IRCC Litigation Management Branch (LMB) for questions under the 
+responsibility of the Minister of IRCC. 
+ 
+7.12. Applications for judicial review 
+ 
+Where the officer who represents the Minister before a Division of the IRB believes that there are 
+or may be grounds to seek judicial review, the officer will immediately consult their manager or 
+the regional CBSA Justice Liaison Officer, subject to local procedures, to discuss the possibility of 
+seeking judicial review of the decision. If the manager agrees that judicial review should be 
+pursued, the hearings officer must do the following: 
+ 
+(a) immediately request the reasons for decision from the Board; and 
+(b) within five business days of the decision, determination, order, etc., being made, send, 
+through the regional CBSA Justice Liaison Officer, a report to the Director of Litigation 
+Management Branch (LMB) at IRCC or the Manager of Judicial Review (JRU) at the 
+CBSA. The report is to be transmitted by electronic means. 
+ 
+Officers should also keep in mind the very strict time limits involved when seeking judicial 
+review. The 15 days for serving and filing the leave application with respect to a decision of the 
+Board is calculated from the giving of notice of the decision or from the sending of written 
+reasons, whichever is later pursuant to A169(f). 
+ 
+In order for NHQ to correctly calculate the date for filing, the request for judicial review must 
+clearly indicate the date that IRCC or the CBSA became aware of the decision and the date the 
+decision was sent by the Board. Once IRCC LMB or the CBSA JRU agrees to seek judicial review, 
+immediate instructions will be issued to the Department of Justice to file the appropriate 
+documentation with the Court. Should IRCC LMB or the CBSA JRU disagree with the 
+recommendation for judicial review, IRCC or the CBSA office will be provided with a rationale for 
+their decision. The rationale can be provided by JRU/LMB or the JLO depending on the reasons 
+and discussions can take place to clarify certain points. 
+ 
+Note: In situations where an application is required to be filed with the Court on an urgent basis 
+in order to preserve the Minister’s rights, the decision to seek judicial review may be made at the 
+regional level. The IRCC Director of LMB or the CBSA Manager of JRU will be notified as soon as 
+possible thereafter. Officers should refer such requests to the regional CBSA Justice Liaison 
+Officer after they have obtained concurrence from their manager. 
+
+
+===== PAGE 26 =====
+22 August 2024  
+ 
+ 
+Note: See ENF 9, Judicial Review, for further information. 
+ 
+ 
+7.13 Post hearing procedures 
+ 
+When the hearings office concerned receives notice of the IAD’s decision and reasons, the GCMS 
+and NCMS “Appeals” screens are to be completed promptly. 
+ 
+If the IAD allows the appeal and the hearings officer, in consultation with their supervisor and 
+Justice Liaison Officer, believes that an application for leave and judicial review of the decision is 
+warranted the hearings office should follow the procedures for the Judicial review outlined in 
+7.12. 
+ 
+If the C&I Minister applies for leave to begin an application for judicial review of the IAD decision 
+allowing a sponsorship appeal, further processing of the visa application by the officer is stayed 
+until the leave and judicial review application are disposed of by the courts (Federal Court 
+Federal Court of Appeal and or/ the Supreme Court). If leave is granted, further processing of 
+the visa application is stayed until the courts have finally disposed of the matter, or until the 
+time limits for filing the application for judicial review or appeal have elapsed. 
+ 
+If the IAD allows the appeal, refers the matter back for reconsideration and the Minister does not 
+file an application for leave to apply for judicial review of the decision, the case is returned to the 
+responsible IRCC office for reconsideration in accordance with the IAD’s decision [A70(1)]. 
+ 
+For sponsorship appeals, in addition to uploading the decision and reasons into GCMS, the 
+hearings office should also include any new evidence that was established at the hearing. If the 
+Minister consented to the appeal, the IRCC office is given a full explanation of the reasons for the 
+Minister’s consent. 
+ 
+A70(1) obliges an officer to respect the decision of the IAD in re-examining an application. 
+However, the officer must review the application to determine whether the application meets all 
+other requirements of eligibility and admissibility. Sponsors and applicants are exempt from any 
+requirements that the IAD has set aside in its decision. In rare cases, if there are new grounds of 
+ineligibility or inadmissibility, or grounds that were not assessed in the first decision, the 
+application may be refused again. 
+ 
+Note: To ensure that IRCC offices do not process applications where an application for judicial 
+review has been made on sponsorship appeals, hearings offices must inform IRCC that an 
+application for judicial review of the IAD decision is pending
+
+
+===== PAGE 27 =====
+22 August 2024  
+ 
+8. Procedure: Family class sponsorship appeals 
+ 
+IRCC has the policy responsibility for family class sponsorship and the Minister of IRCC is the 
+respondent (as of today the official name of the Ministry had not changed to IRCC and as such 
+until it does change, the style of cause is to remain Minister of Citizenship and Immigration). 
+ 
+8.1. Family class sponsorship appeals 
+ 
+If a Canadian citizen or permanent resident files an application to sponsor a foreign national as a 
+member of the family class, and the application for a visa is refused, the sponsor may appeal the 
+refusal of the application to the IAD [A63(1)]. The sponsor must be informed of the reasons for 
+the refusal and of the right of appeal to the IAD. 
+ 
+There is no right of appeal to the IAD if the foreign national (applicant) is inadmissible on the 
+following grounds [A64(1), (2) and (3)]: 
+ 
+ 
+security, violating human or international rights;
+ 
+serious criminality with respect to a crime that was punished in Canada by a term of 
+imprisonment of at least 6 months or a crime that is described in paragraph 36(1)(b) or 
+(c);
+ 
+organized crime; or
+ 
+misrepresentation [unless the foreign national in question is the sponsor’s spouse, 
+common-law partner or child A64(3)].
+ 
+Details regarding loss of appeal rights and exceptions can be found in section 7.7 above. 
+ 
+8.2. Notice of appeal 
+ 
+To file an appeal to the IAD under IRPA, the sponsor must submit a notice of appeal and the 
+officer’s written reasons for refusal to the IAD registry no later than 30 days after the appellant 
+received the reasons for the refusal of the application [IAD rule 16(a)] 
+ 
+The IAD will then provide the notice of appeal and written reasons for refusal to CBSA who 
+represents the Minister of IRCC in sponsorship appeals. 
+ 
+8.3. Designated representative 
+ 
+If counsel for the appellant or Minister believes the IAD should designate a representative for the 
+subject of the appeal because they are under 18 years of age or unable to appreciate the nature 
+of the proceedings, they must notify the IAD in writing. If counsel is aware of a person in Canada 
+
+
+===== PAGE 28 =====
+22 August 2024  
+ 
+ 
+who meets the requirements to be designated as a representative, they must provide the 
+person’s contact information in the notice of appeal [IAD rule 43,44(1)] 
+ 
+8.4. Grounds for appeal 
+ 
+An appeal to the IAD may be based on questions of law, fact, or mixed law and fact, a principle of 
+natural justice has not been observed or on the grounds that there are humanitarian and 
+compassionate considerations that warrant granting special relief under its equitable jurisdiction. 
+The definition of “humanitarian and compassionate considerations” in section 6 above elaborates 
+on the IAD’s equitable jurisdiction. 
+ 
+If the IAD determines that the applicant is not a member of the family class or that their sponsor 
+is not a sponsor within the meaning of the Regulations pursuant to R130 or R117, it cannot 
+exercise its equitable jurisdiction to consider humanitarian and compassionate (H&C) factors 
+[A65]. In other words, the IAD cannot consider H&C factors unless it is satisfied that the 
+applicant is a member of the family class or the sponsor meets the requirements of the 
+regulations. If an IRCC officer refused the application without deciding if the applicant is a 
+member of the family class, the IAD cannot consider H&C without first making a determination 
+on whether the applicant is indeed a member of the family class. For example, in the context of a 
+spousal application the IAD would have to be satisfied that the marriage is legally valid and the 
+relationship is genuine (R4) [Minister of Public Safety and Emergency Preparedness v. Hagos, 
+IMM 6378-11, April 20, 2012]. 
+ 
+In the absence of a determination made by an IRCC officer on whether the applicant is a 
+member of the family class, it is up to the IAD to consider the issue for the first time during the 
+appeal, however this is not the best option. The hearing may be postponed to permit the 
+hearings officer to reach out the visa office and request that they assess the relationship (OB 
+396). 
+ 
+8.5. Disputed appeal rights 
+ 
+When a refusal is based on a determination that the sponsor has not filed their application in the 
+prescribed manner as set out in R10, then an application to dismiss the appeal should be made 
+to the IAD. Hearings officers should argue that the IAD does not have jurisdiction to hear the 
+appeal because the sponsor has not made an application under the Act pursuant to R10. The 
+issue of whether or not the sponsor is entitled to appeal to the IAD will be decided by the IAD. 
+ 
+8.6. Preparation of the record 
+ 
+The IAD will notify the responsible IRRC office that an appeal has been filed and will request 
+that their file be forwarded to the CBSA Hearings office. The IAD will copy the CBSA hearings 
+office with this request. Once the IRCC office has received the notice of an appeal, it will send 
+the IRCC  sponsorship file to the applicable CBSA hearings office as soon as possible. 
+ 
+Upon receiving the notice of appeal and the file, the hearings office should: 
+ 
+
+
+===== PAGE 29 =====
+22 August 2024  
+ 
+ 
+ensure that the GCMS and NCMS “Appeals” screens are completed promptly;
+ 
+enter any motions or applications associated with the appeal in the GCMS and NCMS.
+ 
+ 
+prepare the record, ensuring the documentation is complete and that it is legible and 
+suitable for presentation to the IAD. IAD rule 20(1) states that a record shall contain 
+a table of contents and the following documents:
+o 
+the application for a permanent resident visa that has been refused; 
+o 
+the application for sponsorship and the sponsor’s undertaking; 
+o 
+any document that the Minister has that is relevant to the application, to the 
+reasons for the refusal or to any other issue in the appeal; and 
+o 
+the written reasons for the refusal. 
+ 
+Note: Under IRPA, the IRCC officer is no longer required to prepare a statutory declaration. 
+However, officers are required to record the rationale for their decision and this must be 
+included in the record. 
+ 
+The CBSA hearings office must provide the appeal record to the appellant or their counsel and a 
+copy to the IAD. The copy of the appeal record provided to the IAD must be accompanied by a 
+written statement saying how and when the appeal record was provided to the appellant [IAD 
+rule 21(1) and (2)]. 
+ 
+Records must be received by the IAD no later than 60 days after the Minister receives a 
+copy of the written request from the Division to IRCC for the sponsorship file [IAD rule 
+22(a)]. 
+ 
+ 
+If the IAD has not received the record within  60 days , it may take one of the following 
+measures: 
+ 
+ 
+require the Minister  to explain why the appeal record is late and give reasons 
+why the appeal record should be accepted late; or
+ 
+schedule and start the hearing and decide the appeal without the appeal record 
+or with only part of the appeal record.
+ 
+Note: It is important that a hearings officer review the IRCC office file immediately after receipt. 
+This review will allow officers to identify problems and opportunities to resolve the case without a 
+hearing. Furthermore, early review of the visa file will allow the opportunity to add additional 
+grounds of refusal if necessary. 
+ 
+8.7. Requirements to be eligible to sponsor 
+ 
+R130 to R134 provide the requirements that a person must meet to be eligible to sponsor a 
+relative as a member of the family class. The Family Class Program Delivery Instructions (PDIs) 
+on assessing the sponsor provide further information on the legislative requirements to be met 
+by the sponsor. 
+
+
+===== PAGE 30 =====
+22 August 2024  
+ 
+ 
+8.8. Failure to meet financial criteria 
+ 
+R134 provides procedures for calculating a sponsor’s ability to meet the minimum necessary 
+income (MNI) requirement. Financial requirements are specific to the type of family member 
+being sponsored. 
+ 
+Assessment of ability to meet this requirement for the sponsorship of a family member is based 
+on the last notice of assessment or equivalent document. Where the sponsor does not produce 
+the document or their income is less than the required amount, their income will be calculated 
+based on the income during the 12 months preceding the application. The date of the application 
+is the date on which a complete family class application, including the processing fees, has been 
+received at the CPC-Mississauga. Under R133(4), a sponsor is exempt from meeting MNI 
+requirements when they are sponsoring a spouse or partner or dependent child.  
+ 
+Amendments to the Immigration and Refugee Protection Regulations that came into force on 
+January 1, 2014, made changes to the financial requirements for parents and grandparents. For 
+the sponsorship of parents and grandparents, the sponsor must meet the minimum necessary 
+income requirement (Low Income Cut-offs (LICOs) plus 30%) for each of the three taxation 
+years immediately preceding the date of their application. The Minimum Necessary Income must 
+meet or exceed the minimum necessary income requirement plus 30% on the date on which the 
+sponsorship application is signed until the day the family members are granted status as 
+permanent residents. 
+ 
+The ruling in the decision Nematollahi v. Canada (Citizenship and Immigration) 2017 FC 755 has 
+led the IRCC to review its interpretation of the Regulations concerning the three consecutive 
+taxation years immediately preceding the date the application to sponsor is received. The ruling 
+has an impact on applications to sponsor parents and grandparents that have been received 
+since 2014. Sponsors are encouraged to sign the statement of consent (question 8 on the 
+Financial Evaluation for Parents and Grandparents Sponsorship) and provide their Social 
+Insurance Number (SIN) to allow the IRCC to collect their SIN and request their income tax 
+information quickly from Canada Revenue Agency (CRA) to determine whether they meet the 
+minimum necessary income requirements. This may be used in cases where the sponsor has 
+submitted their application to sponsor at the beginning of the year and may not have filed their 
+taxes at the time of application or have still not received their Notice of Assessment for the 
+previous taxation year. If the sponsor does not provide their consent, they must complete the 
+applicable form Income Sources for the Sponsorship of Parents and Grandparents and submit a 
+Notice of Assessment issued to them by the CRA for each of the three taxation years 
+immediately preceding the date their application is received by the IRCC. If the sponsor does not 
+have paper copies of their Notices of Assessment on file, they may view and print their tax 
+returns as well as other personal tax information using the CRA’s My Account online service. 
+ 
+Subsection 134(2) of IRPR provides officers with the authority to request updated evidence of 
+income from all sponsors who submit a sponsorship application for a member of the family class 
+in the following circumstances: 
+
+
+===== PAGE 31 =====
+22 August 2024  
+ 
+ 
+ 
+the officer receives information indicating that the sponsor is no longer able to fulfil the 
+obligations of the sponsorship undertaking; or
+ 
+more than 12 months have elapsed since the receipt of the sponsorship application.
+ 
+Appellants may submit new evidence of income relating to the period preceding the date of filing 
+of their sponsorship application. In such cases, officers are required to take into account the new 
+evidence of income in determining the IRCC’s position at the appeal hearing. 
+ 
+However, officers should argue that evidence of income relating to the period that follows the 
+receipt of the sponsorship application is not a valid indication of a sponsor’s ability to meet the 
+requirements in R134 for authorization to sponsor. The IAD should not take such evidence into 
+account in deciding on the basis of a question of fact or law. Where the sponsor’s financial 
+situation has improved, the option to submit a new sponsorship application is available. 
+ 
+The ruling in the decision of Dokaj v. Canada (2009, FC847) has led the IRCC to review its 
+interpretation of the Immigration and Refugee Protection Regulations concerning the adding of a 
+co-signer to an existing family class undertaking. The Federal Court found that the IRCC could 
+not take into account the additional expenses incurred when adding a family member to the 
+household, such as a spouse or common-law partner, without also taking into consideration the 
+income that the individual brings to the household, if they have co-signed an undertaking. 
+Henceforth, a co-signer can be added between the day on which the sponsorship application was 
+filed and the day on which a decision is made with respect to the application, if required, due to 
+a change in circumstances related to family composition. When assessing the sponsor’s income 
+against the MNI requirement, both the increase in the MNI requirements resulting from the 
+addition of a family member, and the co-signer’s income, calculated in accordance with R134(a) 
+to (c) against the MNI in effect at the time, shall be considered. However, a co-signer may not 
+be added to the sponsorship application if the sponsorship was already assessed and at that 
+assessment, the sponsor failed to meet the sponsorship requirements. 
+ 
+8.9. Other sponsorship eligibility requirements 
+ 
+Sponsors are not eligible to sponsor if they are convicted of a sexual or violent offence against 
+anyone, or for an attempt or a threat to commit such an offence, or if they are convicted of an 
+offence causing bodily harm against certain members of their family, or for an attempt or a 
+threat to commit such an offence [R133(1)(e)]. 
+ 
+In addition, the sponsorship application shall only be approved if there is evidence that the 
+sponsor is not in receipt of social assistance for a reason other than disability [R133(1)(k)]. 
+ 
+See the PDI on Permanent Residence , Family classes, Processing Applications to 
+Sponsor Members of the Family Class, for further information concerning the 
+processing of applications to sponsor. 
+ 
+8.10. Humanitarian and compassionate grounds related to sponsorship 
+ 
+If the IAD determines that the applicant is a member of the family class pursuant to R117 and 
+
+
+===== PAGE 32 =====
+22 August 2024  
+ 
+that their sponsor is a sponsor within the meaning of the Regulations in R130, it can exercise its 
+equitable jurisdiction to consider humanitarian and compassionate (H&C) factors [A65]However, 
+when a refusal is based on the fact that the sponsor has not met the minimum necessary income 
+requirement set out in R134 or is in default of a previous sponsorship as of the date that the 
+undertaking was given, officers should argue that the fact that the sponsor would meet the 
+requirements if the current situation were taken into consideration does not constitute, in itself, 
+sufficient humanitarian and compassionate grounds. 
+ 
+Hearings officers should argue that, for an appeal to be allowed in equity, the decision must be 
+based on factors other than an improvement in the sponsor’s financial situation or the fact that the 
+sponsor is no longer in default. Officers should ask the IAD to note that the sponsor had the option 
+of taking a refund of the processing fee or proceeding with their application, knowing it would be 
+refused because they did not meet the requirements at the time. Otherwise, allowing persons who 
+did not meet the regulatory requirements during the specific time frame to sponsor a member of 
+the family class negates the effect of the Regulations. 
+ 
+See the PDI on Permanent Residence, Family classes, for more information. 
+ 
+8.11. Bad faith marriage [R4(1)] 
+ 
+The IAD will consider a refusal by the IRCC office in order to determine whether section R4(1) is 
+applicable, thereby excluding the applicant as a member of the family class. A “bad faith” or 
+“non-genuine” relationship pursuant to R4(1) is present when either a relationship is not genuine, or it 
+was entered into primarily for the purpose of acquiring any status or privilege under the Act. This 
+creates a disjunctive relationship between the “genuineness” and the “purpose” of the bad faith 
+assessment. This clarifies that a finding of bad faith can be made if either of these elements is present. 
+ 
+Therefore, the wording of subsection 4(1) of the Regulations is unambiguous; a finding 
+of bad faith can involve either a finding that the marriage was entered into primarily for 
+the purpose of immigration or that the marriage is not genuine. This interpretation was 
+confirmed by Chief Justice Paul Crampton in Gill v Canada (Minister of Citizenship and 
+Immigration), 2012 FC 1522. 
+ 
+When conducting the file review in preparation of the appeal, it is important to be cognizant of the 
+legal framework within which sponsorship appeals are considered. In assessing whether a 
+marriage/common law relationship/conjugal relationship was entered primarily for the purpose of 
+acquiring status or privilege or whether the marriage was genuine, the IAD must take into 
+consideration the totality of the evidence on the balance of probabilities standard. Since the hearing is 
+a de novo hearing, the IAD’s role is to evaluate all of the evidence gathered up to the hearing so as 
+to determine whether section 4(1) of the Regulations applies. 
+ 
+Further instructions are available under the PDI (Program Delivery Instructions) – identifying a 
+relationship of convenience. 
+ 
+
+
+===== PAGE 33 =====
+22 August 2024  
+ 
+ 
+Other important guidance established in jurisprudence: 
+ 
+ 
+The appeal to the IAD is a de novo appeal, in which the IAD must consider afresh 
+whether the person sponsored as a spouse, common-law partner or conjugal partner is a 
+member of the family class. Singh Sandhar v. Canada (Citizenship and Immigration), 
+2013 FC 662;
+The relevant time to assess the marriage’s genuineness is the present, while the relevant 
+time to assess the primary purpose of the marriage is in the past, i.e., at the time of the 
+marriage. Singh v. Canada (Citizenship and Immigration), 2014 FC 1077; 
+ 
+The first part of the test requires an assessment of whether the marriage “was entered into 
+primarily for the purpose of acquiring any status or privilege under the Act”. In assessing 
+whether the test is satisfied, the focus must be upon the intentions of both parties to the 
+marriage at the time of the marriage. The Federal Court has recognized that the testimony 
+of the couple parties regarding what they were thinking at that time typically will be the 
+most probative evidence regarding their primary purpose for entering into the marriage. Gill
+v. Canada (Citizenship and Immigration), 2012 FC 1522; 
+ 
+A finding that a marriage is genuine weighs “significantly in favour of a marriage that was 
+not entered into for the purpose of gaining status in Canada”. However, the finding that a 
+marriage is genuine is not determinative of the primary purpose. Sandhu v. Canada 
+(Citizenship and Immigration), 2014 FC 834;
+ 
+Evidence of commitment subsequent to the marriage can be used to prove the primary 
+purpose of the marriage. This might include evidence of a continuing relationship or the 
+birth of a child. However, such evidence is not necessarily determinative. Gill v. Canada 
+(Citizenship and Immigration), 2012 FC 1522; Sandhu v. Canada (Citizenship and 
+Immigration), 2014 FC 834;
+ 
+The Board, must be careful about imposing western or Canadian paradigms on non- 
+western culture. Nadasapillai v. Canada (Citizenship and Immigration), 2015 FC 72;
+ 
+The birth of a child is not determinative, however in assessing whether a marriage is 
+genuine great weight must be afforded to the birth of a child. Gill v. Canada (Citizenship 
+and Immigration), 2010 FC 122.
+ 
+8.12. New relationship [R4.1] 
+ 
+An applicant may be refused under Regulation 4.1 if they were previously in a prescribed 
+relationship with their sponsor, but dissolved it primarily for immigration purposes. Section 4.1 is 
+discussed at some length in Chapter 5 of the IRB’s guideline on Sponsorship Appeals. According 
+to this document, the intent of Section 4.1 has been stated to be “to prevent persons in a 
+conjugal relationship from dissolving the relationship to free them to gain admission to Canada 
+only to turn around and resume their previous relationship” (Harripersaud, Janet Rameena v. 
+M.C.I. (IAD TA3-11611), Sangmuah, 2005). 
+ 
+In Wen, Chun Xiu v. M.C.I. ((IAD TA5-14563), MacLean, 2007), the IAD set out a list of non- 
+exhaustive factors to consider when assessing the applicability of section 4.1 of the Regulations, 
+including: 
+ 
+ 
+When the relationship dissolved; 
+ 
+The reason for the dissolution of the relationship; 
+
+
+===== PAGE 34 =====
+22 August 2024  
+ 
+ 
+ 
+The temporal relationship between the ending of the relationship and the forming of a 
+new relationship with the subsequent partner; 
+ 
+Evidence that the former spouses or partners did not separate or end contact with each 
+other; 
+ 
+the intent of the spouses or partners upon re-establishing their relationship; 
+ 
+the length of the subsequent relationship; 
+ 
+the temporal connection between the dissolving of the subsequent relationship and the 
+re-establishment of a new relationship with the previous spouse or partner, and; 
+ 
+the intentions of the parties to the new relationship with respect to immigration. 
+ 
+It is clear from the cases of Wen and Harripersaud, as well as the IRB’s guidelines that section 
+R4.1 only applies to situations involving the reunion of two parties who previously separated 
+primarily for immigration purposes. For greater clarity, “the dissolution of a conjugal relationship 
+between two persons and a subsequent resumption of a conjugal relationship between these two 
+persons to facilitate immigration constitutes an act of bad faith.” Further instructions is available 
+under the PDIs Identifying a relationship of convenience, under the section “Conjugal 
+relationships—Dissolutions of convenience”. 
+ 
+8.13. Sponsors residing in provinces under federal-provincial 
+agreements [A8(1) and A9(2)] 
+ 
+If a sponsor resides in a province that has sole responsibility for establishing and applying 
+financial criteria for sponsors under a federal-provincial agreement [A8(1)], the sponsor has no 
+right of appeal to the IAD on any ground of law, fact or mixed law and fact when both of the 
+following circumstances exist: 
+ 
+ 
+the application is refused based on the rejection of the person's application for 
+sponsorship by an official of that province on the grounds that the person failed to meet 
+the financial criteria or to comply with any prior undertaking concerning the sponsorship 
+of any application for permanent residence and
+ 
+the laws of that province provide the person with a right to appeal the rejection of their 
+application for sponsorship.
+ 
+Note: The sponsor can still appeal on humanitarian and compassionate grounds [A9(2)] and 
+have a Certificat de Sélection du Québec (CSQ) issued by the Ministère de l’immigration, de la 
+Diversité et de l’inclusion (MIDI). If the appeal is allowed, the visa office can reopen the 
+processing of the application but the sponsor residing in Quebec would still need to meet the 
+MIDI’s financial requirements. A refusal by the MIDI can be appealed with the Tribunal 
+administratif du Québec (TAQ) and the sponsor can provide them with the positive decision from 
+the IAD. The visa office can also contact the MIDI directly and provide them with the IAD 
+decision for the issuance of a CSQ. 
+ 
+At present, Quebec is the only province with such an agreement. 
+
+
+===== PAGE 35 =====
+22 August 2024  
+ 
+ 
+8.14. Members of the family class 
+ 
+The definition of member of the family class includes spouses, common-law and conjugal 
+partners, dependent children (including adopted children), children to be adopted, parents and 
+grandparents, some orphaned relatives under 18 and certain other relatives in specified 
+circumstances. A12(1), R116 and R117 specify who is a member of the family class. 
+ 
+The age for dependent children is under 22 years old according to the definition found in R2 
+ 
+8.15. Filing evidence 
+ 
+Information and documents must be submitted in a form suitable for presentation to the IAD, 
+such as a statutory declaration or the interviewing officer's reasons or GCMS notes recording the 
+information or identifying the documents received. Officers' declarations should contain facts, not 
+opinions or conclusions, and should clearly indicate that the person making the declaration is an 
+officer. 
+ 
+Documents must be filed with the IAD no later than 60 days after the day on which the party 
+receives the appeal record. [IAD rule 26] with a written statement saying how and when the 
+documents were provided to the other party[IAD rule 25].  
+ 
+New information may be received in the form of a report, with appropriate documentation, from 
+an officer in Canada or abroad who has become aware of new information concerning an 
+appellant, such as marriage, the birth of a child, hospitalization, a criminal conviction or 
+reliance on social assistance. 
+ 
+The IRCC office may forward information to the officer that it has used in assessing a sponsored 
+application for permanent residence. If such evidence was obtained in confidence from the 
+government or an institution of a foreign state, or an international organization of states and 
+cannot be released publicly, the Minister may make an application for non-disclosure of 
+information to the IAD. The grounds for the application will be that disclosure of such information 
+would be injurious to national security or the safety of persons. Procedures for applications for 
+non-disclosure of information are found in section 7.8 above. 
+ 
+8.16. Consenting to an appeal—Communication with the IRCC office 
+ 
+When a decision is made to consent to a sponsorship appeal, it is imperative that the hearings 
+officer inform the IRCC office of the reasons in writing. In order to assist the IRCC officers in 
+identifying ways to strengthen decisions and avoid potential trends from developing, lines of 
+communication with the IRCC offices must be kept open. 
+
+
+===== PAGE 36 =====
+22 August 2024  
+ 
+ 
+Should the hearings officer notice a trend forming with particular types of refusals or refusals 
+from a particular office, copies of the refusals in question should be forwarded to the Hearings 
+Programs Area at HQ (Hearings-Audiences-Programs@cbsa-asfc.gc.ca) and Litigation 
+Management Branch, IRCC NHQ, e-mail to: IRCC.CMBLitigationMgmtRequest- 
+DemandeGestLitigesDGRC.IRCC@cic.gc.ca with an overview of the scenario. Should a trend 
+develop without being brought to the attention of the IRCC office and NHQ, the number of similar 
+refusals may increase. It is imperative that hearings officers and IRCC-NHQ work in collaboration 
+with processing offices and the processing networks (International Network, Centralized Network 
+and Domestic Network), to ensure well-reasoned, consistent decisions that can be defended 
+before the IAD. 
+ 
+8.17. Authorization to return to Canada and refusal of permanent 
+residency application 
+ 
+In circumstances where a hearings officer is faced with the issue of an Authorization to Return to 
+Canada (ARC) before the Board, Hearings Officers should argue that the IAD has no authority to 
+issue an ARC. The issuance of an ARC in Canada is quite rare and has been delegated to the 
+manager or director levels in the IRCC and the CBSA for inland cases. Generally, a subject who is 
+in Canada and requires an ARC is reported for non-compliance. It is the Minister’s jurisdiction to 
+issue an ARC and should not be added as an issue before the Board. 
+ 
+IAD has no jurisdiction to order the issuance of an ARC, regardless of whether a decision on ARC 
+was made by a visa officer. However, IRCC’s position is that when a visa officer refuses to issue 
+an ARC and then refuses the PR application on that basis, the IAD has H&C jurisdiction to 
+overcome the inadmissibly underlying the ARC refusal, but it cannot order a visa officer to issue 
+an ARC. 
+ 
+Recent jurisprudence has supported the position that no appeal lies to the IAD from a decision to 
+refuse an ARC. [MOMI v. Canada (Citizenship and Immigration), 2019, FCA 163] 
+ 
+ 
+ 
+ 
+ 
+9. Procedure for appeals involving medical inadmissibility 
+ 
+9.1. Overview of process for medical refusal 
+ 
+IRCC has the policy responsibility with respect to medical inadmissibility [A38]. For further 
+guidance on medical refusal procedures, please refer to the Program Delivery Instructions on 
+Medical Requirements. 
+ 
+9.2. Grounds for appeal 
+ 
+The IAD will normally deal with the issue of additional medical information w ith the appellant at 
+
+
+===== PAGE 37 =====
+22 August 2024  
+ 
+the assignment court. This includes clarifying the grounds for appeal for which the information is 
+intended to be used and setting time frames for providing the information. 
+ 
+To accelerate the processing of these appeal cases, the hearings officer should try to ascertain as 
+soon as possible the grounds for appeal to be used before the IAD, namely, whether there is a 
+challenge in law or whether it will be argued that there are compassionate or humanitarian 
+considerations that warrant the granting of special relief, or both. 
+ 
+9.3. When to consider a new medical examination during the appeal 
+process 
+ 
+Where only compassionate or humanitarian considerations form the basis for the appeal, a new 
+medical examination should not be issued during the appeal process. In these cases, the 
+hearings officer will simply need to consider requesting sufficient time between receipt of the  
+medical information from the appellant and the hearing. During this time, the hearings officer 
+will seek the advice of Operations Directorate, Migration Health Branch, IRCC, NHQ, about the 
+medical information submitted, and to consider whether to introduce an opinion of a medical 
+officer as rebuttal evidence. 
+ 
+Where newly-submitted medical information is intended to challenge the decision in law, the 
+appellant or counsel should be advised that the examining health-care professional consulted by 
+the applicant must refer to the medical notification of medical inadmissibility. Any health care 
+professional’s report aimed at challenging the decision in law should expressly and clearly 
+address the issues raised in the medical notification, that is, diagnosis, prognosis and the issue 
+of excessive demand on health and social services, and the issue of whether the health condition 
+is likely to be a danger to public health and safety. Prior to agreeing to a postponement for 
+obtaining this new medical information, the hearings officer will confirm that the applicant is 
+willing to undergo further medical examinations if a medical officer so recommends. 
+ 
+In considering the appropriate time frame for obtaining the medical information, the hearings 
+officer must be fair to the appellant and consider facilitating resolution without litigation, but 
+without compromising IRCC’s interest in the finality of litigation. 
+ 
+Generally, IRCC will not support the consideration of more than one submission of new medical 
+information from counsel once an appeal has been filed unless there is a genuine need to clarify 
+the evidence previously gathered by obtaining supplementary evidence. 
+ 
+9.4. Procedures upon receipt of new medical information during the 
+appeal 
+ 
+When hearings officers receive new medical information about an applicant, they will reconfirm 
+with the appellant or counsel the purpose for which the information is being submitted, review 
+the new information and decide whether it should be forwarded to the Operations Directorate, 
+Migration Health Branch, IRCC, at NHQ. Hearings officers must assess whether the information is 
+relevant and related to the applicant’s medical condition, as described in IRCC medical officer’s 
+medical assessment, namely, in terms of the diagnosis, the prognosis and the issue of excessive 
+demand on health and social services, and the issue of whether the health condition is likely to 
+
+
+===== PAGE 38 =====
+22 August 2024  
+ 
+be a danger to public health or safety. In most cases, the information will be forwarded to the 
+Operations Directorate, Migration Health Branch, IRCC, at NHQ. However, the new information 
+should not be forwarded to the Medical Services Branch if it clearly has no link with the reason 
+for refusing the applicant on medical grounds or if the medical information is so vague or of such 
+a general nature that it has little or no probative value. Instead, a date for hearing at the IAD 
+should be requested. (Examples are provided in Appendix B.) 
+ 
+On receipt of the new medical information, the Migration Health Branch, NHQ will transfer a copy 
+to the medical officer abroad and inform both the relevant visa office and the hearings officer. 
+The hearings officer will inform the IAD and appellant or counsel in writing of the timing of this 
+transfer. The Migration Health Branch at NHQ and the medical officer abroad will review this new 
+medical information and jointly decide if the original medical assessment should be upheld or if a 
+new medical examination should take place because it appears that there is a change in the 
+person’s medical status. The medical officer abroad will then forward this decision directly to the  
+hearings officer, with a copy to both the visa office in charge of the case and the Migration 
+Health Branch at NHQ. The findings will read as follows: 
+ 
+Medical officer X has reviewed the applicant’s entire medical file including the newly- 
+submitted medical information that consists of [list what was reviewed about the 
+applicant]. After completing this review, the medical officer upholds the original medical 
+assessment. In this case, the hearings officer will proceed with the appeal before the IAD. 
+ 
+or 
+ 
+After completing this review, it is recommended that the applicant undergo a new medical 
+examination. The hearings officer will provide any direction required as to the requested 
+medical examination. 
+ 
+9.5. New medical examination 
+ 
+When medical officers recommend a new medical examination, the officer will contact the 
+applicant within 30 days, request photographs within that time frame (where necessary) and 
+issue new medical instructions. 
+ 
+Upon receipt of a notice that a new medical examination is required, the applicant should either 
+undergo the medical examination within 30 days or, alternatively, provide the officer with the 
+date of an appointment for the medical examination within 30 days. 
+ 
+The medical examination will be at the applicant’s own risk and expense. The applicant should be 
+advised that failure to comply within 30 days will lead IRCC to terminate the medical 
+reassessment process. (Example letter provided in Appendix B.) 
+ 
+At the same time, the hearings officer will immediately inform the appellant or counsel in writing, 
+with a copy to the IAD that the applicant will be allowed to undergo a new medical examination. 
+The hearings officer will also advise the appellant or their counsel that it is their responsibility to 
+ensure the applicant complies with the officer’s instructions to forward passport-size photographs 
+within 30 days and, if required, to undergo a medical examination or make an appointment for 
+the medical examination within 30 days of receipt of the new medical instructions. The hearings 
+
+
+===== PAGE 39 =====
+22 August 2024  
+ 
+officer should notify the appellant or counsel that the applicant’s failure to comply within 30 days 
+may result in IRCC terminating the medical reassessment process. (Example letter provided in 
+Appendix C.) 
+ 
+It is important for IRCC office to indicate, in GCMS, the date on which the new medical 
+instructions were sent out. If the applicant does not comply with the instructions, the officer will 
+notify the hearings officer, who will in turn inform the IAD and ask for a hearing date to be set, 
+with a copy of the request for a hearing date to the appellant or counsel. 
+ 
+Each IRCC office should appoint a coordinator to ensure the follow-up of these cases by means of 
+a bring-forward (BF) system. The results of the new medical examination must be forwarded to 
+the hearings office as soon as they have been received. 
+ 
+Hearings offices should also use a BF system to follow up on these cases with IRCC offices, at a 
+minimum every three months, with appropriate follow-up to IRCC offices where no action seems 
+to have been taken. GCMS could be used for follow-up by those hearings offices that have 
+access. 
+ 
+IRCC’s target time frame for the medical reassessment process is a maximum of nine months 
+from the time IRCC office is informed that a new medical examination is required. 
+ 
+9.6. Communicating medical results 
+ 
+When the IRCC office receives the results of the medical officer’s updated medical assessment, it 
+shall immediately forward them to the hearings officer, with a copy to the IAD. The IRCC officer 
+must pass on the results as soon as possible to permit the Department to meet the nine -month 
+processing targets. 
+ 
+Where the re-examination reveals that the applicant is no longer medically inadmissible, there 
+will be no need to pursue the appeal, barring other non-medical grounds for inadmissibility. The 
+appellant or counsel should be advised in writing that processing will continue once the appeal 
+has been formally withdrawn. Upon notification from the hearings office that the IAD has 
+acknowledged receipt of the withdrawal of the appeal, visa officers can continue processing the 
+application for permanent residence. 
+ 
+9.7. Medical officers’ statutory declaration 
+ 
+The specialized knowledge of a medical officer is important to hearings officers in properly 
+defending medical refusals before the IAD. Although it was the practice for medical officers to 
+prepare statutory declarations when they were informed that a sponsor had appealed a refusal 
+on health grounds, medical officers can no longer systematically prepare statutory declarations 
+for all medical refusals. 
+ 
+Medical officers may still be called upon in some cases to provide hearings officers with statutory 
+declarations to establish the connection between the diagnosis and the conclusion that the 
+person’s coming to Canada might cause an excessive demand on health or social services, or is 
+likely to be a danger to public health or safety. To assist medical officers, hearings officers will 
+have to indicate clearly those points in the medical documents that require explanation. A 
+
+
+===== PAGE 40 =====
+22 August 2024  
+ 
+medical record contains technical terms and specialized vocabulary that are not always easy to 
+understand and interpret. To help and support hearings officers in this task, the Operations 
+Directorate, Migration Health Branch at IRCC, NHQ are available to answer questions from 
+hearings officers and provide clarifications that could prevent additional delays. 
+ 
+A statutory declaration can be requested in situations where the threshold of the proof can be 
+very demanding, for example, when a person suffering from intellectual disability is refused 
+because their entry into Canada might cause excessive demands on social services. 
+ 
+In cases where the person’s state of health is very serious and it is recognized by the medical 
+community that a person suffering from this type of illness will require repeated access to health 
+services, hospitalization or major surgery, and the medical record as well as the medical 
+ 
+notification contain sufficient details, it is not necessary to request a statutory declaration. An 
+example would be a person suffering from metastatic malignancy, renal failure or AIDS. 
+ 
+The IAD has upheld inadmissibility based on health reasons in cases where clear evidence was 
+provided without a statutory declaration from a medical officer. 
+ 
+As of June 1, 2018, IRCC has issued a temporary public policy expanding the definition of 
+excessive demand. Please refer to IRCC’s PDIs for details on how this public policy may impact 
+the appeal. 
+ 
+9.8. Effective communication 
+ 
+Communication is the key to ensuring that the set procedures are dealt with effectively. This 
+means updating GCMS notes, bringing files forward on a regular basis and communicating with 
+everyone involved in given cases, including the IRCC officers, medical services and hearings 
+officers. If established procedures are followed, the number of requests for updates received at 
+offices and unnecessary litigation before the IAD will be reduced. More importantly, client service 
+in the form of more timely decisions on complex medical appeals will result.
+
+
+===== PAGE 41 =====
+22 August 2024  
+ 
+10. Alternative dispute resolution conference (ADR) [IAD rule 69(1)] 
+ 
+The IAD may require the parties to participate in an ADR conference in order to encourage 
+the parties to resolve an appeal without having recourse to a full hearing. 
+ 
+10.1. Purpose of ADR 
+ 
+ADR IRP aims to empower parties to an immigration appeal to participate in the resolution of 
+their case through the use of an informal meeting. This program is premised on the notion that 
+litigation is often not in the best interests of the parties and that some types of appeals could be 
+prevented from proceeding to a hearing by applying ADR techniques. 
+ 
+The principal ADR method of attempting to resolve appeals is through a resolution process. An 
+IAD-employed Early Resolution Officer (ERO) acts as dispute resolution officer and attempts to 
+bring the parties to resolve the appeal. ADR cases are generally resolved by the sponsor 
+withdrawing their appeal or by Minister's counsel consenting to it. Alternatively, in unsuccessful 
+resolution processes, the evidence and legal issues required at the hearing are often reduced as 
+a result of the early resolution session and a full hearing is scheduled to dispose of the appeal. 
+ 
+It is important to note that, as Minister's counsel, hearings officers possess the authority to make 
+decisions on behalf of the Minister of C&I or the Minister of PSEP when appearing at ADR 
+sessions. 
+ 
+10.2. Responsibilities of hearings officers for dispute resolution 
+ 
+When 
+Responsibility 
+Before and 
+during the 
+ADR session 
+The role of Minister's counsel is to represent the public interest and attempt to 
+ensure that justice is done. 
+A crucial difference between the role of Minister's counsel in the hearings 
+process versus the ADR process is that an ADR approach requires parties to 
+operate in a proactive manner by searching for a resolution that will avoid a 
+hearing. This does not mean that compromise is reached for the sake of 
+compromise. However, Minister's counsel must balance the need for program 
+integrity with efficiency. 
+This means ensuring that a resolution reached through ADR is consistent with 
+the principles of the IRPA, and IRCC or the CBSA policy. An approach that 
+acknowledges statutory obligations and ADR values is one in which the 
+Minister's counsel decides to consent to an appeal because it is recognized 
+that it is not in the public interest to litigate cases that have a poor chance of 
+success at a hearing. 
+
+
+===== PAGE 42 =====
+22 August 2024  
+ 
+Post-ADR 
+In appeal cases that are resolved at ADR, an IAD-issued Summary of 
+Agreement of the Parties form is completed by the ERO. The Minister's counsel 
+must ensure that this form and any additional and relevant information 
+relating to the reasons for the ADR settlement of the case are forwarded to the 
+appropriate IRCC office. It is acceptable to do this by e-mail in addition to 
+inserting this summary of agreement in the file that will be returned to IRCC 
+for further processing. 
+Questions regarding the outcomes of individual appeals should be directed to 
+the hearings officer who acted as the Minister's counsel on the case. General 
+questions regarding the use of ADR in the appeals process may be forwarded 
+to the CBSA Director of the Inland Enforcement Branch at NHQ. 
+
+
+===== PAGE 43 =====
+22 August 2024  
+ 
+ 
+11. Procedure for removal order appeals 
+ 
+The CBSA has the policy responsibility with respect to the issuance of removal orders and the 
+Minister of PSEP is the respondent in removal order appeals. 
+ 
+11.1. Persons who may appeal against removal orders 
+ 
+Pursuant to A63(2) and A63(3), permanent residents, foreign nationals who hold a permanent 
+resident visa and protected persons, may appeal against a decision at an examination or an 
+admissibility hearing, their removal order to the IAD . They may appeal not only on the basis of 
+legal and factual questions, but also on the basis that there are humanitarian and compassionate 
+considerations that warrant granting special relief. 
+ 
+An appeal may be based on the grounds that the decision appealed is wrong in law, fact or 
+mixed law and fact or that a principle of natural justice has not been observed or that sufficient 
+humanitarian and compassionate considerations warrant special relief in light of all the 
+circumstances of the case. [A67] 
+ 
+A64 provides that no appeal may be made to the IAD by a foreign national, their sponsor or a 
+permanent resident if the foreign national or permanent resident has been found to be 
+inadmissible on grounds of security, violating human or international rights, serious criminality or 
+organized criminality. Inadmissibility for serious criminality here refers to an offence punished in 
+Canada by a term of imprisonment of at least six months or that is described in A36(1)(b) or 
+A36(1)(c). 
+ 
+11.2. Criminality 
+ 
+Inadmissibility provisions have been consolidated under IRPA such that provisions apply both 
+inland and at the port of entry. For details on inadmissibility provisions, see ENF 1, 
+Inadmissibility, and ENF 2, Evaluating inadmissibility. 
+ 
+Situations may arise where the appellant had convictions as a young offender, and evidence 
+related to those convictions is important in establishing the Minister’s case. Under A36(3)(e), 
+inadmissibility on the grounds of A36(1) or A36(2) may not be based on an offence under the 
+Young Offenders Act (YOA). The YOA was replaced by the Youth Criminal Justice Act (YCJA) 
+which came into effect on April 1, 2003. A conditional sentence order (CSO) is not considered a 
+term of imprisonment for the purpose of 64(2). [Tran v. Canada (Public Safety and Emergency 
+Preparedness), 2017 SCC 50]. The SCC in Tran decided two main issues; 1) a conditional 
+sentence order imposed pursuant to the regime set out in ss. 742 to 742.7 of the Criminal Code 
+of Canada (CCC) does not constitute a “term of imprisonment” under paragraph 36(1)(a) of the 
+IRPA and ; 2) the phrase “maximum term of imprisonment” in paragraph 36(1)(a) of the IRPA 
+refers to the maximum term of imprisonment available at the time of the commission of the 
+offence and not the term of imprisonment available at the time of sentencing or the time when 
+admissibility is determined. 
+ 
+
+
+===== PAGE 44 =====
+22 August 2024  
+ 
+For additional information, see ENF 14, Criminal Rehabilitation, OP 19, Criminal Rehabilitation 
+and ENF 28, Ministerial Opinions on Danger to the Public and to the Security of Canada. 
+ 
+11.3. All the circumstances of the case 
+ 
+The definition of “humanitarian and compassionate considerations” in section 6 above provides 
+details of the test to be applied by the IAD when exercising its equitable jurisdiction. It also sets 
+out the general factors the IAD considers when hearing removal order appeals. Removal order 
+appeals differ from sponsorship appeals in that the IAD’s equitable jurisdiction includes the 
+potential risk the appellant may face in their country of destination. 
+ 
+The Supreme Court ruled in Chieu v. M.C.I., [2002] 1 S.C.R. 84 and Al-Sagban v M.C.I., [2002] 
+1 S.C.R. 133 that “all the circumstances of the case” may include foreign hardship, including the 
+risk that the individual may face, provided that the likely country of destination has been 
+established. Based on the Supreme Court’s reasoning, it is highly likely that appellants will 
+submit documentation regarding the human rights situation in the country of destination and 
+other documentation related to risk at the appeal against their removal order. The Court has 
+acknowledged that the Minister is entitled to have documents verified prior to the hearing o r to 
+challenge their validity. 
+ 
+Without a passport or travel document for a particular country, it is the CBSA’s position that 
+there is insufficient evidence to assume which will be the likely country of destination and foreign 
+hardship should be considered only where the likely country of destination has been established. 
+ 
+If such documentation is necessary to determine the likely country of destination, the 
+circumstances in the country of destination at the time of removal cannot be certain. Where the 
+appellant is serving a sentence or it can be established that the removal process is particularly 
+lengthy, it will become even more difficult to anticipate country conditions at an uncertain point 
+in the future. 
+ 
+Hearings officers should evaluate the circumstances of each case and, where appropriate, argue 
+that, in the absence of sufficient evidence to establish the likely country of destination or time  of 
+removal, anticipated risk or hardship cannot be properly evaluated. 
+ 
+Further, appellants will have an opportunity to apply for a pre-removal risk assessment (PRRA) 
+when they become ready for removal. Foreign hardship will be more accurately assessed at the 
+right time through the PRRA process. Therefore, in some cases it will be appropriate for hearings 
+officers to submit that foreign hardship should be given little weight for these reasons. 
+ 
+11.4. Mandatory conditions to be imposed by the IAD 
+ 
+A68(2)(a) states that where the IAD stays a removal order: 
+ 
+“it shall impose any condition that is prescribed and may impose any condition that it 
+considers necessary.” 
+ 
+Mandatory conditions are found in R251 and are as follows: 
+
+
+===== PAGE 45 =====
+22 August 2024  
+ 
+251.… 
+(a) to inform the Department and the IAD in writing in advance of any change in the 
+person’s address; 
+ 
+(b) to provide a copy of their passport or travel document to the Department or, if they 
+do not hold a passport or travel document, to complete an application for a passport or a 
+travel document and to provide the application to the Department; 
+ 
+(c) to apply for an extension of the validity period of any passport or travel document 
+before it expires, and to provide a copy of the extended passport or document to the 
+Department; 
+ 
+(d) to not commit any criminal offences; 
+ 
+(e) if they are charged with a criminal offence, to immediately report that fact in writing 
+to the Department; and 
+ 
+(f) if they are convicted of a criminal offence, to immediately report that fact in writing to 
+the Department and the Division. 
+ 
+Note: Effective December 12, 2003, the portions of the Department of Citizenship and 
+Immigration that deal with enforcement (removals, detention, investigations, hearings, appeals, 
+interventions) and war crimes were transferred to the Canada Border Services Agency. 
+Therefore, the words “the Agency” should be read where the words “the Department” currently 
+appear in the above-referenced section of the Regulations (R251). 
+ 
+The mandatory conditions shall be imposed in all stays of removal imposed by the IAD, whether 
+the removal order was based on criminal inadmissibility or for any other removal order appeal. 
+ 
+11.5. Discretionary conditions in criminal inadmissibility cases 
+ 
+The IAD has discretionary power to impose non-prescribed conditions when it stays a removal. 
+Generally, these conditions are imposed in cases involving criminal inadmissibility and 
+entrepreneur appellants. 
+ 
+In criminal inadmissibility appeals, conditions of a stay that are frequently imposed by the IAD 
+include the following: 
+ 
+ 
+provide all information, the notice and documents required by the conditions of the  stay 
+by hand, by regular or registered mail, by courier or priority post to the CBSA, at 
+(address of the CBSA’s office) and to the IAD (address of the IAD and fax number) It is 
+the responsibility of the appellant to ensure that the documents are received by the 
+Agency within any time period required by a condition of the stay. 
+ 
+report to the CBSA on the dates set by the IAD, or the first of the month in a sequence 
+chosen by the IAD. The appellant shall report in person, in writing or by telephone. The 
+reports are to contain the following details: 
+o 
+employment or efforts to obtain employment, if unemployed; 
+
+
+===== PAGE 46 =====
+22 August 2024  
+ 
+o 
+current living arrangements; 
+o 
+marital status, including common-law relationships; 
+o 
+attendance at meetings of Alcoholics Anonymous, or any other drug or alcohol 
+rehabilitation program; 
+o 
+other relevant changes of personal circumstances (i.e. separation, 
+divorce, children). 
+ 
+make reasonable efforts to seek and maintain full-time employment and immediately 
+report any change in employment to the Agency. 
+ 
+not knowingly associate with individuals who have a criminal record or who are engaged 
+in criminal activity, except contact that might result while attending meetings of 
+Alcoholics Anonymous, or any other drug or alcohol rehabilitation program. 
+ 
+not own or possess offensive weapons or imitations of offensive weapons. 
+ 
+respect all parole conditions and any court orders. 
+ 
+refrain from the use of alcohol. 
+ 
+keep the peace and be of good behaviour. 
+ 
+take immediate steps to repay any and all debts owed to creditors. Provide proof of 
+repayment schedule and compliance at each time of reporting to the Agency. 
+ 
+follow or continue to follow a psychotherapy program if the probation officer sees the 
+need. (If appellant withdraws consent to this condition, they must forthwith make an 
+application to the IAD to have this condition removed.) 
+ 
+engage in or continue anger management counselling with (name of therapist or group). 
+ 
+refrain from the illegal use or sale of drugs. 
+ 
+maintain the payment schedule as foreseen in the agreement with the Municipal Court. 
+ 
+Discretionary conditions depend on the nature of the appellant’s situation, which will have been 
+established during the hearing before the IAD. They can be suggested by the Minister’s counsel 
+and the appellant, but the IAD decides which conditions will be imposed. 
+ 
+The burden rests on the appellant to demonstrate that the conditions have been met; however, 
+the CBSA’s hearings office will monitor whether the appellant complies with the mandatory and 
+discretionary conditions imposed with the stay in order to report, when required, to the IAD. See 
+section 11.7 below. 
+ 
+11.6. Monitoring compliance with the conditions of a stay of removal 
+ 
+Where the IAD has stayed a removal order, it may, at any time, on application or on its own 
+initiative, reconsider the appeal [A68(3)]. 
+ 
+The Minister or the appellant can apply to the IAD to reconsider the appeal [IAD rule 78(1)]. The 
+applicant must follow IAD rule 85 for applications generally, but evidence is not required in an 
+affidavit or a statutory declaration. However, a written statement of whether the subject of the 
+appeal has complied with the conditions of the stay must be provided with the application. 
+ 
+When the IAD provides notice that it may reconsider an appeal in which it stayed a removal 
+order, both parties must immediately provide the IAD with a written statement concerning 
+compliance with the conditions of the stay of removal [IAD rule 78(2)]. 
+ 
+The statement of the Minister’s counsel must indicate the information the Minister has 
+
+
+===== PAGE 47 =====
+22 August 2024  
+ 
+concerning compliance with the conditions of the stay and should indicate what decision the IAD 
+should make when reconsidering the appeal [IAD rule 78(2) or 79(2) and 86(1)].Where a 
+removal order on the grounds of criminal inadmissibility has been stayed, verification of 
+compliance with the conditions imposed by the IAD is the CBSA’s responsibility. When a date is 
+scheduled by the IAD for a review, a report indicating compliance, or default, with the conditions 
+shall be prepared with a recommendation to the IAD. Such a recommendation may be to: 
+ 
+ 
+allow the appeal, cancel the stay and quash the removal order; or 
+ 
+maintain the stay for an extended period of time with additional conditions, or removal of 
+conditions which have been met; or 
+ 
+dismiss the appeal. 
+ 
+11.7. Cancellation of stays by operation of law 
+ 
+A68(4) provides that a stay is automatically cancelled by operation of law and the appeal 
+terminated where a person who was found inadmissible on grounds of serious criminality or 
+criminality is granted a stay of removal and is then convicted of another offence described in the 
+serious criminality provisions of A36(1). 
+ 
+Where a stay is cancelled by operation of law, hearings officers must send the appellant a notice 
+in writing regarding cancellation of their stay (see Appendix E). A copy of the notice must also be 
+sent to the IRB with a statement of service [IAD rule 80 and 81]. 
+ 
+11.8. Permanent resident visa holders 
+ 
+As outlined in manual chapter ENF 4, section 12.2, border services officers may prepare a report 
+under subsection A44(1) if they establish that a foreign national in possession of a permanent 
+resident (PR) visa is inadmissible. The PR visa holder may later be issued a removal order as a 
+result. 
+ 
+Under A63(2), a foreign national who holds a permanent resident visa may appeal to the IAD 
+against a decision to make a removal order against them. 
+ 
+If the appeal on the removal order is allowed, A67(2) provides that the IAD shall set aside the 
+original decision and substitute a determination that, in its opinion, should have been made, 
+including the making of a removal order, or refer the matter to the appropriate decision-maker 
+for reconsideration. If the foreign national arrived at the point of entry while the PR visa was 
+valid and the examination was deferred pursuant to section A23, the foreign national can be 
+granted PR status as per R71.1. 
+ 
+As the permanent resident visa holder will likely be in Canada following the IAD decision, the 
+hearings officer must return the case to the closest local IRCC office in Canada, and not return 
+the file to a migration office overseas. 
+ 
+Pursuant to A70(1), the responsible IRCC office is bound by the IAD’s decision. Officers should 
+read the IAD’s decision and reasons in order to determine next steps in processing. These cases 
+should be processed on a priority basis as the PR visa holder may be have been without status 
+for some time. The IRCC office must follow the following procedures depending on the IAD’s 
+
+
+===== PAGE 48 =====
+22 August 2024  
+ 
+decision: 
+ 
+ 
+If the IAD sets aside the original decision and refers the matter to a decision- 
+maker for reconsideration, the responsible IRCC office must re-open the application, 
+ 
+update background verifications and ensure the foreign national is not inadmissible to 
+Canada before granting permanent residence. 
+ 
+If the IAD’s decision is to allow the individual to remain in Canada, the 
+permanent resident application should only be re-opened to grant permanent resident 
+status. The individual may be granted permanent resident status even if the permanent 
+resident visa expired, provided they initially appeared for examination and presented 
+their permanent resident visa within its period of validity. Given the passage of time, the 
+responsible IRCC office may update background verification of the applicant if there are 
+concerns there may be new grounds that could make the applicant inadmissible to 
+Canada. 
+ 
+In both cases, family members that were not previously examined and were added to the 
+application following the IAD’s decision must provide any required forms and documents, 
+and complete a medical examination to allow the IRCC officer to assess their eligibility 
+and admissibility. 
+ 
+
+
+===== PAGE 49 =====
+22 August 2024  
+ 
+ 
+12. Procedure: Loss of residency status appeals 
+ 
+IRCC has the policy responsibility with respect to loss of residency status and the Minister of 
+IRCC is the respondent in these appeals (as of August 3, 2018, the official name of the Ministry 
+has not changed to IRCC and as such until it does change, the style of cause is to remain 
+Minister of Citizenship and Immigration). 
+ 
+12.1. In Canada 
+ 
+Permanent residents who are determined by the Minister’s delegate to have lost their permanent 
+resident status have the right to appeal their removal order against the Minister of IRCC 
+pursuant to A63(3). Persons in this category are subject to the same appeal provisions as 
+permanent residents who are ordered removed on other grounds of inadmissibility. 
+ 
+For more information, see section 11. 
+ 
+12.2. Outside Canada 
+ 
+Pursuant to A63(4), permanent residents may appeal to the IAD, against the Minister of IRCC, 
+with respect to a decision made outside Canada on the residency obligation under A28. IAD rule 
+13(1)(c), 16(c) and the IAD Appeal form  require that: 
+ 
+ 
+the notice of appeal be filed with the IAD of the region in Canada where the appellant last 
+resided; 
+ 
+the written reasons for the loss of status decision be filed with the notice of appeal; 
+ 
+if the appellant wants to return to Canada for the hearing of the appeal, they must 
+indicate it on the notice of appeal; and 
+ 
+after they receive the written reasons for the decision, appellants have 60 days to file 
+with the IAD a notice of appeal and the written reasons for the decision. 
+ 
+When the notice of appeal is received, the hearings office should: 
+ 
+ 
+ensure that the GCMS and NCMS “Appeals” screens are completed promptly; and 
+ 
+enter any motions or applications associated with the appeal in the GCMS appeals screen. 
+ 
+12.3. Record of refusal (outside Canada) 
+ 
+IAD rule 20(4) requires that the Minister prepare an appeal record that includes a table of 
+contents and the following documents: 
+ 
+ 
+any documents the Minister of IRCC has that is relevant to the decision on the 
+residency obligation or any issue  in the appeal; and 
+ 
+the officer’s written decision and written reasons. 
+ 
+All parties must receive the appeal record and proof of compliance no later than 60 days after 
+
+
+===== PAGE 50 =====
+22 August 2024  
+ 
+the Minister has received the notice of appeal. 
+ 
+12.4. Requests to return to Canada for the hearing (Outside of Canada) 
+ 
+A31(3)(c) provides that a permanent resident shall be issued a travel document if: 
+ 
+ 
+they were physically present in Canada at least once in the last 365 days; and 
+ 
+they have made an appeal under A63(4); or 
+ 
+the period for making an appeal has not expired. 
+ 
+The situation will arise where permanent residents who do not meet the residency requirement 
+request a travel document during the 60-day appeal period although they have not filed an 
+appeal. Persons in this situation would be allowed to enter Canada during the 60-day appeal 
+period even if they have not yet filed an appeal. In cases such as this, the port of entry will 
+notify the hearings office. Hearings offices should monitor the file to determine if an appeal is 
+filed. When an appeal is not filed within the 60-day period, the file should be referred to the 
+CBSA for investigation. 
+ 
+ 
+Applications must be filed with the IAD and the Minister without delay after the notice of appeal 
+is filed. If the IAD is satisfied the presence of the permanent resident at the hearing is 
+necessary, it will order that the permanent resident physically appear at the hearing. Where the 
+IAD has ordered that the appellant be physically present, an officer shall issue a travel document 
+for that purpose [A175(2)]. 
+ 
+12.5. Dismissed appeals—Type of removal order 
+ 
+A69(3) requires that where the IAD dismisses an appeal under A63(4) and the permanent 
+resident is in Canada, it shall make the removal order. Neither the Act nor the Regulations 
+ 
+specify what type of removal order should be issued by the IAD. To ensure consistency with 
+procedures in cases involving the in-Canada determination of residency obligation, hearings 
+officers should request that the IAD issue a departure order for failure to comply with the 
+residency obligation [R228(2)]. 
+ 
+12.6. Failure to appear at an appeal 
+ 
+If an appellant fails to appear for their appeal, hearings officers should ask the IAD to declare  the 
+appeal abandoned pursuant to A168(1). If the person concerned is subject to a removal order, 
+this order will then come into force and they will be removable from Canada. Where an appellant 
+was determined to have lost their residency status outside Canada, and the person concerned 
+has returned to Canada for their appeal, officers should ask that the IAD issue the appropriate 
+removal order in absentia.
+
+
+===== PAGE 51 =====
+22 August 2024  
+ 
+13. Procedure: The Minister's appeal rights 
+ 
+If a member of the Immigration Division decides at an admissibility hearing that the person 
+concerned is not a person against whom a removal order should be made or, that the person 
+may be granted authorization to enter Canada, the Minister of PSEP may appeal that decision to 
+the IAD on questions of law or fact, mixed law and fact, or on question of a breach of a principle 
+of natural justice. [A63(5) and A67(1)]. 
+ 
+The decision to appeal an Immigration Division decision to the IAD is made at Litigation 
+Management (LMB), NHQ, or CBSA Judicial Review Unit (JRU), by persons with delegated 
+authority from the Minister. When the Minister decides to appeal, Litigation Management will: 
+ 
+ 
+serve a notice of appeal on the respondent and the IAD within 30 days after 
+the day on which the Minister receives the Immigration Division's decision 
+[IAD rule 16(d)]; 
+ 
+send a copy of the material to the appropriate hearings office and advise the hearings 
+officer supervisor where the decision was made; and 
+ 
+The Immigration Division must provide the Minister and the IAD with a certified true copy of 
+the record no later than 30 days after the IAD receives the notice of appeal [IAD rule 22(b)]. 
+ 
+When the Minister begins an appeal, Litigation Management (LMB) NHQ or CBSA Judicial 
+Review Unit (JRU), will complete the GCMS appeals screen. If the Minister or the respondent 
+begins a motion or application, hearings officers are responsible for completing the “Motions” 
+screen in GCMS. 
+ 
+A69(2) – In the case of an appeal by the Minister respecting a permanent resident or a 
+protected person, other than a person referred to in subsection 64(1), if the Immigration Appeal 
+Division is satisfied that, taking into account the best interests of a child directly affected by the 
+decision, sufficient humanitarian and compassionate considerations warrant special relief in light 
+of all the circumstances of the case, it may make and may stay the applicable removal order, or 
+dismiss the appeal, despite being satisfied of a matter set out in paragraph 67(1)(a) or (b). 
+ 
+After the IAD renders its decision, the hearings office promptly updates the GCMS “Appeals” or 
+“Motions” screens and the NCMS screens, as the case may be. This is particularly important 
+when the IAD issues a removal order. In those cases, the officer completes the appropriate 
+removal order by hand and forwards the CBSA's copy of the order to the appropriate office. 
+ 
+If the IAD dismisses the Minister's appeal and the officer, in consultation with their supervisor, 
+believes that an application for judicial review of the decision is warranted, the officer should 
+immediately bring the decision to the attention of Litigation Management(LMB) NHQ or CBSA 
+Judicial Review Unit (JRU). The documents may be e-mailed to: 
+IRCC.CMBLitigationMgmtRequest-DemandeGesLitigesDGRC.IRCC@cic.gc.ca (See ENF 9, Judicial 
+Review). 
+ 
+In addition, in dismissed appeals, the officer should make a written request for the  written 
+reasons. 
+ 
+
+
+===== PAGE 52 =====
+22 August 2024  
+ 
+ 
+14. Procedure: Roles and responsibilities 
+ 
+Role 
+Responsibilities 
+IRCC and CBSA’s 
+Litigation Management 
+The Litigation Management Branch (LMB), situated in the Case 
+Management Branch, NHQ, and the  CBSA Judicial Review Unit 
+(JRU) , NHQ share responsibility for the management of all the 
+IRCC and the CBSA cases involving litigation in the Federal Courts 
+and for ministerial appeals before the Immigration Appeal Division 
+pursuant to A63(5). Litigation Management (LMB) will determine 
+who should manage the case and they will refer certain cases to 
+CBSA Judicial Review Unit (JRU) that fit within the JRU mandate. 
+See ENF 9, Judicial Review, for more information. 
+Hearings officer 
+Hearings officers present cases in accordance with policies and 
+functional direction from either the IRCC Admissibility Branch, or 
+the CBSA Inland Enforcement Program Management Division at 
+NHQ. 
+The role of a hearings officer as the Minister’s counsel is to 
+ensure that the integrity of the system is upheld and that justice 
+is served. In most circumstances, this requires the hearings 
+officer to defend the decision of an officer not to issue a visa, or 
+the decision of a Minister’s delegate or the Immigration Division 
+to issue a removal order. 
+Exceptions may arise where the original decision is not defensible 
+due to an error in law or fact or due to a breach of natural justice. 
+Officers should consent to an appeal being allowed only when the 
+circumstances of the case merit the original decision being 
+overturned. Due to the de novo nature of IAD hearings, hearings 
+officers will often have different evidence to consider and present to 
+the IAD than that considered by the original decision-maker. New 
+evidence is often introduced through documentation at the hearing. 
+It is essential that hearings officers be familiar with the IAD Rules 
+as they govern procedures such as disclosure, preparation of the 
+record and procedures at IAD hearings. 
+ 
+When the hearings office concerned receives notice of the IAD’s 
+decision, the GCMS and NCMS “Appeals” screens are to be completed
+promptly. 
+Hearings officers represent the Minister of IRCC or the Minister of 
+PSEP in proceedings before all Divisions of the IRB. Hearings officers
+have direct contact with counsel and clients. They should always be 
+
+
+===== PAGE 53 =====
+22 August 2024  
+ 
+professional in both decorum and appearance. Hearings officers 
+should maintain their professionalism in their telephone manner, 
+written correspondence, conduct at hearings and all other 
+interactions with the public. Professionalism should be exhibited by 
+properly preparing for cases and treating all participants at a 
+hearing with dignity and respect. The participants include members, 
+counsel, witnesses, interpreters and observers, if any. 
+Legislative and 
+Regulatory Policy 
+Division, Admissibility 
+Branch, IRCC, NHQ. 
+The IRCC Director of the Legislative and Regulatory Policy Division at 
+NHQ is responsible for all admissibility policies except security, war 
+crimes and organized crime. The Director is also responsible for 
+policies related to appeal rights and grounds for appeals. 
+Inland Enforcement, 
+CBSA, NHQ. 
+The CBSA Director of Inland Enforcement Program Management 
+Division, Intelligence and Enforcement Branch at NHQ is responsible 
+for detention reviews, admissibility hearings as well as appeals of a 
+removal order by a permanent resident, a protected person or a 
+holder of a permanent resident visa. 
+The Hearings Unit at NHQ can provide guidance and assistance to 
+hearings officers on all hearings-related matters and can be reached
+at: Hearings-Audiences-Programs@cbsa-asfc.gc.ca 
+
+
+===== PAGE 54 =====
+22 August 2024  
+ 
+ 
+Appendix A – Detention, Safety & Security Annex 
+ 
+NOTE: The Department of Citizenship and Immigration Canada (CIC) is 
+currently (August 3, 2018) being referred to as the Ministry of 
+Immigration, Refugees and Citizenship Canada (IRCC) but the name has 
+not officially been changed from CIC. 
+ 
+ 
+Detention, Safety and Security Annex 
+ 
+ 
+ 
+BETWEEN 
+ 
+ 
+ 
+THE DEPARTMENT OF CITIZENSHIP AND IMMIGRATION (CIC) 
+ 
+ 
+ 
+AND 
+ 
+ 
+ 
+THE CANADA BORDER SERVICES AGENCY (CBSA) 
+ 
+ 
+ 
+AND 
+ 
+ 
+ 
+THE IMMIGRATION AND REFUGEE BOARD OF CANADA (IRB) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Collectively referred to as the “Parties” 
+
+
+===== PAGE 55 =====
+22 August 2024  
+ 
+ 
+Introduction 
+ 
+WHEREAS the Parties concluded and signed a Memorandum of Understanding in February 2016, 
+hereinafter referred to as the “MOU”, specifying that the Parties agree to negotiate Annexes under 
+the MOU. This Annex will be interpreted in accordance with the principles contained in the  MOU; 
+ 
+WHEREAS the Parties recognize that their roles are interdependent and as such, need to work 
+together regarding the safety and security of proceedings before the IRB; 
+ 
+WHEREAS the Parties agree on the importance of establishing and maintaining efficient processes 
+in relation to detention, safety and security that are open and transparent for the purposes of 
+achieving their respective mandates; 
+ 
+WHEREAS the Parties recognize that the Canada Labour Code Part II sets out the responsibilities 
+and obligations of both employers and employees with respect to the health and safety of 
+workplaces; and 
+ 
+WHEREAS this Annex does not supersede provisions of the Immigration and Refugee Protection 
+Act (IRPA), Immigration and Refugee Protection Regulations, Rules of any of the Divisions of the 
+IRB or any other applicable legislation. 
+ 
+ 
+ 
+Therefore the Parties agree as follows: 
+ 
+ 
+ 
+1. 
+Purpose and Objective 
+1.1 
+The purpose of this Annex is to outline the responsibilities of the Parties as they relate to 
+the safety and security of all proceedings before the IRB, including proceedings involving 
+persons in detention. 
+1.2 
+The objectives of this Annex are: 
+ 
+ 
+to assist the Parties in providing a safe and secure environment for all persons 
+present at proceedings before the IRB; and 
+ 
+to assist the Parties in fulfilling their roles and obligations with respect to persons 
+in detention, including maintaining their well-being. 
+ 
+ 
+ 
+2. 
+Commitment 
+2.1 
+The Parties commit to take reasonable steps to provide a safe and secure environment 
+for all proceedings before the IRB by implementing the provisions set out in section 6 of 
+this Annex. 
+
+
+===== PAGE 56 =====
+22 August 2024  
+ 
+ 
+2.2 
+The Parties commit to maintaining, and upon request, sharing information on their own 
+security practices and standards with the other Parties as set out in their respective 
+policies and guidelines relating to Occupational Health and Safety (OHS) required by the 
+Canada Labour Code Part II. Information shared under this provision will only be 
+disclosed in accordance with the Privacy Act as outlined in the provisions of the 
+Information Sharing Annex. 
+2.3 
+The Parties commit to bearing all costs associated with carrying out their respective 
+responsibilities and commitments under this Annex. 
+ 
+ 
+3. 
+Roles and Responsibilities of the IRB 
+3.1 
+The IRB is an independent quasi-judicial tribunal comprising the Immigration Division 
+(ID), the Immigration Appeal Division (IAD), the Refugee Protection Division (RPD), and 
+the Refugee Appeal Division (RAD). 
+3.2 
+The IRB is responsible for all decisions relating to the conduct of its proceedings and 
+ensuring that principles of fairness and natural justice are respected in these proceedings. 
+3.3 
+The ID has the sole jurisdiction to review the reasons for detention and render decisions 
+regarding continued detention or release of foreign nationals (FN) or permanent residents 
+(PR) detained for immigration reasons under the specific timelines as set out under the 
+IRPA. 
+3.4 
+The IRB is responsible for the security of IRB controlled premises used to conduct 
+proceedings before the IRB including providing instructions during an emergency 
+situation. 
+3.5 
+The IRB does not have jurisdiction over security in non-IRB controlled premises such as 
+provincial and federal correctional institutions or premises under the control of other 
+government departments or agencies or other institutions where proceedings could be 
+held. 
+3.6 
+When security risks are identified to the IRB in advance of a proceeding, the IRB is 
+responsible for communicating those security risks and recommended mitigation 
+strategies to the provincial or federal correctional institutions, or other institutions where 
+the proceeding is scheduled to take place. 
+3.7 
+The IRB has the authority to schedule cases before any Division of the IRB and will do so 
+in a manner that respects the rights and ensures the safety and security of all persons 
+that attend IRB proceedings and takes into account the well-being of persons in 
+detention. 
+3.8 
+The IRB will consult CIC or the CBSA on availability of space and resources when 
+scheduling proceedings at premises controlled by that Party. 
+ 
+ 
+4. 
+Roles and Responsibilities of the CBSA 
+4.1 
+The CBSA represents the Minister of Public Safety and Emergency Preparedness (PSEP) 
+and the Minister of CIC in proceedings before the IRB. 
+
+
+===== PAGE 57 =====
+22 August 2024  
+ 
+ 
+4.2 
+The CBSA is responsible for ensuring the security, safety and well-being of all persons 
+under arrest, or detained under the IRPA and has the authority to apply restraints to 
+persons who are lawfully arrested and detained, including during proceedings before the 
+IRB. 
+4.3 
+The CBSA strives to avoid all unnecessary transportation of persons in detention under the 
+IRPA where alternative measures are available and can be implemented; 
+4.4 
+The CBSA is responsible for the security of CBSA controlled premises used to conduct 
+proceedings before the IRB including providing instructions during an emergency situation. 
+4.5 
+When a security risk arises during an IRB proceeding at a provincial or federal correctional 
+institution or other institution, the CBSA is responsible for communicating security risks 
+and requesting additional security measures where appropriate from the institution and 
+informing the presiding member at the earliest opportunity. 
+ 
+ 
+5. 
+Roles and Responsibilities of CIC 
+5.1 
+CIC represents the Minister of CIC in proceedings before the IRB. 
+5.2 
+CIC is responsible for the security of CIC controlled premises used to conduct proceedings 
+before the IRB including providing instruction during an emergency situation. 
+ 
+ 
+6. 
+Security 
+6.1 
+Security of Proceedings before the IRB 
+6.1.1  The IRB has security screening measures on IRB controlled premises to ensure 
+the safety and security of all persons on these premises. 
+6.1.2  The Parties will share information about identified security-related risks associated 
+with a proceeding before the IRB without delay to those Parties impacted by the 
+security-related risk, and in writing whenever possible, where required and 
+permitted by law. 
+6.1.3  A Departmental Security Officer (DSO) and Deputy Departmental Security Officer 
+(DDSO) or other delegate from each Party, if they are involved in the proceeding, 
+will assess and may consult or share information related to identified security risks 
+where required and permitted by law. 
+6.1.4  Where a proceeding before the IRB is scheduled to take place on premises 
+controlled by one of the Parties, that Party will be responsible for taking 
+reasonable efforts to address the identified security risks associated with the 
+proceeding by implementing the appropriate risk mitigation strategies, e.g. the 
+presence of security personnel or the use of telecommunication in place of in- 
+person proceedings. 
+6.1.5  Where the IRB schedules a proceeding on premises which are not under the 
+control of one of the Parties, the IRB will address any security risks associated 
+with the proceeding with the proprietor by requesting appropriate risk mitigation 
+strategies be implemented. Where another Party has a contractual relationship 
+with the proprietor, the IRB will inform that Party of the request. 
+
+
+===== PAGE 58 =====
+22 August 2024  
+ 
+ 
+6.1.6  Where security risks associated with a proceeding have been identified, the IRB 
+will take reasonable efforts to schedule the proceeding at a location where both 
+the fairness and security of the proceeding will not be compromised; this could 
+include scheduling at another location if possible, or using telecommunications in 
+place of in-person proceedings. 
+6.2 
+Threat and Risk Assessment (TRA) of the premises where IRB proceedings take place. 
+6.2.1  The Parties conduct TRAs of their controlled premises. 
+6.2.2  The IRB does not have authority to conduct a TRA at any provincial or federal 
+correctional institution or premises or other institutions where proceedings could 
+be held. 
+6.2.3  The IRB commits to working with other institutions to conduct a security 
+assessment when security risks are identified. 
+6.2.4  The Parties DSOs/DDSOs or other delegates commit to: 
+ 
+sharing existing TRAs or portions of TRAs with the DSO or the DDSO or 
+other delegate of the requesting Party where required and permitted by law; 
+ 
+conducting joint TRAs or portions of TRAs at IRB itinerant locations and co- 
+locations; 
+ 
+conducting joint TRAs or portions of TRAs, as appropriate, where 
+proceedings occur at CBSA, CIC or IRB facilities; and 
+ 
+obtaining authorization from the originating Party prior to further sharing 
+TRAs or portions of TRAs. 
+6.2.5  Where a joint TRA or portions of the TRA are undertaken by one or more of the 
+Parties, the Party on whose premises the proceeding before the IRB is held commits 
+to implementing the appropriate risk mitigation strategies. 
+6.3 
+Emergency Response 
+6.3.1  The Party on whose premise the proceeding takes place commits to providing 
+emergency response instructions when an emergency situation arises. 
+6.3.2  Each Party in control of premises where a proceeding before the IRB is scheduled 
+will post an evacuation plan or appropriate signage for all persons present at the 
+proceeding, including members of the public, to inform them of basic emergency 
+plans and exit routes. 
+ 
+ 
+7. 
+Co-Location 
+7.1 
+The Parties agree to cooperate in examining and considering opportunities for co- 
+location where appropriate. 
+ 
+ 
+8. 
+Transportation of Persons in Detention 
+8.1 
+While the IRB has the authority to require the presence of the subject of the proceeding 
+to appear before any division, it recognizes that the CBSA has the sole responsibility for 
+
+
+===== PAGE 59 =====
+22 August 2024  
+ 
+ 
+the care and control of persons in detention under the IRPA and the identification and 
+management of risks associated with the transportation of persons in detention. 
+8.2 
+The IRB will consider the use of alternatives to transportation of persons in detention 
+including the use of telecommunication in place of in-person proceedings, when an 
+application is made under the appropriate Division’s Rules or the IRB decides risk 
+mitigation strategies are required to conduct the proceeding. 
+8.3 
+The IRB agrees to prioritize the scheduling of proceedings involving persons in detention 
+where possible. 
+ 
+ 
+9. 
+Monitoring and Evaluation 
+9.1 
+The Parties will share details of security incidents where required and to the extent 
+permitted by law. 
+9.2 
+The Parties DSOs /DDSOs or other delegates agree to review safety and security 
+incidents as soon as possible after their occurrence and to commit to meeting quarterly 
+to discuss and implement preventative safety and security measures as appropriate. 
+ 
+ 
+10. 
+Dispute Resolution 
+10.1 Any disagreement arising with respect to the terms of this Annex is to be resolved 
+pursuant to sections 21 and 22 of the MOU. 
+ 
+ 
+11. 
+Administration 
+11.1 This Annex will come into effect on the date it is signed by the last of the Parties. 
+11.2 This Annex will remain in effect until it is suspended or terminated as set out under the 
+Termination section of the MOU. 
+11.3 This Annex may be amended pursuant to sections 28 and 29 of the MOU. 
+ 
+ 
+12. 
+Definitions 
+12.1 Terms used in this Annex are defined in Schedule 1. 
+ 
+ 
+13. 
+Counterpart signature 
+13.1 This Annex may be signed in counterparts, each of which will be deemed an original, but 
+all of which together will constitute one and the same instrument. 
+ 
+ 
+ 
+ 
+ 
+IN WITNESS THEREOF, this Annex, in both official languages, was signed in triplicate, each copy 
+being equally authentic. 
+
+
+===== PAGE 60 =====
+22 August 2024  
+ 
+ 
+Signed on March 29, 2016 in Ottawa, Canada. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+_ 
+  
+_ 
+ 
+Sarita Bhatla 
+Michael MacDonald 
+ 
+Director General, 
+Director General, 
+ 
+Refugee Affairs Branch, CIC 
+Operational Management and 
+Coordination, CIC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Leslie Soper 
+Andrew Le Frank 
+ 
+A/Director General, 
+Director General, 
+ 
+Enforcement and Intelligence Programs 
+Enforcement and Intelligence 
+Operations 
+ 
+CBSA 
+CBSA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Greg Kipling 
+Rebecca McTaggart 
+ 
+Director General, 
+Director General, 
+ 
+Policy, Planning and Research Branch, 
+Registry and Regional Support 
+IRB 
+Services Branch, IRB 
+
+
+===== PAGE 61 =====
+22 August 2024  
+ 
+ 
+Schedule 1 
+ 
+ 
+ 
+Definitions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“Threat and Risk Assessment (TRA)” 
+ 
+“Threat and Risk Assessment” means an evaluation of the potential for losses (in term of 
+disruption, modification, destruction) through any act or condition exploiting vulnerability 
+to cause those losses. The threat and risk assessment consist of this examination in terms 
+of a threat’s ability to exploit a vulnerability in order to cause injury to an asset, thereby 
+resulting in the losses in terms of disruption of operations, injury to persons, or injury (in 
+terms of destruction, modification, loss) of assets nature, likelihood and consequences of 
+acts and events that could place employees and information, assets and systems at risk. 
+ 
+ 
+ 
+“Other institution” 
+ 
+“Other institution” could include public or private institutions such as hotels, conference 
+centres, hospitals, universities or colleges or under federal, provincial, municipal or 
+territorial control, whose primary ownership is defined as a legal entity outside of the 
+government community. 
+ 
+ 
+ 
+“Itinerant locations” 
+ 
+“Itinerant locations” refers to locations where IRB proceedings are held other than in the 
+cities where IRB regional offices are located. 
+ 
+ 
+ 
+“Co-location” 
+ 
+“Co-location” refers to the sharing of facilities between the Parties. 
+
+
+===== PAGE 62 =====
+22 August 2024  
+ 
+ 
+Appendix B – Examples of cases that do not need to be forwarded 
+to Operations Directorate, Migration Health Branch, NHQ, by the 
+officer 
+The officer should not forward the new medical information about the applicant to Operations 
+Directorate, Migration Health Branch at NHQ when it either has no link with the applicant’s 
+reason for refusal on medical grounds or the medical information is so vague or of such a  general 
+nature that it has little or no probative value. Instead, the officer should request that a date be 
+set for a hearing at the IAD. The following are examples of cases where the officer should not 
+forward the new medical information to the Migration Health Branch at NHQ: 
+ 
+1. when the person concerned was initially found inadmissible because they were diagnosed 
+with emphysema, and the new medical information received about the applicant states 
+that they are being treated for an unrelated condition (e.g., a broken leg); 
+2. when the applicant was initially found inadmissible because of hypertension and the  new 
+medical information received deals with the applicant’s prognosis with diabetes; or 
+3. the applicant was found inadmissible because of cancer, and the new medical information 
+submitted states that the applicant’s hypertension is being treated and there is a good 
+prognosis. 
+ 
+Note: If the officer is uncertain whether the submitted information refers to the reason for 
+medical inadmissibility, they should request clarification from their regional medical officer. 
+
+
+===== PAGE 63 =====
+22 August 2024  
+ 
+ 
+Appendix C – Sample letter from hearings officer to appellant or 
+counsel for the appellant - New medical examinations 
+Appellant/counsel’s address 
+ 
+Subject: New medical examination required for (insert name of applicant) 
+Dear Sir/Madam: 
+Further to the new medical information submitted by (insert name of applicant) on (insert date), 
+with respect to (describe in detail the newly submitted medical information), please be advised 
+that a new medical examination will be required in order for us to make a determination about 
+the applicant’s case. 
+ 
+Please note that it is your responsibility to ensure that the applicant complies with the officer’s 
+instructions to: 
+ 
+ 
+forward passport-size photographs within 30 days (if required by the officer); and the 
+applicant may either: 
+ 
+undergo the new medical examination within 30 days of receipt of this notification letter 
+(medical submitted to applicant by office); or alternatively, 
+ 
+provide the officer, within 30 days of receipt of this notification letter, with a date for the 
+medical examination. 
+ 
+We wish to advise you that should the applicant fail to comply with the above-mentioned 30-day 
+time frame, we will have no other choice but to discontinue the medical reassessment process 
+concerning the applicant’s file. 
+ 
+Signed at  
+, on   
+ 
+ 
+Hearings officer 
+c.c.: IAD Registry 
+
+
+===== PAGE 64 =====
+22 August 2024  
+ 
+ 
+Appendix D – Statement of Service 
+ 
+The Registrar 
+ 
+Immigration and Refugee Board 
+Division 
+Address 
+ 
+Re: (Insert name of person concerned) 
+FOSS ID: 
+Address 
+IRB File: 
+ 
+TAKE NOTICE that the attached documents were provided to (insert name of person concerned) 
+at the above-noted address on (insert date). The documents were provided to the person 
+concerned by the method of service noted below: 
+ 
+ 
+by hand; 
+ 
+by email; 
+ 
+regular mail; 
+ 
+registered mail; 
+ 
+certified mail; 
+ 
+courier; 
+ 
+priority post; 
+ 
+facsimile; or 
+ 
+other. 
+ 
+Name and position 
+Hearings Office 
+Address 
+
+
+===== PAGE 65 =====
+22 August 2024  
+ 
+ 
+Appendix E – Notice of cancellation, by operation of law, of a stay 
+of removal order granted by the IAD [A68(4)] 
+Date 
+ 
+Name of appellant 
+Client UCI/IRB file 
+Address 
+Re: Notice of cancellation, by operation of law, of a stay of removal order 
+granted by the IAD 
+ 
+Dear Mr./Ms. (name of appellant): 
+ 
+As provided for in subsection 68(4) of the Immigration and Refugee Protection Act (hereinafter 
+“the Act”), you are hereby notified, in accordance with Immigration Appeal Division rule 80, that 
+the stay of the removal order that was granted to you on (insert date) by the Immigration 
+Appeal Division is cancelled by operation of law because of your conviction for (enter nature of 
+conviction), contrary to (insert relevant provision of an Act of Parliament) on (insert date) at 
+(insert place), this being a conviction for which you have been sentenced to a term of 
+imprisonment of (insert prison sentence imposed). The maximum term of imprisonment for such 
+an offence is (insert maximum term of imprisonment). The relevant provisions of the Act 
+stipulate that: 
+ 
+68.(4) If the Immigration Appeal Division has stayed a removal order against a permanent 
+resident or a foreign national who was found inadmissible on grounds of serious criminality or 
+criminality, and they are convicted of another offence referred to in subsection 36(1), the stay is 
+cancelled by operation of law and the appeal is terminated. 
+ 
+36.(1) A permanent resident or a foreign national is inadmissible on grounds of serious 
+criminality for 
+ 
+(a) having been convicted in Canada of an offence under an Act of Parliament punishable by a 
+maximum term of imprisonment of at least 10 years, or of an offence under an Act of Parliament 
+for which a term of imprisonment of more than six months has been imposed; 
+(b) having been convicted of an offence outside Canada that, if committed in Canada, would 
+constitute an offence under an Act of Parliament punishable by a maximum term of 
+imprisonment of at least 10 years; or 
+(c) committing an act outside Canada that is an offence in the place where it was committed and 
+that, if committed in Canada, would constitute an offence under an Act of Parliament punishable 
+by a maximum term of imprisonment of at least 10 years. 
+
+
+===== PAGE 66 =====
+22 August 2024  
+ 
+ 
+As a result of this conviction, the stay of the removal order that you enjoy is cancelled by 
+operation of law, and your appeal is now terminated. The removal order that was issued against 
+you on (insert date) is now enforceable. 
+ 
+Sincerely, 
+ 
+Name of officer 
+Hearings Officer 
+TAKE NOTICE that, pursuant to subsection 72(1) of the Act you may file an application 
+seeking leave from the Federal Court to commence an application for judicial review of 
+any matter—a decision, determination or order made, a measure taken or a question 
+raised—under the Act. Pursuant to paragraph 72(2)(b) of the Act, notice of such an 
+application must be served on the other party and filed in the Registry of the Federal 
+Court within 15 days. 
+ 
+c.c.: Registry of the IAD 
+Counsel for the appellant 
+Encl. Certificate of conviction 
+Declaration of service 

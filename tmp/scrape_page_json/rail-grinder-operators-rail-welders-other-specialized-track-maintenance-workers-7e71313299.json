@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_7e713132991f",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/unique-situations/rail-grinder-operators-rail-welders-other-specialized-track-maintenance-workers.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/unique-situations/rail-grinder-operators-rail-welders-other-specialized-track-maintenance-workers.html",
+  "title": "International Mobility Program: Unique work situations – Rail grinder operators, rail welders or other specialized track maintenance workers",
+  "language": "en",
+  "manual": "International Mobility Program: Unique work situations – Rail grinder operators, rail welders or other specialized track maintenance workers",
+  "chapter": null,
+  "heading_path": [
+    "International Mobility Program: Unique work situations – Rail grinder operators, rail welders or other specialized track maintenance workers"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "de5f26d7fd166fd673a7b5b9deb4b50e756bf72452299184326a9b83a93790f4",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/rail-grinder-operators-rail-welders-other-specialized-track-maintenance-workers-7e71313299.md",
+  "text": "International Mobility Program: Unique work situations – Rail grinder operators, rail welders or other specialized track maintenance workers",
+  "sections": [
+    {
+      "heading": "International Mobility Program: Unique work situations – Rail grinder operators, rail welders or other specialized track maintenance workers",
+      "heading_path": [
+        "International Mobility Program: Unique work situations – Rail grinder operators, rail welders or other specialized track maintenance workers"
+      ],
+      "anchor": "#international-mobility-program-unique-work-situations-rail-grinder-operators-rail-welders-or-other-specialized-track-maintenance-workers",
+      "text": "International Mobility Program: Unique work situations – Rail grinder operators, rail welders or other specialized track maintenance workers"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

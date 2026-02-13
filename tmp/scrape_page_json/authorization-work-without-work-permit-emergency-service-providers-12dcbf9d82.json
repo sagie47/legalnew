@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_12dcbf9d82be",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/authorization-work-without-work-permit-emergency-service-providers.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/authorization-work-without-work-permit-emergency-service-providers.html",
+  "title": "International Mobility Program: Authorization to work without a work permit - Emergency service providers",
+  "language": "en",
+  "manual": "International Mobility Program: Authorization to work without a work permit",
+  "chapter": "Emergency service providers",
+  "heading_path": [
+    "International Mobility Program: Authorization to work without a work permit - Emergency service providers"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "8b88171f009e95463547b699c86db986f4df126ccb12d9c6d8e26ad851ab9e94",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/authorization-work-without-work-permit-emergency-service-providers-12dcbf9d82.md",
+  "text": "International Mobility Program: Authorization to work without a work permit - Emergency service providers",
+  "sections": [
+    {
+      "heading": "International Mobility Program: Authorization to work without a work permit - Emergency service providers",
+      "heading_path": [
+        "International Mobility Program: Authorization to work without a work permit - Emergency service providers"
+      ],
+      "anchor": "#international-mobility-program-authorization-to-work-without-a-work-permit-emergency-service-providers",
+      "text": "International Mobility Program: Authorization to work without a work permit - Emergency service providers"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

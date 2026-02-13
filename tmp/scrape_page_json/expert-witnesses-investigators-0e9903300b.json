@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_0e9903300b16",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/expert-witnesses-investigators.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/expert-witnesses-investigators.html",
+  "title": "International Mobility Program: Authorization to work without a work permit – Expert witnesses or investigators",
+  "language": "en",
+  "manual": "International Mobility Program: Authorization to work without a work permit – Expert witnesses or investigators",
+  "chapter": null,
+  "heading_path": [
+    "International Mobility Program: Authorization to work without a work permit – Expert witnesses or investigators"
+  ],
+  "last_updated": "2017-10-16",
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "d7094fc5f2e209b19a6342ec2e3dbd938892183cd7a15856ca3fe4c99fb09ce2",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/expert-witnesses-investigators-0e9903300b.md",
+  "text": "Published Time: Thu, 12 Feb 2026 00:35:50 GMT\n\nWarning: This page contains shadow DOM that are currently hidden, consider enabling shadow DOM processing.\n\nInternational Mobility Program: Authorization to work without a work permit – Expert witnesses or investigators\n===============================================================================================================\n\nThis section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.\n\nR186(_o_) applies to experts who are entering to conduct surveys or analyses to be used as evidence, or persons who will be expert witnesses before a regulatory body, tribunal or court of law.\n\nPage details\n------------\n\n 2017-10-16",
+  "sections": [
+    {
+      "heading": "International Mobility Program: Authorization to work without a work permit – Expert witnesses or investigators",
+      "heading_path": [
+        "International Mobility Program: Authorization to work without a work permit – Expert witnesses or investigators"
+      ],
+      "anchor": "#international-mobility-program-authorization-to-work-without-a-work-permit-expert-witnesses-or-investigators",
+      "text": "Published Time: Thu, 12 Feb 2026 00:35:50 GMT\n\nWarning: This page contains shadow DOM that are currently hidden, consider enabling shadow DOM processing.\n\nInternational Mobility Program: Authorization to work without a work permit – Expert witnesses or investigators\n===============================================================================================================\n\nThis section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.\n\nR186(_o_) applies to experts who are entering to conduct surveys or analyses to be used as evidence, or persons who will be expert witnesses before a regulatory body, tribunal or court of law.\n\nPage details\n------------\n\n 2017-10-16"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": false,
+    "notes": []
+  }
+}

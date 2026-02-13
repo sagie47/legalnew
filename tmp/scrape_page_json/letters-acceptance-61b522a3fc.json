@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_61b522a3fcc1",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/letters-acceptance.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/letters-acceptance.html",
+  "title": "Study permits: Letters of acceptance (LOAs)",
+  "language": "en",
+  "manual": "Study permits: Letters of acceptance (LOAs)",
+  "chapter": null,
+  "heading_path": [
+    "Study permits: Letters of acceptance (LOAs)"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "28fd6cc445d3ee1c136dbd7ff4d060090d47f6948bab5b782094d1c723ad8342",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/letters-acceptance-61b522a3fc.md",
+  "text": "Study permits: Letters of acceptance (LOAs)",
+  "sections": [
+    {
+      "heading": "Study permits: Letters of acceptance (LOAs)",
+      "heading_path": [
+        "Study permits: Letters of acceptance (LOAs)"
+      ],
+      "anchor": "#study-permits-letters-of-acceptance-loas",
+      "text": "Study permits: Letters of acceptance (LOAs)"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

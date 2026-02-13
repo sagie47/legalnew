@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_60cac4ad0a88",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/examination-admission-port-entry.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/examination-admission-port-entry.html",
+  "title": "Examination and entry (temporary residents)",
+  "language": "en",
+  "manual": "Examination and entry (temporary residents)",
+  "chapter": null,
+  "heading_path": [
+    "Examination and entry (temporary residents)"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "9f6a21d8d451121fbe81b9d1ff4de7c734a5c4c9687c93b550aaa7122b53deed",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/examination-admission-port-entry-60cac4ad0a.md",
+  "text": "Examination and entry (temporary residents)",
+  "sections": [
+    {
+      "heading": "Examination and entry (temporary residents)",
+      "heading_path": [
+        "Examination and entry (temporary residents)"
+      ],
+      "anchor": "#examination-and-entry-temporary-residents",
+      "text": "Examination and entry (temporary residents)"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

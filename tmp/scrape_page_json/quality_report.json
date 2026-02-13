@@ -1,0 +1,161 @@
+{
+  "files_total": 284,
+  "empty_text_count": 0,
+  "short_text_count": 64,
+  "missing_last_updated_count": 64,
+  "missing_heading_path_count": 0,
+  "bad_sections_count": 0,
+  "duplicate_content_hash_groups": 0,
+  "top_repeated_first_lines": [
+    {
+      "line": "Published Time: Wed, 11 Feb 2026 22:00:59 GMT",
+      "count": 5
+    },
+    {
+      "line": "Published Time: Wed, 11 Feb 2026 22:01:22 GMT",
+      "count": 3
+    },
+    {
+      "line": "Published Time: Wed, 11 Feb 2026 22:00:46 GMT",
+      "count": 2
+    },
+    {
+      "line": "Published Time: Wed, 11 Feb 2026 22:00:36 GMT",
+      "count": 2
+    },
+    {
+      "line": "Published Time: Thu, 12 Feb 2026 00:40:14 GMT",
+      "count": 1
+    },
+    {
+      "line": "Agri-Food Pilot (AFP)",
+      "count": 1
+    },
+    {
+      "line": "Published Time: Thu, 12 Feb 2026 00:41:14 GMT",
+      "count": 1
+    },
+    {
+      "line": "Published Time: Wed, 11 Feb 2026 22:00:30 GMT",
+      "count": 1
+    },
+    {
+      "line": "Published Time: Thu, 12 Feb 2026 00:43:42 GMT",
+      "count": 1
+    },
+    {
+      "line": "Published Time: Thu, 12 Feb 2026 00:45:28 GMT",
+      "count": 1
+    }
+  ],
+  "examples": {
+    "empty_text": [],
+    "short_text": [
+      {
+        "file": "agri-food-0e86208a41.json",
+        "chars": 21
+      },
+      {
+        "file": "applications-extension-authorization-remain-canada-temporary-resident-r181-r305-1-7695134be7.json",
+        "chars": 113
+      },
+      {
+        "file": "applications-intending-organ-donors-4a693534a9.json",
+        "chars": 59
+      },
+      {
+        "file": "assessing-application-b80f9a07ce.json",
+        "chars": 40
+      },
+      {
+        "file": "assessing-conditions-8b22597237.json",
+        "chars": 48
+      },
+      {
+        "file": "assessing-event-strike-situation-2ac92c8377.json",
+        "chars": 61
+      },
+      {
+        "file": "assessing-language-requirements-752294aad6.json",
+        "chars": 48
+      },
+      {
+        "file": "assessing-medical-requirements-89f10f73c3.json",
+        "chars": 47
+      },
+      {
+        "file": "assessing-temporary-foreign-worker-eligibility-work-alberta-compulsory-certification-trade-position-395ae540e9.json",
+        "chars": 131
+      },
+      {
+        "file": "authorization-work-without-work-permit-assessing-farm-work-4e5c2e9cbd.json",
+        "chars": 97
+      },
+      {
+        "file": "authorization-work-without-work-permit-aviation-accident-incident-inspector-a9034f2193.json",
+        "chars": 117
+      },
+      {
+        "file": "authorization-work-without-work-permit-clergy-b8389108a2.json",
+        "chars": 68
+      },
+      {
+        "file": "authorization-work-without-work-permit-crew-95e234c073.json",
+        "chars": 60
+      },
+      {
+        "file": "authorization-work-without-work-permit-emergency-service-providers-12dcbf9d82.json",
+        "chars": 105
+      },
+      {
+        "file": "authorization-work-without-work-permit-implied-status-b32236e832.json",
+        "chars": 133
+      },
+      {
+        "file": "background-purpose-951be5dbd5.json",
+        "chars": 57
+      },
+      {
+        "file": "bilingual-remarks-observations-2304e49682.json",
+        "chars": 82
+      },
+      {
+        "file": "business-persons-business-delegations-834cc04c93.json",
+        "chars": 62
+      },
+      {
+        "file": "canadian-interests-reciprocal-employment-increasing-validity-period-work-permits-under-international-experience-canada-bf2cf4c7c4.json",
+        "chars": 128
+      },
+      {
+        "file": "canadian-interests-reciprocal-employment-international-experience-canada-recognized-organizations-foreign-youth-38e0f34b86.json",
+        "chars": 111
+      }
+    ],
+    "missing_last_updated": [
+      "agri-food-0e86208a41.json",
+      "applications-extension-authorization-remain-canada-temporary-resident-r181-r305-1-7695134be7.json",
+      "applications-intending-organ-donors-4a693534a9.json",
+      "assessing-application-b80f9a07ce.json",
+      "assessing-conditions-8b22597237.json",
+      "assessing-event-strike-situation-2ac92c8377.json",
+      "assessing-language-requirements-752294aad6.json",
+      "assessing-medical-requirements-89f10f73c3.json",
+      "assessing-temporary-foreign-worker-eligibility-work-alberta-compulsory-certification-trade-position-395ae540e9.json",
+      "authorization-work-without-work-permit-assessing-farm-work-4e5c2e9cbd.json",
+      "authorization-work-without-work-permit-aviation-accident-incident-inspector-a9034f2193.json",
+      "authorization-work-without-work-permit-clergy-b8389108a2.json",
+      "authorization-work-without-work-permit-crew-95e234c073.json",
+      "authorization-work-without-work-permit-emergency-service-providers-12dcbf9d82.json",
+      "authorization-work-without-work-permit-implied-status-b32236e832.json",
+      "background-purpose-951be5dbd5.json",
+      "bilingual-remarks-observations-2304e49682.json",
+      "business-persons-business-delegations-834cc04c93.json",
+      "canadian-interests-reciprocal-employment-increasing-validity-period-work-permits-under-international-experience-canada-bf2cf4c7c4.json",
+      "canadian-interests-reciprocal-employment-international-experience-canada-recognized-organizations-foreign-youth-38e0f34b86.json"
+    ],
+    "missing_heading_path": [],
+    "bad_sections": [],
+    "duplicate_content_hash_groups": []
+  }
+}

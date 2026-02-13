@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_1e11fdf72610",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/proof-funds-financial-support.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/proof-funds-financial-support.html",
+  "title": "Temporary residents: Proof of Funds / Financial Support",
+  "language": "en",
+  "manual": "Temporary residents: Proof of Funds / Financial Support",
+  "chapter": null,
+  "heading_path": [
+    "Temporary residents: Proof of Funds / Financial Support"
+  ],
+  "last_updated": "2017-11-06",
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "886cdf765fa3b40621ef81dbd3004d31cf5531c1a610cd9f7f5ff718b477e461",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/proof-funds-financial-support-1e11fdf726.md",
+  "text": "Published Time: Thu, 12 Feb 2026 00:32:56 GMT\n\nTemporary residents: Proof of Funds / Financial Support\n=======================================================\n\nThis section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.\n\nTemporary residents must have evidence that they can support themselves and any accompanying dependants while in Canada. That evidence may include one of the following:\n\n* cash, certified cheque, bank draft or money order in an amount large enough to cover all reasonable expenses to be incurred during the stay in Canada\n* verbal or written statements, **which can be confirmed**, that satisfy an officer that sufficient financial support from friends and/or family is available and has been arranged to adequately cover all reasonable expenses to be incurred during the stay in Canada.\n\nAssessing financial resources\n-----------------------------\n\nYou may consider a combination of any of the following documents as evidence of ability to support an intended visit. The list is not exhaustive but demonstrates various resource documents that may be presented:\n\n* bank statement(s) or deposit book(s) of applicant (and spouse) that show accumulated savings\n* applicant's (and spouse's) letter of employment or employment book, providing name of employer, applicant's position/occupation, date employment commenced and annual earnings\n* host's or family member in Canada (and spouse's) evidence of income: such as previous year Revenue Canada Notice of Assessment indicating annual income; or alternately, letter from employer(s) showing position, date employment commenced and annual earnings\n* evidence of size of family for host or family member in Canada (to equate earnings with size of family to ensure ability to support long-term visit)\n\nTo assess the adequacy of a visitor's financial resources, you may exercise discretion in the documentation you request from applicants. In situations where applicants generally pose a low risk regarding funds, you may choose to limit or waive routine requirements for documentary evidence. For inland extensions or frequent visitors, for example, the client history may provide adequate information to determine whether or not the applicants can support themselves during their stay in Canada based on the information provided.\n\n**Note:** The provision of the host’s personal information through the applicant must **not** be mandatory. This includes evidence of income such as previous year Revenue Canada Notice of Assessment indicating annual income. A temporary resident visa application will not be refused just because the host’s personal information is not provided with the application. You should assess the temporary resident visa application on the basis of the adequacy of the applicant’s financial resources.\n\nPage details\n------------\n\n 2017-11-06",
+  "sections": [
+    {
+      "heading": "Temporary residents: Proof of Funds / Financial Support",
+      "heading_path": [
+        "Temporary residents: Proof of Funds / Financial Support"
+      ],
+      "anchor": "#temporary-residents-proof-of-funds-financial-support",
+      "text": "Published Time: Thu, 12 Feb 2026 00:32:56 GMT\n\nTemporary residents: Proof of Funds / Financial Support\n=======================================================\n\nThis section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.\n\nTemporary residents must have evidence that they can support themselves and any accompanying dependants while in Canada. That evidence may include one of the following:\n\n* cash, certified cheque, bank draft or money order in an amount large enough to cover all reasonable expenses to be incurred during the stay in Canada\n* verbal or written statements, **which can be confirmed**, that satisfy an officer that sufficient financial support from friends and/or family is available and has been arranged to adequately cover all reasonable expenses to be incurred during the stay in Canada.\n\nAssessing financial resources\n-----------------------------\n\nYou may consider a combination of any of the following documents as evidence of ability to support an intended visit. The list is not exhaustive but demonstrates various resource documents that may be presented:\n\n* bank statement(s) or deposit book(s) of applicant (and spouse) that show accumulated savings\n* applicant's (and spouse's) letter of employment or employment book, providing name of employer, applicant's position/occupation, date employment commenced and annual earnings\n* host's or family member in Canada (and spouse's) evidence of income: such as previous year Revenue Canada Notice of Assessment indicating annual income; or alternately, letter from employer(s) showing position, date employment commenced and annual earnings\n* evidence of size of family for host or family member in Canada (to equate earnings with size of family to ensure ability to support long-term visit)\n\nTo assess the adequacy of a visitor's financial resources, you may exercise discretion in the documentation you request from applicants. In situations where applicants generally pose a low risk regarding funds, you may choose to limit or waive routine requirements for documentary evidence. For inland extensions or frequent visitors, for example, the client history may provide adequate information to determine whether or not the applicants can support themselves during their stay in Canada based on the information provided.\n\n**Note:** The provision of the host’s personal information through the applicant must **not** be mandatory. This includes evidence of income such as previous year Revenue Canada Notice of Assessment indicating annual income. A temporary resident visa application will not be refused just because the host’s personal information is not provided with the application. You should assess the temporary resident visa application on the basis of the adequacy of the applicant’s financial resources.\n\nPage details\n------------\n\n 2017-11-06"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": false,
+    "notes": []
+  }
+}

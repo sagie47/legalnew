@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_1584290c7f84",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/genuineness.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/genuineness.html",
+  "title": "Assessing the genuineness of the offer of employment on a work permit application",
+  "language": "en",
+  "manual": "Assessing the genuineness of the offer of employment on a work permit application",
+  "chapter": null,
+  "heading_path": [
+    "Assessing the genuineness of the offer of employment on a work permit application"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "6c374f387d6cceb843370db9d4b54aa471299214a5f9f9966cb20fb23af65900",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/genuineness-1584290c7f.md",
+  "text": "Assessing the genuineness of the offer of employment on a work permit application",
+  "sections": [
+    {
+      "heading": "Assessing the genuineness of the offer of employment on a work permit application",
+      "heading_path": [
+        "Assessing the genuineness of the offer of employment on a work permit application"
+      ],
+      "anchor": "#assessing-the-genuineness-of-the-offer-of-employment-on-a-work-permit-application",
+      "text": "Assessing the genuineness of the offer of employment on a work permit application"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

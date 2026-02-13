@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_0e86208a4181",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/economic-classes/agri-food.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/economic-classes/agri-food.html",
+  "title": "Agri-Food Pilot (AFP)",
+  "language": "en",
+  "manual": "Agri",
+  "chapter": "Food Pilot (AFP)",
+  "heading_path": [
+    "Agri-Food Pilot (AFP)"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "1c83d3718dc871a4f4c4e4aa51d51519f1f393924adb4f2ab93e71f28ab866a7",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/agri-food-0e86208a41.md",
+  "text": "Agri-Food Pilot (AFP)",
+  "sections": [
+    {
+      "heading": "Agri-Food Pilot (AFP)",
+      "heading_path": [
+        "Agri-Food Pilot (AFP)"
+      ],
+      "anchor": "#agri-food-pilot-afp",
+      "text": "Agri-Food Pilot (AFP)"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

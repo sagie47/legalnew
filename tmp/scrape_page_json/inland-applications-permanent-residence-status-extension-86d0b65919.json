@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_86d0b6591945",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/inland-applications-permanent-residence-status-extension.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/inland-applications-permanent-residence-status-extension.html",
+  "title": "Temporary residents: Inland applications for permanent residence and temporary resident status extension",
+  "language": "en",
+  "manual": "Temporary residents: Inland applications for permanent residence and temporary resident status extension",
+  "chapter": null,
+  "heading_path": [
+    "Temporary residents: Inland applications for permanent residence and temporary resident status extension"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "176616bc6abdc52aede4d129964c61e2d9315685c0ea462fb5807112ffbf161b",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/inland-applications-permanent-residence-status-extension-86d0b65919.md",
+  "text": "Temporary residents: Inland applications for permanent residence and temporary resident status extension",
+  "sections": [
+    {
+      "heading": "Temporary residents: Inland applications for permanent residence and temporary resident status extension",
+      "heading_path": [
+        "Temporary residents: Inland applications for permanent residence and temporary resident status extension"
+      ],
+      "anchor": "#temporary-residents-inland-applications-for-permanent-residence-and-temporary-resident-status-extension",
+      "text": "Temporary residents: Inland applications for permanent residence and temporary resident status extension"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

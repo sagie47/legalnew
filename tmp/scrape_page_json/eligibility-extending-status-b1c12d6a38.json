@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_b1c12d6a3899",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/eligibility-extending-status.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/eligibility-extending-status.html",
+  "title": "Temporary residents: Eligibility for extending temporary resident status",
+  "language": "en",
+  "manual": "Temporary residents: Eligibility for extending temporary resident status",
+  "chapter": null,
+  "heading_path": [
+    "Temporary residents: Eligibility for extending temporary resident status"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "519233a45b3f8257475dc49433b9408438dd959b795ec9ea41b8665ce1834a1c",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/eligibility-extending-status-b1c12d6a38.md",
+  "text": "Temporary residents: Eligibility for extending temporary resident status",
+  "sections": [
+    {
+      "heading": "Temporary residents: Eligibility for extending temporary resident status",
+      "heading_path": [
+        "Temporary residents: Eligibility for extending temporary resident status"
+      ],
+      "anchor": "#temporary-residents-eligibility-for-extending-temporary-resident-status",
+      "text": "Temporary residents: Eligibility for extending temporary resident status"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

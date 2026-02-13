@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_a9034f219353",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/authorization-work-without-work-permit-aviation-accident-incident-inspector.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/authorization-work-without-work-permit-aviation-accident-incident-inspector.html",
+  "title": "International Mobility Program: Authorization to work without a work permit – Aviation accident or incident inspector",
+  "language": "en",
+  "manual": "International Mobility Program: Authorization to work without a work permit – Aviation accident or incident inspector",
+  "chapter": null,
+  "heading_path": [
+    "International Mobility Program: Authorization to work without a work permit – Aviation accident or incident inspector"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "b858fff066fec1badf1b9db03a4be79d8cd651ca5ce6f5c3df8672c8c7047ac7",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/authorization-work-without-work-permit-aviation-accident-incident-inspector-a9034f2193.md",
+  "text": "International Mobility Program: Authorization to work without a work permit – Aviation accident or incident inspector",
+  "sections": [
+    {
+      "heading": "International Mobility Program: Authorization to work without a work permit – Aviation accident or incident inspector",
+      "heading_path": [
+        "International Mobility Program: Authorization to work without a work permit – Aviation accident or incident inspector"
+      ],
+      "anchor": "#international-mobility-program-authorization-to-work-without-a-work-permit-aviation-accident-or-incident-inspector",
+      "text": "International Mobility Program: Authorization to work without a work permit – Aviation accident or incident inspector"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

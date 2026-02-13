@@ -1,0 +1,894 @@
+{
+  "file": "enf15-eng.pdf",
+  "source_id": "1a9d5d0ec1db",
+  "manual_code": "enf15-eng",
+  "content_hash": "62a5df8f9b1d89af51cb08259a8afd4b48f9b22909a7851d16ea2ab823a0e902",
+  "removed_header_patterns": [
+    "#",
+    "#-#-#",
+    "enf # obligations of transporters"
+  ],
+  "removed_footer_patterns": [],
+  "section_count": 9,
+  "sections": [
+    {
+      "heading": "ENF 15",
+      "heading_path": [
+        "ENF 15"
+      ],
+      "page_start": 1,
+      "page_end": 2,
+      "chars": 1387
+    },
+    {
+      "heading": "12.3 Billing of medical costs to transporters",
+      "heading_path": [
+        "ENF 15",
+        "12.3 Billing of medical costs to transporters"
+      ],
+      "page_start": 3,
+      "page_end": 4,
+      "chars": 685
+    },
+    {
+      "heading": "1 What this chapter is about",
+      "heading_path": [
+        "1 What this chapter is about"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "chars": 1540
+    },
+    {
+      "heading": "5 Departmental policy",
+      "heading_path": [
+        "5 Departmental policy"
+      ],
+      "page_start": 6,
+      "page_end": 9,
+      "chars": 7577
+    },
+    {
+      "heading": "7.5 Providing passenger information before arrival in Canada",
+      "heading_path": [
+        "5 Departmental policy",
+        "7.5 Providing passenger information before arrival in Canada"
+      ],
+      "page_start": 10,
+      "page_end": 11,
+      "chars": 4403
+    },
+    {
+      "heading": "7.7 Obligation to provide facilities",
+      "heading_path": [
+        "5 Departmental policy",
+        "7.7 Obligation to provide facilities"
+      ],
+      "page_start": 12,
+      "page_end": 14,
+      "chars": 6205
+    },
+    {
+      "heading": "9.4 Airline Memorandum of Understanding Program [R280]",
+      "heading_path": [
+        "5 Departmental policy",
+        "9.4 Airline Memorandum of Understanding Program [R280]"
+      ],
+      "page_start": 15,
+      "page_end": 20,
+      "chars": 13508
+    },
+    {
+      "heading": "12.2 Duration",
+      "heading_path": [
+        "5 Departmental policy",
+        "12.2 Duration"
+      ],
+      "page_start": 21,
+      "page_end": 23,
+      "chars": 6268
+    },
+    {
+      "heading": "14.1 Detention of a vehicle or prescribed good",
+      "heading_path": [
+        "5 Departmental policy",
+        "14.1 Detention of a vehicle or prescribed good"
+      ],
+      "page_start": 24,
+      "page_end": 27,
+      "chars": 7451
+    }
+  ],
+  "chunk_count": 67,
+  "chunks": [
+    {
+      "id": "pdf|1a9d5d0ec1db|c0",
+      "chars": 34,
+      "page_start": 1,
+      "page_end": 1,
+      "heading_path": [
+        "ENF 15"
+      ],
+      "text": "ENF 15\nObligations of transporters",
+      "text_enriched": "ENF 15\nObligations of transporters"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c1",
+      "chars": 945,
+      "page_start": 2,
+      "page_end": 2,
+      "heading_path": [
+        "ENF 15"
+      ],
+      "text": "Table of contents\nUpdates to chapter\n1 What this chapter is about\n2 Program objectives\n3 The Act and Regulations\n3.1 Required forms\n4 Instruments and delegations\n5 Departmental policy\n6 Definitions\n7 Procedures: Obligations and liabilities of transporters\n7.1 Prohibition to carry improperly documented persons to Canada\n7.2 Persons directed not to be carried by a transporter\n7.3 Authority for transporter to hold passenger documents\n7.4 Presenting and holding persons for examination\n7.5 Providing passenger information before arrival in Canada\n7.6 Providing passenger information after arrival in Canada\n7.7 Obligation to provide facilities\n8 Arrival of improperly documented foreign nationals\n8.1 Reporting arrivals\n8.2 Advising transporters of the arrival of an improperly documented foreign national\n8.3 Evidence establishing transporter liability\n9 Administration fees\n9.1 Assessment\n9.2 Exceptions\n9.3 How administration fees are imposed",
+      "text_enriched": "Table of contents\nUpdates to chapter\n1 What this chapter is about\n2 Program objectives\n3 The Act and Regulations\n3.1 Required forms\n4 Instruments and delegations\n5 Departmental policy\n6 Definitions\n7 Procedures: Obligations and liabilities of transporters\n7.1 Prohibition to carry improperly documented persons to Canada\n7.2 Persons directed not to be carried by a transporter\n7.3 Authority for transporter to hold passenger documents\n7.4 Presenting and holding persons for examination\n7.5 Providing passenger information before arrival in Canada\n7.6 Providing passenger information after arrival in Canada\n7.7 Obligation to provide facilities\n8 Arrival of improperly documented foreign nationals\n8.1 Reporting arrivals\n8.2 Advising transporters of the arrival of an improperly documented foreign national\n8.3 Evidence establishing transporter liability\n9 Administration fees\n9.1 Assessment\n9.2 Exceptions\n9.3 How administration fees are imposed"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c2",
+      "chars": 545,
+      "page_start": 2,
+      "page_end": 2,
+      "heading_path": [
+        "ENF 15"
+      ],
+      "text": "8.3 Evidence establishing transporter liability\n9 Administration fees\n9.1 Assessment\n9.2 Exceptions\n9.3 How administration fees are imposed\n9.4 Airline Memorandum of Understanding Program [R280]\n10 Detention costs\n11 Liability to carry foreign nationals from Canada\n11.1 When there is no removal order in place\n11.2 When there is a removal order\n11.3 Relief from obligations\n11.4 Liability for removal costs\n11.5 Reporting of removal costs to the Transporter Obligations Program\n12 Medical examination and treatment\n12.1 Exceptions\n12.2 Duration",
+      "text_enriched": "8.3 Evidence establishing transporter liability\n9 Administration fees\n9.1 Assessment\n9.2 Exceptions\n9.3 How administration fees are imposed\n9.4 Airline Memorandum of Understanding Program [R280 (Regulation 280)]\n10 Detention costs\n11 Liability to carry foreign nationals from Canada\n11.1 When there is no removal order in place\n11.2 When there is a removal order\n11.3 Relief from obligations\n11.4 Liability for removal costs\n11.5 Reporting of removal costs to the Transporter Obligations Program\n12 Medical examination and treatment\n12.1 Exceptions\n12.2 Duration"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c3",
+      "chars": 685,
+      "page_start": 3,
+      "page_end": 4,
+      "heading_path": [
+        "ENF 15",
+        "12.3 Billing of medical costs to transporters"
+      ],
+      "text": "12.3 Billing of medical costs to transporters\n13 Security deposits\n13.1 Case-specific security deposits (marine mode)\n13.2 General security deposits (air mode)\n13.3 Security deposits (land mode)\n14 Ensuring transporter compliance\n14.1 Detention of a vehicle or prescribed good\n14.2 Seizure of a vehicle or prescribed good\n14.3 Disposition of seized vehicle or prescribed good\n14.4 Storage and security of a seized vehicle or good\n14.5 Registry of a certification in the Federal Court\n15 Transporter Obligations Program contact information\nAppendix A Direction to deposit security\n\nUpdates to chapter\nThe chapter ENF 15 was completely updated.\nThe chapter ENF 15 was completely updated.",
+      "text_enriched": "12.3 Billing of medical costs to transporters\n13 Security deposits\n13.1 Case-specific security deposits (marine mode)\n13.2 General security deposits (air mode)\n13.3 Security deposits (land mode)\n14 Ensuring transporter compliance\n14.1 Detention of a vehicle or prescribed good\n14.2 Seizure of a vehicle or prescribed good\n14.3 Disposition of seized vehicle or prescribed good\n14.4 Storage and security of a seized vehicle or good\n14.5 Registry of a certification in the Federal Court\n15 Transporter Obligations Program contact information\nAppendix A Direction to deposit security\n\nUpdates to chapter\nThe chapter ENF 15 was completely updated.\nThe chapter ENF 15 was completely updated."
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c4",
+      "chars": 976,
+      "page_start": 5,
+      "page_end": 5,
+      "heading_path": [
+        "1 What this chapter is about"
+      ],
+      "text": "1 What this chapter is about\nThis chapter describes the obligations and liabilities of transporters with respect to the persons they carry\nto Canada, stipulated in subsection 148(1) of the Immigration and Refugee Protection Act (IRPA).\nFurthermore, it specifies enforcement measures that the Canada Border Services Agency (CBSA) may\ntake against transporters who fail to comply with their obligations.\n2 Program objectives\nThe program’s objectives are to ensure that transportation companies fulfil their obligations under\nCanada’s IRPA and the operational, procedural and financial liabilities set out in the accompanying\nImmigration and Refugee Protection Regulations (IRPR).\n3 The Act and Regulations\nSections A148 to A150 include obligations and liabilities of transportation companies.\nSections R259 to R287 provide procedural rules governing transportation companies.\n3.1 Required forms\nThe forms required or referenced are shown in the following table:\nForm name\nNumber",
+      "text_enriched": "1 What this chapter is about\nThis chapter describes the obligations and liabilities of transporters with respect to the persons they carry\nto Canada, stipulated in subsection 148(1) of the Immigration and Refugee Protection Act (IRPA).\nFurthermore, it specifies enforcement measures that the Canada Border Services Agency (CBSA) may\ntake against transporters who fail to comply with their obligations.\n2 Program objectives\nThe program’s objectives are to ensure that transportation companies fulfil their obligations under\nCanada’s IRPA and the operational, procedural and financial liabilities set out in the accompanying\nImmigration and Refugee Protection Regulations (IRPR).\n3 The Act and Regulations\nSections A148 (Act Section 148) to A150 (Act Section 150) include obligations and liabilities of transportation companies.\nSections R259 (Regulation 259) to R287 (Regulation 287) provide procedural rules governing transportation companies.\n3.1 Required forms\nThe forms required or referenced are shown in the following table:\nForm name\nNumber"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c5",
+      "chars": 666,
+      "page_start": 5,
+      "page_end": 5,
+      "heading_path": [
+        "1 What this chapter is about"
+      ],
+      "text": "3.1 Required forms\nThe forms required or referenced are shown in the following table:\nForm name\nNumber\nConfirmation by Transporter Regarding Passenger(s) Carried\nBSF453\nCosts Payable by Transporters\nBSF501\nNotice to Transporter\nBSF502\nOfficial receipt – Cash Security Deposit by a Transporter Company\nBSF577\nNotice of Detention or Seizure of Vehicle or Prescribed Good (Pursuant to\nSubsection 148(2) of the Act)\nBSF775\nReceipt for Prescribed Document under R260\nBSF575\n4 Instruments and delegations\nRefer to the transporters section, items 144 to 162, in the document entitled Designations and\nDelegations by the Minister of Public Safety and Emergency Preparedness.",
+      "text_enriched": "3.1 Required forms\nThe forms required or referenced are shown in the following table:\nForm name\nNumber\nConfirmation by Transporter Regarding Passenger(s) Carried\nBSF453\nCosts Payable by Transporters\nBSF501\nNotice to Transporter\nBSF502\nOfficial receipt – Cash Security Deposit by a Transporter Company\nBSF577\nNotice of Detention or Seizure of Vehicle or Prescribed Good (Pursuant to\nSubsection 148(2) of the Act)\nBSF775\nReceipt for Prescribed Document under R260 (Regulation 260)\nBSF575\n4 Instruments and delegations\nRefer to the transporters section, items 144 to 162, in the document entitled Designations and\nDelegations by the Minister of Public Safety and Emergency Preparedness."
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c6",
+      "chars": 963,
+      "page_start": 6,
+      "page_end": 6,
+      "heading_path": [
+        "5 Departmental policy"
+      ],
+      "text": "5 Departmental policy\nUnder the IRPA and its Regulations, commercial transporters must comply with outlined obligations,\nincluding\n\nnot carrying improperly documented passengers to Canada;\n\npresenting passengers for examination at ports of entry (POEs) and holding them until\ncompletion of examination;\n\nensuring that persons presented for examination have the prescribed documents for travel to\nCanada;\n\ncarrying persons from Canada who have been directed to leave, allowed to withdraw their\napplication to enter or ordered removed;\n\npaying administration fees, medical costs and removal costs for certain classes of inadmissible\npersons;\n\ncomplying with directions to deposit security;\n\nproviding prescribed information, including documentation and reports, upon request; and\n\nproviding facilities at POEs for holding and examining persons carried to Canada.\nThe responsibility to ensure that a passenger is properly documented applies from the time the",
+      "text_enriched": "5 Departmental policy\nUnder the IRPA and its Regulations, commercial transporters must comply with outlined obligations,\nincluding\n\nnot carrying improperly documented passengers to Canada;\n\npresenting passengers for examination at ports of entry (POEs) and holding them until\ncompletion of examination;\n\nensuring that persons presented for examination have the prescribed documents for travel to\nCanada;\n\ncarrying persons from Canada who have been directed to leave, allowed to withdraw their\napplication to enter or ordered removed;\n\npaying administration fees, medical costs and removal costs for certain classes of inadmissible\npersons;\n\ncomplying with directions to deposit security;\n\nproviding prescribed information, including documentation and reports, upon request; and\n\nproviding facilities at POEs for holding and examining persons carried to Canada.\nThe responsibility to ensure that a passenger is properly documented applies from the time the"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c7",
+      "chars": 861,
+      "page_start": 6,
+      "page_end": 6,
+      "heading_path": [
+        "5 Departmental policy"
+      ],
+      "text": "The responsibility to ensure that a passenger is properly documented applies from the time the\ntransporter is boarding at the final embarkation point before arrival in Canada until the examination is\ndeclared complete by a border services officer at the POE; entry is authorized or detention of the\npassenger occurs.\nThe Guide for Transporters, published by the CBSA, expands on the above information and provides\ntransportation companies with a resource setting out their obligations and liabilities under the IRPA and\nproviding them with guidance on required travel documents for travel to Canada.\n6 Definitions\nSection R2 defines the following terms:\nTerm\nDefinition\nAdministration fee\nA portion of the average cost incurred by Her Majesty\nin right of Canada in respect of foreign nationals\nreferred to in subsection 279(1) and includes the costs\nrelating to",
+      "text_enriched": "The responsibility to ensure that a passenger is properly documented applies from the time the\ntransporter is boarding at the final embarkation point before arrival in Canada until the examination is\ndeclared complete by a border services officer at the POE; entry is authorized or detention of the\npassenger occurs.\nThe Guide for Transporters, published by the CBSA, expands on the above information and provides\ntransportation companies with a resource setting out their obligations and liabilities under the IRPA and\nproviding them with guidance on required travel documents for travel to Canada.\n6 Definitions\nSection R2 (Regulation 2) defines the following terms:\nTerm\nDefinition\nAdministration fee\nA portion of the average cost incurred by Her Majesty\nin right of Canada in respect of foreign nationals\nreferred to in subsection 279(1) and includes the costs\nrelating to"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c8",
+      "chars": 986,
+      "page_start": 7,
+      "page_end": 7,
+      "heading_path": [
+        "5 Departmental policy"
+      ],
+      "text": "(a) examinations;\n(b) detention;\n(c) investigations and admissibility hearings in respect\nof inadmissible foreign nationals;\n(d) fingerprinting, photographing and the verification of\ndocuments with other governments and national or\ninternational police agencies;\n(e) translation and interpretation; and\n(f) proceedings before the Immigration Division.\nCommercial transporter\nA transporter who operates a commercial vehicle.\nCommercial vehicle\nA vehicle that is used for commercial purposes.\nTime of departure\n(a) In the case of a commercial vehicle that carries\npersons or goods by air, the time of take-off from the\nlast point of embarkation of persons before the vehicle\narrives in Canada; and\n(b) in the case of a commercial vehicle that carries\npersons or goods by water or land, the time of\ndeparture from the last point of embarkation of persons\nbefore the vehicle arrives in Canada.\nTransporter\n(a) A person who owns, operates, charters or\nmanages a vehicle or fleet of vehicles;",
+      "text_enriched": "(a) examinations;\n(b) detention;\n(c) investigations and admissibility hearings in respect\nof inadmissible foreign nationals;\n(d) fingerprinting, photographing and the verification of\ndocuments with other governments and national or\ninternational police agencies;\n(e) translation and interpretation; and\n(f) proceedings before the Immigration Division.\nCommercial transporter\nA transporter who operates a commercial vehicle.\nCommercial vehicle\nA vehicle that is used for commercial purposes.\nTime of departure\n(a) In the case of a commercial vehicle that carries\npersons or goods by air, the time of take-off from the\nlast point of embarkation of persons before the vehicle\narrives in Canada; and\n(b) in the case of a commercial vehicle that carries\npersons or goods by water or land, the time of\ndeparture from the last point of embarkation of persons\nbefore the vehicle arrives in Canada.\nTransporter\n(a) A person who owns, operates, charters or\nmanages a vehicle or fleet of vehicles;"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c9",
+      "chars": 491,
+      "page_start": 7,
+      "page_end": 7,
+      "heading_path": [
+        "5 Departmental policy"
+      ],
+      "text": "before the vehicle arrives in Canada.\nTransporter\n(a) A person who owns, operates, charters or\nmanages a vehicle or fleet of vehicles;\n(b) a person who owns or operates an international\ntunnel or bridge;\n(c) a designated airport authority as defined in\nsubsection 2(1) of the Airport Transfer (Miscellaneous\nMatters) Act; or\n(d) an agent for a person or authority mentioned in\nparagraphs (a) to (c).\nVehicle\nA means of transportation that may be used for\ntransportation by water, land or air",
+      "text_enriched": "before the vehicle arrives in Canada.\nTransporter\n(a) A person who owns, operates, charters or\nmanages a vehicle or fleet of vehicles;\n(b) a person who owns or operates an international\ntunnel or bridge;\n(c) a designated airport authority as defined in\nsubsection 2(1) of the Airport Transfer (Miscellaneous\nMatters) Act; or\n(d) an agent for a person or authority mentioned in\nparagraphs (a) to (c).\nVehicle\nA means of transportation that may be used for\ntransportation by water, land or air"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c10",
+      "chars": 946,
+      "page_start": 8,
+      "page_end": 8,
+      "heading_path": [
+        "5 Departmental policy"
+      ],
+      "text": "Vessel\nA vessel within the meaning of section 2 of the Canada\nShipping Act.\n7 Procedures: Obligations and liabilities of transporters\n7.1 Prohibition to carry improperly documented persons to Canada\nParagraph A148(1)(a) provides that a transporter is prohibited from carrying to Canada a person who is\nprescribed or does not hold a prescribed document. Therefore, a transporter must ensure that their\npassengers are properly documented for travel to Canada, as prescribed in section R259.\nPrescribed documents include\n\na travel document issued to a permanent resident abroad to facilitate their return to Canada;\n\npassports and travel documents referred to in subsections R50(1) and R52(1);\n\na travel document issued by Canada to protected persons;\n\nvisas referred to in sections R6 and R7 required of foreign nationals to enter Canada;\n\na permanent resident card; and\n\nan electronic travel authorization (eTA), referred to in section R7.1.",
+      "text_enriched": "Vessel\nA vessel within the meaning of section 2 of the Canada\nShipping Act.\n7 Procedures: Obligations and liabilities of transporters\n7.1 Prohibition to carry improperly documented persons to Canada\nParagraph A148(1) (Act Section 148(1))(a) provides that a transporter is prohibited from carrying to Canada a person who is\nprescribed or does not hold a prescribed document. Therefore, a transporter must ensure that their\npassengers are properly documented for travel to Canada, as prescribed in section R259 (Regulation 259).\nPrescribed documents include\n\na travel document issued to a permanent resident abroad to facilitate their return to Canada;\n\npassports and travel documents referred to in subsections R50(1) (Regulation 50(1)) and R52(1) (Regulation 52(1));\n\na travel document issued by Canada to protected persons;\n\nvisas referred to in sections R6 (Regulation 6) and R7 (Regulation 7) required of foreign nationals to enter Canada;\n\na permanent resident card; and\n\nan electronic travel authorization (eTA), referred to in section R7 (Regulation 7).1."
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c11",
+      "chars": 988,
+      "page_start": 8,
+      "page_end": 8,
+      "heading_path": [
+        "5 Departmental policy"
+      ],
+      "text": "\na permanent resident card; and\n\nan electronic travel authorization (eTA), referred to in section R7.1.\nA transporter must require any person exempt from the need for a passport, visa and eTA to present\nsufficient evidence of their identity, citizenship or residency.\nCanadians, including dual citizens, will need to show proof that they are a Canadian citizen. For purposes\nof international air travel, the following documents are proof of Canadian citizenship: a valid Canadian\npassport, a Canadian temporary passport or a Canadian emergency travel document. Canadian citizens\nreturning to Canada who present other documents, such as a certificate of Canadian citizenship, birth\ncertificate, provincial driver’s license or foreign passport, instead of a Canadian passport may face delays\nor be denied boarding by transport companies. Foreign nationals may also face delays or be denied\nboarding should they not travel with the passport associated with their visa or eTA. Dual Canadian",
+      "text_enriched": "\na permanent resident card; and\n\nan electronic travel authorization (eTA), referred to in section R7 (Regulation 7).1.\nA transporter must require any person exempt from the need for a passport, visa and eTA to present\nsufficient evidence of their identity, citizenship or residency.\nCanadians, including dual citizens, will need to show proof that they are a Canadian citizen. For purposes\nof international air travel, the following documents are proof of Canadian citizenship: a valid Canadian\npassport, a Canadian temporary passport or a Canadian emergency travel document. Canadian citizens\nreturning to Canada who present other documents, such as a certificate of Canadian citizenship, birth\ncertificate, provincial driver’s license or foreign passport, instead of a Canadian passport may face delays\nor be denied boarding by transport companies. Foreign nationals may also face delays or be denied\nboarding should they not travel with the passport associated with their visa or eTA. Dual Canadian"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c12",
+      "chars": 635,
+      "page_start": 8,
+      "page_end": 8,
+      "heading_path": [
+        "5 Departmental policy"
+      ],
+      "text": "boarding should they not travel with the passport associated with their visa or eTA. Dual Canadian\ncitizens—citizens of both Canada and a visa-exempt country—who currently fly to Canada on their nonCanadian passport will not be eligible to apply for an eTA or a visa.\n7.2 Persons directed not to be carried by a transporter\nParagraph A148(1)(a) also provides that a transporter is prohibited from carrying to Canada any person\nwhom an officer has directed not be carried. While this authority exists, officers should not direct a\ntransporter not to carry a passenger, except in cases of extenuating circumstances, after having received",
+      "text_enriched": "boarding should they not travel with the passport associated with their visa or eTA. Dual Canadian\ncitizens—citizens of both Canada and a visa-exempt country—who currently fly to Canada on their nonCanadian passport will not be eligible to apply for an eTA or a visa.\n7.2 Persons directed not to be carried by a transporter\nParagraph A148(1) (Act Section 148(1))(a) also provides that a transporter is prohibited from carrying to Canada any person\nwhom an officer has directed not be carried. While this authority exists, officers should not direct a\ntransporter not to carry a passenger, except in cases of extenuating circumstances, after having received"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c13",
+      "chars": 964,
+      "page_start": 9,
+      "page_end": 9,
+      "heading_path": [
+        "5 Departmental policy"
+      ],
+      "text": "instructions to do so from National Headquarters (NHQ). The CBSA maintains an advisory role, and the\ndecision to deny boarding is the carrier's alone.\nUnder section R270, the CBSA may notify the transporter that a person they expect to carry is prescribed\nunder section R258.1 or may be a person who does not hold the necessary documents prescribed under\nsection R259. This, however, does not relieve a transporter of their obligation to comply with any\nrequirement imposed by the IRPA or IRPR.\n7.3 Authority for transporter to hold passenger documents\nParagraph A148(1)(b) requires a transporter to ensure that the documents referred to in section R259 are\navailable for examination upon arrival at the POE. Section R260 clarifies that a transporter who has\ngrounds to believe that the prescribed documents of a passenger may be disposed of prior to arrival in\nCanada must hold the documents for presentation to the examining officer in Canada. The transporter is",
+      "text_enriched": "instructions to do so from National Headquarters (NHQ). The CBSA maintains an advisory role, and the\ndecision to deny boarding is the carrier's alone.\nUnder section R270 (Regulation 270), the CBSA may notify the transporter that a person they expect to carry is prescribed\nunder section R258 (Regulation 258).1 or may be a person who does not hold the necessary documents prescribed under\nsection R259 (Regulation 259). This, however, does not relieve a transporter of their obligation to comply with any\nrequirement imposed by the IRPA or IRPR.\n7.3 Authority for transporter to hold passenger documents\nParagraph A148(1) (Act Section 148(1))(b) requires a transporter to ensure that the documents referred to in section R259 (Regulation 259) are\navailable for examination upon arrival at the POE. Section R260 (Regulation 260) clarifies that a transporter who has\ngrounds to believe that the prescribed documents of a passenger may be disposed of prior to arrival in\nCanada must hold the documents for presentation to the examining officer in Canada. The transporter is"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c14",
+      "chars": 902,
+      "page_start": 9,
+      "page_end": 9,
+      "heading_path": [
+        "5 Departmental policy"
+      ],
+      "text": "Canada must hold the documents for presentation to the examining officer in Canada. The transporter is\nrequired to issue a receipt for any documents held and to present a copy thereof to the examining officer.\nThe transporter can use the BSF575 form or one of their choosing.\n7.4 Presenting and holding persons for examination\nParagraph A148(1)(b) requires transporters to present all persons they carry to Canada for examination\nand to hold them until the examination is completed. The point at which an examination ends is\nprescribed in section R37. Section R261 further clarifies that a transporter has complied with the\nobligation to hold a person for examination when\n\nan officer informs the transporter that the examination of the person is completed;\n\nthe person is authorized to enter Canada for further examination pursuant to section A23; or\n\nthe person is detained under any Canadian law.",
+      "text_enriched": "Canada must hold the documents for presentation to the examining officer in Canada. The transporter is\nrequired to issue a receipt for any documents held and to present a copy thereof to the examining officer.\nThe transporter can use the BSF575 form or one of their choosing.\n7.4 Presenting and holding persons for examination\nParagraph A148(1) (Act Section 148(1))(b) requires transporters to present all persons they carry to Canada for examination\nand to hold them until the examination is completed. The point at which an examination ends is\nprescribed in section R37 (Regulation 37). Section R261 (Regulation 261) further clarifies that a transporter has complied with the\nobligation to hold a person for examination when\n\nan officer informs the transporter that the examination of the person is completed;\n\nthe person is authorized to enter Canada for further examination pursuant to section A23 (Act Section 23); or\n\nthe person is detained under any Canadian law."
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c15",
+      "chars": 511,
+      "page_start": 9,
+      "page_end": 9,
+      "heading_path": [
+        "5 Departmental policy"
+      ],
+      "text": "\nthe person is authorized to enter Canada for further examination pursuant to section A23; or\n\nthe person is detained under any Canadian law.\nPersons must be held on the vehicles on which they arrive unless facilities for the examination and\nholding of persons are available at the POE. At international airports, transporters normally hold their\npassengers inside the terminal building. Persons arriving aboard cargo ships, however, must always be\nheld aboard the vessel until their examination is completed.",
+      "text_enriched": "\nthe person is authorized to enter Canada for further examination pursuant to section A23 (Act Section 23); or\n\nthe person is detained under any Canadian law.\nPersons must be held on the vehicles on which they arrive unless facilities for the examination and\nholding of persons are available at the POE. At international airports, transporters normally hold their\npassengers inside the terminal building. Persons arriving aboard cargo ships, however, must always be\nheld aboard the vessel until their examination is completed."
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c16",
+      "chars": 971,
+      "page_start": 10,
+      "page_end": 10,
+      "heading_path": [
+        "5 Departmental policy",
+        "7.5 Providing passenger information before arrival in Canada"
+      ],
+      "text": "7.5 Providing passenger information before arrival in Canada\n7.5.1 Prescribed information\nPursuant to subsection A148(1)(d) and section R269, all commercial carriers are required to provide the\nCBSA with Advanced Passenger Information (API) and Passenger Name Record (PNR) information\nrelating to all persons expected to be on board commercial conveyances bound for Canada (air mode\nonly).\nThis information is collected in order to protect Canadians by enabling the CBSA to perform a risk\nassessment of travellers prior to their arrival in Canada.\nSubsection R269(1) requires a commercial transporter to provide information on all passengers and crew\nmembers travelling by commercial vehicle. This includes information such as traveller name, date of birth,\ncitizenship or nationality, gender, and passport or other travel document data as well as all reservation\ninformation held by the transporter on passengers to be carried to Canada (e.g., travel itinerary, address,",
+      "text_enriched": "7.5 Providing passenger information before arrival in Canada\n7.5.1 Prescribed information\nPursuant to subsection A148(1) (Act Section 148(1))(d) and section R269 (Regulation 269), all commercial carriers are required to provide the\nCBSA with Advanced Passenger Information (API) and Passenger Name Record (PNR) information\nrelating to all persons expected to be on board commercial conveyances bound for Canada (air mode\nonly).\nThis information is collected in order to protect Canadians by enabling the CBSA to perform a risk\nassessment of travellers prior to their arrival in Canada.\nSubsection R269(1) (Regulation 269(1)) requires a commercial transporter to provide information on all passengers and crew\nmembers travelling by commercial vehicle. This includes information such as traveller name, date of birth,\ncitizenship or nationality, gender, and passport or other travel document data as well as all reservation\ninformation held by the transporter on passengers to be carried to Canada (e.g., travel itinerary, address,"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c17",
+      "chars": 917,
+      "page_start": 10,
+      "page_end": 10,
+      "heading_path": [
+        "5 Departmental policy",
+        "7.5 Providing passenger information before arrival in Canada"
+      ],
+      "text": "information held by the transporter on passengers to be carried to Canada (e.g., travel itinerary, address,\ncheck-in information and any unique passenger reference assigned by the transporter).\nThis information has been integrated into the Interactive Advance Passenger Information (IAPI), which\naims to identify and prevent improperly documented or prescribed persons from boarding flights to\nCanada and identify travellers who may present admissibility concerns before arrival at a Canadian\nairport.\n7.5.2 Transmission\nSubsection R269(2) requires that all information referred to in subsection R269(1) must be provided by\nelectronic means in accordance with the technical requirements, specifications and procedures for\nelectronic data interchange.\nAll information is submitted to the IAPI system, which in turn automatically\n\nverifies the information received against Canada’s immigration data to confirm that the",
+      "text_enriched": "information held by the transporter on passengers to be carried to Canada (e.g., travel itinerary, address,\ncheck-in information and any unique passenger reference assigned by the transporter).\nThis information has been integrated into the Interactive Advance Passenger Information (IAPI), which\naims to identify and prevent improperly documented or prescribed persons from boarding flights to\nCanada and identify travellers who may present admissibility concerns before arrival at a Canadian\nairport.\n7.5.2 Transmission\nSubsection R269(2) (Regulation 269(2)) requires that all information referred to in subsection R269(1) (Regulation 269(1)) must be provided by\nelectronic means in accordance with the technical requirements, specifications and procedures for\nelectronic data interchange.\nAll information is submitted to the IAPI system, which in turn automatically\n\nverifies the information received against Canada’s immigration data to confirm that the"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c18",
+      "chars": 528,
+      "page_start": 10,
+      "page_end": 10,
+      "heading_path": [
+        "5 Departmental policy",
+        "7.5 Providing passenger information before arrival in Canada"
+      ],
+      "text": "\nverifies the information received against Canada’s immigration data to confirm that the\npassenger has the prescribed travel document (e.g., visa or eTA) or that the traveller is exempt\nor does not require a prescribed document; and\n\nsends an automated board or no-board message to the air carrier for each passenger.\nThese board and no-board messages serve to assist the air carrier in meeting its transporter obligations\nby validating whether its passengers hold a valid eTA or visa. These interactive messages are a tool to",
+      "text_enriched": "\nverifies the information received against Canada’s immigration data to confirm that the\npassenger has the prescribed travel document (e.g., visa or eTA) or that the traveller is exempt\nor does not require a prescribed document; and\n\nsends an automated board or no-board message to the air carrier for each passenger.\nThese board and no-board messages serve to assist the air carrier in meeting its transporter obligations\nby validating whether its passengers hold a valid eTA or visa. These interactive messages are a tool to"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c19",
+      "chars": 957,
+      "page_start": 11,
+      "page_end": 11,
+      "heading_path": [
+        "5 Departmental policy",
+        "7.5 Providing passenger information before arrival in Canada"
+      ],
+      "text": "further assist airlines in their decision to board and do not replace the requirement for commercial\ntransporters to physically examine a passenger’s travel documents.\nSubsection R269(3) specifies the required time lines of electronic transmission of the information referred\nto in subsection R269(1). These transmission timelines vary depending on the type of information\nrequired and traveller (i.e., passenger versus crew).\nReceiving this information in advance allows for criminality, security and Global Case Management\nSystem (GCMS) checks to be conducted by the National Targeting Center (NTC) prior to the arrival of the\ncommercial vehicle.\n7.5.3 National Targeting Center (NTC)\nTargeting is conducted from a centralized location and is a fully integrated, nationally consistent program\nthat is an integral part of the CBSA's border risk management.\nThe NTC is a 24/7 operation responsible for ensuring national security and the health and safety of",
+      "text_enriched": "further assist airlines in their decision to board and do not replace the requirement for commercial\ntransporters to physically examine a passenger’s travel documents.\nSubsection R269(3) (Regulation 269(3)) specifies the required time lines of electronic transmission of the information referred\nto in subsection R269(1) (Regulation 269(1)). These transmission timelines vary depending on the type of information\nrequired and traveller (i.e., passenger versus crew).\nReceiving this information in advance allows for criminality, security and Global Case Management\nSystem (GCMS) checks to be conducted by the National Targeting Center (NTC) prior to the arrival of the\ncommercial vehicle.\n7.5.3 National Targeting Center (NTC)\nTargeting is conducted from a centralized location and is a fully integrated, nationally consistent program\nthat is an integral part of the CBSA's border risk management.\nThe NTC is a 24/7 operation responsible for ensuring national security and the health and safety of"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c20",
+      "chars": 979,
+      "page_start": 11,
+      "page_end": 11,
+      "heading_path": [
+        "5 Departmental policy",
+        "7.5 Providing passenger information before arrival in Canada"
+      ],
+      "text": "The NTC is a 24/7 operation responsible for ensuring national security and the health and safety of\nCanadians by increasing Canada's ability to detect and interdict high-risk people and goods at the earliest\npoint in the travel and trade continuum. The NTC conducts targeting activities for people, goods and\nconveyances in all modes, in accordance with the CBSA/National Targeting Program Mission, Vision,\npriorities, policies and procedures. The NTC analyzes and risk-assesses information from current\nintelligence, resultant enforcement actions and compliance data to identify emerging trends and establish\nintelligence indicators in order to continuously adapt targeting efforts to the areas of highest threat. The\nNTC has the ability to issue no-board messages to carriers prior to their departure for Canada.\n7.6 Providing passenger information after arrival in Canada\nSection R264 requires a transporter to provide without delay the following when requested by an officer,",
+      "text_enriched": "The NTC is a 24/7 operation responsible for ensuring national security and the health and safety of\nCanadians by increasing Canada's ability to detect and interdict high-risk people and goods at the earliest\npoint in the travel and trade continuum. The NTC conducts targeting activities for people, goods and\nconveyances in all modes, in accordance with the CBSA/National Targeting Program Mission, Vision,\npriorities, policies and procedures. The NTC analyzes and risk-assesses information from current\nintelligence, resultant enforcement actions and compliance data to identify emerging trends and establish\nintelligence indicators in order to continuously adapt targeting efforts to the areas of highest threat. The\nNTC has the ability to issue no-board messages to carriers prior to their departure for Canada.\n7.6 Providing passenger information after arrival in Canada\nSection R264 (Regulation 264) requires a transporter to provide without delay the following when requested by an officer,"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c21",
+      "chars": 448,
+      "page_start": 11,
+      "page_end": 11,
+      "heading_path": [
+        "5 Departmental policy",
+        "7.5 Providing passenger information before arrival in Canada"
+      ],
+      "text": "Section R264 requires a transporter to provide without delay the following when requested by an officer,\nprovided the request is made within 72 hours after the presentation for examination of the person in\nCanada:\n•\na copy of any ticket issued to a person;\n•\nthe person’s itinerary, including the place of embarkation and dates of travel; and\n•\ninformation about the number and type of passport or travel or identity document used by the\npassenger.",
+      "text_enriched": "Section R264 (Regulation 264) requires a transporter to provide without delay the following when requested by an officer,\nprovided the request is made within 72 hours after the presentation for examination of the person in\nCanada:\n•\na copy of any ticket issued to a person;\n•\nthe person’s itinerary, including the place of embarkation and dates of travel; and\n•\ninformation about the number and type of passport or travel or identity document used by the\npassenger."
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c22",
+      "chars": 895,
+      "page_start": 12,
+      "page_end": 12,
+      "heading_path": [
+        "5 Departmental policy",
+        "7.7 Obligation to provide facilities"
+      ],
+      "text": "7.7 Obligation to provide facilities\nParagraph A148(1)(e) and section R271 require a transporter to provide, equip and maintain facilities for\nthe holding and examination of persons at POEs. Section R271 clarifies that this applies to commercial\ntransporters and transporters who operate airports, international bridges or tunnels. Section R272 further\nclarifies that a commercial transporter carrying persons to Canada aboard a vessel must provide facilities\nfor examination aboard the vessel.\n8 Arrival of improperly documented foreign nationals\n8.1 Reporting arrivals\n8.1.1 GCMS entries\nBorder services officers at airports, land borders and marine POEs should complete a GCMS entry for a\nforeign national who is improperly documented or inadmissible for any other reason. Officers should\nensure that the Transporter Violation field is completed when an “Examination” is created. In addition,",
+      "text_enriched": "7.7 Obligation to provide facilities\nParagraph A148(1) (Act Section 148(1))(e) and section R271 (Regulation 271) require a transporter to provide, equip and maintain facilities for\nthe holding and examination of persons at POEs. Section R271 (Regulation 271) clarifies that this applies to commercial\ntransporters and transporters who operate airports, international bridges or tunnels. Section R272 (Regulation 272) further\nclarifies that a commercial transporter carrying persons to Canada aboard a vessel must provide facilities\nfor examination aboard the vessel.\n8 Arrival of improperly documented foreign nationals\n8.1 Reporting arrivals\n8.1.1 GCMS entries\nBorder services officers at airports, land borders and marine POEs should complete a GCMS entry for a\nforeign national who is improperly documented or inadmissible for any other reason. Officers should\nensure that the Transporter Violation field is completed when an “Examination” is created. In addition,"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c23",
+      "chars": 993,
+      "page_start": 12,
+      "page_end": 12,
+      "heading_path": [
+        "5 Departmental policy",
+        "7.7 Obligation to provide facilities"
+      ],
+      "text": "ensure that the Transporter Violation field is completed when an “Examination” is created. In addition,\nofficers should include remarks to provide further details pertaining to the arrival and, in marine cases, to\nthe security deposit. In an airport case, officers should add remarks to show the exact name of the airline,\nthe inbound flight number, the last port of embarkation, the exact date of arrival and how the airline was\nidentified (airline ticket, boarding pass, disembarkation screening, etc.). For a marine case, officers\nshould add remarks to show the exact name of the ship, the exact date of arrival, the date of desertion, if\napplicable, the amount deposited as case-specific security, the exact name of the depositor and the date\nand 6-digit serial number of the official receipt issued to the depositor. For a land-border case, officers\nshould add remarks showing the name of the land carrier and the exact date of arrival.\n8.1.2 Support System for Intelligence entries (SSI)",
+      "text_enriched": "ensure that the Transporter Violation field is completed when an “Examination” is created. In addition,\nofficers should include remarks to provide further details pertaining to the arrival and, in marine cases, to\nthe security deposit. In an airport case, officers should add remarks to show the exact name of the airline,\nthe inbound flight number, the last port of embarkation, the exact date of arrival and how the airline was\nidentified (airline ticket, boarding pass, disembarkation screening, etc.). For a marine case, officers\nshould add remarks to show the exact name of the ship, the exact date of arrival, the date of desertion, if\napplicable, the amount deposited as case-specific security, the exact name of the depositor and the date\nand 6-digit serial number of the official receipt issued to the depositor. For a land-border case, officers\nshould add remarks showing the name of the land carrier and the exact date of arrival.\n8.1.2 Support System for Intelligence entries (SSI)"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c24",
+      "chars": 626,
+      "page_start": 12,
+      "page_end": 12,
+      "heading_path": [
+        "5 Departmental policy",
+        "7.7 Obligation to provide facilities"
+      ],
+      "text": "should add remarks showing the name of the land carrier and the exact date of arrival.\n8.1.2 Support System for Intelligence entries (SSI)\nBorder service officers must write an SSI report for each arrival of an improperly documented foreign\nnational. The SSI report should be completed within 48 hours of the foreign national’s arrival, and border\nservice officers must ensure that the Transporter Violation field has been checked off.\nNote: Border service officers must also write an SSI report for every foreign national who makes a\nrefugee claim at an airport POE, regardless of whether they are properly documented or not.",
+      "text_enriched": "should add remarks showing the name of the land carrier and the exact date of arrival.\n8.1.2 Support System for Intelligence entries (SSI)\nBorder service officers must write an SSI report for each arrival of an improperly documented foreign\nnational. The SSI report should be completed within 48 hours of the foreign national’s arrival, and border\nservice officers must ensure that the Transporter Violation field has been checked off.\nNote: Border service officers must also write an SSI report for every foreign national who makes a\nrefugee claim at an airport POE, regardless of whether they are properly documented or not."
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c25",
+      "chars": 997,
+      "page_start": 13,
+      "page_end": 13,
+      "heading_path": [
+        "5 Departmental policy",
+        "7.7 Obligation to provide facilities"
+      ],
+      "text": "The reporting of an improperly documented arrival is very important. Failure to complete an SSI report\ncould result in the CBSA not being able to collect administration fees or removal costs from the liable\ntransporter.\n8.2 Advising transporters of the arrival of an improperly documented\nforeign national\nThe BSF502 form has two purposes:\n•\nto notify a transporter that an improperly documented foreign national has arrived; and\n•\nto notify a transporter that it is or may be required to carry the foreign national from Canada.\n8.3 Evidence establishing transporter liability\nThe following documents should be kept on case files as evidence that a transporter has brought an\ninadmissible foreign national to Canada:\n•\ntickets;\n•\nthe passenger manifest;\n•\nboarding passes;\n•\nbaggage tags, duty free bags or paper napkins with the transporter logo;\n•\nthe passenger's customs declaration (E311 form);\n•\na print-out of the passenger's travel itinerary;\n•\na disembarkation screening report (DART); and",
+      "text_enriched": "The reporting of an improperly documented arrival is very important. Failure to complete an SSI report\ncould result in the CBSA not being able to collect administration fees or removal costs from the liable\ntransporter.\n8.2 Advising transporters of the arrival of an improperly documented\nforeign national\nThe BSF502 form has two purposes:\n•\nto notify a transporter that an improperly documented foreign national has arrived; and\n•\nto notify a transporter that it is or may be required to carry the foreign national from Canada.\n8.3 Evidence establishing transporter liability\nThe following documents should be kept on case files as evidence that a transporter has brought an\ninadmissible foreign national to Canada:\n•\ntickets;\n•\nthe passenger manifest;\n•\nboarding passes;\n•\nbaggage tags, duty free bags or paper napkins with the transporter logo;\n•\nthe passenger's customs declaration (E311 form);\n•\na print-out of the passenger's travel itinerary;\n•\na disembarkation screening report (DART); and"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c26",
+      "chars": 783,
+      "page_start": 13,
+      "page_end": 13,
+      "heading_path": [
+        "5 Departmental policy",
+        "7.7 Obligation to provide facilities"
+      ],
+      "text": "•\nthe passenger's customs declaration (E311 form);\n•\na print-out of the passenger's travel itinerary;\n•\na disembarkation screening report (DART); and\n•\nthe BSF453 form signed by a representative of the transporter on which the transporter has\nconfirmed the information regarding the passengers carried. If the representative refuses to\nsign the BSF453 form, the border services officer should annotate the form accordingly,\nindicating the name of the airline representative who refused to sign.\n9 Administration fees\n9.1 Assessment\nSubsection R279(1) provides that an administration fee must be assessed against a commercial\ntransporter in respect of any foreign national it carried to Canada\n\nwho is inadmissible for failing to be in possession of the documents required for entry;",
+      "text_enriched": "•\nthe passenger's customs declaration (E311 form);\n•\na print-out of the passenger's travel itinerary;\n•\na disembarkation screening report (DART); and\n•\nthe BSF453 form signed by a representative of the transporter on which the transporter has\nconfirmed the information regarding the passengers carried. If the representative refuses to\nsign the BSF453 form, the border services officer should annotate the form accordingly,\nindicating the name of the airline representative who refused to sign.\n9 Administration fees\n9.1 Assessment\nSubsection R279(1) (Regulation 279(1)) provides that an administration fee must be assessed against a commercial\ntransporter in respect of any foreign national it carried to Canada\n\nwho is inadmissible for failing to be in possession of the documents required for entry;"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c27",
+      "chars": 993,
+      "page_start": 14,
+      "page_end": 14,
+      "heading_path": [
+        "5 Departmental policy",
+        "7.7 Obligation to provide facilities"
+      ],
+      "text": "\nwho is prescribed under section R258.1 or whom the transporter has been directed not to carry\nto Canada;\n\nwho is exempt from the requirement to hold a passport or travel document, but who does not\nhave sufficient evidence of their identity;\n\nwho failed to appear for an examination on arrival in Canada;\n\nwho entered as or to become a member of a crew, and who is inadmissible; or\n\nwho is the subject of a removal order or is allowed under section R42 to withdraw their\napplication to enter Canada, and who fails to leave immediately.\n9.2 Exceptions\nSubsection R279(2) provides that administration fees are waived in respect of\n•\na person referred to in section R39;\n•\na foreign national who is prescribed under section R258.1 and in respect of whom notice under\nsection R270 was not given to the transporter before carriage to Canada, and who holds the\nprescribed documents under section R259;\n•\na foreign national who does not hold an eTA when one is required under section R7.1 and in",
+      "text_enriched": "\nwho is prescribed under section R258 (Regulation 258).1 or whom the transporter has been directed not to carry\nto Canada;\n\nwho is exempt from the requirement to hold a passport or travel document, but who does not\nhave sufficient evidence of their identity;\n\nwho failed to appear for an examination on arrival in Canada;\n\nwho entered as or to become a member of a crew, and who is inadmissible; or\n\nwho is the subject of a removal order or is allowed under section R42 (Regulation 42) to withdraw their\napplication to enter Canada, and who fails to leave immediately.\n9.2 Exceptions\nSubsection R279(2) (Regulation 279(2)) provides that administration fees are waived in respect of\n•\na person referred to in section R39 (Regulation 39);\n•\na foreign national who is prescribed under section R258 (Regulation 258).1 and in respect of whom notice under\nsection R270 (Regulation 270) was not given to the transporter before carriage to Canada, and who holds the\nprescribed documents under section R259 (Regulation 259);\n•\na foreign national who does not hold an eTA when one is required under section R7 (Regulation 7).1 and in"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c28",
+      "chars": 976,
+      "page_start": 14,
+      "page_end": 14,
+      "heading_path": [
+        "5 Departmental policy",
+        "7.7 Obligation to provide facilities"
+      ],
+      "text": "prescribed documents under section R259;\n•\na foreign national who does not hold an eTA when one is required under section R7.1 and in\nrespect of whom the CBSA was unable to give notice under section R270 before the foreign\nnational was carried to Canada, but who holds one of the required prescribed documents set\nout in paragraphs R259(a) to (f); or\n•\na foreign national other than a foreign national referred to in paragraph R190(3)(c) who seeks\nto enter Canada to obtain permanent residence and is inadmissible under paragraph A41(a) for\nfailing to obtain a permanent resident visa, as required under section R6, but who is exempt\nunder Division 1 of Part 2 from the requirement to obtain an eTA, required under section R7.1\nor exempt under Division 5 of Part 9 from the requirement to obtain a temporary resident visa.\nAdministration fees are assessed by the Transporter Obligations Program, NHQ, on the basis of SSI\nreports transmitted to NHQ from POEs or inland offices.",
+      "text_enriched": "prescribed documents under section R259 (Regulation 259);\n•\na foreign national who does not hold an eTA when one is required under section R7 (Regulation 7).1 and in\nrespect of whom the CBSA was unable to give notice under section R270 (Regulation 270) before the foreign\nnational was carried to Canada, but who holds one of the required prescribed documents set\nout in paragraphs R259(a) (Regulation 259(a)) to (f); or\n•\na foreign national other than a foreign national referred to in paragraph R190(3) (Regulation 190(3))(c) who seeks\nto enter Canada to obtain permanent residence and is inadmissible under paragraph A41(a) (Act Section 41(a)) for\nfailing to obtain a permanent resident visa, as required under section R6 (Regulation 6), but who is exempt\nunder Division 1 of Part 2 from the requirement to obtain an eTA, required under section R7 (Regulation 7).1\nor exempt under Division 5 of Part 9 from the requirement to obtain a temporary resident visa.\nAdministration fees are assessed by the Transporter Obligations Program, NHQ, on the basis of SSI\nreports transmitted to NHQ from POEs or inland offices."
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c29",
+      "chars": 516,
+      "page_start": 14,
+      "page_end": 14,
+      "heading_path": [
+        "5 Departmental policy",
+        "7.7 Obligation to provide facilities"
+      ],
+      "text": "reports transmitted to NHQ from POEs or inland offices.\n9.3 How administration fees are imposed\nBorder services officers are responsible for reporting in the SSI that an improperly documented person\nhas arrived. The information contained in the SSI report is used by the Transporter Obligations Program\nin NHQ to determine if an administration fee should be assessed and, if so, to send a Notice of\nAssessment to the transporter. Transporters may contest the assessment by filing a written submission\nwithin 30 days.",
+      "text_enriched": "reports transmitted to NHQ from POEs or inland offices.\n9.3 How administration fees are imposed\nBorder services officers are responsible for reporting in the SSI that an improperly documented person\nhas arrived. The information contained in the SSI report is used by the Transporter Obligations Program\nin NHQ to determine if an administration fee should be assessed and, if so, to send a Notice of\nAssessment to the transporter. Transporters may contest the assessment by filing a written submission\nwithin 30 days."
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c30",
+      "chars": 922,
+      "page_start": 15,
+      "page_end": 15,
+      "heading_path": [
+        "5 Departmental policy",
+        "9.4 Airline Memorandum of Understanding Program [R280]"
+      ],
+      "text": "9.4 Airline Memorandum of Understanding Program [R280]\nSubsection R280(1) provides that the administration fee is $3,200, unless a Memorandum of\nUnderstanding (MOU) is in effect between the CBSA and the transporter, in which case, fees are\nassessed at the rates prescribed in subsection R280(2). Administration fees represent a portion of the\naverage costs incurred by Her Majesty in right of Canada in respect to the examination, detention and\nprocessing of inadmissible foreign nationals carried by a transporter.\nSubsection R280(2) provides that an MOU between a transporter and the CBSA may include reductions\nin the amount of administration fees as an incentive for transporters to reduce the number of improperly\ndocumented persons arriving in Canada. The MOU Program is only applicable to commercial air carriers.\nThose air carriers committed to effective document screening and security procedures may benefit from",
+      "text_enriched": "9.4 Airline Memorandum of Understanding Program [R280 (Regulation 280)]\nSubsection R280(1) (Regulation 280(1)) provides that the administration fee is $3,200, unless a Memorandum of\nUnderstanding (MOU) is in effect between the CBSA and the transporter, in which case, fees are\nassessed at the rates prescribed in subsection R280(2) (Regulation 280(2)). Administration fees represent a portion of the\naverage costs incurred by Her Majesty in right of Canada in respect to the examination, detention and\nprocessing of inadmissible foreign nationals carried by a transporter.\nSubsection R280(2) (Regulation 280(2)) provides that an MOU between a transporter and the CBSA may include reductions\nin the amount of administration fees as an incentive for transporters to reduce the number of improperly\ndocumented persons arriving in Canada. The MOU Program is only applicable to commercial air carriers.\nThose air carriers committed to effective document screening and security procedures may benefit from"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c31",
+      "chars": 946,
+      "page_start": 15,
+      "page_end": 15,
+      "heading_path": [
+        "5 Departmental policy",
+        "9.4 Airline Memorandum of Understanding Program [R280]"
+      ],
+      "text": "Those air carriers committed to effective document screening and security procedures may benefit from\nreduced administration fees. Fees are automatically reduced by 25 percent to $2,400 upon signing and\ncomplying with an MOU. Reductions of 50 percent, 75 percent and 100 percent can be granted,\ndepending on the level of interdiction success as measured against the assigned performance standards.\n10 Detention costs\nTransporters have no direct liability for detention costs. The administration fees paid by transporters are\nintended to offset a portion of the Agency’s overall average detention costs. Under paragraph R278(a),\nhowever, expenses with respect to the foreign national’s accommodation are removal costs payable by a\ntransporter. If a transporter notifies an officer of their intention to make travel arrangements but fails to\ncarry the foreign national within 48 hours or within whatever longer period was agreed upon by an officer,",
+      "text_enriched": "Those air carriers committed to effective document screening and security procedures may benefit from\nreduced administration fees. Fees are automatically reduced by 25 percent to $2,400 upon signing and\ncomplying with an MOU. Reductions of 50 percent, 75 percent and 100 percent can be granted,\ndepending on the level of interdiction success as measured against the assigned performance standards.\n10 Detention costs\nTransporters have no direct liability for detention costs. The administration fees paid by transporters are\nintended to offset a portion of the Agency’s overall average detention costs. Under paragraph R278(a) (Regulation 278(a)),\nhowever, expenses with respect to the foreign national’s accommodation are removal costs payable by a\ntransporter. If a transporter notifies an officer of their intention to make travel arrangements but fails to\ncarry the foreign national within 48 hours or within whatever longer period was agreed upon by an officer,"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c32",
+      "chars": 732,
+      "page_start": 15,
+      "page_end": 15,
+      "heading_path": [
+        "5 Departmental policy",
+        "9.4 Airline Memorandum of Understanding Program [R280]"
+      ],
+      "text": "carry the foreign national within 48 hours or within whatever longer period was agreed upon by an officer,\nany accommodation costs incurred as a result of the transporter’s delay should be reported to the\nTransporter Obligations Program along with all other removal costs. See sections 11.4 and 11.5.\n11 Liability to carry foreign nationals from Canada\nParagraph A148(1)(f) requires transporters to carry from Canada any inadmissible foreign nationals they\ntransported to Canada.\n11.1 When there is no removal order in place\nTransportation companies have the obligation to carry from Canada foreign nationals who are\n•\ndirected to leave pursuant to subsection R40(1);\n•\ndirected back to the United States pursuant to section R41; or",
+      "text_enriched": "carry the foreign national within 48 hours or within whatever longer period was agreed upon by an officer,\nany accommodation costs incurred as a result of the transporter’s delay should be reported to the\nTransporter Obligations Program along with all other removal costs. See sections 11.4 and 11.5.\n11 Liability to carry foreign nationals from Canada\nParagraph A148(1) (Act Section 148(1))(f) requires transporters to carry from Canada any inadmissible foreign nationals they\ntransported to Canada.\n11.1 When there is no removal order in place\nTransportation companies have the obligation to carry from Canada foreign nationals who are\n•\ndirected to leave pursuant to subsection R40(1) (Regulation 40(1));\n•\ndirected back to the United States pursuant to section R41 (Regulation 41); or"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c33",
+      "chars": 947,
+      "page_start": 16,
+      "page_end": 16,
+      "heading_path": [
+        "5 Departmental policy",
+        "9.4 Airline Memorandum of Understanding Program [R280]"
+      ],
+      "text": "•\nallowed to withdraw their application to enter Canada pursuant to section R42.\nPart B1 of the BSF502 form should be used to notify the transporter of the requirement to carry a foreign\nnational from Canada.\nIn the above situations, the expectation is that the foreign national will leave Canada without delay. If the\ntransporter is unable or unwilling to remove or arrange for the immediate transport of the foreign national\nfrom Canada, the border services officer may consider authorizing the person to enter, pursuant to\nsection A23, or writing a subsection A44(1) report and making a removal order, in which case procedures\nin section 11.2 can be applied.\n11.2 When there is a removal order\nTransporters have the obligation to carry from Canada foreign nationals who are subject to an\nenforceable removal order, providing their own escorts if escorts are required. If they fail to do so, they\nmust pay all removal costs incurred by the CBSA.",
+      "text_enriched": "•\nallowed to withdraw their application to enter Canada pursuant to section R42 (Regulation 42).\nPart B1 of the BSF502 form should be used to notify the transporter of the requirement to carry a foreign\nnational from Canada.\nIn the above situations, the expectation is that the foreign national will leave Canada without delay. If the\ntransporter is unable or unwilling to remove or arrange for the immediate transport of the foreign national\nfrom Canada, the border services officer may consider authorizing the person to enter, pursuant to\nsection A23 (Act Section 23), or writing a subsection A44(1) (Act Section 44(1)) report and making a removal order, in which case procedures\nin section 11.2 can be applied.\n11.2 When there is a removal order\nTransporters have the obligation to carry from Canada foreign nationals who are subject to an\nenforceable removal order, providing their own escorts if escorts are required. If they fail to do so, they\nmust pay all removal costs incurred by the CBSA."
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c34",
+      "chars": 966,
+      "page_start": 16,
+      "page_end": 16,
+      "heading_path": [
+        "5 Departmental policy",
+        "9.4 Airline Memorandum of Understanding Program [R280]"
+      ],
+      "text": "must pay all removal costs incurred by the CBSA.\n11.2.1 Notification to transporters of the requirement to carry a person\nfrom Canada\nSection R276 requires an officer to notify a transporter of the transporter’s obligation to carry a foreign\nnational from Canada. There are two types of notification required:\n1. A preliminary notification that the transporter may be required to carry a person from Canada\n[R276(1)(a)]. Part A of the BSF502 form, completed by an officer, is designed for this\npurpose.\nWhen a transporter brings an inadmissible foreign national to Canada who is made subject to a removal\norder that is not yet enforceable, the officer must inform the transporter that it is or may be required to\ncarry the person from Canada. This is done in the case of refugee claimants or where there is a stay, and\na removal order cannot immediately be enforced.\n2. A notification of the requirement to carry a foreign national [R276(1)(b)]. Part B of the BSF502",
+      "text_enriched": "must pay all removal costs incurred by the CBSA.\n11.2.1 Notification to transporters of the requirement to carry a person\nfrom Canada\nSection R276 (Regulation 276) requires an officer to notify a transporter of the transporter’s obligation to carry a foreign\nnational from Canada. There are two types of notification required:\n1. A preliminary notification that the transporter may be required to carry a person from Canada\n[R276(1) (Regulation 276(1))(a)]. Part A of the BSF502 form, completed by an officer, is designed for this\npurpose.\nWhen a transporter brings an inadmissible foreign national to Canada who is made subject to a removal\norder that is not yet enforceable, the officer must inform the transporter that it is or may be required to\ncarry the person from Canada. This is done in the case of refugee claimants or where there is a stay, and\na removal order cannot immediately be enforced.\n2. A notification of the requirement to carry a foreign national [R276(1) (Regulation 276(1))(b)]. Part B of the BSF502"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c35",
+      "chars": 491,
+      "page_start": 16,
+      "page_end": 16,
+      "heading_path": [
+        "5 Departmental policy",
+        "9.4 Airline Memorandum of Understanding Program [R280]"
+      ],
+      "text": "a removal order cannot immediately be enforced.\n2. A notification of the requirement to carry a foreign national [R276(1)(b)]. Part B of the BSF502\nform, completed by an officer, is designed for this purpose.\nWhen a removal order becomes enforceable, an officer must inform the transporter that it must carry the\nforeign national from Canada and advise whether escorts are required by means of completing the\nBSF502 form. The following information should also be provided to the air carrier:",
+      "text_enriched": "a removal order cannot immediately be enforced.\n2. A notification of the requirement to carry a foreign national [R276(1) (Regulation 276(1))(b)]. Part B of the BSF502\nform, completed by an officer, is designed for this purpose.\nWhen a removal order becomes enforceable, an officer must inform the transporter that it must carry the\nforeign national from Canada and advise whether escorts are required by means of completing the\nBSF502 form. The following information should also be provided to the air carrier:"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c36",
+      "chars": 975,
+      "page_start": 17,
+      "page_end": 17,
+      "heading_path": [
+        "5 Departmental policy",
+        "9.4 Airline Memorandum of Understanding Program [R280]"
+      ],
+      "text": "•\nclient ID;\n•\nNotice to Transporter form [BSF502];\n•\ncost of the removal order;\n•\ncopy of the deferral of examination, if applicable;\n•\ncopy of the passport, emergency travel document, residence card and any transit visa(s);\n•\noriginal or photocopy of the airline ticket and itinerary;\n•\nairline security approval;\n•\nnotice of removal;\n•\nnotice of seizure;\n•\ncopy of airline booking reference numbers, if applicable;\n•\ncriminal record information;\n•\nany medical concerns;\n•\nwhether the deportee is willing to leave voluntarily and if any escorts are recommended;\n•\nwhether the deportee is willing to purchase their own ticket;\n•\nif visas are required for transport purposes;\n•\nwritten confirmation that the country(ies) the deportee is transiting through and other airline(s)\nwill accept the deportee (partner agency information is not to be divulged);\n•\nescort officer information; and\n•\npreferred routing and dates, dependent on when transit and airline authorizations and",
+      "text_enriched": "•\nclient ID;\n•\nNotice to Transporter form [BSF502];\n•\ncost of the removal order;\n•\ncopy of the deferral of examination, if applicable;\n•\ncopy of the passport, emergency travel document, residence card and any transit visa(s);\n•\noriginal or photocopy of the airline ticket and itinerary;\n•\nairline security approval;\n•\nnotice of removal;\n•\nnotice of seizure;\n•\ncopy of airline booking reference numbers, if applicable;\n•\ncriminal record information;\n•\nany medical concerns;\n•\nwhether the deportee is willing to leave voluntarily and if any escorts are recommended;\n•\nwhether the deportee is willing to purchase their own ticket;\n•\nif visas are required for transport purposes;\n•\nwritten confirmation that the country(ies) the deportee is transiting through and other airline(s)\nwill accept the deportee (partner agency information is not to be divulged);\n•\nescort officer information; and\n•\npreferred routing and dates, dependent on when transit and airline authorizations and"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c37",
+      "chars": 974,
+      "page_start": 17,
+      "page_end": 17,
+      "heading_path": [
+        "5 Departmental policy",
+        "9.4 Airline Memorandum of Understanding Program [R280]"
+      ],
+      "text": "•\nescort officer information; and\n•\npreferred routing and dates, dependent on when transit and airline authorizations and\napprovals, visas or travel documents are received.\nFor more information, refer to chapter ENF 10, sections 25 and 30.\nThere is no time limitation with respect to a transporter’s liability to carry an inadmissible foreign national\nfrom Canada. Liability continues until a removal order becomes enforceable, regardless of when the\ntransporter brought the foreign national to Canada.\n11.2.2 Requirement for the transporter to make removal arrangements\nSubsection R276(2) requires a transporter, when notified of the requirement to carry a foreign national\nfrom Canada, to advise an officer without delay of the arrangements the transporter makes to carry the\nforeign national from Canada or to notify an officer that they are unable to make such arrangements.\nThe transporter must carry the person from Canada within 48 hours of advising an officer of the",
+      "text_enriched": "•\nescort officer information; and\n•\npreferred routing and dates, dependent on when transit and airline authorizations and\napprovals, visas or travel documents are received.\nFor more information, refer to chapter ENF 10, sections 25 and 30.\nThere is no time limitation with respect to a transporter’s liability to carry an inadmissible foreign national\nfrom Canada. Liability continues until a removal order becomes enforceable, regardless of when the\ntransporter brought the foreign national to Canada.\n11.2.2 Requirement for the transporter to make removal arrangements\nSubsection R276(2) (Regulation 276(2)) requires a transporter, when notified of the requirement to carry a foreign national\nfrom Canada, to advise an officer without delay of the arrangements the transporter makes to carry the\nforeign national from Canada or to notify an officer that they are unable to make such arrangements.\nThe transporter must carry the person from Canada within 48 hours of advising an officer of the"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c38",
+      "chars": 421,
+      "page_start": 17,
+      "page_end": 17,
+      "heading_path": [
+        "5 Departmental policy",
+        "9.4 Airline Memorandum of Understanding Program [R280]"
+      ],
+      "text": "The transporter must carry the person from Canada within 48 hours of advising an officer of the\narrangements made or within any longer period of time agreed upon by the officer. Subsection R273(2)\nprovides that transporters must transport the foreign national who is subject to an enforceable removal\norder from wherever the foreign national is situated in Canada to the vehicle in which they will be carried\nfrom Canada.",
+      "text_enriched": "The transporter must carry the person from Canada within 48 hours of advising an officer of the\narrangements made or within any longer period of time agreed upon by the officer. Subsection R273(2) (Regulation 273(2))\nprovides that transporters must transport the foreign national who is subject to an enforceable removal\norder from wherever the foreign national is situated in Canada to the vehicle in which they will be carried\nfrom Canada."
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c39",
+      "chars": 944,
+      "page_start": 18,
+      "page_end": 18,
+      "heading_path": [
+        "5 Departmental policy",
+        "9.4 Airline Memorandum of Understanding Program [R280]"
+      ],
+      "text": "Note: Pursuant to section 5.10 of Annex 9 of the Convention on International Civil Aviation (Chicago\nConvention), an airline that is required to carry a foreign national from Canada “shall not be precluded\nfrom recovering from such person any transportation costs involved in his removal”. Nevertheless, the\nairline’s obligation under sections R273 and R276 to carry the inadmissible foreign national from Canada\nand to adhere to the stipulated time frames takes precedence over section 5.10. The CBSA should never\nallow the airline to postpone carrying the foreign national from Canada while it attempts to determine\nwhether the passenger is willing or able to reimburse any of the costs. If the airline wishes to attempt to\nrecover costs, it must pursue the matter after the person has been removed.\n11.2.3 Removal arranged by an officer\nIn cases when a removal order against a foreign national is enforceable, section R276 stipulates that an",
+      "text_enriched": "Note: Pursuant to section 5.10 of Annex 9 of the Convention on International Civil Aviation (Chicago\nConvention), an airline that is required to carry a foreign national from Canada “shall not be precluded\nfrom recovering from such person any transportation costs involved in his removal”. Nevertheless, the\nairline’s obligation under sections R273 (Regulation 273) and R276 (Regulation 276) to carry the inadmissible foreign national from Canada\nand to adhere to the stipulated time frames takes precedence over section 5.10. The CBSA should never\nallow the airline to postpone carrying the foreign national from Canada while it attempts to determine\nwhether the passenger is willing or able to reimburse any of the costs. If the airline wishes to attempt to\nrecover costs, it must pursue the matter after the person has been removed.\n11.2.3 Removal arranged by an officer\nIn cases when a removal order against a foreign national is enforceable, section R276 (Regulation 276) stipulates that an"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c40",
+      "chars": 997,
+      "page_start": 18,
+      "page_end": 18,
+      "heading_path": [
+        "5 Departmental policy",
+        "9.4 Airline Memorandum of Understanding Program [R280]"
+      ],
+      "text": "11.2.3 Removal arranged by an officer\nIn cases when a removal order against a foreign national is enforceable, section R276 stipulates that an\nofficer shall make removal arrangements under the following circumstances:\n•\nthe transporter fails to advise an officer without delay of the transporter’s arrangements after\nhaving been notified of the requirement to carry the foreign national;\n•\nthe transporter fails to carry the foreign national from Canada within 48 hours of having advised\nan officer of the transporter’s arrangements or within any longer period of time agreed upon by\nthe officer; and\n•\nthe officer finds the arrangements proposed by the transporter to be unacceptable.\nMost shipping companies will be unwilling or unable to arrange for inadmissible foreign nationals to be\ncarried from Canada, particularly because they will have already deposited security to cover removal\ncosts. They may, therefore, not wish to be notified each time a foreign national they brought to Canada is",
+      "text_enriched": "11.2.3 Removal arranged by an officer\nIn cases when a removal order against a foreign national is enforceable, section R276 (Regulation 276) stipulates that an\nofficer shall make removal arrangements under the following circumstances:\n•\nthe transporter fails to advise an officer without delay of the transporter’s arrangements after\nhaving been notified of the requirement to carry the foreign national;\n•\nthe transporter fails to carry the foreign national from Canada within 48 hours of having advised\nan officer of the transporter’s arrangements or within any longer period of time agreed upon by\nthe officer; and\n•\nthe officer finds the arrangements proposed by the transporter to be unacceptable.\nMost shipping companies will be unwilling or unable to arrange for inadmissible foreign nationals to be\ncarried from Canada, particularly because they will have already deposited security to cover removal\ncosts. They may, therefore, not wish to be notified each time a foreign national they brought to Canada is"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c41",
+      "chars": 957,
+      "page_start": 18,
+      "page_end": 18,
+      "heading_path": [
+        "5 Departmental policy",
+        "9.4 Airline Memorandum of Understanding Program [R280]"
+      ],
+      "text": "costs. They may, therefore, not wish to be notified each time a foreign national they brought to Canada is\nready to be removed. If this is the case, they should advise the CBSA of this in writing, after which officers\nwill no longer be required to provide them with notification each time a removal order becomes\nenforceable. Officers should ensure a copy of the written instructions from the transporter is placed on the\nsubject’s file.\n11.2.4 Requirements for acceptance of arrangements\nThe travel arrangements made by a transporter to carry and escort a foreign national from Canada must\nbe acceptable to an officer. Section R276 provides that the arrangements a transporter makes to carry a\nforeign national from Canada must meet the following criteria:\n•\nthe itinerary must begin where the foreign national is situated in Canada and end in the country\nand city to which the foreign national is to be removed, following the most direct routing\npossible;",
+      "text_enriched": "costs. They may, therefore, not wish to be notified each time a foreign national they brought to Canada is\nready to be removed. If this is the case, they should advise the CBSA of this in writing, after which officers\nwill no longer be required to provide them with notification each time a removal order becomes\nenforceable. Officers should ensure a copy of the written instructions from the transporter is placed on the\nsubject’s file.\n11.2.4 Requirements for acceptance of arrangements\nThe travel arrangements made by a transporter to carry and escort a foreign national from Canada must\nbe acceptable to an officer. Section R276 (Regulation 276) provides that the arrangements a transporter makes to carry a\nforeign national from Canada must meet the following criteria:\n•\nthe itinerary must begin where the foreign national is situated in Canada and end in the country\nand city to which the foreign national is to be removed, following the most direct routing\npossible;"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c42",
+      "chars": 980,
+      "page_start": 19,
+      "page_end": 19,
+      "heading_path": [
+        "5 Departmental policy",
+        "9.4 Airline Memorandum of Understanding Program [R280]"
+      ],
+      "text": "•\nthe itinerary must not include a country through which transit has not been approved; and\n•\nthe period of time between any connections does not exceed 12 hours.\n11.3 Relief from obligations\nSection R277 provides that a transporter is relieved of their obligation to carry from Canada any foreign\nnational who was authorized to enter and remain in Canada on a temporary basis or held a temporary\nresident or permanent resident visa at the time of their examination. A transporter is always required to\ncarry from Canada a member of their crew or a foreign national who entered Canada to become a\nmember of their crew.\n11.4 Liability for removal costs\nA transporter who is required to carry from Canada a foreign national they brought to Canada is also\nliable to reimburse all costs of removal and, if applicable, attempted removal incurred by the CBSA in\nrespect of that person. Section R278 describes the various types of removal costs for which a transporter\nmay be liable as\n•",
+      "text_enriched": "•\nthe itinerary must not include a country through which transit has not been approved; and\n•\nthe period of time between any connections does not exceed 12 hours.\n11.3 Relief from obligations\nSection R277 (Regulation 277) provides that a transporter is relieved of their obligation to carry from Canada any foreign\nnational who was authorized to enter and remain in Canada on a temporary basis or held a temporary\nresident or permanent resident visa at the time of their examination. A transporter is always required to\ncarry from Canada a member of their crew or a foreign national who entered Canada to become a\nmember of their crew.\n11.4 Liability for removal costs\nA transporter who is required to carry from Canada a foreign national they brought to Canada is also\nliable to reimburse all costs of removal and, if applicable, attempted removal incurred by the CBSA in\nrespect of that person. Section R278 (Regulation 278) describes the various types of removal costs for which a transporter\nmay be liable as\n•"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c43",
+      "chars": 938,
+      "page_start": 19,
+      "page_end": 19,
+      "heading_path": [
+        "5 Departmental policy",
+        "9.4 Airline Memorandum of Understanding Program [R280]"
+      ],
+      "text": "respect of that person. Section R278 describes the various types of removal costs for which a transporter\nmay be liable as\n•\nexpenses incurred within or outside Canada with respect to the foreign national’s\naccommodation and transport;\n•\naccommodation and travel expenses incurred by any escorts;\n•\nfees paid in obtaining documents for the foreign national and any escorts;\n•\nthe cost of meals, incidentals and other related expenses;\n•\nregular and overtime wages paid to escorts and other personnel accompanying the foreign\nnational; and\n•\ncosts or expenses for interpreters, medical or other personnel assisting with the removal.\nNote: Refer to chapter ENF 17 for marine transporters’ liability for removal costs.\n11.5 Reporting of removal costs to the Transporter Obligations\nProgram\nThe recovery of removal costs for which transporters are liable falls under the responsibility of the\nTransporter Obligations Program, Programs Branch.",
+      "text_enriched": "respect of that person. Section R278 (Regulation 278) describes the various types of removal costs for which a transporter\nmay be liable as\n•\nexpenses incurred within or outside Canada with respect to the foreign national’s\naccommodation and transport;\n•\naccommodation and travel expenses incurred by any escorts;\n•\nfees paid in obtaining documents for the foreign national and any escorts;\n•\nthe cost of meals, incidentals and other related expenses;\n•\nregular and overtime wages paid to escorts and other personnel accompanying the foreign\nnational; and\n•\ncosts or expenses for interpreters, medical or other personnel assisting with the removal.\nNote: Refer to chapter ENF 17 for marine transporters’ liability for removal costs.\n11.5 Reporting of removal costs to the Transporter Obligations\nProgram\nThe recovery of removal costs for which transporters are liable falls under the responsibility of the\nTransporter Obligations Program, Programs Branch."
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c44",
+      "chars": 180,
+      "page_start": 19,
+      "page_end": 19,
+      "heading_path": [
+        "5 Departmental policy",
+        "9.4 Airline Memorandum of Understanding Program [R280]"
+      ],
+      "text": "Transporter Obligations Program, Programs Branch.\nIn order to ensure that removal costs are recovered from the liable transporter, CBSA officers should\ncomplete the BSF501 form and",
+      "text_enriched": "Transporter Obligations Program, Programs Branch.\nIn order to ensure that removal costs are recovered from the liable transporter, CBSA officers should\ncomplete the BSF501 form and"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c45",
+      "chars": 944,
+      "page_start": 20,
+      "page_end": 20,
+      "heading_path": [
+        "5 Departmental policy",
+        "9.4 Airline Memorandum of Understanding Program [R280]"
+      ],
+      "text": "•\nemail the completed BSF501 form and a copy of the e-ticket of the person removed and\nescorts (if applicable) to the Transporter Obligations Program; or\n•\nmail the completed BSF501 form to the Stakeholder Engagement and Outreach Unit,\nTransporter Obligations Program, CBSA.\nThe Transporter Obligations Program reviews each form and, after obtaining any missing information or\nmaking any necessary corrections, assesses the removal costs. An itemized invoice is sent by the\nTransporter Obligations Program to the carrier via email. If the carrier is no longer in operation, the\nTransporter Obligations Program will deduct the removal costs from the airline security that has been\ndeposited with the CBSA.\n12 Medical examination and treatment\nPursuant to paragraph A148(1)(g), a transportation company must pay all prescribed costs and fees\nrelating to its obligation, and under paragraph A148(1)(c), it must arrange for the medical examination,",
+      "text_enriched": "•\nemail the completed BSF501 form and a copy of the e-ticket of the person removed and\nescorts (if applicable) to the Transporter Obligations Program; or\n•\nmail the completed BSF501 form to the Stakeholder Engagement and Outreach Unit,\nTransporter Obligations Program, CBSA.\nThe Transporter Obligations Program reviews each form and, after obtaining any missing information or\nmaking any necessary corrections, assesses the removal costs. An itemized invoice is sent by the\nTransporter Obligations Program to the carrier via email. If the carrier is no longer in operation, the\nTransporter Obligations Program will deduct the removal costs from the airline security that has been\ndeposited with the CBSA.\n12 Medical examination and treatment\nPursuant to paragraph A148(1) (Act Section 148(1))(g), a transportation company must pay all prescribed costs and fees\nrelating to its obligation, and under paragraph A148(1) (Act Section 148(1))(c), it must arrange for the medical examination,"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c46",
+      "chars": 973,
+      "page_start": 20,
+      "page_end": 20,
+      "heading_path": [
+        "5 Departmental policy",
+        "9.4 Airline Memorandum of Understanding Program [R280]"
+      ],
+      "text": "relating to its obligation, and under paragraph A148(1)(c), it must arrange for the medical examination,\nobservation and treatment of a person it carries to Canada. As per subsection R263(3), a commercial\ntransporter must arrange for the medical examination of a foreign national who is required to submit to\none under paragraph A16(2)(b) and for any medical examination, surveillance or treatment that is\nimposed under section R32.\n12.1 Exceptions\nSubsection R263(1) does not apply if the foreign national\n\nholds a temporary or permanent resident visa at the time of their examination, and the foreign\nnational’s health condition is not a result of the commercial transporter’s negligence; or\n\nhas been authorized to enter Canada and is not a member of the crew.\nNote: The Interim Federal Health Program (IFHP) provides health-care coverage to eligible beneficiaries,\nincluding basic, supplemental and prescription drug coverage. Foreign nationals who arrive and require",
+      "text_enriched": "relating to its obligation, and under paragraph A148(1) (Act Section 148(1))(c), it must arrange for the medical examination,\nobservation and treatment of a person it carries to Canada. As per subsection R263(3) (Regulation 263(3)), a commercial\ntransporter must arrange for the medical examination of a foreign national who is required to submit to\none under paragraph A16(2) (Act Section 16(2))(b) and for any medical examination, surveillance or treatment that is\nimposed under section R32 (Regulation 32).\n12.1 Exceptions\nSubsection R263(1) (Regulation 263(1)) does not apply if the foreign national\n\nholds a temporary or permanent resident visa at the time of their examination, and the foreign\nnational’s health condition is not a result of the commercial transporter’s negligence; or\n\nhas been authorized to enter Canada and is not a member of the crew.\nNote: The Interim Federal Health Program (IFHP) provides health-care coverage to eligible beneficiaries,\nincluding basic, supplemental and prescription drug coverage. Foreign nationals who arrive and require"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c47",
+      "chars": 456,
+      "page_start": 20,
+      "page_end": 20,
+      "heading_path": [
+        "5 Departmental policy",
+        "9.4 Airline Memorandum of Understanding Program [R280]"
+      ],
+      "text": "including basic, supplemental and prescription drug coverage. Foreign nationals who arrive and require\nimmediate medical attention should only be issued coverage if they qualify under one of the IFHP eligible\ngroups (e.g., refugee claimant, ineligible refugee claimant but eligible to apply for a pre-removal risk\nassessment [PRRA], detainee)\nFull IFHP details, including determining eligibility and issuing coverage in GCMS, can be found in\nchapter IR 10.",
+      "text_enriched": "including basic, supplemental and prescription drug coverage. Foreign nationals who arrive and require\nimmediate medical attention should only be issued coverage if they qualify under one of the IFHP eligible\ngroups (e.g., refugee claimant, ineligible refugee claimant but eligible to apply for a pre-removal risk\nassessment [PRRA], detainee)\nFull IFHP details, including determining eligibility and issuing coverage in GCMS, can be found in\nchapter IR 10."
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c48",
+      "chars": 909,
+      "page_start": 21,
+      "page_end": 21,
+      "heading_path": [
+        "5 Departmental policy",
+        "12.2 Duration"
+      ],
+      "text": "12.2 Duration\nThe transporter’s liability continues as long as\n•\nthe foreign national requires medical treatment and has not been authorized to enter Canada\nas a temporary or permanent resident; or\n•\nthe transporter’s crew member remains in Canada.\n12.3 Billing of medical costs to transporters\nWhen a transportation company is liable for the medical costs of a foreign national, the CBSA should\nprovide the medical service provider with the name and contact details of the transportation company to\nwhich invoices should be directed. The wording suggested hereafter may be adapted for use in such\ncases:\nTo: (Name of medical service provider)\nFrom: (Name and address of CBSA official)\nRe: (Name of patient)\nThe above-noted person is not eligible for coverage under the Interim Federal Health Program (IFHP).\nPursuant to paragraph 148(1)(g) of the Immigration and Refugee Protection Act and section 263 of the",
+      "text_enriched": "12.2 Duration\nThe transporter’s liability continues as long as\n•\nthe foreign national requires medical treatment and has not been authorized to enter Canada\nas a temporary or permanent resident; or\n•\nthe transporter’s crew member remains in Canada.\n12.3 Billing of medical costs to transporters\nWhen a transportation company is liable for the medical costs of a foreign national, the CBSA should\nprovide the medical service provider with the name and contact details of the transportation company to\nwhich invoices should be directed. The wording suggested hereafter may be adapted for use in such\ncases:\nTo: (Name of medical service provider)\nFrom: (Name and address of CBSA official)\nRe: (Name of patient)\nThe above-noted person is not eligible for coverage under the Interim Federal Health Program (IFHP).\nPursuant to paragraph 148(1)(g) of the Immigration and Refugee Protection Act and section 263 of the"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c49",
+      "chars": 938,
+      "page_start": 21,
+      "page_end": 21,
+      "heading_path": [
+        "5 Departmental policy",
+        "12.2 Duration"
+      ],
+      "text": "Pursuant to paragraph 148(1)(g) of the Immigration and Refugee Protection Act and section 263 of the\nImmigration and Refugee Protection Regulations, the transporter is liable to pay medical costs. Therefore,\nif the patient is uninsured and is unable to pay for health care services, medical costs should be billed to\nthe transportation company that brought this person to Canada, whose name and contact details are\nshown below. Invoices sent to the IFHP or to the Canada Border Services Agency in respect of this\npatient will not be paid.\ncc (Name of transportation company)\nQuestions regarding the billing of medical costs to transportation companies can be directed to the\nTransporter Obligations Program, NHQ.\n13 Security deposits\nParagraph A148(1)(h) gives broad authority to require security from transporters to ensure compliance\nwith their obligations. Section R283 provides that the Minister may require commercial transporters to",
+      "text_enriched": "Pursuant to paragraph 148(1)(g) of the Immigration and Refugee Protection Act and section 263 of the\nImmigration and Refugee Protection Regulations, the transporter is liable to pay medical costs. Therefore,\nif the patient is uninsured and is unable to pay for health care services, medical costs should be billed to\nthe transportation company that brought this person to Canada, whose name and contact details are\nshown below. Invoices sent to the IFHP or to the Canada Border Services Agency in respect of this\npatient will not be paid.\ncc (Name of transportation company)\nQuestions regarding the billing of medical costs to transportation companies can be directed to the\nTransporter Obligations Program, NHQ.\n13 Security deposits\nParagraph A148(1) (Act Section 148(1))(h) gives broad authority to require security from transporters to ensure compliance\nwith their obligations. Section R283 (Regulation 283) provides that the Minister may require commercial transporters to"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c50",
+      "chars": 973,
+      "page_start": 22,
+      "page_end": 22,
+      "heading_path": [
+        "5 Departmental policy",
+        "12.2 Duration"
+      ],
+      "text": "provide security. The security may relate to a specific inadmissible foreign national or be general security\nfrom which administration fees and removal costs for which the commercial transporter is liable may be\ndeducted.\n13.1 Case-specific security deposits (marine mode)\nShip owners, operators and their agents in Canada may be required to deposit security in respect of\ninadmissible foreign nationals who arrive in Canada aboard vessels as stowaways, crew members or\npassengers. The authority to direct transporters to deposit case-specific security in the marine mode is\ndelegated to border services officers. The cash amount required in each case is currently set by NHQ at\n$25,000 per person. This amount is intended to cover the administration fee of $3,200 and the estimated\naverage costs of a removal under escort. Officers may, with the approval of the Manager of the\nTransporter Obligations Program, direct transporters to deposit larger or smaller amounts where",
+      "text_enriched": "provide security. The security may relate to a specific inadmissible foreign national or be general security\nfrom which administration fees and removal costs for which the commercial transporter is liable may be\ndeducted.\n13.1 Case-specific security deposits (marine mode)\nShip owners, operators and their agents in Canada may be required to deposit security in respect of\ninadmissible foreign nationals who arrive in Canada aboard vessels as stowaways, crew members or\npassengers. The authority to direct transporters to deposit case-specific security in the marine mode is\ndelegated to border services officers. The cash amount required in each case is currently set by NHQ at\n$25,000 per person. This amount is intended to cover the administration fee of $3,200 and the estimated\naverage costs of a removal under escort. Officers may, with the approval of the Manager of the\nTransporter Obligations Program, direct transporters to deposit larger or smaller amounts where"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c51",
+      "chars": 968,
+      "page_start": 22,
+      "page_end": 22,
+      "heading_path": [
+        "5 Departmental policy",
+        "12.2 Duration"
+      ],
+      "text": "Transporter Obligations Program, direct transporters to deposit larger or smaller amounts where\nwarranted. For example, the amount of security requested for a stowaway from Africa may be greater\nthan the amount for a stowaway from Europe, given the significantly higher costs of removals to Africa.\nDirections for cash security deposits should be in writing, using the Direction to Deposit Security standard\nletter format (see Appendix A), which is adaptable, as required. When security is received, the official\nreceipt form BSF577 must be completed for each foreign national and the original given to the\ntransporter, with copies distributed as indicated.\nAdministration fees and any removal costs for which the transporter becomes liable in respect of the\nforeign national are automatically deducted from security. Case-specific security is retained by the CBSA\nuntil all enforcement action against the inadmissible foreign national has been finalized and until all",
+      "text_enriched": "Transporter Obligations Program, direct transporters to deposit larger or smaller amounts where\nwarranted. For example, the amount of security requested for a stowaway from Africa may be greater\nthan the amount for a stowaway from Europe, given the significantly higher costs of removals to Africa.\nDirections for cash security deposits should be in writing, using the Direction to Deposit Security standard\nletter format (see Appendix A), which is adaptable, as required. When security is received, the official\nreceipt form BSF577 must be completed for each foreign national and the original given to the\ntransporter, with copies distributed as indicated.\nAdministration fees and any removal costs for which the transporter becomes liable in respect of the\nforeign national are automatically deducted from security. Case-specific security is retained by the CBSA\nuntil all enforcement action against the inadmissible foreign national has been finalized and until all"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c52",
+      "chars": 719,
+      "page_start": 22,
+      "page_end": 22,
+      "heading_path": [
+        "5 Departmental policy",
+        "12.2 Duration"
+      ],
+      "text": "until all enforcement action against the inadmissible foreign national has been finalized and until all\namounts for which the transporter is liable have been paid.\n13.2 General security deposits (air mode)\nMost airlines engaged in the international transportation of passengers to and from Canada are required\nto deposit general security in the form of cash. The authority for requiring transporters to deposit general\nsecurity is delegated to the Manager, Transporter Obligations Program, NHQ.\nThe general security deposit is a prerequisite for any MOU between a transporter and the CBSA. Only\ntransporters that have entered into an MOU with the CBSA are eligible to deposit general security in a\nform other than cash.",
+      "text_enriched": "until all enforcement action against the inadmissible foreign national has been finalized and until all\namounts for which the transporter is liable have been paid.\n13.2 General security deposits (air mode)\nMost airlines engaged in the international transportation of passengers to and from Canada are required\nto deposit general security in the form of cash. The authority for requiring transporters to deposit general\nsecurity is delegated to the Manager, Transporter Obligations Program, NHQ.\nThe general security deposit is a prerequisite for any MOU between a transporter and the CBSA. Only\ntransporters that have entered into an MOU with the CBSA are eligible to deposit general security in a\nform other than cash."
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c53",
+      "chars": 932,
+      "page_start": 23,
+      "page_end": 23,
+      "heading_path": [
+        "5 Departmental policy",
+        "12.2 Duration"
+      ],
+      "text": "The amount of general security is determined in accordance with subsection R283(2) based on the\ntransporter’s compliance with the Act and the anticipated risk of inadmissible foreign nationals being\ncarried to Canada.\nGeneral security is not returned to a transporter that ceases to operate in Canada until enforcement\naction against all inadmissible foreign nationals previously brought to Canada by that transporter has\nbeen completed and until all amounts for which the transporter is liable have been paid.\nIn the event of unscheduled aircraft landings in Canada for the purpose of disembarking passengers who\nare ill or who were a threat to flight security, officers should seek guidance from the Manager, Transporter\nObligations Program, to determine if a security deposit is warranted.\n13.3 Security deposits (land mode)\nThe operators of trains, buses, ferries, taxis and other cross-border passenger transportation companies",
+      "text_enriched": "The amount of general security is determined in accordance with subsection R283(2) (Regulation 283(2)) based on the\ntransporter’s compliance with the Act and the anticipated risk of inadmissible foreign nationals being\ncarried to Canada.\nGeneral security is not returned to a transporter that ceases to operate in Canada until enforcement\naction against all inadmissible foreign nationals previously brought to Canada by that transporter has\nbeen completed and until all amounts for which the transporter is liable have been paid.\nIn the event of unscheduled aircraft landings in Canada for the purpose of disembarking passengers who\nare ill or who were a threat to flight security, officers should seek guidance from the Manager, Transporter\nObligations Program, to determine if a security deposit is warranted.\n13.3 Security deposits (land mode)\nThe operators of trains, buses, ferries, taxis and other cross-border passenger transportation companies"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c54",
+      "chars": 968,
+      "page_start": 23,
+      "page_end": 23,
+      "heading_path": [
+        "5 Departmental policy",
+        "12.2 Duration"
+      ],
+      "text": "13.3 Security deposits (land mode)\nThe operators of trains, buses, ferries, taxis and other cross-border passenger transportation companies\nthat operate at the land border could be required to deposit security in respect of any inadmissible foreign\nnational they bring to Canada.\nOfficers should consult with the Manager, Transporter Obligations Program, whenever they believe that\ncase-specific security may be warranted.\n14 Ensuring transporter compliance\nSubsection A148(2) provides the authority to detain, seize or forfeit a vehicle or other prescribed good of\na transporter that fails to comply with an obligation under the IRPA (e.g., to deposit security or failure to\npay fees or costs for which the transporter is liable).\nThe enforcement measures that may be taken against a transporter are\n•\ndetention, seizure or forfeiture of a vehicle or other prescribed good under subsection A148(2);\n•\nregistry of a certificate in the Federal Court under section A146.",
+      "text_enriched": "13.3 Security deposits (land mode)\nThe operators of trains, buses, ferries, taxis and other cross-border passenger transportation companies\nthat operate at the land border could be required to deposit security in respect of any inadmissible foreign\nnational they bring to Canada.\nOfficers should consult with the Manager, Transporter Obligations Program, whenever they believe that\ncase-specific security may be warranted.\n14 Ensuring transporter compliance\nSubsection A148(2) (Act Section 148(2)) provides the authority to detain, seize or forfeit a vehicle or other prescribed good of\na transporter that fails to comply with an obligation under the IRPA (e.g., to deposit security or failure to\npay fees or costs for which the transporter is liable).\nThe enforcement measures that may be taken against a transporter are\n•\ndetention, seizure or forfeiture of a vehicle or other prescribed good under subsection A148(2) (Act Section 148(2));\n•\nregistry of a certificate in the Federal Court under section A146 (Act Section 146)."
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c55",
+      "chars": 362,
+      "page_start": 23,
+      "page_end": 23,
+      "heading_path": [
+        "5 Departmental policy",
+        "12.2 Duration"
+      ],
+      "text": "•\nregistry of a certificate in the Federal Court under section A146.\nNote: The authority to detain or seize vehicles has been delegated to the regions for reasons of\noperational expediency. However, the Director General, Traveller Programs Directorate, NHQ, should be\ninformed prior to seizing or detaining any commercial aircraft pursuant to subsection A148(2).",
+      "text_enriched": "•\nregistry of a certificate in the Federal Court under section A146 (Act Section 146).\nNote: The authority to detain or seize vehicles has been delegated to the regions for reasons of\noperational expediency. However, the Director General, Traveller Programs Directorate, NHQ, should be\ninformed prior to seizing or detaining any commercial aircraft pursuant to subsection A148(2) (Act Section 148(2))."
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c56",
+      "chars": 944,
+      "page_start": 24,
+      "page_end": 24,
+      "heading_path": [
+        "5 Departmental policy",
+        "14.1 Detention of a vehicle or prescribed good"
+      ],
+      "text": "14.1 Detention of a vehicle or prescribed good\nUnder subsection A148(2), the detention of a vehicle is an enforcement option when a vehicle or\nprescribed good is physically located in Canada and is still being operated by the transporter.\nSection R284 clarifies that a prescribed good is any good that is not land, a building or a transportation\nfacility.\nDelegated authority to detain a vehicle is identified in the document entitled Delegations and Designations\nunder the responsibility of the Minister of Public Safety. See previous note.\nNote: The detention of a vehicle involves the use of the Notice of Detention or Seizure of Vehicle or\nPrescribed Good form [BSF775]. The Manager, Transporter Obligations Program, NHQ, may request\nregions to detain vehicles in order to obtain payment of overdue administration fees and removal costs.\nThe vehicle is detained as soon as an officer delivers a signed BSF775 form to the master or any other",
+      "text_enriched": "14.1 Detention of a vehicle or prescribed good\nUnder subsection A148(2) (Act Section 148(2)), the detention of a vehicle is an enforcement option when a vehicle or\nprescribed good is physically located in Canada and is still being operated by the transporter.\nSection R284 (Regulation 284) clarifies that a prescribed good is any good that is not land, a building or a transportation\nfacility.\nDelegated authority to detain a vehicle is identified in the document entitled Delegations and Designations\nunder the responsibility of the Minister of Public Safety. See previous note.\nNote: The detention of a vehicle involves the use of the Notice of Detention or Seizure of Vehicle or\nPrescribed Good form [BSF775]. The Manager, Transporter Obligations Program, NHQ, may request\nregions to detain vehicles in order to obtain payment of overdue administration fees and removal costs.\nThe vehicle is detained as soon as an officer delivers a signed BSF775 form to the master or any other"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c57",
+      "chars": 966,
+      "page_start": 24,
+      "page_end": 24,
+      "heading_path": [
+        "5 Departmental policy",
+        "14.1 Detention of a vehicle or prescribed good"
+      ],
+      "text": "The vehicle is detained as soon as an officer delivers a signed BSF775 form to the master or any other\nperson in charge of the vehicle. The delivery of the notice triggers the detention. As soon as the notice of\ndetention has been delivered, the officer should transmit copies to the following local authorities, as\napplicable, to ensure that the vehicle will be prohibited from leaving:\n•\nCanadian Coast Guard Vessel Traffic;\n•\nlocal vessel pilotage authority; and\n•\nairport control tower.\nThe vehicle must be released as soon as the transporter remits the sum of money required or complies\nwith their obligation. When the vehicle is released, the above-mentioned authorities must be immediately\nnotified.\n14.2 Seizure of a vehicle or prescribed good\nAlthough a vehicle may be seized without it first being detained, seizure should be used as a last resort. A\nvehicle that is detained remains in the possession of the transporter. By seizing a vehicle, however, the",
+      "text_enriched": "The vehicle is detained as soon as an officer delivers a signed BSF775 form to the master or any other\nperson in charge of the vehicle. The delivery of the notice triggers the detention. As soon as the notice of\ndetention has been delivered, the officer should transmit copies to the following local authorities, as\napplicable, to ensure that the vehicle will be prohibited from leaving:\n•\nCanadian Coast Guard Vessel Traffic;\n•\nlocal vessel pilotage authority; and\n•\nairport control tower.\nThe vehicle must be released as soon as the transporter remits the sum of money required or complies\nwith their obligation. When the vehicle is released, the above-mentioned authorities must be immediately\nnotified.\n14.2 Seizure of a vehicle or prescribed good\nAlthough a vehicle may be seized without it first being detained, seizure should be used as a last resort. A\nvehicle that is detained remains in the possession of the transporter. By seizing a vehicle, however, the"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c58",
+      "chars": 457,
+      "page_start": 24,
+      "page_end": 24,
+      "heading_path": [
+        "5 Departmental policy",
+        "14.1 Detention of a vehicle or prescribed good"
+      ],
+      "text": "vehicle that is detained remains in the possession of the transporter. By seizing a vehicle, however, the\nCBSA takes possession of the vehicle and thereby becomes liable for the costs of handling, maintaining\nand disposing of it.\nThe delegated authority to seize a vehicle under subsection A148(2) is identified in the document entitled\nDelegations and Designations under the responsibility of the Minister of Public Safety. See previous note\nin section 14.",
+      "text_enriched": "vehicle that is detained remains in the possession of the transporter. By seizing a vehicle, however, the\nCBSA takes possession of the vehicle and thereby becomes liable for the costs of handling, maintaining\nand disposing of it.\nThe delegated authority to seize a vehicle under subsection A148(2) (Act Section 148(2)) is identified in the document entitled\nDelegations and Designations under the responsibility of the Minister of Public Safety. See previous note\nin section 14."
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c59",
+      "chars": 984,
+      "page_start": 25,
+      "page_end": 25,
+      "heading_path": [
+        "5 Departmental policy",
+        "14.1 Detention of a vehicle or prescribed good"
+      ],
+      "text": "Subsection R286(1) provides that, following a seizure, the Minister shall make reasonable efforts to give\nnotice of the seizure to the lawful owner.\nThe seizure of a vehicle involves the use of the Notice of Detention or Seizure of Vehicle or Prescribed\nGood form [BSF775]. The vehicle is seized as soon as an officer delivers a signed BSF775 form to the\nmaster or any other person in charge of the vehicle. As soon as the notice of seizure has been delivered,\nthe officer should transmit copies of the notice to the local authorities, as applicable.\nThe officer should transmit a copy of the BSF775 form to the harbour master (for a ship) or the control\ntower (for an aircraft), giving specific details, such as the vehicle identification (ship's name and registry,\nor flight number or type of aircraft and registration number), the name of the transporter and the authority\nfor seizing. This notification is necessary so that the harbour master or control tower can deny the vehicle",
+      "text_enriched": "Subsection R286(1) (Regulation 286(1)) provides that, following a seizure, the Minister shall make reasonable efforts to give\nnotice of the seizure to the lawful owner.\nThe seizure of a vehicle involves the use of the Notice of Detention or Seizure of Vehicle or Prescribed\nGood form [BSF775]. The vehicle is seized as soon as an officer delivers a signed BSF775 form to the\nmaster or any other person in charge of the vehicle. As soon as the notice of seizure has been delivered,\nthe officer should transmit copies of the notice to the local authorities, as applicable.\nThe officer should transmit a copy of the BSF775 form to the harbour master (for a ship) or the control\ntower (for an aircraft), giving specific details, such as the vehicle identification (ship's name and registry,\nor flight number or type of aircraft and registration number), the name of the transporter and the authority\nfor seizing. This notification is necessary so that the harbour master or control tower can deny the vehicle"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c60",
+      "chars": 949,
+      "page_start": 25,
+      "page_end": 25,
+      "heading_path": [
+        "5 Departmental policy",
+        "14.1 Detention of a vehicle or prescribed good"
+      ],
+      "text": "for seizing. This notification is necessary so that the harbour master or control tower can deny the vehicle\npermission to leave port or take off.\n14.3 Disposition of seized vehicle or prescribed good\nSubsection R286(2) provides that a vehicle or good seized under subsection A148(2) can be sold and the\namount payable by the transporter deducted from the proceeds of the sale, unless the transporter\nsecures the object’s release by providing\n•\nan amount equal to the value of the object at the time of seizure and any expenses incurred in\nthe seizure or detention;\n•\nthe security required under the Act or any costs and fees for which the transporter is liable,\nincluding the expenses incurred in seizing and detaining the object; or\n•\nevidence that the transporter is in compliance with their obligations and has reimbursed the\ngovernment for any expenses incurred in the seizure or detention.\n14.4 Storage and security of a seized vehicle or good",
+      "text_enriched": "for seizing. This notification is necessary so that the harbour master or control tower can deny the vehicle\npermission to leave port or take off.\n14.3 Disposition of seized vehicle or prescribed good\nSubsection R286(2) (Regulation 286(2)) provides that a vehicle or good seized under subsection A148(2) (Act Section 148(2)) can be sold and the\namount payable by the transporter deducted from the proceeds of the sale, unless the transporter\nsecures the object’s release by providing\n•\nan amount equal to the value of the object at the time of seizure and any expenses incurred in\nthe seizure or detention;\n•\nthe security required under the Act or any costs and fees for which the transporter is liable,\nincluding the expenses incurred in seizing and detaining the object; or\n•\nevidence that the transporter is in compliance with their obligations and has reimbursed the\ngovernment for any expenses incurred in the seizure or detention.\n14.4 Storage and security of a seized vehicle or good"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c61",
+      "chars": 770,
+      "page_start": 25,
+      "page_end": 25,
+      "heading_path": [
+        "5 Departmental policy",
+        "14.1 Detention of a vehicle or prescribed good"
+      ],
+      "text": "government for any expenses incurred in the seizure or detention.\n14.4 Storage and security of a seized vehicle or good\nWhen a vehicle or good is seized, the CBSA should consult the transporter to the greatest extent possible\nto ensure that the vehicle is handled properly. A manager directing the seizure of the vehicle or good\nshould commission an insurance appraisal to establish the value and condition at the beginning of the\nseizure period. Officers should ensure that the CBSA is responsible for ensuring procedures are in place\nto protect the seized objects. These procedures often involve\n•\narranging to have a vehicle towed to another location;\n•\nhiring a temporary crew to move the object;\n•\nensuring the security of the object by contracting a security firm;",
+      "text_enriched": "government for any expenses incurred in the seizure or detention.\n14.4 Storage and security of a seized vehicle or good\nWhen a vehicle or good is seized, the CBSA should consult the transporter to the greatest extent possible\nto ensure that the vehicle is handled properly. A manager directing the seizure of the vehicle or good\nshould commission an insurance appraisal to establish the value and condition at the beginning of the\nseizure period. Officers should ensure that the CBSA is responsible for ensuring procedures are in place\nto protect the seized objects. These procedures often involve\n•\narranging to have a vehicle towed to another location;\n•\nhiring a temporary crew to move the object;\n•\nensuring the security of the object by contracting a security firm;"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c62",
+      "chars": 907,
+      "page_start": 26,
+      "page_end": 26,
+      "heading_path": [
+        "5 Departmental policy",
+        "14.1 Detention of a vehicle or prescribed good"
+      ],
+      "text": "•\nsafeguarding the vehicle's log books;\n•\ntaking preventive steps, if necessary, to protect the object from damage in cold weather.\nFor further information on seizures, see chapter ENF 12, which deals with seizures under section A140\nand also includes information concerning the disposition and disposal of seized goods that is applicable\nto seizures under subsection A148(2).\n14.5 Registry of a certification in the Federal Court\nIf the transporter does not have vehicles or goods in Canada that may be detained or seized, the amount\npayable by the transporter may be collected by registering a certificate in the Federal Court pursuant to\nsection A146.\nThe authority to certify before the Court that an amount payable by a transporter has not been paid is\ndelegated to the Comptrollership Branch, NHQ.\nOnce registered, the certificate has the same effect as if it were a Federal Court judgment. This means",
+      "text_enriched": "•\nsafeguarding the vehicle's log books;\n•\ntaking preventive steps, if necessary, to protect the object from damage in cold weather.\nFor further information on seizures, see chapter ENF 12, which deals with seizures under section A140 (Act Section 140)\nand also includes information concerning the disposition and disposal of seized goods that is applicable\nto seizures under subsection A148(2) (Act Section 148(2)).\n14.5 Registry of a certification in the Federal Court\nIf the transporter does not have vehicles or goods in Canada that may be detained or seized, the amount\npayable by the transporter may be collected by registering a certificate in the Federal Court pursuant to\nsection A146 (Act Section 146).\nThe authority to certify before the Court that an amount payable by a transporter has not been paid is\ndelegated to the Comptrollership Branch, NHQ.\nOnce registered, the certificate has the same effect as if it were a Federal Court judgment. This means"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c63",
+      "chars": 985,
+      "page_start": 26,
+      "page_end": 26,
+      "heading_path": [
+        "5 Departmental policy",
+        "14.1 Detention of a vehicle or prescribed good"
+      ],
+      "text": "delegated to the Comptrollership Branch, NHQ.\nOnce registered, the certificate has the same effect as if it were a Federal Court judgment. This means\nthat the Agency may issue what is known as a writ of fieri facias to a sheriff, who can then execute the\njudgment against assets of the company for the amount payable. In practice, this usually involves the\nseizure of the amount payable from the transporter’s bank account.\nThe transporter is liable for the costs of registering a certificate.\nWhere a vehicle cannot be detained to enforce a direction for the deposit of security, regional officers\nhave the option of reporting the transporter’s non-compliance to the Transporter Obligations Program in\norder for the amount payable to be registered.\n15 Transporter Obligations Program contact information\nThe Transporter Obligations Program, Programs Branch, NHQ, can be contacted by\n•\ne-mail; or\n•\nmail at the Stakeholder Engagement and Outreach Unit, Transporter Obligations Program,",
+      "text_enriched": "delegated to the Comptrollership Branch, NHQ.\nOnce registered, the certificate has the same effect as if it were a Federal Court judgment. This means\nthat the Agency may issue what is known as a writ of fieri facias to a sheriff, who can then execute the\njudgment against assets of the company for the amount payable. In practice, this usually involves the\nseizure of the amount payable from the transporter’s bank account.\nThe transporter is liable for the costs of registering a certificate.\nWhere a vehicle cannot be detained to enforce a direction for the deposit of security, regional officers\nhave the option of reporting the transporter’s non-compliance to the Transporter Obligations Program in\norder for the amount payable to be registered.\n15 Transporter Obligations Program contact information\nThe Transporter Obligations Program, Programs Branch, NHQ, can be contacted by\n•\ne-mail; or\n•\nmail at the Stakeholder Engagement and Outreach Unit, Transporter Obligations Program,"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c64",
+      "chars": 124,
+      "page_start": 26,
+      "page_end": 26,
+      "heading_path": [
+        "5 Departmental policy",
+        "14.1 Detention of a vehicle or prescribed good"
+      ],
+      "text": "•\ne-mail; or\n•\nmail at the Stakeholder Engagement and Outreach Unit, Transporter Obligations Program,\nPrograms Branch, CBSA.",
+      "text_enriched": "•\ne-mail; or\n•\nmail at the Stakeholder Engagement and Outreach Unit, Transporter Obligations Program,\nPrograms Branch, CBSA."
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c65",
+      "chars": 974,
+      "page_start": 27,
+      "page_end": 27,
+      "heading_path": [
+        "5 Departmental policy",
+        "14.1 Detention of a vehicle or prescribed good"
+      ],
+      "text": "Appendix A Direction to deposit security\n[Name of shipping agent]\n[Mailing address]\n[City, Province]\n[Postal code]\n[Date]\nRE: [Name of ship]\nTo whom it may concern:\nPursuant to paragraph 148(1)(h) of the Immigration and Refugee Protection Act, [name of shipping agent]\nis hereby directed to deposit with Her Majesty in right of Canada the sum of $25,000 in Canadian\ncurrency. The security should be in the form of a cheque or money order payable to the Receiver General\nfor Canada. This direction is issued as a result of the conveyance to Canada of [name(s) of person(s)\nconcerned] as [(a) stowaway(s)/(a) crew member(s)].\nCompliance with this direction is a statutory requirement. Non-compliance may result in the detention of\nany vessel fully or partly owned by the company concerned, pursuant to subsection 148(2) of the Act.\nThe security deposit may be submitted to the undersigned or to any other departmental official by\narrangement with the undersigned.\nYours truly,",
+      "text_enriched": "Appendix A Direction to deposit security\n[Name of shipping agent]\n[Mailing address]\n[City, Province]\n[Postal code]\n[Date]\nRE: [Name of ship]\nTo whom it may concern:\nPursuant to paragraph 148(1)(h) of the Immigration and Refugee Protection Act, [name of shipping agent]\nis hereby directed to deposit with Her Majesty in right of Canada the sum of $25,000 in Canadian\ncurrency. The security should be in the form of a cheque or money order payable to the Receiver General\nfor Canada. This direction is issued as a result of the conveyance to Canada of [name(s) of person(s)\nconcerned] as [(a) stowaway(s)/(a) crew member(s)].\nCompliance with this direction is a statutory requirement. Non-compliance may result in the detention of\nany vessel fully or partly owned by the company concerned, pursuant to subsection 148(2) of the Act.\nThe security deposit may be submitted to the undersigned or to any other departmental official by\narrangement with the undersigned.\nYours truly,"
+    },
+    {
+      "id": "pdf|1a9d5d0ec1db|c66",
+      "chars": 67,
+      "page_start": 27,
+      "page_end": 27,
+      "heading_path": [
+        "5 Departmental policy",
+        "14.1 Detention of a vehicle or prescribed good"
+      ],
+      "text": "[Signature of officer]\n[Name of officer]\n[Title]\n[Telephone number]",
+      "text_enriched": "[Signature of officer]\n[Name of officer]\n[Title]\n[Telephone number]"
+    }
+  ]
+}

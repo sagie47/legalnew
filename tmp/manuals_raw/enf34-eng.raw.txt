@@ -1,0 +1,1348 @@
+
+
+===== PAGE 1 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ENF 34 
+Alternatives to Detention Program 
+ 
+ 
+
+
+===== PAGE 2 =====
+ 
+ENF 34 Alternatives to Detention Program  
+  
+CONTENTS  
+1. Updates to chapter ....................................................................................................... 3 
+1.1. Listing by date ........................................................................................................ 3 
+2. What this chapter is about ............................................................................................ 3 
+3. Definitions  ................................................................................................................... 4 
+4. Program Objectives ...................................................................................................... 5 
+5. The Acts and Regulations ............................................................................................ 6 
+6. Forms and Publications ................................................................................................ 6 
+7. Departmental Policy ..................................................................................................... 7 
+8. Assessment of alternatives to detention ....................................................................... 7 
+8.1. Risk identification for ATD Considerations ............................................................. 7 
+8.2. Conducting the risk analysis .................................................................................. 8 
+8.3. Risk offset ............................................................................................................ 11 
+8.4. Evaluation of residual risk .................................................................................... 11 
+8.5. Documenting the decision .................................................................................... 12 
+9. Vulnerable persons .................................................................................................... 13 
+10. Minors ...................................................................................................................... 14 
+11. Use of Alternatives to Detention Program tools at ports of entry .............................. 14 
+12. Alternatives to Detention .......................................................................................... 14 
+12.1. Imposition of Conditions under 56(1) ................................................................. 15 
+12.2. Issuance of deposits and guarantees ................................................................ 15 
+12.3. In-person reporting ............................................................................................. 16 
+12.4. Remote Reporting .............................................................................................. 16 
+12.5. Community Case Management and Supervision ............................................... 16 
+12.6. Electronic monitoring.......................................................................................... 22 
+13. Roles and responsibilities ........................................................................................ 24 
+13.1. Community liaison officer ................................................................................... 24 
+13.2. CSC National Monitoring Centre ........................................................................ 25 
+13.3. CCMS service provider ...................................................................................... 25 
+14.0. Jurisprudence........................................................................................................ 25 
+15. Presenting the alternatives to detention assessment at detention reviews .............. 28 
+16. Privacy and information-sharing ............................................................................... 28 
+16.1. Community case management and supervision Privacy Notice form ................ 29 
+16.2. Requesting sensitive information from the community case management and 
+supervision service provider ....................................................................................... 29 
+ 
+  
+  
+  
+  
+  
+
+
+===== PAGE 3 =====
+3  
+  
+1. Updates to chapter  
+1.1. Listing by date  
+2023-10-26 
+Substantive revisions were made to improve the flow of the manual and to reflect 
+updated procedures, including the following: 
+ Updated definitions section. 
+ Sections 3.0 to 6.0 are new and include Program Objectives, Acts and 
+Regulations, Forms and Publications, and Departmental Policy. The forms were 
+formally in Annex A. 
+ Updated information on identity cases under 8.2.2.Revised information on risk 
+offset 8.3, 8.4, and 8.5, particularly around the role of the Community Liaison 
+Officer.  
+ Updated information under section 9.0 vulnerable persons, including 
+vulnerabilities to be considered.  
+ Revised information under section 11. 
+ Revisions were made to section 12, 12.4.2, 12.4.4, 12.4.5, 12.6 and 12.6.1.  
+ New section added under 12.5.3 for CCMS transfers. 
+ New section added under 12.5.5 for the use of interpreters. 
+ Reference to Voice Reporting as an ATD option has been removed.  
+ Revised Community Liaison Roles and Responsibilities under section 13. 
+ New section for jurisprudence.  
+ 
+22 June 2018 – Initial version  
+2. What this chapter is about  
+This chapter describes the elements of the Alternatives to Detention (ATD) Program and 
+provides information and guidance on how the tools available under the ATD Program should 
+be used.  
+  
+This chapter is meant to be read in conjunction with  
+  
+• 
+ENF 3 Admissibility Hearings and Detention Reviews  
+• 
+ENF 7 Immigration Investigations and IPRA s.55 Arrests/Detention  
+• 
+ENF 8 Deposits and Guarantees  
+• 
+ENF 20 Detentions  
+• 
+ENF 22 Persons serving a sentence  
+
+
+===== PAGE 4 =====
+4  
+  
+ 
+Requests for clarification, questions and comments in relation to this manual should be 
+addressed to the Canada Border Services Agency (CBSA) Alternatives to Detention Unit, 
+Intelligence and Enforcement Branch’s generic mailbox at CBSA.Alternatives_to_Detention-
+Solutions_de_rechange_de_detentions.ASFC@cbsa-asfc.gc.ca. 
+3. Definitions  
+Alternative to 
+detention  
+An alternative to detention is defined as one of the conditions that may 
+be imposed on an individual to offset a risk they represent to the 
+enforcement objectives and the mandate of the CBSA by either an 
+officer or a Member of the Immigration Division (ID) of the Immigration 
+and Refugee Board (IRB).  
+Case closure  
+Case closure happens when an individual enrolled in an ATD no 
+longer requires community based support (for example, a change in 
+the individual’s risk level or circumstances where the individual has 
+other support mechanisms, the individual has been compliant after 
+already being de-escalated or the individual is removed from the 
+country). 
+Community case 
+management and 
+supervision (CCMS)  
+The CCMS program provides in-community support to individuals in 
+order to manage and mitigate risk. CCMS promotes detention 
+avoidance or detention release for people who lack a bondsperson or 
+require support in addition to a bondsperson to mitigate risk upon 
+release into the community. The CBSA has entered into contracted 
+partnerships with third-party service providers to support individuals in 
+the community.  
+Deposit 
+The payment of a sum of money by a person to the Receiver 
+General for Canada for compliance with the conditions imposed on 
+the person concerned and their release from detention. See ENF 8 
+Deposits and Guarantees. 
+Detention review  
+See ENF 3 Admissibility, Hearings and Detention Reviews.  
+Electronic 
+monitoring (EM)  
+EM is the use of a global positioning system (GPS), radio-frequency 
+(RF) system or both to monitor individuals in the community. The EM 
+monitoring system is built on real-time location data, which is collected 
+and analysed in a central facility and reported to regional staff to 
+pursue for enforcement, as deemed appropriate.  
+Guarantee  
+A guarantee is a written enforceable undertaking by a third party 
+(the guarantor) that the person concerned will abide by the 
+conditions imposed by a CBSA or IRCC officer or the Immigration 
+Division and to forfeit or pay a sum of money to the Crown if the 
+person concerned breaches any conditions. The guarantor and the 
+
+
+===== PAGE 5 =====
+5  
+  
+person concerned must both agree to the conditions. They are also 
+called “performance bonds”. See ENF 8 Deposits and Guarantees. 
+In-person reporting  
+In-person reporting is a condition imposed on individuals where they 
+are required to physically appear at a specified place and make 
+themselves known to an official. Usually, this means attending a 
+CBSA inland enforcement office and checking in with a CBSA staff 
+member, who verifies the individual’s identity and records their 
+attendance in the system.  
+Service provider  
+A service provider provides CCMS services on behalf of the CBSA to 
+eligible individuals and engages in discussions with the Community 
+Liaison Officer (CLO), pertaining to individuals enrolled in CCMS 
+services.  
+Withdrawal of 
+supervision  
+Withdrawal of supervision is a decision made by the CCMS service 
+provider to the CLO or CBSA management when the provider is of the 
+opinion that the individual can no longer be managed in the community 
+(that is, when the individual is no longer willing to comply with the 
+requirements of the program).  
+  
+4. Program Objectives  
+The ATD Program encompasses all conditions that can be imposed to manage and mitigate the 
+risk posed by an individual in relation to the enforcement objectives of the Immigration and 
+Refugee Protection Act (IRPA) and the CBSA’s mandate. The ATD Program provides officers 
+and the Immigration and Refugee Board (IRB) with tools and programs that enable them to 
+manage individuals released into the community more effectively.  
+  
+The ATD Program is a mechanism to protect the integrity of Canada’s immigration detention 
+system by ensuring individuals are treated fairly and in accordance with the overarching principle 
+that detention is a measure of last resort, and the decision to detain or release an individual is 
+based on the risk they present.  
+ 
+The CLO is the ATD subject matter expert. They provide a centralized approach for the ATD 
+program.  
+  
+ 
+ 
+
+
+===== PAGE 6 =====
+6  
+  
+5. The Acts and Regulations 
+Officers should be familiar with the legislative and regulatory authorities that surround the use of 
+ATDs contained in the IRPA and its Regulations. The following are referenced authorities that 
+officers should be familiar with: 
+ 
+Authorities 
+Sections 
+of 
+IRPA/IRPR 
+Release - officer 
+ 
+An officer may order the release from detention of a permanent resident or a 
+foreign national before the first detention review by the Immigration Division if 
+the officer is of the opinion that the reasons for the detention no longer exist. 
+The officer may impose any conditions, including the payment of a deposit or 
+the posting of a guarantee for compliance with the conditions, that the officer 
+considers necessary. 
+A56(1) 
+Release – Immigration Division, Conditions 
+ 
+If the Immigration Division orders the release of a permanent resident or a 
+foreign national, it may impose any conditions that it considers necessary, 
+including the payment of a deposit or the posting of a guarantee for compliance 
+with the conditions. 
+A58(3) 
+ 
+Other factors 
+ 
+If it is determined that there are grounds for detention, the following factors 
+shall be considered before a decision is made on detention or release: 
+ the existence of alternatives to detention 
+ 
+R248(e) 
+ 
+6. Forms and Publications 
+The ATD forms reflect the following: male, female and an unspecified options. The unspecified 
+identifier is an option that may be chosen by individuals who do not identify exclusively as male, 
+female, as well as two-spirit individuals. However, some ATD forms will require an individual’s 
+gender in order to ensure their safety and well-being through the ATD continuum. 
+ 
+Form Title - CBSA 
+Form 
+Number 
+Community Case Management and Supervision Referral  
+BSF801 
+Community Case Management and Supervision - Supervision Agreement 
+BSF802 
+Community Case Management and Supervision Privacy Notice 
+BSF803 
+Consent to Share Location with the CBSA 
+BSF804 
+Community Case Management and Supervision Case Summary 
+BSF805 
+
+
+===== PAGE 7 =====
+7  
+  
+Community Case Management and Supervision (CCMS) Change of 
+Conditions  
+BSF806 
+Community Case Management and Supervision Report of Non-Compliance 
+BSF807 
+Client Profile Set Up (Electronic Monitoring) 
+BSF808 
+Client Instructions (Electronic Monitoring) 
+BSF809 
+ 
+Form Title - Toronto Bail Program  
+Bail Program Supervision Contract 
+Agreement of Supervision: Crim 
+Agreement of Supervision: Holding Centre 
+Graduation Request  
+Interview Results 
+Withdraw Supervision Letter Template 
+ 
+The ATD forms must be uploaded within seven business days into the Global Case Management 
+System (GCMS) and in accordance with the Alternatives to Detention Forms Upload 
+Procedures. The forms and assessment should also be placed on the individuals’ physical file.  
+ 
+ 
+7. Departmental Policy 
+The CBSA has established tools and programs that enable officers to more effectively release 
+individuals into the community, while achieving balanced enforcement outcomes. The ATD 
+program provides risk-based, nationally consistent programming to individuals deemed suitable 
+for release from detention.  
+ 
+In addition to the options of releasing an individual on reporting conditions (e.g., in-person 
+reporting), cash deposit, or with a bond and/or guarantee upon the establishment of a suitable 
+bondsperson, the ATD program also includes the option of: 
+ A national Community Case Management and Supervision (CCMS) program that 
+mitigates risk factors in a manner that aligns in-community support services with 
+individuals’ needs. 
+ An Electronic Monitoring (EM) program that uses global positioning satellites, cellular and 
+radio frequency technology to monitor an individual’s whereabouts.  
+ 
+ 
+8. Assessment of alternatives to detention  
+8.1. Risk identification for ATD Considerations 
+Risk identification is an evaluation of the information available at the time of the assessment. 
+Information can be obtained through an interview and should include evidence available that 
+may help predict future behaviour.  
+  
+
+
+===== PAGE 8 =====
+8  
+  
+Risks related to the objectives of the IRPA can generally be categorized in the following ways:  
+  
+1. 
+As described in paragraphs A3(1)(h) and A3(2)(g) risk to public safety is related to the 
+objectives of the IRPA. Public safety is the top priority for the CBSA. When consequences 
+associated with public safety risks are significant, an officer may, where appropriate, impose 
+conditions that they consider necessary, and the conditions must minimize the risk and be 
+proportional to the risk (Mawut: 2022 FC 415, paragraph 35) for the purpose of release or 
+detention avoidance.  
+   
+2. 
+Risk to program integrity is also a key consideration in regards to risk identification. These 
+risks relate to a negative impact on achieving all other objectives of the IRPA. The acceptable 
+degree of risk depends on the specific circumstances and is discussed further below.  
+  
+At this stage, the focus is on identifying information that will be considered during the risk 
+analysis.  
+  
+8.2. Conducting the risk analysis  
+Once all the available information on potential risks has been gathered, officers must analyze 
+the information to determine what weight should be given. The following factors and questions 
+assist in determining the weight to be given:  
+  
+1. How reliable, accurate and comprehensive is the information?  
+a. Greater weight should be given to information that is believed to be unbiased and fully 
+describes the behaviour or circumstances.  
+2. How likely is it that the risk will impact the CBSA’s enforcement mandate or IRPA objective?  
+a. Greater weight should be given to information that directly relates to the objectives of 
+the IRPA. For example, a history of failing to appear for immigration proceedings or to 
+appear before the Court for criminal matters should be given more weight than failure 
+to appear for regulatory (traffic) proceedings.  
+ 
+Using the information gathered, officers consider the prescribed factors, as identified in sections 
+244 to 247 of the Immigration and Refugee Protection Regulations (IRPR), as well as some 
+additional factors discussed below, as they relate to the grounds for detention. Where the 
+individual is subject to conditions under the Criminal Code of Canada, care should be taken to 
+ensure that the conditions imposed under the IRPA are not contradictory. Officers should be 
+aware of the specific details of any criminal conditions and should considered this as part of the 
+risk analysis. 
+ 
+Officers should reference ENF 7 for factors to be considered by an officer before, during and 
+after arrest/detention.  
+ 
+
+
+===== PAGE 9 =====
+9  
+  
+8.2.1. Flight risk  
+Individuals who pose a risk of not appearing for proceedings (Unlikely to Appear) may be more 
+likely to appear than not after the imposition of conditions, taking into account the factors in 
+section R245 and paragraphs R248(b), (c) and (d) as well as any other relevant factors, such 
+as:  
+• 
+Objective assessment of their chances of gaining durable status in Canada.  
+• 
+Existence of strong ties to a community in Canada.  
+ Strong ties are a factor in favour of release if the ties are to a person or people 
+who can influence the person to appear for proceedings.  
+ Strong ties are a factor against release if the person or people have shown not to 
+have a positive influence and, therefore, become a strong pull factor motivating 
+the individual not to appear for removal.  
+• 
+Access to  sufficient financial means, which may provide an increased ability to abscond.  
+• 
+Use of false identity documents and aliases to evade detection from the authorities.  
+• 
+Previous attempts to hide their presence in Canada.  
+• 
+Lack of credibility, as demonstrated in dealings with immigration or police officials.  
+• 
+Co-operation of the individual.  
+ If an individual is uncooperative with the CBSA, this is a strong indicator that the 
+individual is unlikely to comply with imposed conditions.  
+  
+8.2.2. Identity  
+Paragraph 58(1)(d) of the IRPA provides that delegated officials may issue an opinion to the 
+Immigration Division with respect to the establishing of identity of the foreign national, which the 
+Immigration Division must consider during a detention review. This opinion must be documented 
+using the BSF510 form. In regions with Immigration Holding Centres (IHCs) the foreign national 
+could be detained at the IHC until their identity is established.  
+ 
+Establishing identity is a two-way street, in that both the Minister and the foreign national must 
+work together in an effort to establish the foreign nationals identity. The Immigration Division’s 
+supervisory jurisdiction on the issue of identity is limited to examining whether the Minister is 
+conducting an ongoing investigation, in good faith, and the foreign national is cooperating with 
+the Minister in an effort to establish the foreign national’s identity. 
+ 
+The Federal Court of Appeal in Brown (2020 FCA 130, paragraph 99) states the following:  
+“ Detention cannot be ordered on the basis of non-cooperation alone—to do so would be 
+contrary to sections 7 and 9. But where the impasse in effecting removal is disputed identity 
+and the detainee has refused to cooperate in confirming their identity, delays in removal 
+cannot count against the Minister. Release in these circumstances would encourage 
+detainees to be less than forthcoming. Where a detainee is uncooperative, detention 
+cannot be classified as indefinite because it is within the detainee’s control to change their 
+destiny. 
+ 
+
+
+===== PAGE 10 =====
+10  
+  
+Establishing the identity of an individual remains the cornerstone to the Canadian Immigration 
+System (Singh: 2004 FC 1634, paragraph 38) and the non-confirmation of identity under the Act 
+is still a ground for detention.  
+  
+The CBSA must have enough reliable, accurate and comprehensive information to effectively 
+assess the risk posed by an individual, if released. If the CBSA does not have sufficient 
+information, release on the basis of ATDs is generally not appropriate until the CBSA is able to, 
+based on a balance of probabilities, feel sufficiently comfortable that the information on file is 
+enough to predict risk.  
+  
+8.2.3. Danger  
+Individuals who are detained for danger to the public should have their risk mitigated, so the risk 
+of serious harm to the public is significantly reduced by the conditions being imposed. Factors 
+to be assessed include the following:  
+  
+• 
+assessment related to present or future danger based on prior history;  
+• 
+positive danger opinion from the Minister; 
+• 
+association with criminal organizations, including people smuggling and human trafficking  
+(membership is not required, just association; a criminal record is not required either)  
+• 
+convictions in Canada for offences involving violence or drug trafficking  
+• 
+charges or convictions outside Canada involving violence or drugs trafficking  
+• 
+age of convictions must be considered, as the more time that has passed since the 
+convictions the lesser the risk, taking into account efforts by the individual to rehabilitate, 
+including any associated factors, such as substance addiction;  
+• 
+parole, probation and bail decisions (where available) serve as good references when 
+evaluating the level of danger, and may include risk assessment and related supervision 
+conditions in the area of criminal history, institutional/custodial behavior, and community 
+reintegration potential, etc.  
+ CBSA’s assessment may take into consideration third party criminal justice 
+agency information from a non-immigration perspective, and strengthen decision-
+making pertaining to the conditions recommended to manage risk. Where 
+possible, CBSA’s conditions should respect any active parole, probation and bail 
+decisions to ensure consistency in the management of individuals risk to public 
+safety. 
+• 
+nature of the risk posed  
+ For example, if an individual presents a very likely risk of serious harm to the 
+public, the risk should be significantly reduced by the conditions being imposed. If 
+the risk posed to the public is based on predictive factors and is more general in 
+nature, the imposed conditions should reasonably be expected to reduce the 
+general risk posed.  
+  
+
+
+===== PAGE 11 =====
+11  
+  
+8.2.4. Mental health concerns  
+The risk posed by individuals with mental health concerns depends largely on the available 
+treatment options and the individual’s ability and willingness to participate in the treatment. The 
+history of the individual’s compliance with previous treatment is a good indicator of future 
+compliance. However, the individual’s history is only one factor to be considered, and should be 
+assessed against their current ability and willingness to participate in treatment. 
+ 
+The National Risk Assessment for Detention (NRAD) form is used to determine the appropriate 
+placement of individuals in detention. Many of the factors identified and analyzed in the NRAD 
+form are likely relevant to a risk analysis for alternatives to detention; however, the analysis of 
+risks for purposes of alternatives to detention must be done separately from the NRAD form 
+decision.  
+  
+For more information on risk analysis and the use of the NRAD form, see ENF 20.  
+  
+8.3. Risk offset  
+Risk offset describes the degree to which the condition that is imposed is expected to minimize 
+the risk posed. Identifying conditions that effectively reduce the specific risk or risks posed is the 
+intended outcome of this phase of the eligibility assessment of an ATD.  
+  
+A condition imposed as a risk offset should:  
+• minimize the likelihood of the risk impacting the enforcement outcome;  
+• minimize the risk of harm to the public;  
+• address specific negative behaviours of the individual;  
+• be reasonable and proportional to the risk.  
+  
+ATD options may be combined together to offset risk. ATD options are at the disposal of CBSA 
+officers to leverage while imposing conditions on individuals that they consider necessary in light 
+of the facts and circumstances before them. The imposed conditions must minimize risk and be 
+proportional to the risk. For CCMS and EM, a suitability assessment must be conducted. For 
+EM, concurrence from regional management is required.  
+ 
+Furthermore, the ATD program options are at the disposal of the Hearings Officer to leverage in 
+consultation with the CLO and the Inland Enforcement Officer while making recommendations 
+of release during detention reviews before an Immigration Division Member of the IRB. 
+ 
+ 
+8.4. Evaluation of residual risk  
+Residual risk is the level of risk that remains if it is decided that an individual be placed on 
+conditions. It is either acceptable residual risk (the risk has been sufficiently mitigated) or 
+unacceptable residual risk (the risk has not been sufficiently mitigated). When an officer (CLO, 
+Inland Enforcement Officer, Border Services Officer) is considering release, or when a Hearings 
+
+
+===== PAGE 12 =====
+12  
+  
+Officer is making submissions on a release plan to the IRB, the residual risk posed by the 
+individual, after conditions are imposed, is the primary consideration.  
+  
+ What is acceptable or unacceptable in any given case depends on the unique facts of 
+the case. Therefore, a case-by-case analysis is required. It is important for officers to 
+remember that if an individual is a flight risk, but poses no other risks, only those 
+conditions that minimize their risk of absconding should be imposed. Similarly, if an 
+individual poses a risk to public safety, only the least onerous conditions to address that 
+specific risk should be imposed.   
+  
+When deciding if the residual risk is acceptable for individuals who are unlikely to appear, the 
+officer should be evaluating, on a balance of probabilities, whether the individual is more likely 
+to appear than not.  
+  
+When deciding if the residual risk is acceptable for an individual who is detained for identity, the 
+officer must evaluate the risk of the individual not appearing and the possible danger to the public 
+the individual poses, taking into account the risks inherent in not being satisfied with the 
+individual’s identity. Additionally, the officer must be satisfied that the ability to continue the 
+investigation into the individual’s identity is not negatively impacted by releasing the individual 
+on the conditions available.  
+  
+For an individual who presents as a danger to the public, the residual risk must be very low. The 
+IRPA prioritizes the safety of the public and, therefore, any risk posed must be minimal, taking 
+into account all of the individual circumstances.  
+  
+If the residual risk is acceptable, in the officer’s opinion, they may decide to release prior to the 
+48 hour detention review or present the release options to the Hearings Officer  for the detention 
+review.  
+  
+If the residual risk is unacceptable, in the officer’s opinion, taking into account the factors in 
+paragraphs R248(a) to (d), they should proceed with making a recommendation for continued 
+detention to the authorized reviewing manager or the Hearings Officer for the detention review, 
+as appropriate.  
+ENF 3 Admissibility Hearings and Detention Reviews provides guidance on evaluating residual 
+risk at detention reviews.  
+  
+8.5. Documenting the decision  
+Officers are required to document their assessment of ATDs and the reasons for the 
+recommendation to continue detention or support release on ATDs. The written assessment of 
+ATDs must contain the salient facts and must include, at a minimum  
+  
+• the information that was available at the time the assessment was made;  
+• factors used to determine the weight given to the information;  
+
+
+===== PAGE 13 =====
+13  
+  
+• the risks identified;  
+• for a recommendation to continue detention, the factors in paragraphs R248(a) to (d) that 
+weighed in favour of detention, when balanced against the risk offset provided by the 
+available ATDs;  
+• for a recommendation to release on the basis of ATDs, the risk offset provided by the ATDs;  
+• justification for any recommendation that is an exception to the guidelines provided in this 
+manual or other operational guidance.  
+  
+For every assessment completed, all details must be entered into the relevant case management 
+systems (i.e., National Case Management System, GCMS, etc.). The BSF forms and 
+assessment must be uploaded into GCMS in accordance with the Alternatives to Detention Form 
+Upload Procedures and placed on the individuals’ physical file.  
+  
+9. Vulnerable persons  
+Some vulnerable persons have an increased risk, based on their vulnerability. For the purposes 
+of immigration detention, vulnerable persons include but are not limited:  
+ 
+pregnant women and nursing mothers; 
+ 
+minors (under 18 years of age); 
+ 
+persons suffering from a severe medical condition or disability; 
+ 
+persons suffering from restricted mobility; 
+ 
+persons with a suspected or known mental illness (including suicide and self harm); 
+ 
+victims of human trafficking; 
+ 
+persons who may face hardship for sexual or gender based reasons or who may be 
+victims or survivors of gender-based violence. 
+ 
+It is recognized that detention has a greater impact on vulnerable persons, and detention should 
+be minimized to the extent possible for such groups. Risk tolerance may be influenced by 
+vulnerability factors. Each case needs to be assessed on its case-specific factors to determine 
+if release is a viable option. If the individual has been identified on the National Risk Assessment 
+for Detention or through an IHC doctor assessment as a vulnerable person, the assessment and, 
+if applicable, a  referral to a CCMS Service Provider must be completed by the CLO within 72 
+hours of the vulnerability being noted and the decisions documented as per section 8.5 of this 
+manual. 
+ 
+See ENF 20 Detentions for more information regarding vulnerable persons.  
+  
+
+
+===== PAGE 14 =====
+14  
+  
+10. Minors  
+See ENF 20 Detentions for guidance on the factors to be considered when a case involves a 
+minor child. This includes detention decisions related to parents and legal guardians of minors 
+when the minor is affected.  
+  
+11. Use of Alternatives to Detention Program tools at ports of 
+entry  
+The assessment process for ATDs is the same at ports of entry (POE) as it is for inland cases.  
+Most POE detentions are for a very short amount of time, and the grounds for detention are 
+usually related to a high or unknown risk. These factors usually weigh heavily in favour of 
+detention. However, this does not preclude the officer’s responsibility to assess and consider 
+ATDs in all cases where detention may be continued.   
+ 
+All officers arresting and/or detaining under section A55 of the IRPA, including officers at the 
+POE, are required to consider available ATDs. This includes officers detaining on entry under 
+A55(3). Border Services Officers could leverage, where necessary and appropriate, deposits 
+and guarantees as ATDs when imposing conditions under POE authorities. Please refer to ENF8 
+for additional information on Deposits and Guarantees.  
+ 
+In instances where the POE examination has ended and ATDs  are not available at the time of 
+arrest/detention under A55, the designated officer (e.g., Border Services Officer) that made the 
+decision to arrest and detain under A55 may refer the case to the CLO at the inland office that 
+will take carriage of the file, for further assessment of available ATDs.  
+  
+Border Services Officers should ensure persons with disabilities are entitled to the same services 
+as any other person, in accordance with the People Processing Manual Part One, Chapter Four 
+– Awareness Issues.  
+ 
+ 
+12. Alternatives to Detention  
+Various ATDs are available and must be reasonably considered prior to immigration detention 
+and while the individual remains in immigration detention. The officer should consider the 
+individual’s immigration history and potential risk against the maximum risk that can be 
+mitigated through each ATD. Accessibility to ATDs may differ between POE and inland 
+enforcement offices. The availability of ATDs may be impacted by the time of day of the arrest 
+as some require involvement from third parties (e.g., guarantor or service provider). 
+ 
+
+
+===== PAGE 15 =====
+15  
+  
+12.1. Imposition of Conditions under 56(1) 
+ 
+ 
+IRPA allows for general conditions to be imposed on individuals when the Minister orders the 
+release of an individual. General conditions can be imposed with or without any additional 
+conditions, such as payment of deposits, or in addition to other types of conditions (e.g. 
+deposits, community supervision, in-person reporting, etc.). It is important to note that release 
+solely on conditions equates to ATDs.  
+  
+The following are commonly imposed conditions that are appropriate in a majority of cases where 
+release from detention is being contemplated:  
+  
+Condition  
+Risk mitigation  
+Keep the CBSA 
+updated with a 
+current address  
+A current address allows the CBSA to locate the individual if they 
+fail to comply with conditions or requirements, including removal. 
+A current address is likely to provide investigative leads if the 
+individual fails to comply.  
+Report criminal 
+charges and 
+convictions  
+Criminal charges and convictions are indicators that an 
+individual may pose a danger to the public, which is a primary 
+concern for the CBSA.  
+Cooperate with 
+obtaining an identity 
+or travel document  
+The lack of an identity or travel document is often the sole 
+impediment to removal for many individuals. Obtaining an 
+identity or travel document can take a long time, and the sooner 
+the process begins, the more likely the timely removal of the 
+person will take place if it becomes necessary.  
+Other conditions, 
+including those listed 
+on the BSF821 form 
+(Acknowledgement 
+of Conditions) 
+An officer may impose any other condition that they consider 
+necessary in order to address risk specific to each individual 
+provided the condition is proportional to the risk; however, the 
+officer must be able to articulate why specific conditions are 
+being imposed and they cannot be unreasonable or amount to 
+de facto detention.   
+  
+  
+12.2. Issuance of deposits and guarantees  
+Deposits and guarantees are tools intended to provide some assurances that an individual will 
+comply with conditions imposed. Deposits and guarantees are discussed in ENF 8 Deposits and 
+Guarantees.  
+  
+
+
+===== PAGE 16 =====
+16  
+  
+12.3. In-person reporting  
+In-person reporting is intended to keep the individual connected with the CBSA through regular 
+face-to-face interactions. Regular reporting allows the CBSA to obtain updates on information 
+relevant to the administration and/or enforcement of IRPA and allows the individual to ask 
+questions of the CBSA in relation to their immigration enforcement proceedings. 
+ 
+12.4. Remote Reporting 
+With the decommissioning of Voice Reporting System and the delay in implementing its 
+replacement, on a case-by-case basis, an individual may be permitted to report remotely via 
+telephone. An individual should only be considered for this option if they cannot physically report 
+in-person (e.g., geographical location – individual lives in Whitehorse, or mobility issues).  
+ 
+12.5. Community Case Management and Supervision  
+Like all other ATD options, the CCMS program is intended for individuals under the immigration 
+continuum, who are cooperative with the CBSA in working towards furthering their enforcement 
+proceedings, including effecting their removal from Canada. CCMS provides released 
+individuals with services in the community that mitigate and manage the risk they pose through 
+case management and pro-social treatment options. CCMS is delivered by existing non-
+governmental organizations and community organizations contracted by the CBSA to provide 
+these services.  
+  
+CCMS service providers conduct an eligibility assessment of detained individuals referred to 
+them by the CLO and provide the results of the eligibility assessment to the CLO. If the service 
+provider accepts an individual into the program and CCMS is imposed as a condition by either 
+the CBSA or the IRB order for release, the CCMS service provider will enrol the individual in the 
+appropriate program and services, and will monitor the individual as they participate in the 
+program. 
+  
+CCMS services are primarily focused on mitigating and managing the risk of non-compliance 
+associated with vulnerabilities such as physical health, mental health, substance abuse, 
+addictions and behavioral issues. Additionally, the CCMS service provider can refer individuals 
+to existing community resources that provide housing and shelter assistance as well as child 
+and family services.  
+  
+For a limited number of individuals who present a high flight risk or danger to the public, CCMS 
+service providers have community residential facilities that individuals can be released to, under 
+strict conditions and subject to very close monitoring. Individuals released to these facilities are 
+required to reside in the facility, follow facility rules and participate in any programmes deemed 
+necessary to mitigate and manage the risk the individual poses.  
+  
+
+
+===== PAGE 17 =====
+17  
+  
+CCMS service providers report any violations of conditions to the CLO who will then consider all 
+of the information and consult impacted areas, as required, when determining an appropriate 
+resolution.  
+12.5.1. Description of CCMS services  
+CCMS is intended to address factors that are likely to impact the individual’s ability to maintain 
+a stable community living situation. The underlying premise is that an individual who is stable in 
+the community is more likely to comply with imposed IRPA requirements and conditions.  
+  
+The following CCMS services assist individuals in becoming and remaining stable in the 
+community:  
+  
+Service  
+Description  
+Case management  Every individual enrolled in CCMS receives case management services. 
+The CCMS service provider performs an assessment to determine the 
+appropriate nature and frequency of case management services. At a 
+minimum, the individual is required to report to the CCMS service 
+provider at regular intervals to update on changes to their living situation, 
+daily activities (such as work and school) and any specific issues that 
+could impact compliance with the imposed conditions.  
+Links to health 
+support  
+Individuals who have a serious medical condition that require significant 
+ongoing treatment may be eligible to receive support from the CCMS 
+service provider in arranging and managing their treatment in the 
+absence of a support system of their own.  
+Mental health 
+assistance  
+Individuals with mental health issues that are likely to impact their 
+compliance with conditions may have treatment options available to 
+them that are designed to support and encourage compliance with IRPA 
+requirements and imposed conditions. These services may be provided 
+by program operators available through the CCMS service provider or 
+subcontracted by the CCMS service provider.  
+Addiction and 
+substance abuse 
+counselling and 
+support  
+Individuals whose ability to comply with conditions is impacted by 
+addiction may be eligible to participate in counselling and/or treatment 
+programs designed to minimize the impact of their addiction and assist 
+with maintaining stability in the community. These outcomes are 
+expected to support the individual’s ability to comply with imposed 
+conditions.  
+
+
+===== PAGE 18 =====
+18  
+  
+Information 
+regarding housing 
+and employment  
+Individuals who are eligible to work in Canada may be eligible to receive 
+assistance from the CCMS service provider in accessing local 
+employment resources. Employment provides stability in the community 
+as well as a legitimate source of funds to live on, both of which contribute 
+to the individual being more likely to comply with imposed conditions.  
+  
+Individuals who are or anticipate having difficulty finding a stable 
+residence may be eligible to receive assistance from the CCMS service 
+provider in accessing local housing resources. A stable residential 
+address is one of the strongest contributors to an individual complying 
+with conditions.  
+Information 
+regarding child-
+related or family 
+needs  
+Individuals with child-care needs may be eligible to receive assistance 
+from the CCMS service provider in accessing local resources. A stable 
+community and family situation both contribute to an increased likelihood 
+of compliance.  
+Mandatory 
+residency  
+Individuals who require close supervision may be eligible to be placed 
+into residential facilities operated by the CCMS service provider. These 
+facilities closely monitor the individual’s behavior and report any 
+concerns or violations of curfews or other conditions to the CBSA  
+immediately. Individuals may receive treatment services in some of 
+these facilities and be escorted to appointments and treatment programs 
+by the CCMS service provider when necessary.  
+ 
+To maintain the integrity of the CCMS program and ensure resources are used most 
+effectively, below are guidelines on individuals that should not be considered for enrolment 
+in CCMS.  
+Examples may include, but are not limited to:  
+ Protected persons (including Convention Refugees) who have lost their Permanent 
+Resident status due to serious criminality. CBSA cannot enforce the removal order.  
+ Protected persons (including Convention Refugees) who have lost their Permanent 
+Resident status due to criminality, but for whom a Danger Opinion is not being sought. 
+CBSA cannot enforce the removal order.  
+ Permanent Residents who have applied for, or have been granted an Immigration 
+Appeal Division (IAD) stay. They remain Permanent Residents. 
+ Eligible refugee claimant who are eligible for services and programs through settlement 
+professionals. 
+ 
+12.5.2. Referral to the CCMS service provider  
+At any time throughout the enforcement continuum, an officer, including an arresting officer, the 
+Hearings Officer and a CLO, may form the opinion that the risk the individual presents could be 
+
+
+===== PAGE 19 =====
+19  
+  
+mitigated or managed by one of the services available through the CCMS service provider. The 
+CLO, as the ATD subject matter expert, will conduct an assessment to determine if the individual 
+should be recommended for an ATD. This includes the completion of all relevant BSF forms, in 
+accordance with risk offset strategies and ATD program objectives.  
+  
+The decision to refer an individual for an eligibility assessment by the CCMS service provider 
+should take into account these factors:  
+  
+• 
+Expected removal timeline: 
+ CCMS is intended to provide risk mitigation over a period of time, as part of a case 
+management process. If the individual is being removed within a few weeks or 
+less, CCMS is likely not appropriate, as the assessment and enrolment process 
+may take some time.  
+• 
+Stability of the individual in detention:  
+ In the event an individual has medical or mental health concerns that have 
+contributed to their detention, these issues must be stabilized while in detention to 
+a point that the individual can effectively participate in the assessment process.  
+• 
+Risk level of the individual:   
+ If the risk level of the individual is so high that release on even the strictest 
+conditions is only plausible far into the future, an assessment should not be 
+requested. The relevance of an assessment by the CCMS service provider 
+diminishes over time and should be done only when there is a realistic possibility 
+of release.  
+  
+In most instances, the decision to refer an individual for an eligibility assessment rests solely 
+with the CLO. When a CCMS service provider has comprehensive knowledge of CBSA 
+enforcement operations, referrals to the CCMS program may also be initiated through outside 
+parties, such as the individual themselves, counsel or another party associated with the 
+individual (only available through the Toronto Bail Program or by the Immigration Division). 
+These may be directed to the CLO for referral or to the CCMS service provider themselves. The 
+CLO, in conjunction with the CCMS service provider, will review the request and take appropriate 
+action.  Once reviewed by the CLO, the CCMS provider may undertake an eligibility assessment 
+of an outside referral following notification to the CLO. For Member directed referrals, the CLO 
+will send the referral to the service provider on behalf of the IRB, regardless of whether or not 
+the CLO is in agreement of the referral. The CLO should refrain from providing their opinion on 
+a individual’s suitability when submitting the CCMS Supervision Referral Form for Member 
+directed referrals.  
+ 
+If an IRB Member directs the CBSA to refer the individual to the service provider for a CCMS 
+eligibility assessment, the CLO must articulate a chronological immigration history of the 
+individual on the CCMS Supervision Referral Form and forward it to the service provider so that 
+they can conduct the eligibility assessment. The CCMS Supervision Referral Form must also 
+articulate that it is a member directed referral. 
+  
+
+
+===== PAGE 20 =====
+20  
+  
+In the instance of a CLO referral, the referral must include all of the salient facts that  the CBSA 
+has available to assist the CCMS service provider in assessing the individual for services and 
+treatment.. In completing the assessment, the CLO must conduct a comprehensive file and 
+systems review, that may include speaking with the Inland Enforcement Officer, Removals 
+Officer, Hearings Officer, and Detention Liaison Officer or IHC staff when necessary. The 
+assessment process by the CLO should include an interview with the detainee in order to 
+determine ATD eligibility. The CLO should not initiate simultaneous CCMS referrals. 
+  
+12.5.3. CCMS Regional Transfer  
+Transfers of actual or potential CCMS participants are permitted for all intervention levels 
+provided that several logistical steps are performed prior to doing so. Whenever possible, 
+CCMS transfers should be planned and set-up two to three working days prior to the actual 
+transfer date to address outliers and ensure a smooth transfer. 
+ 
+CCMS transfers can occur in the following scenarios for which the list is non-exhaustive:  
+1. An individual is enrolled in CCMS with a service provider and wishes to move to another 
+region to improve ATD program outcomes. For example, moving to a city where they 
+have deeper ties to the community (family, close friend, etc.). The goal in this scenario 
+is to improve ATD program outcomes and better prepare the participant for success 
+during the programs de-escalation stage. 
+2. An individual is in detention, is not enrolled in the ATD program, has few or no ties to 
+the community in their originating region, but has strong ties in another region where the 
+CCMS program is available. 
+3. An individual is in detention, is not enrolled in the ATD program, and the CBSA regional 
+boundary does not align with the service provider regional boundary (e.g. Hamilton is in 
+Greater Toronto Area Region for the CBSA but in Southern Ontario Region for the 
+service provider). 
+4. An individual is in detention, is not enrolled in the ATD program, and when no sufficient 
+high intervention programming is available in the originating region. For example, a 
+situation where no beds are available in the originating region where the case is, but are 
+available in another. 
+ 
+It is important to note that all costs associated with CCMS transfers are the responsibility of the 
+two regions involved. Costs incurred by the regions may include, but are not limited to: fleet 
+vehicle use and gasoline, bus/train/airplane tickets for the individual being transferred, officer 
+salary and any overtime incurred, and meal per diems for longer escorted transfers. Please 
+refer to the CCMS Regional Transfer Guidelines for additional details.  
+ 
+ 
+12.5.4. Assessment by the CCMS service provider  
+Upon receipt of a referral, the CCMS service provider performs an initial review of the information 
+and contacts the CLO with a plan to complete the eligibility assessment. When necessary, the 
+
+
+===== PAGE 21 =====
+21  
+  
+CLO assists the CCMS service provider in gathering additional information that may be required 
+in setting up interviews with the individual.  
+  
+The CCMS service provider interviews the individual in person or remotely, if necessary, using 
+the services of an interpreter, as required. The service provider provides the results of the 
+eligibility assessment to the CLO as soon as it is completed and within the timelines outlined in 
+the CCMS service providers statement of work.  
+  
+The completed assessment is reviewed by the CLO and can be used in subsequent detention 
+reviews by the Hearings Officer, as appropriate. The eligibility assessment provides the CBSA 
+with sufficient information related to a proposed release plan for presentation to the IRB.  
+  
+12.5.5. CCMS Use of Interpreters  
+The CBSA has access to interpreters through a list of accredited and security cleared 
+interpreters maintained by IRCC.  
+CCMS service providers can access (and use) the interpreters list to assist in service delivery 
+during the following phases:  
+1. Referral and Assessment: the service provider is required, at the request of the CBSA 
+and/or the IRB to assess individuals for ATD CCMS enrolment. This will include an 
+interview, which may be undertaken in person or via telephone.  
+2. Enrolment: once released by the IRB, the service provider will meet with the individual 
+to enrol them in ATD CCMS Program. This includes discussing the terms and 
+conditions of release and any service provider-related rules for programming. 
+3. Case Management: the service provider is required to meet with the individual while 
+they are released into the community to discuss programming, verify attendance, etc.  
+ 
+12.5.6. Enrolment with the CCMS service provider  
+Once enrolment with a CCMS service provider has been imposed as a condition of release by 
+the CBSA or the IRB, the CLO makes arrangements with the CCMS service provider to enrol 
+the individual. In most cases, the individual is released from the detention facility with a direction 
+to report to the CCMS service provider at a scheduled time.  
+  
+High-risk individuals may be transported to the CCMS service provider office or residential facility 
+by the CBSA or contracted guard service for enrolment, when deemed necessary. The CBSA or 
+the contracted guard service can only transport individuals who have their release conditions 
+explicitly worded that release is contingent upon enrolment.  
+  
+At the enrolment appointment, the CCMS case worker reviews the release conditions imposed 
+and the particulars of the individual’s case to develop an appropriate program of reporting and 
+community services that collectively mitigates risk factors present. They further explain what is 
+required of the individual to participate in the CCMS program. The specific services and 
+
+
+===== PAGE 22 =====
+22  
+  
+programs that the individual is subject to, as part of their participation in the CCMS program, are 
+documented within the Agreement of Supervision or the Supervision Contract initiated between 
+the CCMS service provider and the individual. This document (BSF802) is sent to the CLO using 
+Canada Post Connect and is to be placed on the individual’s file, in accordance with the CCMS 
+statement of work. All relevant information is put into the NCMS. Within seven business days, 
+the CLO will upload the ATD forms into GCMS as per the ATD Form Upload Procedures.  
+  
+12.5.7. Monitoring and enforcement by CCMS service provider and CBSA  
+Once the individual has been enrolled into the CCMS program, the CCMS service provider has 
+regular and ongoing interactions with the individual to ensure that the individual is abiding by the 
+requirements of the program and their release conditions. Over the course of their participation 
+in the program, the CCMS service provider, in accordance with the parameters of their statement 
+of work, provides the CLO with any new information received from the individual that may be of 
+interest to the CBSA in the ongoing administration of the program.  
+  
+On a regular schedule, the CCMS service provider will review the services the individual is 
+enrolled in and provide the CLO with a recommendation to maintain the current services or 
+modify them, in accordance with the CCMS service providers statement of work. In general, 
+individuals enrolled in the CCMS program are expected to gradually require less support from 
+the CCMS service provider, to the point where they can remain stable in the community without 
+support from the CCMS service provider.  
+  
+If the CCMS service provider becomes aware that the individual is not abiding by the 
+requirements of the CCMS program or other conditions of their release, the CCMS service 
+provider must contact the CLO with the details. The CLO, in conjunction with the service 
+provider, will have a discussion to determine the appropriate response. Depending on the nature 
+and severity of the violation, the history of the individual and the risk level of the individual, more 
+restrictive conditions may be imposed, withdrawal of supervision may be undertaken, and the 
+case may be referred for investigation and further enforcement action.  
+  
+ 
+12.6. Electronic monitoring  
+The National Electronic Monitoring Program (NEMP) is an ATD option and is currently operated 
+through a partnership with Correctional Service Canada (CSC). A Memorandum of 
+Understanding with CSC facilitates the provision of monitoring services, software profile 
+management and inventory services.   
+  
+EM involves attaching a bracelet-type device to an individual’s ankle which allows continuous 
+monitoring of the individual’s location when released in the community. The bracelet is securely 
+attached and should only be removed in cases of medical necessity, unless otherwise directed 
+by the CBSA or IRB.  
+ 
+
+
+===== PAGE 23 =====
+23  
+  
+EM is intended to be used in conjunction with CCMS, a deposit or guarantee, or both for 
+individuals who present a high risk if released into the community, but whose predicted length of 
+detention favours release. Individuals on EM usually have restrictions on places and times that 
+they can be in the community. Compliance with these conditions is monitored at all times by staff 
+in the National Monitoring Centre, operated by CSC. Any violation of EM conditions is reported 
+immediately to the CBSA for review and action, as required.  
+  
+12.6.1. Enrolment  
+Once an individual has an EM condition imposed by the IRB or CBSA, the enrolment process is 
+initiated by regional CBSA staff. EM enrolment is a two-step process: installation of the ankle 
+monitor on the individual and installation of the Radio Frequency (RF) modem in the individual’s 
+residence. The installation of the EM monitoring device takes approximately 60 minutes and is 
+done by a CBSA inland enforcement officer.  
+  
+Before the individual’s release from detention, the officer performs an assessment of the 
+proposed residence and tests the functioning of the RF unit and the ankle monitor at the 
+proposed residence by verifying the operation of the units with the CSC National Monitoring 
+Centre. After verifying the equipment is functioning correctly, officers explain to the individual the 
+terms and conditions of their participation in the NEMP and installs the ankle monitor. The officer 
+reviews and shares a copy of the NEMP Client Handbook, which has their EM assigned client 
+number listed on the cover page. The officer should also provide the client with a copy of the 
+NEMP – Charging Instructions document.  
+  
+Enrolment in the NEMP program is undertaken in English and French only, so an interpreter may 
+be necessary to assist the individual in following enrolment instructions.  
+  
+When an individual is successfully enrolled, they are provided with detailed written instructions 
+on how to remain compliant with NEMP requirements and the particular conditions associated 
+with their participation on the program. They are also provided with a handbook that provides 
+tips, troubleshooting and contact information for assistance.  
+  
+12.6.2. Monitoring and enforcement  
+Individuals on EM are monitored by the CSC National Monitoring Centre, in conjunction with the 
+CBSA. Any breach or non-compliance is referred to the region for immediate action. All functions 
+related to monitoring and enforcement are undertaken in accordance with NEMP policies and 
+guidelines and are governed by the established Memorandum of Understanding between both 
+departments.  
+  
+
+
+===== PAGE 24 =====
+24  
+  
+13. Roles and responsibilities  
+13.1. Community liaison officer  
+The role of the CLO  is to provide a centralized approach for the ATD program. All CBSA regions 
+have dedicated CLOs to ensure the effective and ongoing use of ATDs, in accordance with 
+program objectives, national policies and guidelines. The CLO is the subject matter expert in all 
+regions for ATDs and are primarily responsible for the assessment, referral and case 
+management of ATD individuals. . While the CLO is not the primary file holder for specific cases, 
+they must be made aware of all new detention cases. They may be informed about detainees 
+through inclusion on arrest and detention emails, and may review the Notice of Arrest and 
+Detention, or where applicable, converse with the arresting officer to discuss which ATD options 
+are suitable based on the individual’s immigration history, ability to acquire travel documents, 
+ties to Canada, period of time since last incident with the CBSA or the criminal justice system 
+and vulnerabilities.  
+ 
+It is the CLO’s responsibility to conduct an initial assessment to determine if the individual should 
+be recommended for an ATD, in accordance with case management risk mitigation strategies 
+and ATD program objectives. The assessment process by the CLO should include an interview 
+with the detainee in order to determine ATD eligibility. All individuals for whom detention was 
+ordered and continued past the seven day detention review will be assigned for an ATD 
+assessment by the CLO to ensure all individuals have an ATD assessment prior to the 30-day 
+detention review. The CLO is the sole point of contact in the region for the CCMS service 
+provider. On a monthly basis, the CLO will review the individuals’ file to determine if they should 
+be considered for de-escalation and/or graduation from the CCMS program, and recommend 
+amended conditions for consideration by the IRB.  
+ 
+At the three (3) month mark of EM participation OR as new information comes to light that 
+diminishes the need1 for EM use, the CLO must initiate a case review for EM participants. This 
+can be done alone or with the assistance of the regional EM response unit.  
+ If the case was not recommended for de-escalation by the CLO at the three (3) month 
+mark, the CLO is to review the case every thirty (30) days thereafter or as new 
+information becomes available that diminishes the need for EM use.  
+ The CLO’s are regional program officers with the delegated authorities under the IRPA to make 
+decisions. Despite this authority, they are not expected to make decisions on detention, release 
+or the imposition of conditions. Rather, they provide functional advice and guidance, as required, 
+on the imposition of ATD condition to Inland Enforcement Officers, Border Services Officers and 
+Hearings Officers in the management of their cases and the execution of their work. The CLO 
+may, in conjunction with Inland Enforcement Officers and CCMS service providers, monitor 
+individuals released into the community to assess their continued compliance with the ATD 
+Program.  
+  
+                                            
+1 Examples of information include but are not limited to: solidified travel documents; new family and/or kin has 
+come forward to vouch for the participant; a history of compliance with the program. 
+
+
+===== PAGE 25 =====
+25  
+  
+ 
+13.2. CSC National Monitoring Centre  
+The CSC National Monitoring Centre monitors the status of individuals enrolled in EM 24 hours 
+per day and seven days per week and immediately notifies the CBSA of any violations of EM 
+conditions. The CSC National Monitoring Centre also confirms the successful installation and 
+application of EM equipment during enrolment and provides technical support to CBSA officers 
+responsible for managing individuals on EM.  
+  
+13.3. CCMS service provider  
+The CCMS service provider writes an eligibility assessment for individuals referred to them that 
+describes the services and support available that are expected to mitigate and manage the 
+individual’s risk in the community. Once the individual is enrolled in CCMS programming, the 
+CCMS service provider monitors the individual and provides case management services. 
+Information regarding changes in circumstances and violations is reported to the CLO for review 
+and action, if required.  
+  
+The CCMS service provider must ensure the necessary services and programs are available in 
+the service locations listed in the statement of work and fulfill the reporting and administrative 
+obligations outlined in the statement of work. The CCMS service provider must provide qualified, 
+security-cleared staff to perform case management functions, as specified in the statement of 
+work.  
+  
+14.0. Jurisprudence 
+The CLO is required to write comprehensive notes to file based on the assessment they 
+conduct, including a recommendation for an ATD if applicable, because these 
+recommendations could be put forward by the Hearings Officers during a detention review 
+before the IRB. 
+The Federal Court in Mawut (Citation: 2021 FC 1155) stated the following: 
+[35] As a practical matter, the Minister’s representative should review the file and start 
+from the premise that disclosure is the rule and withholding information, the 
+exception. As the Federal Court of Appeal noted in Brown, at paragraph 142, the duty 
+to disclose “is not unlimited” and is “tempered by the requirement that the information 
+be relevant.” Relevance should be assessed according to the principles set out 
+above. An assessment of relevance, however, cannot be based on the Minister’s 
+representative’s opinion as to what avenues the detainee’s counsel should pursue, or 
+the idea that the evidence already disclosed is overwhelming with respect to a 
+particular issue or sufficient to justify detention. 
+
+
+===== PAGE 26 =====
+26  
+  
+[36] Given the nature of detention reviews, the Minister’s duty to disclose is a 
+continuing one. Therefore, as the situation evolves, the weight of each section 248 
+factor may vary. Nevertheless, information should not be withheld simply because the 
+Minister’s representative believes that information may only become relevant at a 
+later stage. 
+[37] Adherence to the foregoing principles should go a long way towards preventing 
+disputes regarding the scope of disclosure. Should an issue nonetheless arise, it 
+should be brought before the ID. 
+It is important to note that the CBSA has the obligation to demonstrate the IRB Members 
+that it is being diligent in considering ATDs for vulnerable individuals. The Federal Court in 
+Lee (Citation: 2022 FC 383) stated the following:  
+[68] As counsel for Ms. Lee properly emphasizes, there is a heightened obligation on 
+the part of the ID to consider alternatives to detention for vulnerable persons such as 
+persons with mental illness (a point I will return to below). Related to this is a heightened 
+onus on the Minister to justify the detention of such persons, as reflected in paragraph 
+3.1.15 of the Guideline. Consequently, as the Guideline also notes, a member 
+should “actively question” the steps that the Minister has taken to make an alternative 
+to detention available when the person concerned is a vulnerable person. I am not 
+persuaded that the ID erred in failing to do this in the last detention review. That being 
+said, there has now been a material change in circumstances with the March 14, 2022, 
+Order of Justice Ahmed granting an interlocutory stay of Ms. Lee’s removal. Given this, 
+I fully expect the question of whether the CBSA is being diligent in identifying and 
+supporting alternatives to detention to be front and centre at the next detention review. 
+It is noteworthy that the CBSA has a heightened obligation to consider ATDs when detention 
+becomes lengthy. The Federal Court in Ahmed (Citation: 2015 FC 876) stated the following:  
+[34] Nevertheless, given the finding that Mr. Ahmed’s detention is indefinite, both the 
+Board and the Minister are under a heightened obligation to consider alternatives to 
+detention, specifically release upon conditions. The National Parole Board previously 
+determined that Mr. Ahmed could be released subject to stringent conditions. It is open 
+to the Board to require a psychological assessment as a condition of release (Canada 
+(Minister of Citizenship and Immigration) v Romans, 2005 FC 435 at para 74). Counsel 
+for Mr. Ahmed informed the Court that she has initiated the process to update the 
+Minister’s Danger Opinion. These are all considerations that should be at the forefront 
+when Mr. Ahmed’s detention is next reviewed on July 24, 2015. 
+It is important to note that ATDs need not be perfect. Rather, they need only be proportional 
+to the individual’s risk profile. The Federal Court in Hamdan (Citation: 2019 FC 1129) stated 
+the following:  
+
+
+===== PAGE 27 =====
+27  
+  
+[97] Some final comments are in order regarding the specifics of the 25 
+conditions. First, there could of course have been more safeguards placed within them 
+in a perfect world. But as pointed out above, perfection is not the standard to be 
+attained in a reasonableness review, and thus alternatives to detention need not 
+be perfect (Canada (Public Safety and Emergency Preparedness) v Berisha, 2012 FC 
+1100 at para 85). Rather, they need only be proportionate and attainable, which these 
+conditions were. 
+It is noteworthy that the “virtually eliminate” test is virtually impossible to meet and could 
+prevent release whenever a detainee is a danger to the public. The Federal Court in Mawut 
+(Citation: 2022 FC 415) stated the following:  
+[35] I wish to add that in reaching this conclusion, I have not found it necessary to rely 
+on the idea that the conditions of release must “virtually eliminate” any danger to the 
+public posed by Mr. Mawut. The phrase “virtually eliminate” finds its origin in Canada 
+(Public Safety and Emergency Preparedness) v Lunyamila, 2016 FC 1199, [2017] 3 
+FCR 428 [Lunyamila], and was mentioned in subsequent cases. It is not always easy 
+to reduce a complex decision-making process to a few words. Taken too literally, the 
+“virtually eliminate” test is virtually impossible to meet and could foreclose release 
+whenever a detainee is a danger to the public. This, however, is not what is 
+contemplated by section 58 of the Act and section 248 of the Regulations, nor by the 
+decision of the Federal Court of Appeal in Brown. In the context of bail, which shares a 
+preventive purpose with immigration detention, conditions must “minimize’ or 
+“attenuate” risk and be “proportional to the risk”: R v Zora, 2020 SCC 14, at paragraphs 
+84, 85 and 89. I also note that in Canada (Public Safety and Emergency Preparedness) 
+v Ali, 2018 FC 552, at paragraph 47, a decision rendered after Lunyamila, the test in 
+the context of immigration detention was described as “any conditions of release [must 
+be] sufficiently robust to ensure that the general public will not be exposed to any 
+material risk of harm”. Whatever the best manner to formulate the test, it was clearly 
+not met in this case. The basic conditions imposed by the ID do not attenuate in any 
+way, and are not proportional to the risk posed by Mr. Mawut. 
+It is of paramount importance to note that EM only monitors an individual’s whereabouts, not 
+his activities, who he talks to and what he says. Therefore, a human supervision component is 
+vital. The Federal Court in Bruzzese (Citation: 2014 FC 230) stated the following:  
+[78] Finally, I have also come to the conclusion that ID members could reasonably find 
+that the GPS monitoring was not sufficient to overcome the shortcomings of the 
+bondspersons offered by the Applicant. There is no doubt that such a device, in 
+combination with appropriate bondspersons, can sometimes provide an acceptable 
+alternative to detention. In the case at bar, however, there were good reasons to find that 
+it would not be sufficient to offset the concerns with respect to danger to the public. First 
+of all, Mr Bruzzese did not present the ID members with a comprehensive proposal 
+whereby any risk of flight could allegedly be managed, as was done in Tursunbayev. It 
+appears that the bracelet used by the proposed company could be cut with a simple pair 
+
+
+===== PAGE 28 =====
+28  
+  
+of scissors, that it might take six hours to notify the authorities should the system breaks 
+down, and that the monitoring would discontinue should the monthly bill not be paid. 
+Maybe more importantly, the system would only control Mr Bruzzese’s location, not his 
+activities, who he talks to and what he says. The GPS, therefore, might conceivably be 
+an alternative to detention as far as the flight risk is concerned, but it would not be sufficient 
+to ensure that Mr Bruzzese is not involved in the criminal activities of the ‘Ndrangheta, 
+either in Canada or abroad. 
+ 
+15. Presenting the alternatives to detention assessment at 
+detention reviews  
+The results of an ATD eligibility assessment is used by Hearings Officers when making 
+submissions to the IRB on the residual risk posed by an individual if released. This may include 
+the assessment by the CCMS service provider, if enrolment in CCMS is being proposed. In 
+general, Hearings Officers make submissions on whether the factors in paragraphs R248(a) to 
+(d) weigh in favour of detention or release, taking into account the residual risk after the available 
+ATDs are considered.  
+  
+See ENF 3 Admissibility Hearings and Detention Reviews for more information on the factors for 
+consideration and procedures at detention reviews.  
+  
+If the CBSA has not referred the case to the CCMS service provider and does not intend to in 
+the foreseeable future, the Hearings Officer should provide a brief explanation of that decision. 
+If the IRB requests that the individual be referred to the CCMS service provider for eligibility 
+assessment, the CLO must do so.  
+  
+When making submissions on the wording of the conditions for CCMS and EM, the Hearings 
+Officer should propose language that allow the CCMS service provider and the CBSA the latitude 
+necessary to manage the person effectively while released. The proposed wording of the 
+conditions should authorize the CBSA to modify or cancel the conditions imposed by the IRB 
+related to CCMS and EM.  
+  
+16. Privacy and information-sharing  
+Information collected under the ATD Program can only be disclosed under the provisions of the 
+Privacy Act. See CBSA guidelines of information-sharing for details. In general, collected 
+information can be shared under paragraph 8(2)(a) of the Privacy Act if it is shared for a use 
+consistent with the purpose it was collected for. Information related to alternatives to detention 
+is collected for the purpose of administering and enforcing the IRPA.  
+  
+ 
+
+
+===== PAGE 29 =====
+29  
+  
+16.1. Community case management and supervision Privacy Notice form  
+The CBSA is authorized to share information necessary for the assessment and participation 
+in CCMS with the CCMS service provider, without the consent of the individual, as prescribed 
+in paragraph 8(2)(a) of the Privacy Act. However, the individual must be notified that their 
+information is being shared. The CCMS Privacy Notice form (BSF803) notifies the individual 
+that their information may be provided to the CCMS service provider to start the eligibility 
+assessment process and as needed, if enrolled. The sharing and use of information must be 
+conveyed to the individual by the CLO, using an interpreter, if required, before the individual’s 
+information is shared outside the CBSA.  
+The BSF803 form must be uploaded in accordance with section 8.5. – Documenting the 
+Decision.  
+ 
+16.2. Requesting sensitive information from the community case 
+management and supervision service provider  
+While enrolled in CCMS, individuals may provide sensitive information, such as health and 
+mental health information, to the CCMS service provider. The CBSA does not have routine 
+access to this information. The CLO can only request sensitive information from the CCMS 
+service provider if it is required to protect the health or safety of the individual, CBSA staff or the 
+public.  
+  
+All requests for information from the CCMS service provider must be submitted by the CLO. The 
+CLO will ensure that the requested information meets the requirements of the above policy and 
+other applicable policies, regulations and legislation.  
+  
+  
+ 

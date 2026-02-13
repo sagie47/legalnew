@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_8b225972372f",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/assessing-conditions.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/assessing-conditions.html",
+  "title": "Study permits: Assessing study permit conditions",
+  "language": "en",
+  "manual": "Study permits: Assessing study permit conditions",
+  "chapter": null,
+  "heading_path": [
+    "Study permits: Assessing study permit conditions"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "f63555f39397c28bc3914f45d4ac6f6bbfe55cb4014f3541c3a2ee9cfec40676",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/assessing-conditions-8b22597237.md",
+  "text": "Study permits: Assessing study permit conditions",
+  "sections": [
+    {
+      "heading": "Study permits: Assessing study permit conditions",
+      "heading_path": [
+        "Study permits: Assessing study permit conditions"
+      ],
+      "anchor": "#study-permits-assessing-study-permit-conditions",
+      "text": "Study permits: Assessing study permit conditions"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

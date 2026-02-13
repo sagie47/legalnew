@@ -1,0 +1,45 @@
+{
+  "source_id": "pdi_a0a14ab67e9d",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/loss-status.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/loss-status.html",
+  "title": "Temporary residents: Loss of status",
+  "language": "en",
+  "manual": "Temporary residents: Loss of status",
+  "chapter": null,
+  "heading_path": [
+    "Temporary residents: Loss of status"
+  ],
+  "last_updated": "2017-11-03",
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "1008310af877c2d71ead87d7115cb2be3b651b1c784704288cefd703c50bad5d",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/loss-status-a0a14ab67e.md",
+  "text": "Published Time: Thu, 12 Feb 2026 00:33:27 GMT\n\nTemporary residents: Loss of status\n===================================\n\nThis section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.\n\nForeign nationals lose their temporary resident (TR) status ([A47](http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-190.html?term=190)):\n\n* at the end of the period for which they were authorized to remain in Canada;\n* on a determination by an officer or the Immigration Division that they have failed to comply with any other requirement of the Act; or\n* on cancellation of their temporary resident permit (TRP).\n\n**Note:** Holders of the Parent and Grandparent Extended Stay Temporary Resident Visa ([Super Visa](https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/bulletins-guides-operationnels/residents-temporaires/visiteurs/super-visa.html)) also lose their status if they stay beyond their authorized period.\n\nPage details\n------------\n\n 2017-11-03",
+  "sections": [
+    {
+      "heading": "Temporary residents: Loss of status",
+      "heading_path": [
+        "Temporary residents: Loss of status"
+      ],
+      "anchor": "#temporary-residents-loss-of-status",
+      "text": "Published Time: Thu, 12 Feb 2026 00:33:27 GMT\n\nTemporary residents: Loss of status\n===================================\n\nThis section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.\n\nForeign nationals lose their temporary resident (TR) status ([A47](http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-190.html?term=190)):\n\n* at the end of the period for which they were authorized to remain in Canada;\n* on a determination by an officer or the Immigration Division that they have failed to comply with any other requirement of the Act; or\n* on cancellation of their temporary resident permit (TRP).\n\n**Note:** Holders of the Parent and Grandparent Extended Stay Temporary Resident Visa ([Super Visa](https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/bulletins-guides-operationnels/residents-temporaires/visiteurs/super-visa.html)) also lose their status if they stay beyond their authorized period.\n\nPage details\n------------\n\n 2017-11-03"
+    }
+  ],
+  "links": {
+    "outbound": [
+      "http://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-190.html?term=190",
+      "https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/bulletins-guides-operationnels/residents-temporaires/visiteurs/super-visa.html"
+    ],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": false,
+    "notes": []
+  }
+}

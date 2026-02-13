@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_834cc04c93d5",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/business-persons-business-delegations.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/business-persons-business-delegations.html",
+  "title": "Temporary residents: Business persons and business delegations",
+  "language": "en",
+  "manual": "Temporary residents: Business persons and business delegations",
+  "chapter": null,
+  "heading_path": [
+    "Temporary residents: Business persons and business delegations"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "468cb4489ca0fcfd823dc67096e5ac00616d225c545460074c9b9333ce9b2913",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/business-persons-business-delegations-834cc04c93.md",
+  "text": "Temporary residents: Business persons and business delegations",
+  "sections": [
+    {
+      "heading": "Temporary residents: Business persons and business delegations",
+      "heading_path": [
+        "Temporary residents: Business persons and business delegations"
+      ],
+      "anchor": "#temporary-residents-business-persons-and-business-delegations",
+      "text": "Temporary residents: Business persons and business delegations"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_425116440372",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/persons-who-may-apply-port-entry.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/persons-who-may-apply-port-entry.html",
+  "title": "Temporary Foreign Worker Program (TFWP) and International Mobility Program (IMP): Persons who may apply at a port of entry",
+  "language": "en",
+  "manual": "Temporary Foreign Worker Program (TFWP) and International Mobility Program (IMP): Persons who may apply at a port of entry",
+  "chapter": null,
+  "heading_path": [
+    "Temporary Foreign Worker Program (TFWP) and International Mobility Program (IMP): Persons who may apply at a port of entry"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "90f44b9d9f4bdacbcbb60f1ad7e2d9aeffd61a3f48e6a742c5967d8103b91e77",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/persons-who-may-apply-port-entry-4251164403.md",
+  "text": "Temporary Foreign Worker Program (TFWP) and International Mobility Program (IMP): Persons who may apply at a port of entry",
+  "sections": [
+    {
+      "heading": "Temporary Foreign Worker Program (TFWP) and International Mobility Program (IMP): Persons who may apply at a port of entry",
+      "heading_path": [
+        "Temporary Foreign Worker Program (TFWP) and International Mobility Program (IMP): Persons who may apply at a port of entry"
+      ],
+      "anchor": "#temporary-foreign-worker-program-tfwp-and-international-mobility-program-imp-persons-who-may-apply-at-a-port-of-entry",
+      "text": "Temporary Foreign Worker Program (TFWP) and International Mobility Program (IMP): Persons who may apply at a port of entry"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

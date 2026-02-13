@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_a7e6d14c82b5",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/study-permit-authorization-pgwp.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/study-permit-authorization-pgwp.html",
+  "title": "Study permit holder who completed studies [R186(w)]: Authorization to work without a work permit – International Mobility Program (IMP)",
+  "language": "en",
+  "manual": "Study permit holder who completed studies [R186(w)]: Authorization to work without a work permit – International Mobility Program (IMP)",
+  "chapter": null,
+  "heading_path": [
+    "Study permit holder who completed studies [R186(w)]: Authorization to work without a work permit – International Mobility Program (IMP)"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "bc6163478094f2d0c23e4d2d405f53ab45fe4558bcf683fb0b5c035b271b377c",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/study-permit-authorization-pgwp-a7e6d14c82.md",
+  "text": "Study permit holder who completed studies [R186(w)]: Authorization to work without a work permit – International Mobility Program (IMP)",
+  "sections": [
+    {
+      "heading": "Study permit holder who completed studies [R186(w)]: Authorization to work without a work permit – International Mobility Program (IMP)",
+      "heading_path": [
+        "Study permit holder who completed studies [R186(w)]: Authorization to work without a work permit – International Mobility Program (IMP)"
+      ],
+      "anchor": "#study-permit-holder-who-completed-studies-r186-w-authorization-to-work-without-a-work-permit-international-mobility-program-imp",
+      "text": "Study permit holder who completed studies [R186(w)]: Authorization to work without a work permit – International Mobility Program (IMP)"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

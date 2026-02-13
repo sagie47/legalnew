@@ -1,0 +1,132 @@
+{
+  "source_id": "pdi_1177e7a7ea0f",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/workers/regulations.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/workers/regulations.html",
+  "title": "Legal Section - Work Permit Regulations",
+  "language": "en",
+  "manual": "Legal Section",
+  "chapter": "Work Permit Regulations",
+  "heading_path": [
+    "Legal Section - Work Permit Regulations"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-13T00:22:39.923191+00:00",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "749e4387c4a8915c378d5816f4ea6057b65f8a701a7d75c369c9d632e0658d33",
+  "raw_html_path": null,
+  "markdown_path": "fixtures/legal_section_heavy.md",
+  "text": "# Work Permit Regulations\n\n## Section 1: Definitions\n\n**Work permit** means a written authorization to work in Canada issued to a foreign national by an officer.\n\n**Employer** means a person or organization that employs or engages a foreign national to perform work.\n\n## Section 2: Eligibility Criteria\n\n### 2.1 General Requirements\n\nA foreign national is eligible for a work permit if they:\n\n(a) have a valid job offer from a Canadian employer;\n\n(b) meet the requirements of the job offer;\n\n(c) are not inadmissible on grounds of criminality or security;\n\n(d) have sufficient means to support themselves and their family members in Canada.\n\n### 2.2 Labour Market Impact Assessment\n\nAn employer must obtain a positive Labour Market Impact Assessment (LMIA) before hiring a foreign worker, except where an exemption applies under paragraph R204(a) or (c).\n\n## Section 3: Application Process\n\n### 3.1 Employer Requirements\n\nBefore a foreign worker can apply for a work permit, the employer must:\n\n(a) demonstrate that the job offer meets prevailing wage rates;\n\n(b) show that the employment will not adversely affect Canadian workers;\n\n(c) provide a written job offer on company letterhead.\n\n### 3.2 Officer Assessment\n\nThe officer must be satisfied that:\n\n(a) the work is genuine and the employer can fulfill the job offer;\n\n(b) the foreign national will depart Canada at the end of the authorized period;\n\n(c) the foreign national will comply with all conditions of the permit.\n\n## Section 4: Conditions\n\n### 4.1 Standard Conditions\n\nEvery work permit is subject to the following conditions:\n\n(a) the holder must work only for the employer specified in the permit;\n\n(b) the holder must not work beyond the period of employment authorized;\n\n(c) the holder must leave Canada when the permit expires.\n\n### 4.2 Duration\n\nA work permit may be issued for a period not exceeding:\n\n(a) the period of employment specified in the LMIA;\n\n(b) in the case of an LMIA-exempt work permit, the period authorized by the regulations.\n\n## Section 5: Extensions\n\nAn application for extension of a work permit must be made before the permit expires. The officer may grant an extension if:\n\n(a) the employer continues to meet the requirements;\n\n(b) the foreign national continues to meet the requirements;\n\n(c) the work continues to be consistent with the original purpose.\n\n## Section 6: Compliance\n\n### 6.1 Employer Obligations\n\nAn employer who hires a foreign worker must:\n\n(a) comply with all terms and conditions of the employment;\n\n(b) maintain records of the foreign worker's employment;\n\n(c) provide the foreign worker with wages and working conditions equal to those provided to Canadian workers.\n\n### 6.2 Consequences of Non-Compliance\n\nWhere an employer fails to comply with the conditions:\n\n(a) the employer may be subject to administrative penalties;\n\n(b) the employer's LMIA application may be refused;\n\n(c) the foreign worker's permit may be revoked.",
+  "sections": [
+    {
+      "heading": "Section 1: Definitions",
+      "heading_path": [
+        "Work Permit Regulations",
+        "Section 1: Definitions"
+      ],
+      "anchor": "#section-1-definitions",
+      "text": "**Work permit** means a written authorization to work in Canada issued to a foreign national by an officer.\n\n**Employer** means a person or organization that employs or engages a foreign national to perform work."
+    },
+    {
+      "heading": "2.1 General Requirements",
+      "heading_path": [
+        "Work Permit Regulations",
+        "Section 2: Eligibility Criteria",
+        "2.1 General Requirements"
+      ],
+      "anchor": "#2-1-general-requirements",
+      "text": "A foreign national is eligible for a work permit if they:\n\n(a) have a valid job offer from a Canadian employer;\n\n(b) meet the requirements of the job offer;\n\n(c) are not inadmissible on grounds of criminality or security;\n\n(d) have sufficient means to support themselves and their family members in Canada."
+    },
+    {
+      "heading": "2.2 Labour Market Impact Assessment",
+      "heading_path": [
+        "Work Permit Regulations",
+        "Section 2: Eligibility Criteria",
+        "2.2 Labour Market Impact Assessment"
+      ],
+      "anchor": "#2-2-labour-market-impact-assessment",
+      "text": "An employer must obtain a positive Labour Market Impact Assessment (LMIA) before hiring a foreign worker, except where an exemption applies under paragraph R204(a) or (c)."
+    },
+    {
+      "heading": "3.1 Employer Requirements",
+      "heading_path": [
+        "Work Permit Regulations",
+        "Section 3: Application Process",
+        "3.1 Employer Requirements"
+      ],
+      "anchor": "#3-1-employer-requirements",
+      "text": "Before a foreign worker can apply for a work permit, the employer must:\n\n(a) demonstrate that the job offer meets prevailing wage rates;\n\n(b) show that the employment will not adversely affect Canadian workers;\n\n(c) provide a written job offer on company letterhead."
+    },
+    {
+      "heading": "3.2 Officer Assessment",
+      "heading_path": [
+        "Work Permit Regulations",
+        "Section 3: Application Process",
+        "3.2 Officer Assessment"
+      ],
+      "anchor": "#3-2-officer-assessment",
+      "text": "The officer must be satisfied that:\n\n(a) the work is genuine and the employer can fulfill the job offer;\n\n(b) the foreign national will depart Canada at the end of the authorized period;\n\n(c) the foreign national will comply with all conditions of the permit."
+    },
+    {
+      "heading": "4.1 Standard Conditions",
+      "heading_path": [
+        "Work Permit Regulations",
+        "Section 4: Conditions",
+        "4.1 Standard Conditions"
+      ],
+      "anchor": "#4-1-standard-conditions",
+      "text": "Every work permit is subject to the following conditions:\n\n(a) the holder must work only for the employer specified in the permit;\n\n(b) the holder must not work beyond the period of employment authorized;\n\n(c) the holder must leave Canada when the permit expires."
+    },
+    {
+      "heading": "4.2 Duration",
+      "heading_path": [
+        "Work Permit Regulations",
+        "Section 4: Conditions",
+        "4.2 Duration"
+      ],
+      "anchor": "#4-2-duration",
+      "text": "A work permit may be issued for a period not exceeding:\n\n(a) the period of employment specified in the LMIA;\n\n(b) in the case of an LMIA-exempt work permit, the period authorized by the regulations."
+    },
+    {
+      "heading": "Section 5: Extensions",
+      "heading_path": [
+        "Work Permit Regulations",
+        "Section 5: Extensions"
+      ],
+      "anchor": "#section-5-extensions",
+      "text": "An application for extension of a work permit must be made before the permit expires. The officer may grant an extension if:\n\n(a) the employer continues to meet the requirements;\n\n(b) the foreign national continues to meet the requirements;\n\n(c) the work continues to be consistent with the original purpose."
+    },
+    {
+      "heading": "6.1 Employer Obligations",
+      "heading_path": [
+        "Work Permit Regulations",
+        "Section 6: Compliance",
+        "6.1 Employer Obligations"
+      ],
+      "anchor": "#6-1-employer-obligations",
+      "text": "An employer who hires a foreign worker must:\n\n(a) comply with all terms and conditions of the employment;\n\n(b) maintain records of the foreign worker's employment;\n\n(c) provide the foreign worker with wages and working conditions equal to those provided to Canadian workers."
+    },
+    {
+      "heading": "6.2 Consequences of Non-Compliance",
+      "heading_path": [
+        "Work Permit Regulations",
+        "Section 6: Compliance",
+        "6.2 Consequences of Non-Compliance"
+      ],
+      "anchor": "#6-2-consequences-of-non-compliance",
+      "text": "Where an employer fails to comply with the conditions:\n\n(a) the employer may be subject to administrative penalties;\n\n(b) the employer's LMIA application may be refused;\n\n(c) the foreign worker's permit may be revoked."
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": false,
+    "notes": []
+  }
+}

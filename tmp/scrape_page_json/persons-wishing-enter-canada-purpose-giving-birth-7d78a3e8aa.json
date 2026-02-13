@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_7d78a3e8aaba",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/persons-wishing-enter-canada-purpose-giving-birth.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/persons-wishing-enter-canada-purpose-giving-birth.html",
+  "title": "Temporary residents: Persons wishing to enter Canada for the purpose of giving birth",
+  "language": "en",
+  "manual": "Temporary residents: Persons wishing to enter Canada for the purpose of giving birth",
+  "chapter": null,
+  "heading_path": [
+    "Temporary residents: Persons wishing to enter Canada for the purpose of giving birth"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "956ab9359063519a9c02a5fed14cb64d61876e47231196454cb2209bc98d2e7b",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/persons-wishing-enter-canada-purpose-giving-birth-7d78a3e8aa.md",
+  "text": "Temporary residents: Persons wishing to enter Canada for the purpose of giving birth",
+  "sections": [
+    {
+      "heading": "Temporary residents: Persons wishing to enter Canada for the purpose of giving birth",
+      "heading_path": [
+        "Temporary residents: Persons wishing to enter Canada for the purpose of giving birth"
+      ],
+      "anchor": "#temporary-residents-persons-wishing-to-enter-canada-for-the-purpose-of-giving-birth",
+      "text": "Temporary residents: Persons wishing to enter Canada for the purpose of giving birth"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

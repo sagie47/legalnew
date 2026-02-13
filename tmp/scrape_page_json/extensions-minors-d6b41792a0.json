@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_d6b41792a075",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/extensions-minors.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/extensions-minors.html",
+  "title": "Temporary resident extensions for minors",
+  "language": "en",
+  "manual": "Temporary resident extensions for minors",
+  "chapter": null,
+  "heading_path": [
+    "Temporary resident extensions for minors"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "a490631dffead9822a9dfbf702f723923602bb924ac651c5da3cca2a8fec65cb",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/extensions-minors-d6b41792a0.md",
+  "text": "Temporary resident extensions for minors",
+  "sections": [
+    {
+      "heading": "Temporary resident extensions for minors",
+      "heading_path": [
+        "Temporary resident extensions for minors"
+      ],
+      "anchor": "#temporary-resident-extensions-for-minors",
+      "text": "Temporary resident extensions for minors"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

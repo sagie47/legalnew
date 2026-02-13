@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_e8aa3d4c468a",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/placeholder.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/placeholder.html",
+  "title": "Placeholder - Page Under Construction",
+  "language": "en",
+  "manual": "Placeholder",
+  "chapter": "Page Under Construction",
+  "heading_path": [
+    "Placeholder - Page Under Construction"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-13T00:22:39.925777+00:00",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "de918d5a14aac01ff97da14dbc4bfca2a74a002b64bd24e2df0636fedff99658",
+  "raw_html_path": null,
+  "markdown_path": "fixtures/sparse_page.md",
+  "text": "# Page Under Construction\n\nThis page is currently under development.\n\nPlease check back later.",
+  "sections": [
+    {
+      "heading": "Page Under Construction",
+      "heading_path": [
+        "Page Under Construction"
+      ],
+      "anchor": "#page-under-construction",
+      "text": "This page is currently under development.\n\nPlease check back later."
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

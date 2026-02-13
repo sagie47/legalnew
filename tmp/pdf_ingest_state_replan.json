@@ -1,0 +1,40 @@
+{
+  "files": {
+    "C-29.pdf": {
+      "content_hash": "1bfc3bca3dc62f1ee50210393b1d01a7b84261a79cfb88c066d4b1d47d20524e",
+      "status": "dry_run",
+      "chunks": 340,
+      "error": null
+    },
+    "enf06-eng.pdf": {
+      "content_hash": "b007f22133dd8215f9a13438ae76516a1498f29de773a0e17bad5dcd72463c16",
+      "status": "dry_run",
+      "chunks": 239,
+      "error": null
+    }
+  },
+  "runs": [
+    {
+      "started_at": "2026-02-12T23:24:15.384160Z",
+      "namespace": "ircc",
+      "files_found": 1,
+      "files_processed": 1,
+      "files_failed": 0,
+      "chunks_built": 340,
+      "vectors_upserted": 0,
+      "artifacts_written": 1,
+      "finished_at": "2026-02-12T23:24:16.738564Z"
+    },
+    {
+      "started_at": "2026-02-12T23:24:36.450934Z",
+      "namespace": "ircc",
+      "files_found": 1,
+      "files_processed": 1,
+      "files_failed": 0,
+      "chunks_built": 239,
+      "vectors_upserted": 0,
+      "artifacts_written": 1,
+      "finished_at": "2026-02-12T23:24:37.365010Z"
+    }
+  ]
+}

@@ -1,0 +1,842 @@
+{
+  "file": "enf17-eng.pdf",
+  "source_id": "e958c6d42ea6",
+  "manual_code": "enf17-eng",
+  "content_hash": "283c6bef009acacb300827a38821fa0c69d31d77a942a4794745911f46a23d88",
+  "removed_header_patterns": [
+    "#",
+    "#-#-#"
+  ],
+  "removed_footer_patterns": [
+    "•"
+  ],
+  "section_count": 1,
+  "sections": [
+    {
+      "heading": "ENF 17",
+      "heading_path": [
+        "ENF 17"
+      ],
+      "page_start": 1,
+      "page_end": 21,
+      "chars": 55408
+    }
+  ],
+  "chunk_count": 74,
+  "chunks": [
+    {
+      "id": "pdf|e958c6d42ea6|c0",
+      "chars": 27,
+      "page_start": 1,
+      "page_end": 1,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "ENF 17\nMaritimes Procedures",
+      "text_enriched": "ENF 17\nMaritimes Procedures"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c1",
+      "chars": 984,
+      "page_start": 2,
+      "page_end": 2,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "ENF 17 Maritime Procedures\nUpdates to Chapter\n1.\nWhat this chapter is about\n2.\nProgram objectives\n3.\nThe Act and Regulations\n3.1.\nForms\n4.\nInstruments and delegations\n5.\nDepartmental policy\n5.1.\nDocument exemptions for crew members\n5.2.\nCrew members on ships of Canadian registry\n5.3.\nNotification concerning crew members\n5.4.\nMedical expenses\n5.5.\nHospitalized crew members\n5.6.\nRequirement to notify when stowaways are on board\n5.7.\nRequirement to hold stowaways on board\n5.8.\nLiability for removal\n5.9.\nNotice of requirement to convey\n5.10.\nPresentation of crew lists from foreign-registered vessels\n5.11.\nDelivering crew lists when an officer does not board\n5.12.\nPersons to be named on the crew list of foreign-registered vessels\n5.13.\nPersons not to be named on the crew list\n6.\nDefinitions\n7.\nProcedure: Crew members arriving on vessels of foreign registry\n7.1.\nVerifying the crew list\n7.2.\nErrors on the crew list\n7.3.\nDeleting names from the crew list before endorsement\n7.4.",
+      "text_enriched": "ENF 17 Maritime Procedures\nUpdates to Chapter\n1.\nWhat this chapter is about\n2.\nProgram objectives\n3.\nThe Act and Regulations\n3.1.\nForms\n4.\nInstruments and delegations\n5.\nDepartmental policy\n5.1.\nDocument exemptions for crew members\n5.2.\nCrew members on ships of Canadian registry\n5.3.\nNotification concerning crew members\n5.4.\nMedical expenses\n5.5.\nHospitalized crew members\n5.6.\nRequirement to notify when stowaways are on board\n5.7.\nRequirement to hold stowaways on board\n5.8.\nLiability for removal\n5.9.\nNotice of requirement to convey\n5.10.\nPresentation of crew lists from foreign-registered vessels\n5.11.\nDelivering crew lists when an officer does not board\n5.12.\nPersons to be named on the crew list of foreign-registered vessels\n5.13.\nPersons not to be named on the crew list\n6.\nDefinitions\n7.\nProcedure: Crew members arriving on vessels of foreign registry\n7.1.\nVerifying the crew list\n7.2.\nErrors on the crew list\n7.3.\nDeleting names from the crew list before endorsement\n7.4."
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c2",
+      "chars": 955,
+      "page_start": 2,
+      "page_end": 2,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "7.1.\nVerifying the crew list\n7.2.\nErrors on the crew list\n7.3.\nDeleting names from the crew list before endorsement\n7.4.\nActions after deleting names\n7.5.\nEndorsing the crew list\n7.6.\nRecording crew changes\n7.7.\nFiling crew lists\n8.\nProcedure: Crew members on vessels of Canadian registry\n8.1.\nEnforcement procedures\n8.2.\nProcedures when a crew member reports to an inland office or comes to the attention of an\ninvestigator\n8.3.\nCollecting security deposits\n8.4.\nDetaining or seizing vessels when shipping companies fail to deposit security\n8.5.\nCrew members other than deserters who cease to perform their duties\n8.6.\nDischarged crew members\n8.7.\nExaminations at airports and land borders of persons seeking entry to join vessels as crew\nmembers\n8.8.\nShip-joining letters\n8.9.\nUsing port stamps\n8.10.\nTemporary resident records\n9.\nProcedure: Passengers arriving at a maritime POE\n9.1.\nRequirement to appear for examination\n9.2.\nPlace of examination\n9.3.",
+      "text_enriched": "7.1.\nVerifying the crew list\n7.2.\nErrors on the crew list\n7.3.\nDeleting names from the crew list before endorsement\n7.4.\nActions after deleting names\n7.5.\nEndorsing the crew list\n7.6.\nRecording crew changes\n7.7.\nFiling crew lists\n8.\nProcedure: Crew members on vessels of Canadian registry\n8.1.\nEnforcement procedures\n8.2.\nProcedures when a crew member reports to an inland office or comes to the attention of an\ninvestigator\n8.3.\nCollecting security deposits\n8.4.\nDetaining or seizing vessels when shipping companies fail to deposit security\n8.5.\nCrew members other than deserters who cease to perform their duties\n8.6.\nDischarged crew members\n8.7.\nExaminations at airports and land borders of persons seeking entry to join vessels as crew\nmembers\n8.8.\nShip-joining letters\n8.9.\nUsing port stamps\n8.10.\nTemporary resident records\n9.\nProcedure: Passengers arriving at a maritime POE\n9.1.\nRequirement to appear for examination\n9.2.\nPlace of examination\n9.3."
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c3",
+      "chars": 586,
+      "page_start": 2,
+      "page_end": 2,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "9.\nProcedure: Passengers arriving at a maritime POE\n9.1.\nRequirement to appear for examination\n9.2.\nPlace of examination\n9.3.\nReferring passengers for secondary immigration examinations\n9.4.\nExamining stowaways on board vessels\n9.5.\nWhen to allow for repatriation by air\n9.6.\nFOSS entries\n9.7.\nUse of Association of Characteristics (AOC) code for stowaways\n9.8.\nInland interviews with persons claiming to have been stowaways\n10.\nProcedure: SSI reports\n11.\nProcedure: Collecting security deposits for payment of administration fees and other expenses\n12.\nProcedure: Liability for removal",
+      "text_enriched": "9.\nProcedure: Passengers arriving at a maritime POE\n9.1.\nRequirement to appear for examination\n9.2.\nPlace of examination\n9.3.\nReferring passengers for secondary immigration examinations\n9.4.\nExamining stowaways on board vessels\n9.5.\nWhen to allow for repatriation by air\n9.6.\nFOSS entries\n9.7.\nUse of Association of Characteristics (AOC) code for stowaways\n9.8.\nInland interviews with persons claiming to have been stowaways\n10.\nProcedure: SSI reports\n11.\nProcedure: Collecting security deposits for payment of administration fees and other expenses\n12.\nProcedure: Liability for removal"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c4",
+      "chars": 238,
+      "page_start": 3,
+      "page_end": 4,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "12.1.\nInitial notice of liability\n12.2.\nFailure to comply with acceptable removal arrangements\n12.3.\nLiability for removal costs\n12.4.\nBreakdown of costs to be reported\n12.5.\nMeans of reporting costs\n\nUpdates to Chapter\n\nDates: 2011-02-11",
+      "text_enriched": "12.1.\nInitial notice of liability\n12.2.\nFailure to comply with acceptable removal arrangements\n12.3.\nLiability for removal costs\n12.4.\nBreakdown of costs to be reported\n12.5.\nMeans of reporting costs\n\nUpdates to Chapter\n\nDates: 2011-02-11"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c5",
+      "chars": 960,
+      "page_start": 4,
+      "page_end": 4,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "•\nSection 5.11, reference to customs and immigration was replaced by CBSA Officer/office;\n•\nSection 7.7, reference to customs was replaced by CBSA;\n•\nSection 8.1, FOSS code 398 was replaced by FOSS code 184;\n•\nSection 8.7, reference to customs was replaced by CBSA;\n•\nSection 9.1, reference to customs was replaced by CBSA;\n•\nSection 9.2, reference to customs and immigration was replaced by CBSA; and\n•\nSection 9.3, reference to customs was replaced by CBSA.\n1.\nWhat this chapter is about\nThis chapter provides guidance about examination and enforcement procedures at maritime ports\nof entry with respect to crew members, stowaways and other persons arriving in Canada aboard\nvessels. It will also assist officers at airports and land borders in examining persons seeking\nentry for the purpose of joining vessels as crew members as well as inland officers who encounter\npersons claiming to have arrived in Canada as or to become members of a crew. Finally, it",
+      "text_enriched": "•\nSection 5.11, reference to customs and immigration was replaced by CBSA Officer/office;\n•\nSection 7.7, reference to customs was replaced by CBSA;\n•\nSection 8.1, FOSS code 398 was replaced by FOSS code 184;\n•\nSection 8.7, reference to customs was replaced by CBSA;\n•\nSection 9.1, reference to customs was replaced by CBSA;\n•\nSection 9.2, reference to customs and immigration was replaced by CBSA; and\n•\nSection 9.3, reference to customs was replaced by CBSA.\n1.\nWhat this chapter is about\nThis chapter provides guidance about examination and enforcement procedures at maritime ports\nof entry with respect to crew members, stowaways and other persons arriving in Canada aboard\nvessels. It will also assist officers at airports and land borders in examining persons seeking\nentry for the purpose of joining vessels as crew members as well as inland officers who encounter\npersons claiming to have arrived in Canada as or to become members of a crew. Finally, it"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c6",
+      "chars": 997,
+      "page_start": 4,
+      "page_end": 4,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "persons claiming to have arrived in Canada as or to become members of a crew. Finally, it\nsummarizes the obligations and financial liabilities of shipping companies with respect to\nadministration fees, removal and medical costs.\n2.\nProgram objectives\nThe objectives of maritime immigration procedures are the control of persons entering at maritime\nports of entry and the enforcement of the Act and Regulations with respect to the obligations and\nliabilities of transportation companies.\n3.\nThe Act and Regulations\nProvision\nReference in\nLegislation\nContravention of Act\nA124(1)(a)\nObligation of operators of vehicles and facilities\nA148(1)(b) and (f)\nSeizure of security for compliance\nA148(2)\nEntry to complete further examination or hearing\nA23\nNon-compliance with Act\nA41\nPreparation of report\nA44(1)\nConditions imposed on foreign nationals who enter as members of a\ncrew\nR184(1)\nConditions imposed on foreign nationals who enter to become members\nof a crew\nR184(2)\nObligation to hold a person",
+      "text_enriched": "persons claiming to have arrived in Canada as or to become members of a crew. Finally, it\nsummarizes the obligations and financial liabilities of shipping companies with respect to\nadministration fees, removal and medical costs.\n2.\nProgram objectives\nThe objectives of maritime immigration procedures are the control of persons entering at maritime\nports of entry and the enforcement of the Act and Regulations with respect to the obligations and\nliabilities of transportation companies.\n3.\nThe Act and Regulations\nProvision\nReference in\nLegislation\nContravention of Act\nA124(1) (Act Section 124(1))(a)\nObligation of operators of vehicles and facilities\nA148(1) (Act Section 148(1))(b) and (f)\nSeizure of security for compliance\nA148(2) (Act Section 148(2))\nEntry to complete further examination or hearing\nA23 (Act Section 23)\nNon-compliance with Act\nA41 (Act Section 41)\nPreparation of report\nA44(1) (Act Section 44(1))\nConditions imposed on foreign nationals who enter as members of a\ncrew\nR184(1) (Regulation 184(1))\nConditions imposed on foreign nationals who enter to become members\nof a crew\nR184(2) (Regulation 184(2))\nObligation to hold a person"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c7",
+      "chars": 297,
+      "page_start": 4,
+      "page_end": 4,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "crew\nR184(1)\nConditions imposed on foreign nationals who enter to become members\nof a crew\nR184(2)\nObligation to hold a person\nR261(1)\nStoaway notification\nR262\nAmended crew list\nR265(2)\nAssembly\nR266\nReporting obligation\nR268\nNotifying transporters\nR276(1)(a) and (b)\nNotifying an officer\nR276(2)",
+      "text_enriched": "crew\nR184(1) (Regulation 184(1))\nConditions imposed on foreign nationals who enter to become members\nof a crew\nR184(2) (Regulation 184(2))\nObligation to hold a person\nR261(1) (Regulation 261(1))\nStoaway notification\nR262 (Regulation 262)\nAmended crew list\nR265(2) (Regulation 265(2))\nAssembly\nR266 (Regulation 266)\nReporting obligation\nR268 (Regulation 268)\nNotifying transporters\nR276(1) (Regulation 276(1))(a) and (b)\nNotifying an officer\nR276(2) (Regulation 276(2))"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c8",
+      "chars": 297,
+      "page_start": 5,
+      "page_end": 5,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "Time period\nR276(3)\nNon-compliance\nR276(4)\nCriteria for non-acceptance of arrangements\nR276(5)\nRemoval costs\nR278\nAssessment of administration fee\nR279(1)\nExceptions\nR279(2)\nObject detained or seized\nR285\nEnd of examination\nR37\nCeasing to be a member of a crew\nR3(1)(b)\nWithdrawing application\nR42",
+      "text_enriched": "Time period\nR276(3) (Regulation 276(3))\nNon-compliance\nR276(4) (Regulation 276(4))\nCriteria for non-acceptance of arrangements\nR276(5) (Regulation 276(5))\nRemoval costs\nR278 (Regulation 278)\nAssessment of administration fee\nR279(1) (Regulation 279(1))\nExceptions\nR279(2) (Regulation 279(2))\nObject detained or seized\nR285 (Regulation 285)\nEnd of examination\nR37 (Regulation 37)\nCeasing to be a member of a crew\nR3(1) (Regulation 3(1))(b)\nWithdrawing application\nR42 (Regulation 42)"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c9",
+      "chars": 972,
+      "page_start": 5,
+      "page_end": 5,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "3.1.\nForms\nThe forms required are shown in the following table.\nForm title\nForm number\nOfficial Receipt - Cash Security Deposit by a Transporter Company\nIMM0410B\nWarrant for Arrest\nIMM0420B\nCosts Payable by Transporters\nIMM0459B\nNotice of Rights Conferred by the Vienna Convention and to be\nRepresented by Counsel at an Admissibility hearing\nIMM0689B\nVisitor Record\nIMM1097B\nDeclaration\nIMM1392B\nNotice of Detention or Seizure of Vehicle or Prescribed Good\nIMM5266B\nExtra duty and shiftwork authorization\nPER0007\n4.\nInstruments and delegations\nNil.\n5.\nDepartmental policy\n5.1.\nDocument exemptions for crew members\nPersons coming to Canada as members of a ship's crew, or to become members of a crew, are\nseeking entry as temporary residents to engage in employment. IRPR exemptions have been\ncreated to facilitate the entry of crew members and to provide control of improperly documented\npassengers who pose as seafarers and are victims of abuse by people smugglers. These",
+      "text_enriched": "3.1.\nForms\nThe forms required are shown in the following table.\nForm title\nForm number\nOfficial Receipt - Cash Security Deposit by a Transporter Company\nIMM0410B\nWarrant for Arrest\nIMM0420B\nCosts Payable by Transporters\nIMM0459B\nNotice of Rights Conferred by the Vienna Convention and to be\nRepresented by Counsel at an Admissibility hearing\nIMM0689B\nVisitor Record\nIMM1097B\nDeclaration\nIMM1392B\nNotice of Detention or Seizure of Vehicle or Prescribed Good\nIMM5266B\nExtra duty and shiftwork authorization\nPER0007\n4.\nInstruments and delegations\nNil.\n5.\nDepartmental policy\n5.1.\nDocument exemptions for crew members\nPersons coming to Canada as members of a ship's crew, or to become members of a crew, are\nseeking entry as temporary residents to engage in employment. IRPR exemptions have been\ncreated to facilitate the entry of crew members and to provide control of improperly documented\npassengers who pose as seafarers and are victims of abuse by people smugglers. These"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c10",
+      "chars": 113,
+      "page_start": 5,
+      "page_end": 5,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "passengers who pose as seafarers and are victims of abuse by people smugglers. These\nexemptions are listed below.",
+      "text_enriched": "passengers who pose as seafarers and are victims of abuse by people smugglers. These\nexemptions are listed below."
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c11",
+      "chars": 641,
+      "page_start": 5,
+      "page_end": 5,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "Type of exemption\nDescription\nExemption from temporary\nresident visa requirement\nUnder R190(3.1) “A foreign national who is a member of a crew\nand who is carried to Canada by a vessel does not require a\ntemporary resident visa if they are seeking\n(a) to enter Canada as a member of the crew of the vessel; and\n(b) to remain in Canada solely as a member of the crew of that\nvessel or any other vessel.”\nNote: All foreign nationals who arrive as passengers by air or\nland seeking entry to join a vessel as crew members are not\nexempt from temporary resident visa requirements. The visa\nexemption applies only to crew members who arrive as crew",
+      "text_enriched": "Type of exemption\nDescription\nExemption from temporary\nresident visa requirement\nUnder R190(3.1) (Regulation 190(3.1)) “A foreign national who is a member of a crew\nand who is carried to Canada by a vessel does not require a\ntemporary resident visa if they are seeking\n(a) to enter Canada as a member of the crew of the vessel; and\n(b) to remain in Canada solely as a member of the crew of that\nvessel or any other vessel.”\nNote: All foreign nationals who arrive as passengers by air or\nland seeking entry to join a vessel as crew members are not\nexempt from temporary resident visa requirements. The visa\nexemption applies only to crew members who arrive as crew"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c12",
+      "chars": 481,
+      "page_start": 6,
+      "page_end": 6,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "members on board the vessel on which they are employed. The\ntemporary resident visa must be located in the passport of the\nforeign national as opposed to the seafarers document.\nExemption from passport\nrequirement\nUnder R52(2)(g) “persons seeking to enter Canada as members\nof a crew who hold a seafarer’s identity document issued under\nInternational Labour Organization conventions and are members\nof the crew of the vessel that carries them to Canada” do not\nrequire a passport.”",
+      "text_enriched": "members on board the vessel on which they are employed. The\ntemporary resident visa must be located in the passport of the\nforeign national as opposed to the seafarers document.\nExemption from passport\nrequirement\nUnder R52(2) (Regulation 52(2))(g) “persons seeking to enter Canada as members\nof a crew who hold a seafarer’s identity document issued under\nInternational Labour Organization conventions and are members\nof the crew of the vessel that carries them to Canada” do not\nrequire a passport.”"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c13",
+      "chars": 780,
+      "page_start": 6,
+      "page_end": 6,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "Note: Foreign nationals seeking to enter Canada to join a vessel\nrequire a passport or travel document as per R52(1). The\npassport exemption applies only to foreign nationals entering\nCanada as a crew member who possess a seafarer’s document.\nMany crew members of cruise ships, for example, require\npassports because they do not have seafarer’s identity\ndocuments.\nExemption from work permit\nrequirement\nR186(s) permits foreign nationals to work as crew members of\nships in Canada without work permit provided that the ship on\nwhich they are or will be employed is of foreign registry and is\nengaged in international transportation.\n\nCrew members may not, however, perform dockside functions\nsuch as the loading or unloading of cargo, without HRSDC\nconfirmation and a work permit.",
+      "text_enriched": "Note: Foreign nationals seeking to enter Canada to join a vessel\nrequire a passport or travel document as per R52(1) (Regulation 52(1)). The\npassport exemption applies only to foreign nationals entering\nCanada as a crew member who possess a seafarer’s document.\nMany crew members of cruise ships, for example, require\npassports because they do not have seafarer’s identity\ndocuments.\nExemption from work permit\nrequirement\nR186(s) (Regulation 186(s)) permits foreign nationals to work as crew members of\nships in Canada without work permit provided that the ship on\nwhich they are or will be employed is of foreign registry and is\nengaged in international transportation.\n\nCrew members may not, however, perform dockside functions\nsuch as the loading or unloading of cargo, without HRSDC\nconfirmation and a work permit."
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c14",
+      "chars": 937,
+      "page_start": 6,
+      "page_end": 6,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "Foreign nationals working as crew members aboard any ship of\nCanadian registry (e.g., fishing vessel, research vessel, pleasure\nyacht) or on foreign-registered vessels engaged in the coasting\ntrade require HRSDC confirmations and work permits.\nNote: The coasting trade is the carriage of goods or passengers by ship from one place in Canada,\neither directly or indirectly through a foreign port, to any other place in Canada. It includes marine\nactivity of a commercial nature by a ship in Canada, for example tour boats. Foreign ship owners\nwishing to engage in this activity require coasting-trade licences issued by Canada Border Services\nAgency in cooperation with the Canadian Transportation Agency.\n5.2.\nCrew members on ships of Canadian registry\nCrew members aboard ships of Canadian registry are not required to appear for examination\nbefore an officer at a maritime POE, provided that they are Canadian citizens. Pursuant to the",
+      "text_enriched": "Foreign nationals working as crew members aboard any ship of\nCanadian registry (e.g., fishing vessel, research vessel, pleasure\nyacht) or on foreign-registered vessels engaged in the coasting\ntrade require HRSDC confirmations and work permits.\nNote: The coasting trade is the carriage of goods or passengers by ship from one place in Canada,\neither directly or indirectly through a foreign port, to any other place in Canada. It includes marine\nactivity of a commercial nature by a ship in Canada, for example tour boats. Foreign ship owners\nwishing to engage in this activity require coasting-trade licences issued by Canada Border Services\nAgency in cooperation with the Canadian Transportation Agency.\n5.2.\nCrew members on ships of Canadian registry\nCrew members aboard ships of Canadian registry are not required to appear for examination\nbefore an officer at a maritime POE, provided that they are Canadian citizens. Pursuant to the"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c15",
+      "chars": 950,
+      "page_start": 6,
+      "page_end": 6,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "before an officer at a maritime POE, provided that they are Canadian citizens. Pursuant to the\nRegulations, the master of a ship of Canadian registry need not present a crew list unless\nspecifically requested to do so.\nThe master must notify an officer of the arrival of crew members who are not Canadian citizens\nand permanent residents. Such persons should be examined normally. They require work permits\nand HRSDC validations. If a Canadian registered vessel is converted to foreign registry while in\nCanada and subsequently leaves Canada, a crew list is not required before its departure.\n5.3.\nNotification concerning crew members\nR268 requires a transporter to notify an officer without delay when a person granted entry as or to\nbecome a crew member fails to become or ceases to be a crew member.\n5.4.\nMedical expenses\nR263(1) provides that transporters are liable for the medical and hospital costs incurred with\nrespect to their crew members.",
+      "text_enriched": "before an officer at a maritime POE, provided that they are Canadian citizens. Pursuant to the\nRegulations, the master of a ship of Canadian registry need not present a crew list unless\nspecifically requested to do so.\nThe master must notify an officer of the arrival of crew members who are not Canadian citizens\nand permanent residents. Such persons should be examined normally. They require work permits\nand HRSDC validations. If a Canadian registered vessel is converted to foreign registry while in\nCanada and subsequently leaves Canada, a crew list is not required before its departure.\n5.3.\nNotification concerning crew members\nR268 (Regulation 268) requires a transporter to notify an officer without delay when a person granted entry as or to\nbecome a crew member fails to become or ceases to be a crew member.\n5.4.\nMedical expenses\nR263(1) (Regulation 263(1)) provides that transporters are liable for the medical and hospital costs incurred with\nrespect to their crew members."
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c16",
+      "chars": 910,
+      "page_start": 7,
+      "page_end": 7,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "5.5.\nHospitalized crew members\nR268(1) requires a ship's master to notify an officer when any crew member ceases to be a crew\nmember. The master need report, however, only those crew members whose hospitalization will\ncontinue after the vessel’s departure. R3(1)(b) provides that crew members who are hospitalized\nhave 72 hours after their release from hospital to return to their vessel or leave Canada. They\nmaintain their temporary resident status during this interval.\n5.6.\nRequirement to notify when stowaways are on board\nR262 requires a shipping company to notify an officer of the presence aboard of any stowaways\nupon the vessel’s arrival at its first port of call in Canada. The notice need not be in writing unless\nan officer has reason to request a written report. Notice is not required if the vessel is in transit\nthrough Canada to a port in the U.S.A.\n5.7.\nRequirement to hold stowaways on board",
+      "text_enriched": "5.5.\nHospitalized crew members\nR268(1) (Regulation 268(1)) requires a ship's master to notify an officer when any crew member ceases to be a crew\nmember. The master need report, however, only those crew members whose hospitalization will\ncontinue after the vessel’s departure. R3(1) (Regulation 3(1))(b) provides that crew members who are hospitalized\nhave 72 hours after their release from hospital to return to their vessel or leave Canada. They\nmaintain their temporary resident status during this interval.\n5.6.\nRequirement to notify when stowaways are on board\nR262 (Regulation 262) requires a shipping company to notify an officer of the presence aboard of any stowaways\nupon the vessel’s arrival at its first port of call in Canada. The notice need not be in writing unless\nan officer has reason to request a written report. Notice is not required if the vessel is in transit\nthrough Canada to a port in the U.S.A.\n5.7.\nRequirement to hold stowaways on board"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c17",
+      "chars": 914,
+      "page_start": 7,
+      "page_end": 7,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "through Canada to a port in the U.S.A.\n5.7.\nRequirement to hold stowaways on board\nThe examination of stowaways should take place aboard the ship on which they arrived. Section\nA148(1)(b) requires the master to hold a stowaway (in custody) aboard the ship until the\nexamination has been completed. This will require that the master continue to hold a stowaway\non board when an examination must be adjourned. The master of a ship in transit to the U.S.A. is\nprohibited from diverting the vessel to a Canadian port of entry for the sole purpose of\ndisembarking stowaways in Canada. A stowaway aboard a vessel that is at anchor should not be\nexamined. The examination should only be conducted upon the vessel’s arrival at dockside.\nStowaways who withdraw their application to enter Canada or are issued a removal order should\ndepart Canada aboard the vessel that brought them to Canada unless the transporter has made",
+      "text_enriched": "through Canada to a port in the U.S.A.\n5.7.\nRequirement to hold stowaways on board\nThe examination of stowaways should take place aboard the ship on which they arrived. Section\nA148(1) (Act Section 148(1))(b) requires the master to hold a stowaway (in custody) aboard the ship until the\nexamination has been completed. This will require that the master continue to hold a stowaway\non board when an examination must be adjourned. The master of a ship in transit to the U.S.A. is\nprohibited from diverting the vessel to a Canadian port of entry for the sole purpose of\ndisembarking stowaways in Canada. A stowaway aboard a vessel that is at anchor should not be\nexamined. The examination should only be conducted upon the vessel’s arrival at dockside.\nStowaways who withdraw their application to enter Canada or are issued a removal order should\ndepart Canada aboard the vessel that brought them to Canada unless the transporter has made"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c18",
+      "chars": 958,
+      "page_start": 7,
+      "page_end": 7,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "depart Canada aboard the vessel that brought them to Canada unless the transporter has made\nsatisfactory arrangements for that person’s repatriation by other means. (See Section 9.5, When\nto allow for repatriation by air.) A transporter that allows a stowaway to disembark at a place\nother than a designated POE, such as a seaway lock, faces prosecution under A124(1)(a) in\naddition to the usual financial liabilities (security deposits, administration fees and removal costs).\n5.8.\nLiability for removal\nPursuant to A148(1(f), a transporter is liable for the removal from Canada of any foreign national\nwhom they bring to Canada as a crew member or to become a crew member. They are also\nliable for the removal of any improperly documented stowaway or other inadmissible passenger\nprovided they were not in possession of a visa.\n5.9.\nNotice of requirement to convey\nR276(1)(b) provides that when the removal order is enforceable, an officer shall notify the",
+      "text_enriched": "depart Canada aboard the vessel that brought them to Canada unless the transporter has made\nsatisfactory arrangements for that person’s repatriation by other means. (See Section 9.5, When\nto allow for repatriation by air.) A transporter that allows a stowaway to disembark at a place\nother than a designated POE, such as a seaway lock, faces prosecution under A124(1) (Act Section 124(1))(a) in\naddition to the usual financial liabilities (security deposits, administration fees and removal costs).\n5.8.\nLiability for removal\nPursuant to A148(1(f) (Act Section 148(1(f)), a transporter is liable for the removal from Canada of any foreign national\nwhom they bring to Canada as a crew member or to become a crew member. They are also\nliable for the removal of any improperly documented stowaway or other inadmissible passenger\nprovided they were not in possession of a visa.\n5.9.\nNotice of requirement to convey\nR276(1) (Regulation 276(1))(b) provides that when the removal order is enforceable, an officer shall notify the"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c19",
+      "chars": 964,
+      "page_start": 7,
+      "page_end": 7,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "5.9.\nNotice of requirement to convey\nR276(1)(b) provides that when the removal order is enforceable, an officer shall notify the\ntransporter that it must carry the person from Canada and provide escorts if required.\nUpon being notified of this requirement, R276(2) requires the transporter to inform an officer\nwithout delay of removal arrangements. R276(3) requires the transporter to convey the person\nfrom Canada within 48 hours of this notification\n5.10.\nPresentation of crew lists from foreign-registered vessels\nA crew list is required from each foreign-registered vessel on its arrival in Canada, regardless of\nthe number of crew members aboard. It may be computer generated or typed or printed on a form\nsuch as the International Maritime Organization crew list form.\nThe master must present two copies of the crew list, surrendering one endorsed copy at the time\nof the vessel's departure from Canada. If the master wishes to have an endorsed copy for the",
+      "text_enriched": "5.9.\nNotice of requirement to convey\nR276(1) (Regulation 276(1))(b) provides that when the removal order is enforceable, an officer shall notify the\ntransporter that it must carry the person from Canada and provide escorts if required.\nUpon being notified of this requirement, R276(2) (Regulation 276(2)) requires the transporter to inform an officer\nwithout delay of removal arrangements. R276(3) (Regulation 276(3)) requires the transporter to convey the person\nfrom Canada within 48 hours of this notification\n5.10.\nPresentation of crew lists from foreign-registered vessels\nA crew list is required from each foreign-registered vessel on its arrival in Canada, regardless of\nthe number of crew members aboard. It may be computer generated or typed or printed on a form\nsuch as the International Maritime Organization crew list form.\nThe master must present two copies of the crew list, surrendering one endorsed copy at the time\nof the vessel's departure from Canada. If the master wishes to have an endorsed copy for the"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c20",
+      "chars": 361,
+      "page_start": 7,
+      "page_end": 7,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "of the vessel's departure from Canada. If the master wishes to have an endorsed copy for the\nship's records, a third copy should be presented upon arrival. While the vessel remains in\nCanada, the master must keep the crew list up-to-date, immediately revising it each time a crew\nchange occurs. A current list must be presented whenever requested by an officer.",
+      "text_enriched": "of the vessel's departure from Canada. If the master wishes to have an endorsed copy for the\nship's records, a third copy should be presented upon arrival. While the vessel remains in\nCanada, the master must keep the crew list up-to-date, immediately revising it each time a crew\nchange occurs. A current list must be presented whenever requested by an officer."
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c21",
+      "chars": 977,
+      "page_start": 8,
+      "page_end": 8,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "5.11.\nDelivering crew lists when an officer does not board\nDue to selective boarding procedures, Canada Border Services Agency (CBSA) officers do not\nboard the majority of vessels on arrival. If a CBSA officer does not board, the master or ship's\nagent must deliver the crew list to the nearest CBSA office immediately after the vessel’s arrival.\nIn some circumstances an officer may allow for the list to be transmitted electronically (e.g., when\na vessel arrives at a port which is not a port of entry). If the master sends the list by facsimile, the\nCBSA officer who receives it should send an endorsed copy by facsimile to the ship's agent for\npresentation at the time of the vessel's departure from Canada.\n5.12.\nPersons to be named on the crew list of foreign-registered vessels\nR265 requires a transporter to provide an officer at a port of entry with a list of all members of the\ncrew. This must include the names of all persons employed on the vessel to perform duties",
+      "text_enriched": "5.11.\nDelivering crew lists when an officer does not board\nDue to selective boarding procedures, Canada Border Services Agency (CBSA) officers do not\nboard the majority of vessels on arrival. If a CBSA officer does not board, the master or ship's\nagent must deliver the crew list to the nearest CBSA office immediately after the vessel’s arrival.\nIn some circumstances an officer may allow for the list to be transmitted electronically (e.g., when\na vessel arrives at a port which is not a port of entry). If the master sends the list by facsimile, the\nCBSA officer who receives it should send an endorsed copy by facsimile to the ship's agent for\npresentation at the time of the vessel's departure from Canada.\n5.12.\nPersons to be named on the crew list of foreign-registered vessels\nR265 (Regulation 265) requires a transporter to provide an officer at a port of entry with a list of all members of the\ncrew. This must include the names of all persons employed on the vessel to perform duties"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c22",
+      "chars": 978,
+      "page_start": 8,
+      "page_end": 8,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "crew. This must include the names of all persons employed on the vessel to perform duties\nrelated to the operation of the vessel or the provision of services to passengers.\nOn a cargo ship, crew members include:\n•\nlicenced officers: master, first officer, chief officer or chief mate, first engineer or chief\nengineer, and subordinate officers and engineers; and\n•\nnon-licenced crew: ordinary seamen, able-bodied seamen, bosun (deck crew foreman),\nengine- room crew (oilers and fitters), and kitchen and mess-room staff (cooks, stewards and\nmessmen).\nOn a cruise ship, crew members also commonly include the hotel manager, cruise director,\npurser, medical staff, managers and staff of the ship's bars, restaurants, boutiques and casino, as\nwell as house-cleaning staff and entertainers.\nOn a fishing vessel, crew members include all persons involved in the processing of the catch.\nOn a research vessel, all persons employed aboard such as scientists, technicians and divers are",
+      "text_enriched": "crew. This must include the names of all persons employed on the vessel to perform duties\nrelated to the operation of the vessel or the provision of services to passengers.\nOn a cargo ship, crew members include:\n•\nlicenced officers: master, first officer, chief officer or chief mate, first engineer or chief\nengineer, and subordinate officers and engineers; and\n•\nnon-licenced crew: ordinary seamen, able-bodied seamen, bosun (deck crew foreman),\nengine- room crew (oilers and fitters), and kitchen and mess-room staff (cooks, stewards and\nmessmen).\nOn a cruise ship, crew members also commonly include the hotel manager, cruise director,\npurser, medical staff, managers and staff of the ship's bars, restaurants, boutiques and casino, as\nwell as house-cleaning staff and entertainers.\nOn a fishing vessel, crew members include all persons involved in the processing of the catch.\nOn a research vessel, all persons employed aboard such as scientists, technicians and divers are"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c23",
+      "chars": 940,
+      "page_start": 8,
+      "page_end": 8,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "On a research vessel, all persons employed aboard such as scientists, technicians and divers are\nconsidered to be members of the crew.\n5.13.\nPersons not to be named on the crew list\nThe definition of member of a crew does not include persons in the following categories.\n•\nsupernumeraries: wives, children and other dependants of crew members;\nNote: Supernumeraries occasionally present seamen’s books and claim to be members of the crew. In\nsuch cases, the master must prove to an officer through ship’s articles and employment contracts that\nthe supernumerary is a legitimate crew member rather than someone pretending to be a crew\nmember in order to circumvent the visa requirement.\n•\nfare-paying passengers on cargo ships;\n•\nworkaways: passengers provided with transportation aboard a vessel in exchange for work\nperformed during the voyage;\n•\nforeign contractors and shipping company technicians: foreign nationals temporarily assigned",
+      "text_enriched": "On a research vessel, all persons employed aboard such as scientists, technicians and divers are\nconsidered to be members of the crew.\n5.13.\nPersons not to be named on the crew list\nThe definition of member of a crew does not include persons in the following categories.\n•\nsupernumeraries: wives, children and other dependants of crew members;\nNote: Supernumeraries occasionally present seamen’s books and claim to be members of the crew. In\nsuch cases, the master must prove to an officer through ship’s articles and employment contracts that\nthe supernumerary is a legitimate crew member rather than someone pretending to be a crew\nmember in order to circumvent the visa requirement.\n•\nfare-paying passengers on cargo ships;\n•\nworkaways: passengers provided with transportation aboard a vessel in exchange for work\nperformed during the voyage;\n•\nforeign contractors and shipping company technicians: foreign nationals temporarily assigned"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c24",
+      "chars": 419,
+      "page_start": 8,
+      "page_end": 8,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "performed during the voyage;\n•\nforeign contractors and shipping company technicians: foreign nationals temporarily assigned\nto a vessel for the sole purpose of making repairs; they may already be aboard the vessel\nwhen it arrives or arrive at a POE with the intention of proceeding to the vessel;\nshipping company superintendents, including persons referred to as supercargo,\nsuperintendent engineers, or port captains;",
+      "text_enriched": "performed during the voyage;\n•\nforeign contractors and shipping company technicians: foreign nationals temporarily assigned\nto a vessel for the sole purpose of making repairs; they may already be aboard the vessel\nwhen it arrives or arrive at a POE with the intention of proceeding to the vessel;\nshipping company superintendents, including persons referred to as supercargo,\nsuperintendent engineers, or port captains;"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c25",
+      "chars": 942,
+      "page_start": 9,
+      "page_end": 9,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "•\nemployees or executives of a marine transportation company who travel aboard or who visit\nships to monitor or supervise operations such as maintenance and repairs, preparation of\ncargo holds, preparation for inspection, and the loading or unloading of cargo;\n•\ninsurance company representatives who travel on vessels to familiarize themselves with\nshipboard operations on behalf of ship-owners' insurers; and\n•\nmeteorological officers: persons monitoring weather patterns whose presence aboard is\nunrelated to the navigation of the vessel.\nThese persons should not be named on crew lists. They are not exempt from passport and visa\nrequirements. This list is not exhaustive. Even if non-crew members claim that they do not intend\nto go ashore while the vessel is in port, they are still required to comply with applicable visa and\npassport requirements.\n6.\nDefinitions\nNil.\n7.\nProcedure: Crew members arriving on vessels of foreign registry",
+      "text_enriched": "•\nemployees or executives of a marine transportation company who travel aboard or who visit\nships to monitor or supervise operations such as maintenance and repairs, preparation of\ncargo holds, preparation for inspection, and the loading or unloading of cargo;\n•\ninsurance company representatives who travel on vessels to familiarize themselves with\nshipboard operations on behalf of ship-owners' insurers; and\n•\nmeteorological officers: persons monitoring weather patterns whose presence aboard is\nunrelated to the navigation of the vessel.\nThese persons should not be named on crew lists. They are not exempt from passport and visa\nrequirements. This list is not exhaustive. Even if non-crew members claim that they do not intend\nto go ashore while the vessel is in port, they are still required to comply with applicable visa and\npassport requirements.\n6.\nDefinitions\nNil.\n7.\nProcedure: Crew members arriving on vessels of foreign registry"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c26",
+      "chars": 977,
+      "page_start": 9,
+      "page_end": 9,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "passport requirements.\n6.\nDefinitions\nNil.\n7.\nProcedure: Crew members arriving on vessels of foreign registry\nCrew members aboard vessels of foreign registry are not required to appear personally before an\nofficer for examination at a POE unless asked to do so.\n7.1.\nVerifying the crew list\nBefore endorsing a crew list, an officer should take one or more of the following steps to ensure it\nis accurate and complete:\n•\nensure that surnames are distinguishable from given names, and if two or more identical\nsurnames appear on the list, that the master has not included the names of dependants;\n•\nlook at the dates of birth to ensure that no person is either too young or too old to be a\nlegitimate crew member;\n•\ncompare the particulars on the crew list with the information contained in seaman's identity\ndocuments or passports, ensuring that names and dates of birth are accurate;\n•\nreview the crew functions described under the list's rank or rating column and question the",
+      "text_enriched": "passport requirements.\n6.\nDefinitions\nNil.\n7.\nProcedure: Crew members arriving on vessels of foreign registry\nCrew members aboard vessels of foreign registry are not required to appear personally before an\nofficer for examination at a POE unless asked to do so.\n7.1.\nVerifying the crew list\nBefore endorsing a crew list, an officer should take one or more of the following steps to ensure it\nis accurate and complete:\n•\nensure that surnames are distinguishable from given names, and if two or more identical\nsurnames appear on the list, that the master has not included the names of dependants;\n•\nlook at the dates of birth to ensure that no person is either too young or too old to be a\nlegitimate crew member;\n•\ncompare the particulars on the crew list with the information contained in seaman's identity\ndocuments or passports, ensuring that names and dates of birth are accurate;\n•\nreview the crew functions described under the list's rank or rating column and question the"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c27",
+      "chars": 957,
+      "page_start": 9,
+      "page_end": 9,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "•\nreview the crew functions described under the list's rank or rating column and question the\nmaster about unclear terms or abbreviations;\n•\ncompare the names on the crew list with the names of crew members in the ship's articles or\non employment records; and\n•\nconduct a crew muster, asking each person named on the list to come forward to be\nidentified; compare the particulars in each travel document with the information supplied by\neach person who comes forward; ensure that the photograph in the document bears a\ngeneral resemblance to the holder; question the presence on board of unusual mixes of\nnationalities (e.g., two Tanzanians amongst a crew of Russians – these may have been\nstowaways whom the master has been told to pass off as crew members).\nNote: Crew members arousing suspicion should be questioned more thoroughly concerning their\nexperience at sea and their knowledge of their duties. If they are unable to satisfy an officer that they",
+      "text_enriched": "•\nreview the crew functions described under the list's rank or rating column and question the\nmaster about unclear terms or abbreviations;\n•\ncompare the names on the crew list with the names of crew members in the ship's articles or\non employment records; and\n•\nconduct a crew muster, asking each person named on the list to come forward to be\nidentified; compare the particulars in each travel document with the information supplied by\neach person who comes forward; ensure that the photograph in the document bears a\ngeneral resemblance to the holder; question the presence on board of unusual mixes of\nnationalities (e.g., two Tanzanians amongst a crew of Russians – these may have been\nstowaways whom the master has been told to pass off as crew members).\nNote: Crew members arousing suspicion should be questioned more thoroughly concerning their\nexperience at sea and their knowledge of their duties. If they are unable to satisfy an officer that they"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c28",
+      "chars": 976,
+      "page_start": 10,
+      "page_end": 10,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "are legitimate crew members, the officer should allow them to withdraw their application to enter\nCanada or report them pursuant to section A44(1).\nA crew muster is the assembly of all crew members on the vessel. It can be conducted on the\narrival or at any time prior to the departure of the vessel to ensure that all persons named on the\ncrew list are accounted for. An officer should not give the master advance notice of a crew muster\nprior to the vessel’s arrival. Advance notice of subsequent crew musters, however, is advisable\nbecause it encourages ship masters to comply with the requirement to notify an officer of\ndesertions. Pursuant to R266, a master must assemble all members of the crew without delay on\nthe request of an officer.\n7.2.\nErrors on the crew list\nIf minor inaccuracies on the crew list are detected that are believed to be inadvertent, the officer\nshould make the necessary corrections and initial the changes before endorsing the list. If there is",
+      "text_enriched": "are legitimate crew members, the officer should allow them to withdraw their application to enter\nCanada or report them pursuant to section A44(1) (Act Section 44(1)).\nA crew muster is the assembly of all crew members on the vessel. It can be conducted on the\narrival or at any time prior to the departure of the vessel to ensure that all persons named on the\ncrew list are accounted for. An officer should not give the master advance notice of a crew muster\nprior to the vessel’s arrival. Advance notice of subsequent crew musters, however, is advisable\nbecause it encourages ship masters to comply with the requirement to notify an officer of\ndesertions. Pursuant to R266 (Regulation 266), a master must assemble all members of the crew without delay on\nthe request of an officer.\n7.2.\nErrors on the crew list\nIf minor inaccuracies on the crew list are detected that are believed to be inadvertent, the officer\nshould make the necessary corrections and initial the changes before endorsing the list. If there is"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c29",
+      "chars": 957,
+      "page_start": 10,
+      "page_end": 10,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "should make the necessary corrections and initial the changes before endorsing the list. If there is\nreason to believe that the inaccuracies are due to a deliberate attempt to mislead, the officer\nshould treat the matter as an offence and consider initiating enforcement action. Offences should\nbe reported to the RCMP or to local or provincial police as appropriate.\n7.3.\nDeleting names from the crew list before endorsement\nBefore an officer endorses a crew list, an ink line should be drawn through the name of each\nperson who:\n•\nis not a crew member; or\n•\nis inadmissible to Canada.\nThe officer should initial each line that is deleted.\n7.4.\nActions after deleting names\nAn officer must examine persons whose names were deleted to ensure that they meet all entry\nrequirements. If a crew member or passenger is believed to be inadmissible, an officer may allow\nthe person to withdraw their application to enter Canada pursuant to R42 or report the person",
+      "text_enriched": "should make the necessary corrections and initial the changes before endorsing the list. If there is\nreason to believe that the inaccuracies are due to a deliberate attempt to mislead, the officer\nshould treat the matter as an offence and consider initiating enforcement action. Offences should\nbe reported to the RCMP or to local or provincial police as appropriate.\n7.3.\nDeleting names from the crew list before endorsement\nBefore an officer endorses a crew list, an ink line should be drawn through the name of each\nperson who:\n•\nis not a crew member; or\n•\nis inadmissible to Canada.\nThe officer should initial each line that is deleted.\n7.4.\nActions after deleting names\nAn officer must examine persons whose names were deleted to ensure that they meet all entry\nrequirements. If a crew member or passenger is believed to be inadmissible, an officer may allow\nthe person to withdraw their application to enter Canada pursuant to R42 (Regulation 42) or report the person"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c30",
+      "chars": 997,
+      "page_start": 10,
+      "page_end": 10,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "the person to withdraw their application to enter Canada pursuant to R42 or report the person\npursuant to A44(1). In these cases, a transporter must continue to hold the person. Section\nA148(1)(b) requires a transporter to present persons for examination and hold them until the\nexamination is completed. R37 clarifies that the examination continues until the person is\nauthorized to enter Canada, until their departure from Canada has been confirmed or until the\nMinister has issued a removal order or referred the case to the Immigration Division. R261(1)\nfurther clarifies that a transporter’s obligation to hold a person only ends when they are informed\nthat the examination is completed, the person is authorized to enter Canada for further\nexamination under A23 or is detained under any Canadian law.\nIf the Minister issues a removal order, A148(1)(f) requires the transporter to carry the crew\nmember from Canada. R276(1)(b) requires an officer to notify the transporter that the person has",
+      "text_enriched": "the person to withdraw their application to enter Canada pursuant to R42 (Regulation 42) or report the person\npursuant to A44(1) (Act Section 44(1)). In these cases, a transporter must continue to hold the person. Section\nA148(1) (Act Section 148(1))(b) requires a transporter to present persons for examination and hold them until the\nexamination is completed. R37 (Regulation 37) clarifies that the examination continues until the person is\nauthorized to enter Canada, until their departure from Canada has been confirmed or until the\nMinister has issued a removal order or referred the case to the Immigration Division. R261(1) (Regulation 261(1))\nfurther clarifies that a transporter’s obligation to hold a person only ends when they are informed\nthat the examination is completed, the person is authorized to enter Canada for further\nexamination under A23 (Act Section 23) or is detained under any Canadian law.\nIf the Minister issues a removal order, A148(1) (Act Section 148(1))(f) requires the transporter to carry the crew\nmember from Canada. R276(1) (Regulation 276(1))(b) requires an officer to notify the transporter that the person has"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c31",
+      "chars": 482,
+      "page_start": 10,
+      "page_end": 10,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "member from Canada. R276(1)(b) requires an officer to notify the transporter that the person has\nan enforceable removal order and must be conveyed from Canada\nIf an inadmissible person is detained for an admissibility hearing, an officer should arrange to\nhave the person removed from the vessel and detained at a designated immigration detention\ncentre.\nSee also:\nENF 4, Port of Entry Examinations\nENF 5, Writing Section 44(1) Reports\nENF 11, Verifying Departure\nENF 20, Detention.",
+      "text_enriched": "member from Canada. R276(1) (Regulation 276(1))(b) requires an officer to notify the transporter that the person has\nan enforceable removal order and must be conveyed from Canada\nIf an inadmissible person is detained for an admissibility hearing, an officer should arrange to\nhave the person removed from the vessel and detained at a designated immigration detention\ncentre.\nSee also:\nENF 4, Port of Entry Examinations\nENF 5, Writing Section 44(1) Reports\nENF 11, Verifying Departure\nENF 20, Detention."
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c32",
+      "chars": 965,
+      "page_start": 11,
+      "page_end": 11,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "7.5.\nEndorsing the crew list\nUntil an officer endorses a crew list, the persons named on it have not been authorized to enter\nCanada. Consequently, none of them may disembark. When the officer has determined all\npersons named on the crew list to be admissible, or has deleted the names of those persons not\nadmissible as crew members, that officer should endorse the last page of each copy of the\ndocument with a port stamp impression. The master must retain the endorsed copies, and use\nthem to record any crew changes that occur while the vessel is in Canada. Pursuant to R265(2)\nand R265(3), the master must revise these endorsed copies as soon as crew changes have\noccurred and provide an officer with an up-to-date list upon request.\n7.6.\nRecording crew changes\nThe master must ensure that all crew changes are recorded on the endorsed copies presented at\nthe time of the vessel's departure from its final Canadian port of call. If an officer is aware that the",
+      "text_enriched": "7.5.\nEndorsing the crew list\nUntil an officer endorses a crew list, the persons named on it have not been authorized to enter\nCanada. Consequently, none of them may disembark. When the officer has determined all\npersons named on the crew list to be admissible, or has deleted the names of those persons not\nadmissible as crew members, that officer should endorse the last page of each copy of the\ndocument with a port stamp impression. The master must retain the endorsed copies, and use\nthem to record any crew changes that occur while the vessel is in Canada. Pursuant to R265(2) (Regulation 265(2))\nand R265(3) (Regulation 265(3)), the master must revise these endorsed copies as soon as crew changes have\noccurred and provide an officer with an up-to-date list upon request.\n7.6.\nRecording crew changes\nThe master must ensure that all crew changes are recorded on the endorsed copies presented at\nthe time of the vessel's departure from its final Canadian port of call. If an officer is aware that the"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c33",
+      "chars": 980,
+      "page_start": 11,
+      "page_end": 11,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "the time of the vessel's departure from its final Canadian port of call. If an officer is aware that the\ncrew list presented upon the vessel’s departure is not current, that officer should amend the list\nusing the following format:\nFor deletions:\nImmediately below the last entry on the endorsed copies of the crew list,\nofficers should identify each person named on the list who has ceased to\nbe employed aboard the vessel, using the corresponding number from\nthe first column. It is unnecessary to rewrite the names and other\nparticulars of the persons concerned. Following the number, add the\nreason for the change, the date the change occurred (that is, the date on\nwhich the person ceased to perform the duties of a crew member), and\nthe officer’s initials.\nFor additions:\nImmediately below the last entry on the endorsed copies, the officer\nshould record the name and particulars of each person who joined the\nvessel as a crew member after its arrival in Canada. The numbers",
+      "text_enriched": "the time of the vessel's departure from its final Canadian port of call. If an officer is aware that the\ncrew list presented upon the vessel’s departure is not current, that officer should amend the list\nusing the following format:\nFor deletions:\nImmediately below the last entry on the endorsed copies of the crew list,\nofficers should identify each person named on the list who has ceased to\nbe employed aboard the vessel, using the corresponding number from\nthe first column. It is unnecessary to rewrite the names and other\nparticulars of the persons concerned. Following the number, add the\nreason for the change, the date the change occurred (that is, the date on\nwhich the person ceased to perform the duties of a crew member), and\nthe officer’s initials.\nFor additions:\nImmediately below the last entry on the endorsed copies, the officer\nshould record the name and particulars of each person who joined the\nvessel as a crew member after its arrival in Canada. The numbers"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c34",
+      "chars": 976,
+      "page_start": 11,
+      "page_end": 11,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "should record the name and particulars of each person who joined the\nvessel as a crew member after its arrival in Canada. The numbers\nassigned to crew members joining the vessel after its arrival in Canada\nmust not begin again at number 1. They must continue in numerical\nsequence. For example, if the inbound crew list contained 20 names, the\nnumber 21 should be assigned to the first crew member to join the\nvessel in Canada. The officer’s initials should be written at the end of\neach addition.\n7.7.\nFiling crew lists\nUnless alternate arrangements have been made, crew lists endorsed by CBSA should be\npromptly forwarded to the immigration office. Because crew lists contain personal information,\nthey must be kept on file for at least two years pursuant to section 4(1) of the Privacy\nRegulations.\n8.\nProcedure: Crew members on vessels of Canadian registry\n8.1.\nEnforcement procedures\nWhen an officer has reasonable grounds to believe that a person has ceased to be a crew",
+      "text_enriched": "should record the name and particulars of each person who joined the\nvessel as a crew member after its arrival in Canada. The numbers\nassigned to crew members joining the vessel after its arrival in Canada\nmust not begin again at number 1. They must continue in numerical\nsequence. For example, if the inbound crew list contained 20 names, the\nnumber 21 should be assigned to the first crew member to join the\nvessel in Canada. The officer’s initials should be written at the end of\neach addition.\n7.7.\nFiling crew lists\nUnless alternate arrangements have been made, crew lists endorsed by CBSA should be\npromptly forwarded to the immigration office. Because crew lists contain personal information,\nthey must be kept on file for at least two years pursuant to section 4(1) of the Privacy\nRegulations.\n8.\nProcedure: Crew members on vessels of Canadian registry\n8.1.\nEnforcement procedures\nWhen an officer has reasonable grounds to believe that a person has ceased to be a crew"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c35",
+      "chars": 853,
+      "page_start": 11,
+      "page_end": 11,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "8.1.\nEnforcement procedures\nWhen an officer has reasonable grounds to believe that a person has ceased to be a crew\nmember, the officer should consult the ship's inbound crew list to verify whether or not the foreign\nnational’s name has been recorded. If the notification concerns a foreign national who failed to\nreport for duty as a crew member after having been authorized to enter Canada for that purpose,\nthe officer should determine when and where the person concerned was admitted and include\nthis information on a Support System for Intelligence (SSI) report.\nThe master must surrender any identity documents belonging to the former crew member, and\nany information that may be helpful in locating the deserter (names and addresses of relatives or\nfriends in Canada). Such documents should be seized to facilitate the identification and possible",
+      "text_enriched": "8.1.\nEnforcement procedures\nWhen an officer has reasonable grounds to believe that a person has ceased to be a crew\nmember, the officer should consult the ship's inbound crew list to verify whether or not the foreign\nnational’s name has been recorded. If the notification concerns a foreign national who failed to\nreport for duty as a crew member after having been authorized to enter Canada for that purpose,\nthe officer should determine when and where the person concerned was admitted and include\nthis information on a Support System for Intelligence (SSI) report.\nThe master must surrender any identity documents belonging to the former crew member, and\nany information that may be helpful in locating the deserter (names and addresses of relatives or\nfriends in Canada). Such documents should be seized to facilitate the identification and possible"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c36",
+      "chars": 949,
+      "page_start": 12,
+      "page_end": 12,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "removal of the person concerned. The officer should send any documents suspected of being\nfraudulent to the regional intelligence unit for analysis. Others should be kept on the case file until\nthe deserter is located. The officer should also obtain a copy of the employment contract, medical\nrecords, ports- of-call list, and a copy of the ship’s particulars.\nAn officer should inspect the deserter's cabin and remaining luggage, if possible. The inspection\nmay result in the discovery of additional identity documents or information that could lead to the\napprehension of the deserter.\nAn officer should initiate enforcement action by reporting the deserter under the appropriate\nsection of the Act. During the process of data entry in FOSS, code 184 designating a ship\ndeserter should be inserted in the cause field to facilitate the retrieval of statistical data. The body\nof the report should be worded in accordance with the following example:",
+      "text_enriched": "removal of the person concerned. The officer should send any documents suspected of being\nfraudulent to the regional intelligence unit for analysis. Others should be kept on the case file until\nthe deserter is located. The officer should also obtain a copy of the employment contract, medical\nrecords, ports- of-call list, and a copy of the ship’s particulars.\nAn officer should inspect the deserter's cabin and remaining luggage, if possible. The inspection\nmay result in the discovery of additional identity documents or information that could lead to the\napprehension of the deserter.\nAn officer should initiate enforcement action by reporting the deserter under the appropriate\nsection of the Act. During the process of data entry in FOSS, code 184 designating a ship\ndeserter should be inserted in the cause field to facilitate the retrieval of statistical data. The body\nof the report should be worded in accordance with the following example:"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c37",
+      "chars": 995,
+      "page_start": 12,
+      "page_end": 12,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "of the report should be worded in accordance with the following example:\nName of deserter is a person who was granted entry to Canada on date at name of port as a\nmember of the crew of the name of vessel. On or about date of desertion, in name of place, the\nsaid name of deserter deserted the vessel, thereby ceasing to be a temporary resident.\nThe above wording will need to be adjusted in the case of crew members arrested and charged\nwith a criminal offence, foreign nationals who fail to join a vessel after having been granted entry\nto become crew members, and crew members who fail to leave Canada after being discharged\nfrom duty. Suppressed remarks should be added to the FOSS report containing the following\ninformation:\n•\nname of vessel to which the person concerned had been assigned as a crew member;\n•\ndate and port of vessel’s arrival in Canada;\n•\ndate on which the person concerned ceased to be a crew member;\n•\nname, address and telephone number of liable shipping company; and\n•",
+      "text_enriched": "of the report should be worded in accordance with the following example:\nName of deserter is a person who was granted entry to Canada on date at name of port as a\nmember of the crew of the name of vessel. On or about date of desertion, in name of place, the\nsaid name of deserter deserted the vessel, thereby ceasing to be a temporary resident.\nThe above wording will need to be adjusted in the case of crew members arrested and charged\nwith a criminal offence, foreign nationals who fail to join a vessel after having been granted entry\nto become crew members, and crew members who fail to leave Canada after being discharged\nfrom duty. Suppressed remarks should be added to the FOSS report containing the following\ninformation:\n•\nname of vessel to which the person concerned had been assigned as a crew member;\n•\ndate and port of vessel’s arrival in Canada;\n•\ndate on which the person concerned ceased to be a crew member;\n•\nname, address and telephone number of liable shipping company; and\n•"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c38",
+      "chars": 972,
+      "page_start": 12,
+      "page_end": 12,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "•\ndate on which the person concerned ceased to be a crew member;\n•\nname, address and telephone number of liable shipping company; and\n•\namount and official receipt number of any security deposited.\nR184(2) requires a foreign national who enters Canada to become a member of a crew to join the\nvessel within the period authorized or within 48 hours if no period is specified. Crew members\nwho fail to report within this time period are reportable under A41 and R184(2).\nSee also chapter ENF 5, Writing Section 44(1) Reports.\nIf the person does not immediately report to a CIC office or is not immediately apprehended, an\nofficer should issue a Warrant for Arrest (form IMM 0420B), signed by the Minister's delegate.\nThe original of the warrant should be sent to the Immigration Warrant Response Centre for entry\ninto the Canadian Police Information Centre (CPIC). For more information on issuing warrants for\narrest, see also chapter ENF 7, Investigations and Arrests.\n8.2.",
+      "text_enriched": "•\ndate on which the person concerned ceased to be a crew member;\n•\nname, address and telephone number of liable shipping company; and\n•\namount and official receipt number of any security deposited.\nR184(2) (Regulation 184(2)) requires a foreign national who enters Canada to become a member of a crew to join the\nvessel within the period authorized or within 48 hours if no period is specified. Crew members\nwho fail to report within this time period are reportable under A41 (Act Section 41) and R184(2) (Regulation 184(2)).\nSee also chapter ENF 5, Writing Section 44(1) Reports.\nIf the person does not immediately report to a CIC office or is not immediately apprehended, an\nofficer should issue a Warrant for Arrest (form IMM 0420B), signed by the Minister's delegate.\nThe original of the warrant should be sent to the Immigration Warrant Response Centre for entry\ninto the Canadian Police Information Centre (CPIC). For more information on issuing warrants for\narrest, see also chapter ENF 7, Investigations and Arrests.\n8.2."
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c39",
+      "chars": 726,
+      "page_start": 12,
+      "page_end": 12,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "arrest, see also chapter ENF 7, Investigations and Arrests.\n8.2.\nProcedures when a crew member reports to an inland office or comes to the attention of\nan investigator\nAn inland officer encountering a crew member should query FOSS to determine if there is a\nwarrant or any other record for this person. If a record is not found, the officer should ask the\nclient for the ship’s name and the name of the port of arrival and contact the office responsible for\nthat port to determine if the person’s name appears on the crew list for the vessel in question. The\nlack of a record in FOSS may indicate that:\nthe crew member was discharged for repatriation but, without the knowledge of the shipping\ncompany, failed to leave Canada;",
+      "text_enriched": "arrest, see also chapter ENF 7, Investigations and Arrests.\n8.2.\nProcedures when a crew member reports to an inland office or comes to the attention of\nan investigator\nAn inland officer encountering a crew member should query FOSS to determine if there is a\nwarrant or any other record for this person. If a record is not found, the officer should ask the\nclient for the ship’s name and the name of the port of arrival and contact the office responsible for\nthat port to determine if the person’s name appears on the crew list for the vessel in question. The\nlack of a record in FOSS may indicate that:\nthe crew member was discharged for repatriation but, without the knowledge of the shipping\ncompany, failed to leave Canada;"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c40",
+      "chars": 961,
+      "page_start": 13,
+      "page_end": 13,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "•\nthe shipping company, in violation of the Regulations, failed to report the desertion of the\ncrew member;\n•\nthe person is using a name other than the one shown on the crew list; or\n•\nfamily and given names have been reversed or misspelled.\nIf a warrant is found, the officer should execute it, informing the deserter of the reason for the\narrest and of their applicable rights, using a Notice of Rights Conferred by the Vienna Convention\nand to Be Represented by Counsel at an Admissibility Hearing form (IMM 0689B). An officer must\narrest a crew member for whom there is an outstanding warrant even if the intention is to release\nthe person immediately after the arrest. For more information on executing warrants, see also\nchapter ENF 7, Investigations and Arrests.\nWhere there is no warrant, an officer can still arrest a crew member who has failed to join a\nvessel or a foreign national who has deserted where there are grounds to believe that the foreign",
+      "text_enriched": "•\nthe shipping company, in violation of the Regulations, failed to report the desertion of the\ncrew member;\n•\nthe person is using a name other than the one shown on the crew list; or\n•\nfamily and given names have been reversed or misspelled.\nIf a warrant is found, the officer should execute it, informing the deserter of the reason for the\narrest and of their applicable rights, using a Notice of Rights Conferred by the Vienna Convention\nand to Be Represented by Counsel at an Admissibility Hearing form (IMM 0689B). An officer must\narrest a crew member for whom there is an outstanding warrant even if the intention is to release\nthe person immediately after the arrest. For more information on executing warrants, see also\nchapter ENF 7, Investigations and Arrests.\nWhere there is no warrant, an officer can still arrest a crew member who has failed to join a\nvessel or a foreign national who has deserted where there are grounds to believe that the foreign"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c41",
+      "chars": 901,
+      "page_start": 13,
+      "page_end": 13,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "vessel or a foreign national who has deserted where there are grounds to believe that the foreign\nnational would not appear for an admissibility hearing or poses a danger to the public. The\narresting officer should immediately request the transfer of the file from the CIC office where the\ndesertion was reported. The file should include a copy of the SSI report and any identity\ndocuments retrieved from the vessel.\n8.3.\nCollecting security deposits\nWhen a crew member deserts or for any other reason contravenes the Act, an officer should\nissue a direction to the shipping company for the deposit of security, provided that the company\nhas not deposited general security. Refer to Section 11 for amounts to be collected.\n8.4.\nDetaining or seizing vessels when shipping companies fail to deposit security\nWhen a shipping company fails to comply with a direction to deposit security, an officer should",
+      "text_enriched": "vessel or a foreign national who has deserted where there are grounds to believe that the foreign\nnational would not appear for an admissibility hearing or poses a danger to the public. The\narresting officer should immediately request the transfer of the file from the CIC office where the\ndesertion was reported. The file should include a copy of the SSI report and any identity\ndocuments retrieved from the vessel.\n8.3.\nCollecting security deposits\nWhen a crew member deserts or for any other reason contravenes the Act, an officer should\nissue a direction to the shipping company for the deposit of security, provided that the company\nhas not deposited general security. Refer to Section 11 for amounts to be collected.\n8.4.\nDetaining or seizing vessels when shipping companies fail to deposit security\nWhen a shipping company fails to comply with a direction to deposit security, an officer should"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c42",
+      "chars": 959,
+      "page_start": 13,
+      "page_end": 13,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "When a shipping company fails to comply with a direction to deposit security, an officer should\nadvise the company that failure to comply may result in the detention or seizure of the vessel. If\nthe requisite security has not been deposited by the time the vessel is about to leave Canada and\nthe officer is doubtful that security will be received if the vessel is allowed to sail, the vessel or any\nother prescribed goods of the transporter should be detained under A148(2). Pursuant to R285, a\nvessel may be detained until the transporter deposits the requisite security or until another party\ndeposits security on its behalf. The officer must complete and sign the Notice of Detention of\nVehicle or Prescribed Good form (IMM 5266B) and serve the master and shipping agent with\nsigned copies. CCRA, Coast Guard vessel traffic, and the pilotage authority, should be\nimmediately notified of the vessel’s detention, thereby ensuring that the vessel will not be",
+      "text_enriched": "When a shipping company fails to comply with a direction to deposit security, an officer should\nadvise the company that failure to comply may result in the detention or seizure of the vessel. If\nthe requisite security has not been deposited by the time the vessel is about to leave Canada and\nthe officer is doubtful that security will be received if the vessel is allowed to sail, the vessel or any\nother prescribed goods of the transporter should be detained under A148(2) (Act Section 148(2)). Pursuant to R285 (Regulation 285), a\nvessel may be detained until the transporter deposits the requisite security or until another party\ndeposits security on its behalf. The officer must complete and sign the Notice of Detention of\nVehicle or Prescribed Good form (IMM 5266B) and serve the master and shipping agent with\nsigned copies. CCRA, Coast Guard vessel traffic, and the pilotage authority, should be\nimmediately notified of the vessel’s detention, thereby ensuring that the vessel will not be"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c43",
+      "chars": 794,
+      "page_start": 13,
+      "page_end": 13,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "immediately notified of the vessel’s detention, thereby ensuring that the vessel will not be\npermitted to sail. The vessel may, however, be allowed to move to another berth or to anchorage\nwhile detained.\n8.5.\nCrew members other than deserters who cease to perform their duties\nR184(1)(b) requires crew members to leave Canada within 72 hours of ceasing to be members of\nthe crew. In such cases officers should follow the same procedures for taking enforcement action\nas apply in cases of desertion. The following circumstances may lead to the loss of crew member\nstatus:\n•\na labour dispute aboard a vessel;\n•\nthe crew member’s arrest on criminal charges;\nthe seizure of a vessel by court order or other authority; or\nsuspension of a ship's operations due to an accident or mechanical problems.",
+      "text_enriched": "immediately notified of the vessel’s detention, thereby ensuring that the vessel will not be\npermitted to sail. The vessel may, however, be allowed to move to another berth or to anchorage\nwhile detained.\n8.5.\nCrew members other than deserters who cease to perform their duties\nR184(1) (Regulation 184(1))(b) requires crew members to leave Canada within 72 hours of ceasing to be members of\nthe crew. In such cases officers should follow the same procedures for taking enforcement action\nas apply in cases of desertion. The following circumstances may lead to the loss of crew member\nstatus:\n•\na labour dispute aboard a vessel;\n•\nthe crew member’s arrest on criminal charges;\nthe seizure of a vessel by court order or other authority; or\nsuspension of a ship's operations due to an accident or mechanical problems."
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c44",
+      "chars": 951,
+      "page_start": 14,
+      "page_end": 14,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "In determining whether or not enforcement action is appropriate, an officer should assess whether\nor not the unwillingness or inability to perform duties will continue after the problem has been\nresolved. If no resolution is in sight, or if the officer has reason to believe that the crew member\nwill not resume duties, enforcement action should be initiated as soon as possible after the 72hour period expires. An SSI report should be generated for each crew member who has been\nreported for failing to leave Canada within the period required. Such reports trigger the\nassessment of administration fees in respect of the crew members concerned.\n8.6.\nDischarged crew members\nThe master must immediately notify an officer when a crew member who is not a Canadian\ncitizen or permanent resident is discharged R268(1). Once discharged, a foreign crew member\nretains temporary resident status for a full 72 hours. This period may be shortened or lengthened",
+      "text_enriched": "In determining whether or not enforcement action is appropriate, an officer should assess whether\nor not the unwillingness or inability to perform duties will continue after the problem has been\nresolved. If no resolution is in sight, or if the officer has reason to believe that the crew member\nwill not resume duties, enforcement action should be initiated as soon as possible after the 72hour period expires. An SSI report should be generated for each crew member who has been\nreported for failing to leave Canada within the period required. Such reports trigger the\nassessment of administration fees in respect of the crew members concerned.\n8.6.\nDischarged crew members\nThe master must immediately notify an officer when a crew member who is not a Canadian\ncitizen or permanent resident is discharged R268(1) (Regulation 268(1)). Once discharged, a foreign crew member\nretains temporary resident status for a full 72 hours. This period may be shortened or lengthened"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c45",
+      "chars": 917,
+      "page_start": 14,
+      "page_end": 14,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "retains temporary resident status for a full 72 hours. This period may be shortened or lengthened\nwhere warranted. In such a case, the passport or seaman’s book carried by the discharged crew\nmember should be stamped and the code letter C followed by the expiry date should be written\nbelow the port stamp impression. The name of the vessel should be written under the expiry date.\nThe 72-hour period does not apply to Canadian citizens, returning residents, and crew members\nwith work permits. It applies only to crew members authorized to enter as temporary residents\nwithout work permits. Holders of work permits, whether discharged or not, must leave Canada on\nor before the expiry date indicated on the work permit.\n8.7.\nExaminations at airports and land borders of persons seeking entry to join vessels as\ncrew members\nForeign nationals arriving at airports or land borders to seek entry to join vessels as crew",
+      "text_enriched": "retains temporary resident status for a full 72 hours. This period may be shortened or lengthened\nwhere warranted. In such a case, the passport or seaman’s book carried by the discharged crew\nmember should be stamped and the code letter C followed by the expiry date should be written\nbelow the port stamp impression. The name of the vessel should be written under the expiry date.\nThe 72-hour period does not apply to Canadian citizens, returning residents, and crew members\nwith work permits. It applies only to crew members authorized to enter as temporary residents\nwithout work permits. Holders of work permits, whether discharged or not, must leave Canada on\nor before the expiry date indicated on the work permit.\n8.7.\nExaminations at airports and land borders of persons seeking entry to join vessels as\ncrew members\nForeign nationals arriving at airports or land borders to seek entry to join vessels as crew"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c46",
+      "chars": 975,
+      "page_start": 14,
+      "page_end": 14,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "crew members\nForeign nationals arriving at airports or land borders to seek entry to join vessels as crew\nmembers may be referred by CBSA for an immigration secondary examination. The majority of\ncrew members are legitimate seamen whose entry should be facilitated. If the issuance of a\nvisitor record is deemed necessary, a copy should be sent by facsimile to the maritime POE in\norder that an officer there may confirm that the person complied with conditions by joining the\nvessel.\n8.8.\nShip-joining letters\nMost seamen travel to Canada with employment letters containing ship-joining instructions. The\nletter is normally printed on the letterhead of a foreign shipping company and usually contains:\n•\nthe name, address and telephone number of the ship’s agent in Canada;\n•\nthe crew member’s name, date of birth, and citizenship;\n•\nthe number of the seaman's book or passport of the passenger;\n•\nthe name and location in Canada of the ship that the crew member is to join.",
+      "text_enriched": "crew members\nForeign nationals arriving at airports or land borders to seek entry to join vessels as crew\nmembers may be referred by CBSA for an immigration secondary examination. The majority of\ncrew members are legitimate seamen whose entry should be facilitated. If the issuance of a\nvisitor record is deemed necessary, a copy should be sent by facsimile to the maritime POE in\norder that an officer there may confirm that the person complied with conditions by joining the\nvessel.\n8.8.\nShip-joining letters\nMost seamen travel to Canada with employment letters containing ship-joining instructions. The\nletter is normally printed on the letterhead of a foreign shipping company and usually contains:\n•\nthe name, address and telephone number of the ship’s agent in Canada;\n•\nthe crew member’s name, date of birth, and citizenship;\n•\nthe number of the seaman's book or passport of the passenger;\n•\nthe name and location in Canada of the ship that the crew member is to join."
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c47",
+      "chars": 585,
+      "page_start": 14,
+      "page_end": 14,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "•\nthe number of the seaman's book or passport of the passenger;\n•\nthe name and location in Canada of the ship that the crew member is to join.\nAn officer should verify the information in a ship-joining letter if there is reason to suspect the\nintentions of the holder.\nBefore deciding whether to admit the holder of a ship-joining letter, an officer should obtain from\nthe agent named in the letter confirmation that:\n•\nthe vessel is in or destined to Canada;\nthe person has been recruited to join the vessel;\nthe ship, if of foreign registry, is not engaged in the coasting trade; and",
+      "text_enriched": "•\nthe number of the seaman's book or passport of the passenger;\n•\nthe name and location in Canada of the ship that the crew member is to join.\nAn officer should verify the information in a ship-joining letter if there is reason to suspect the\nintentions of the holder.\nBefore deciding whether to admit the holder of a ship-joining letter, an officer should obtain from\nthe agent named in the letter confirmation that:\n•\nthe vessel is in or destined to Canada;\nthe person has been recruited to join the vessel;\nthe ship, if of foreign registry, is not engaged in the coasting trade; and"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c48",
+      "chars": 973,
+      "page_start": 15,
+      "page_end": 15,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "•\nthe duties which the person intends to perform are those of a member of a crew as defined in\nthe Regulations.\nNote: Ship-joining letters are very easily forged by smugglers as a way of convincing airlines to convey\npersons without temporary resident visas. Local shipping agents might even be named in fictitious\ninstructions as a means of making the letter appear legitimate. Letters printed on letterhead appearing\nto be that of a Canadian shipping agent are probably fraudulent. Genuine employment letters are\nnormally issued by foreign shipping companies, not by Canadian agents.\n8.9.\nUsing port stamps\nAn officer who authorizes entry to a crew member should make a port stamp impression in the\npassport or seaman’s book. If the crew member is travelling with both documents, only the\npassport need be stamped. The officer should write the code letter C below the impression,\ndenoting that the document holder must join a vessel as a crew member within 48 hours after",
+      "text_enriched": "•\nthe duties which the person intends to perform are those of a member of a crew as defined in\nthe Regulations.\nNote: Ship-joining letters are very easily forged by smugglers as a way of convincing airlines to convey\npersons without temporary resident visas. Local shipping agents might even be named in fictitious\ninstructions as a means of making the letter appear legitimate. Letters printed on letterhead appearing\nto be that of a Canadian shipping agent are probably fraudulent. Genuine employment letters are\nnormally issued by foreign shipping companies, not by Canadian agents.\n8.9.\nUsing port stamps\nAn officer who authorizes entry to a crew member should make a port stamp impression in the\npassport or seaman’s book. If the crew member is travelling with both documents, only the\npassport need be stamped. The officer should write the code letter C below the impression,\ndenoting that the document holder must join a vessel as a crew member within 48 hours after"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c49",
+      "chars": 931,
+      "page_start": 15,
+      "page_end": 15,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "denoting that the document holder must join a vessel as a crew member within 48 hours after\nentry if no expiry date is specified, or by midnight of the expiry date written after the code letter.\nThe ship’s name should be written immediately below the expiry date.\n8.10.\nTemporary resident records\nTemporary resident records need not be issued routinely but only when an officer wishes to have\nan officer at the maritime POE verify that the seaman has complied with terms and conditions by\njoining the ship. Verification will always be necessary when a temporary resident's security\ndeposit has been received. Issuing a temporary resident record may be warranted in other cases\nif it is used in conjunction with verification of compliance.\nThe lack of a passport in which to make a port stamp impression does not, in itself, warrant the\nissuing a Visitor Record form (IMM 1097 B).\n9.\nProcedure: Passengers arriving at a maritime POE",
+      "text_enriched": "denoting that the document holder must join a vessel as a crew member within 48 hours after\nentry if no expiry date is specified, or by midnight of the expiry date written after the code letter.\nThe ship’s name should be written immediately below the expiry date.\n8.10.\nTemporary resident records\nTemporary resident records need not be issued routinely but only when an officer wishes to have\nan officer at the maritime POE verify that the seaman has complied with terms and conditions by\njoining the ship. Verification will always be necessary when a temporary resident's security\ndeposit has been received. Issuing a temporary resident record may be warranted in other cases\nif it is used in conjunction with verification of compliance.\nThe lack of a passport in which to make a port stamp impression does not, in itself, warrant the\nissuing a Visitor Record form (IMM 1097 B).\n9.\nProcedure: Passengers arriving at a maritime POE"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c50",
+      "chars": 954,
+      "page_start": 15,
+      "page_end": 15,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "issuing a Visitor Record form (IMM 1097 B).\n9.\nProcedure: Passengers arriving at a maritime POE\nMany shipboard passengers need not appear before an officer at a POE.\n9.1.\nRequirement to appear for examination\nAn officer may request cruise ship lines to provide passenger manifests. When a company's\nofficial provides such a list to CBSA, the company may, at an officer’s discretion, be excused from\nits obligation to present each passenger. To expedite the entry of large numbers of passengers\nan officer may, for example, grant entry to Canadian citizens or returning residents and citizens or\nresidents of the U.S.A. on the basis of information found on the passenger manifest. An officer\nshould ensure that all passengers requiring temporary resident visas appear personally for\nexamination by CBSA.\nPassengers aboard cargo ships and pleasure craft are normally required to appear in person\nbefore an officer for examination.\n9.2.\nPlace of examination",
+      "text_enriched": "issuing a Visitor Record form (IMM 1097 B).\n9.\nProcedure: Passengers arriving at a maritime POE\nMany shipboard passengers need not appear before an officer at a POE.\n9.1.\nRequirement to appear for examination\nAn officer may request cruise ship lines to provide passenger manifests. When a company's\nofficial provides such a list to CBSA, the company may, at an officer’s discretion, be excused from\nits obligation to present each passenger. To expedite the entry of large numbers of passengers\nan officer may, for example, grant entry to Canadian citizens or returning residents and citizens or\nresidents of the U.S.A. on the basis of information found on the passenger manifest. An officer\nshould ensure that all passengers requiring temporary resident visas appear personally for\nexamination by CBSA.\nPassengers aboard cargo ships and pleasure craft are normally required to appear in person\nbefore an officer for examination.\n9.2.\nPlace of examination"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c51",
+      "chars": 517,
+      "page_start": 15,
+      "page_end": 15,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "before an officer for examination.\n9.2.\nPlace of examination\nA shipping company should normally present passengers for examination on the ship itself. The\nmaster must provide shipboard facilities for this purpose, and must not allow passengers or crew\nto disembark until they have been examined and authorized to leave the vessel. Examples where\npassengers may be allowed to disembark before examination include when:\nfacilities for examination are available at dockside;\na medical or other emergency is reported; and",
+      "text_enriched": "before an officer for examination.\n9.2.\nPlace of examination\nA shipping company should normally present passengers for examination on the ship itself. The\nmaster must provide shipboard facilities for this purpose, and must not allow passengers or crew\nto disembark until they have been examined and authorized to leave the vessel. Examples where\npassengers may be allowed to disembark before examination include when:\nfacilities for examination are available at dockside;\na medical or other emergency is reported; and"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c52",
+      "chars": 970,
+      "page_start": 16,
+      "page_end": 16,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "•\nCBSA is not physically present at the port and the distance involved makes travel to the ship\nunfeasible.\nWhen passengers are permitted to disembark before examination, an officer must inform the\ncompany of the place where it must present passengers for examination. A shipping company\nthat allows a passenger to elude examination may be prosecuted for the commission of an\noffence. The company is also liable for the payment of an administration fee pursuant to\nR279(1)(d) in respect of a passenger who eludes examination. In such a case, an officer must\ncomplete an SSI report.\n9.3.\nReferring passengers for secondary immigration examinations\nCBSA officers must automatically refer some passengers for immigration secondary examination,\nincluding:\n•\nundocumented or improperly documented passengers;\n•\npassengers presenting travel documents suspected of being altered or fraudulent;\n•\npassengers who cannot be questioned without an interpreter, other than passengers",
+      "text_enriched": "•\nCBSA is not physically present at the port and the distance involved makes travel to the ship\nunfeasible.\nWhen passengers are permitted to disembark before examination, an officer must inform the\ncompany of the place where it must present passengers for examination. A shipping company\nthat allows a passenger to elude examination may be prosecuted for the commission of an\noffence. The company is also liable for the payment of an administration fee pursuant to\nR279(1) (Regulation 279(1))(d) in respect of a passenger who eludes examination. In such a case, an officer must\ncomplete an SSI report.\n9.3.\nReferring passengers for secondary immigration examinations\nCBSA officers must automatically refer some passengers for immigration secondary examination,\nincluding:\n•\nundocumented or improperly documented passengers;\n•\npassengers presenting travel documents suspected of being altered or fraudulent;\n•\npassengers who cannot be questioned without an interpreter, other than passengers"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c53",
+      "chars": 987,
+      "page_start": 16,
+      "page_end": 16,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "•\npassengers who cannot be questioned without an interpreter, other than passengers\naccompanying a crew member on whom they are dependent; and\n•\nstowaways.\n9.4.\nExamining stowaways on board vessels\nVessels carrying stowaways should be boarded as soon as possible after docking. Vessels\narriving after regular office hours or on weekends need not be boarded until the following\nbusiness day. If the vessel cannot be boarded upon arrival, an officer should advise the agent of\nthe master's obligation to hold the stowaway in custody until the stowaway is presented to an\nofficer, or until the vessel has left Canada if the stowaway is not seeking entry.\nAs part of an examination respecting a stowaway an officer should:\n•\ninterview the master prior to examining the stowaway;\n•\ntake fingerprints and photographs of the stowaway;\n•\ndetermine how long they have been on board, where they boarded, and where they were\nfound;\n•\ndetermine whether any travel or identity documents were found;\n•",
+      "text_enriched": "•\npassengers who cannot be questioned without an interpreter, other than passengers\naccompanying a crew member on whom they are dependent; and\n•\nstowaways.\n9.4.\nExamining stowaways on board vessels\nVessels carrying stowaways should be boarded as soon as possible after docking. Vessels\narriving after regular office hours or on weekends need not be boarded until the following\nbusiness day. If the vessel cannot be boarded upon arrival, an officer should advise the agent of\nthe master's obligation to hold the stowaway in custody until the stowaway is presented to an\nofficer, or until the vessel has left Canada if the stowaway is not seeking entry.\nAs part of an examination respecting a stowaway an officer should:\n•\ninterview the master prior to examining the stowaway;\n•\ntake fingerprints and photographs of the stowaway;\n•\ndetermine how long they have been on board, where they boarded, and where they were\nfound;\n•\ndetermine whether any travel or identity documents were found;\n•"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c54",
+      "chars": 679,
+      "page_start": 16,
+      "page_end": 16,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "found;\n•\ndetermine whether any travel or identity documents were found;\n•\ndetermine whether there is any sign of injury or illness;\n•\ndetermine whether the stowaway is aware they are in Canada and whether there were any\nother stowaways who may have disembarked prior to the ship’s arrival in Canada;\n•\nsearch the stowaway, their hiding place and the place aboard the ship where they are\ncurrently held;\n•\ninclude the collection of descriptive data and a notation of any distinguishing marks such as\nscars or tattoos;\ncaution the master that the stowaway must remain aboard the ship and that a security deposit\nwill be required if the stowaway does not leave Canada with the ship.",
+      "text_enriched": "found;\n•\ndetermine whether any travel or identity documents were found;\n•\ndetermine whether there is any sign of injury or illness;\n•\ndetermine whether the stowaway is aware they are in Canada and whether there were any\nother stowaways who may have disembarked prior to the ship’s arrival in Canada;\n•\nsearch the stowaway, their hiding place and the place aboard the ship where they are\ncurrently held;\n•\ninclude the collection of descriptive data and a notation of any distinguishing marks such as\nscars or tattoos;\ncaution the master that the stowaway must remain aboard the ship and that a security deposit\nwill be required if the stowaway does not leave Canada with the ship."
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c55",
+      "chars": 935,
+      "page_start": 17,
+      "page_end": 17,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "9.5.\nWhen to allow for repatriation by air\nA shipping company may request permission to repatriate a stowaway by air, particularly if the\nship is not scheduled to return to the stowaway's country of embarkation or citizenship. An officer\nmay grant permission to do so if the following conditions apply:\n•\nthe stowaway is in possession of a valid passport or travel document and any requisite transit\nvisas;\n•\nthe shipping company has obtained a confirmed seat reservation for the stowaway on the first\navailable flight to the country which issued the passport or travel document;\n•\nthe company agrees to provide any escorts which, in the opinion of an officer, may be\nrequired;\n•\nthe company arranges transportation to the airport from the ship; if a removal order has been\nmade against the stowaway, transportation to the airport may be provided by CIC; and\n•\nthe officer is satisfied that the stowaway will depart Canada voluntarily.",
+      "text_enriched": "9.5.\nWhen to allow for repatriation by air\nA shipping company may request permission to repatriate a stowaway by air, particularly if the\nship is not scheduled to return to the stowaway's country of embarkation or citizenship. An officer\nmay grant permission to do so if the following conditions apply:\n•\nthe stowaway is in possession of a valid passport or travel document and any requisite transit\nvisas;\n•\nthe shipping company has obtained a confirmed seat reservation for the stowaway on the first\navailable flight to the country which issued the passport or travel document;\n•\nthe company agrees to provide any escorts which, in the opinion of an officer, may be\nrequired;\n•\nthe company arranges transportation to the airport from the ship; if a removal order has been\nmade against the stowaway, transportation to the airport may be provided by CIC; and\n•\nthe officer is satisfied that the stowaway will depart Canada voluntarily."
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c56",
+      "chars": 978,
+      "page_start": 17,
+      "page_end": 17,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "•\nthe officer is satisfied that the stowaway will depart Canada voluntarily.\nIf the officer grants permission for repatriation by air, the stowaway may be allowed to withdraw\ntheir application to enter Canada. In such cases the stowaway must be escorted to the airport and\ndeparture confirmed by an officer. The stowaway’s departure must be recorded in FOSS on a\ncertificate or a confirmation of departure screen. See also chapter ENF 11, Verifying Departure.\n9.6.\nFOSS entries\nFOSS reports on stowaways should be accompanied by suppressed remarks which contain the\nfollowing information:\n•\nname;\n•\naddress and telephone number of the liable shipping company;\n•\nname of ship;\n•\nofficial receipt number for security deposit, if applicable.\nThis information is essential to any officers involved in the eventual removal of the stowaway and\nto NHQ officers responsible for deductions from and refunds of security.\n9.7.\nUse of Association of Characteristics (AOC) code for stowaways",
+      "text_enriched": "•\nthe officer is satisfied that the stowaway will depart Canada voluntarily.\nIf the officer grants permission for repatriation by air, the stowaway may be allowed to withdraw\ntheir application to enter Canada. In such cases the stowaway must be escorted to the airport and\ndeparture confirmed by an officer. The stowaway’s departure must be recorded in FOSS on a\ncertificate or a confirmation of departure screen. See also chapter ENF 11, Verifying Departure.\n9.6.\nFOSS entries\nFOSS reports on stowaways should be accompanied by suppressed remarks which contain the\nfollowing information:\n•\nname;\n•\naddress and telephone number of the liable shipping company;\n•\nname of ship;\n•\nofficial receipt number for security deposit, if applicable.\nThis information is essential to any officers involved in the eventual removal of the stowaway and\nto NHQ officers responsible for deductions from and refunds of security.\n9.7.\nUse of Association of Characteristics (AOC) code for stowaways"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c57",
+      "chars": 910,
+      "page_start": 17,
+      "page_end": 17,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "to NHQ officers responsible for deductions from and refunds of security.\n9.7.\nUse of Association of Characteristics (AOC) code for stowaways\nThe use of AOC code 421 on all inadmissibility reports differentiates persons who arrived as\nstowaways from other inadmissible foreign nationals. Use of this code, therefore, permits the\nextraction from FOSS of data about stowaways.\n9.8.\nInland interviews with persons claiming to have been stowaways\nOccasionally, stowaways disembark from ships at ports of entry without being presented to an\nofficer for examination. Such persons elude examination either because they were not discovered\nduring the voyage or because they were concealed and smuggled ashore by a crew member or\npassenger. When such persons report to inland offices, the officer who interviews them must try\nto determine which shipping company should be directed to deposit security and held liable for",
+      "text_enriched": "to NHQ officers responsible for deductions from and refunds of security.\n9.7.\nUse of Association of Characteristics (AOC) code for stowaways\nThe use of AOC code 421 on all inadmissibility reports differentiates persons who arrived as\nstowaways from other inadmissible foreign nationals. Use of this code, therefore, permits the\nextraction from FOSS of data about stowaways.\n9.8.\nInland interviews with persons claiming to have been stowaways\nOccasionally, stowaways disembark from ships at ports of entry without being presented to an\nofficer for examination. Such persons elude examination either because they were not discovered\nduring the voyage or because they were concealed and smuggled ashore by a crew member or\npassenger. When such persons report to inland offices, the officer who interviews them must try\nto determine which shipping company should be directed to deposit security and held liable for"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c58",
+      "chars": 375,
+      "page_start": 17,
+      "page_end": 17,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "to determine which shipping company should be directed to deposit security and held liable for\nadministration fees and removal costs. A suspected stowaway may or may not be able to identify\nthe ship by name but should be able to specify the dates and ports of embarkation and\ndisembarkation. If the name of a ship is provided, the officer must obtain confirmation that a ship",
+      "text_enriched": "to determine which shipping company should be directed to deposit security and held liable for\nadministration fees and removal costs. A suspected stowaway may or may not be able to identify\nthe ship by name but should be able to specify the dates and ports of embarkation and\ndisembarkation. If the name of a ship is provided, the officer must obtain confirmation that a ship"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c59",
+      "chars": 971,
+      "page_start": 18,
+      "page_end": 18,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "by that name arrived in Canada on the date and at the place stated. If the subject claims not to\nrecall or never to have known the ship name, the officer should determine which ship, if any,\narrived at and from the places stated and on the dates in question. Inquiries should be made\nwhile the person being interviewed is present and the alleged stowaway questioned immediately\nabout any discrepancies.\nInformation about the arrival of ships can be obtained by calling the Canadian Coast Guard\ninformation service in Longueuil at 450-928-4544, in Dartmouth at 902-426-4956, or in Vancouver\nat 604-666-6011. If information provided by the person being interviewed is confirmed, the officer\nshould obtain the name of the shipping agent and, while the alleged stowaway is present,\nimmediately notify the agent by telephone of the allegation. Once reasonably certain of the\nidentity of the ship, the officer should ask the alleged stowaway to provide the following details:\n•",
+      "text_enriched": "by that name arrived in Canada on the date and at the place stated. If the subject claims not to\nrecall or never to have known the ship name, the officer should determine which ship, if any,\narrived at and from the places stated and on the dates in question. Inquiries should be made\nwhile the person being interviewed is present and the alleged stowaway questioned immediately\nabout any discrepancies.\nInformation about the arrival of ships can be obtained by calling the Canadian Coast Guard\ninformation service in Longueuil at 450-928-4544, in Dartmouth at 902-426-4956, or in Vancouver\nat 604-666-6011. If information provided by the person being interviewed is confirmed, the officer\nshould obtain the name of the shipping agent and, while the alleged stowaway is present,\nimmediately notify the agent by telephone of the allegation. Once reasonably certain of the\nidentity of the ship, the officer should ask the alleged stowaway to provide the following details:\n•"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c60",
+      "chars": 973,
+      "page_start": 18,
+      "page_end": 18,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "identity of the ship, the officer should ask the alleged stowaway to provide the following details:\n•\nmethod of embarking and description of hiding place;\n•\nmethod of entry and description of container and its contents (if entry is by shipping\ncontainer);\n•\nmethod of disembarking from ship and of exiting container, if applicable;\n•\nnames and descriptions of any persons who assisted in embarking and/or disembarking;\n•\nmonies paid;\n•\ngeneral description of the vessel and of ports of embarkation and disembarkation;\n•\nsignificant events or incidents during voyage (e.g., storm at sea, discovery).\nAt the conclusion of the interview, each stowaway should be asked to make a detailed written\ndeclaration on form IMM 5160B and to add a statement authorizing the release of information to\nthe shipping company concerned. The officer should interview separately all stowaways claiming\nto have travelled together, including couples and adult members of the same family. Each of",
+      "text_enriched": "identity of the ship, the officer should ask the alleged stowaway to provide the following details:\n•\nmethod of embarking and description of hiding place;\n•\nmethod of entry and description of container and its contents (if entry is by shipping\ncontainer);\n•\nmethod of disembarking from ship and of exiting container, if applicable;\n•\nnames and descriptions of any persons who assisted in embarking and/or disembarking;\n•\nmonies paid;\n•\ngeneral description of the vessel and of ports of embarkation and disembarkation;\n•\nsignificant events or incidents during voyage (e.g., storm at sea, discovery).\nAt the conclusion of the interview, each stowaway should be asked to make a detailed written\ndeclaration on form IMM 5160B and to add a statement authorizing the release of information to\nthe shipping company concerned. The officer should interview separately all stowaways claiming\nto have travelled together, including couples and adult members of the same family. Each of"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c61",
+      "chars": 972,
+      "page_start": 18,
+      "page_end": 18,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "to have travelled together, including couples and adult members of the same family. Each of\nthese persons should be asked to provide satisfactory explanations for any discrepancies in their\nstatements.\nIf the information about the ship’s itinerary has been confirmed and other statements appear\nplausible and consistent, the officer should transmit an SSI report to NHQ identifying the liable\nshipping company. If the officer is satisfied that the persons concerned were stowaways but is\nunable to determine the name of the ship on which they arrived, the SSI report should specify that\nthe carrier is unknown. If the carrier has been identified, the report will trigger the assessment of\nan administration fee. If the shipping company contests the assessment by filing a submission,\nthe officer may be asked to provide additional details, including the alleged stowaway’s\ndeclaration. The officer’s own declaration should be included if there is additional information in",
+      "text_enriched": "to have travelled together, including couples and adult members of the same family. Each of\nthese persons should be asked to provide satisfactory explanations for any discrepancies in their\nstatements.\nIf the information about the ship’s itinerary has been confirmed and other statements appear\nplausible and consistent, the officer should transmit an SSI report to NHQ identifying the liable\nshipping company. If the officer is satisfied that the persons concerned were stowaways but is\nunable to determine the name of the ship on which they arrived, the SSI report should specify that\nthe carrier is unknown. If the carrier has been identified, the report will trigger the assessment of\nan administration fee. If the shipping company contests the assessment by filing a submission,\nthe officer may be asked to provide additional details, including the alleged stowaway’s\ndeclaration. The officer’s own declaration should be included if there is additional information in"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c62",
+      "chars": 830,
+      "page_start": 18,
+      "page_end": 18,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "declaration. The officer’s own declaration should be included if there is additional information in\nthe interview notes pointing to the identity of the responsible transportation company.\n10.\nProcedure: SSI reports\nSSI is the acronym for the Support System for Intelligence used in reporting details of\ntransportation company violations to NHQ. There is a marine version of the system designed for\nreporting stowaways, crew members and other persons who arrive aboard ships. An SSI report\nnormally triggers the assessment of an administration fee. If officers believe that an administration\nfee should not be assessed, they should indicate this in the remarks section of the report.\nAdministration fees may be assessed pursuant to R279(1) in respect of foreign nationals who:\nfail to be in possession of required travel documents;",
+      "text_enriched": "declaration. The officer’s own declaration should be included if there is additional information in\nthe interview notes pointing to the identity of the responsible transportation company.\n10.\nProcedure: SSI reports\nSSI is the acronym for the Support System for Intelligence used in reporting details of\ntransportation company violations to NHQ. There is a marine version of the system designed for\nreporting stowaways, crew members and other persons who arrive aboard ships. An SSI report\nnormally triggers the assessment of an administration fee. If officers believe that an administration\nfee should not be assessed, they should indicate this in the remarks section of the report.\nAdministration fees may be assessed pursuant to R279(1) (Regulation 279(1)) in respect of foreign nationals who:\nfail to be in possession of required travel documents;"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c63",
+      "chars": 963,
+      "page_start": 19,
+      "page_end": 19,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "•\nthe Minister instructed the transportation company not to carry;\n•\nare exempt from passport or other travel document requirements but who fail to produce\ndocumentary evidence under the Regulations;\n•\nelude examination; and\n•\nremain in Canada without authorization after entering Canada as or to become crew\nmembers.\n•\nPursuant to R279(2), fees may not be assessed with respect to foreign nationals:\n•\nauthorized to enter and remain in Canada on a temporary basis (other than those who\nentered as or to become crew members);\n•\nallowed to withdraw their application for entry and who leave Canada immediately;\n•\nwho are subject to a removal order on their arrival at a POE and who leave Canada\nimmediately;\n•\nwho return as a result of a refusal by another country to allow them entry; and\n•\nwho are in possession of refugee travel papers valid for return to Canada.\n11.\nProcedure: Collecting security deposits for payment of administration fees\nand other expenses",
+      "text_enriched": "•\nthe Minister instructed the transportation company not to carry;\n•\nare exempt from passport or other travel document requirements but who fail to produce\ndocumentary evidence under the Regulations;\n•\nelude examination; and\n•\nremain in Canada without authorization after entering Canada as or to become crew\nmembers.\n•\nPursuant to R279(2) (Regulation 279(2)), fees may not be assessed with respect to foreign nationals:\n•\nauthorized to enter and remain in Canada on a temporary basis (other than those who\nentered as or to become crew members);\n•\nallowed to withdraw their application for entry and who leave Canada immediately;\n•\nwho are subject to a removal order on their arrival at a POE and who leave Canada\nimmediately;\n•\nwho return as a result of a refusal by another country to allow them entry; and\n•\nwho are in possession of refugee travel papers valid for return to Canada.\n11.\nProcedure: Collecting security deposits for payment of administration fees\nand other expenses"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c64",
+      "chars": 943,
+      "page_start": 19,
+      "page_end": 19,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "11.\nProcedure: Collecting security deposits for payment of administration fees\nand other expenses\nAn officer who determines that a shipping company may become liable to pay administration fees\nand removal costs should:\n•\nissue a direction to the shipping company, usually the ship's agent (ship's master when there\nis no agent) for a cash security deposit to cover the fees and potential costs related to\nremoval and medical treatment, provided that the company has not already deposited general\nsecurity; in the absence of instructions to the contrary, the amount of the deposit should be a\nminimum of $15,000 in all cases (the officer should direct the company to deposit a greater\namount in instances where administration fees and costs may be expected to exceed\n$15,000, e.g., undocumented African stowaways, stowaways requiring medical treatment);\n•\nif the officer has any doubt about the company’s intention to comply with the direction,",
+      "text_enriched": "11.\nProcedure: Collecting security deposits for payment of administration fees\nand other expenses\nAn officer who determines that a shipping company may become liable to pay administration fees\nand removal costs should:\n•\nissue a direction to the shipping company, usually the ship's agent (ship's master when there\nis no agent) for a cash security deposit to cover the fees and potential costs related to\nremoval and medical treatment, provided that the company has not already deposited general\nsecurity; in the absence of instructions to the contrary, the amount of the deposit should be a\nminimum of $15,000 in all cases (the officer should direct the company to deposit a greater\namount in instances where administration fees and costs may be expected to exceed\n$15,000, e.g., undocumented African stowaways, stowaways requiring medical treatment);\n•\nif the officer has any doubt about the company’s intention to comply with the direction,"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c65",
+      "chars": 624,
+      "page_start": 19,
+      "page_end": 19,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "•\nif the officer has any doubt about the company’s intention to comply with the direction,\nconsider detaining the vessel as described in Section 8.4;\n•\nissue an official receipt (form IMM 0410B) to the depositor upon receipt of security; if the\nsecurity is paid by a company other than the shipping company to which the direction was\nissued (such as the ship-owner’s insurance representative), the officer should write the name\nof the liable shipping company in brackets after the name of the depositor; and\nrecord the official receipt number and the amount of security received on a remarks screen or\nan NCB screen in FOSS.",
+      "text_enriched": "•\nif the officer has any doubt about the company’s intention to comply with the direction,\nconsider detaining the vessel as described in Section 8.4;\n•\nissue an official receipt (form IMM 0410B) to the depositor upon receipt of security; if the\nsecurity is paid by a company other than the shipping company to which the direction was\nissued (such as the ship-owner’s insurance representative), the officer should write the name\nof the liable shipping company in brackets after the name of the depositor; and\nrecord the official receipt number and the amount of security received on a remarks screen or\nan NCB screen in FOSS."
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c66",
+      "chars": 940,
+      "page_start": 20,
+      "page_end": 20,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "12.\nProcedure: Liability for removal\n12.1.\nInitial notice of liability\nR276(1)(a) provides that when a foreign national seeking to enter Canada is made subject to a\nremoval order, an officer is required to notify the transporter that it is or might be required to carry\nthe foreign national from Canada. In cases of refugee claims, this would be a preliminary\nnotification advising that the transporter may be liable in the future to carry the person from\nCanada. It is essential that this notification be given in order for CIC to get the transporter to\naccept liability at a later date.\n12.2.\nFailure to comply with acceptable removal arrangements\nIf the transporter fails to make travel arrangements within the delay prescribed, makes travel\narrangements which are unacceptable, fails to respond without delay or responds by informing an\nofficer that it does not intend to provide transportation, removal arrangements will be made by the",
+      "text_enriched": "12.\nProcedure: Liability for removal\n12.1.\nInitial notice of liability\nR276(1) (Regulation 276(1))(a) provides that when a foreign national seeking to enter Canada is made subject to a\nremoval order, an officer is required to notify the transporter that it is or might be required to carry\nthe foreign national from Canada. In cases of refugee claims, this would be a preliminary\nnotification advising that the transporter may be liable in the future to carry the person from\nCanada. It is essential that this notification be given in order for CIC to get the transporter to\naccept liability at a later date.\n12.2.\nFailure to comply with acceptable removal arrangements\nIf the transporter fails to make travel arrangements within the delay prescribed, makes travel\narrangements which are unacceptable, fails to respond without delay or responds by informing an\nofficer that it does not intend to provide transportation, removal arrangements will be made by the"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c67",
+      "chars": 952,
+      "page_start": 20,
+      "page_end": 20,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "officer that it does not intend to provide transportation, removal arrangements will be made by the\nofficer. Removal arrangements will also be made by the officer if the shipping company has\npreviously advised that it is unable or unwilling to arrange for any foreign national to be conveyed\nfrom Canada.\nR276(5) provides that travel arrangements proposed by a transporter are only acceptable if:\n•\nthe foreign national is not inadmissible to the country of destination and any countries of\ntransit;\n•\nthe safety of the foreign national and other persons during the removal is assured; and\n•\nthe transporter complies with any request for escorts.\n12.3.\nLiability for removal costs\nShipping companies are liable for any removal costs incurred by the Department R278\nConsequently, immediately after the departure of a foreign national has been confirmed and any\nescort officers have returned to Canada, all applicable removal costs must be calculated and",
+      "text_enriched": "officer that it does not intend to provide transportation, removal arrangements will be made by the\nofficer. Removal arrangements will also be made by the officer if the shipping company has\npreviously advised that it is unable or unwilling to arrange for any foreign national to be conveyed\nfrom Canada.\nR276(5) (Regulation 276(5)) provides that travel arrangements proposed by a transporter are only acceptable if:\n•\nthe foreign national is not inadmissible to the country of destination and any countries of\ntransit;\n•\nthe safety of the foreign national and other persons during the removal is assured; and\n•\nthe transporter complies with any request for escorts.\n12.3.\nLiability for removal costs\nShipping companies are liable for any removal costs incurred by the Department R278 (Regulation 278)\nConsequently, immediately after the departure of a foreign national has been confirmed and any\nescort officers have returned to Canada, all applicable removal costs must be calculated and"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c68",
+      "chars": 922,
+      "page_start": 20,
+      "page_end": 20,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "escort officers have returned to Canada, all applicable removal costs must be calculated and\nreported to the Transportation Unit, Enforcement Branch, 300 Slater Street, 8th Floor, Ottawa,\nOntario, KIA ILI. These costs will be automatically deducted from any cash security deposited by\nthe company in respect of the foreign national removed or billed to the company in the absence of\nsecurity or an adequate amount of security.\nNote: Unless removal costs are reported to NHQ, the expenses for which the shipping company is liable\nwill not be recovered, nor will the company receive a refund for any portion of a security deposit to\nwhich it may be entitled.\n12.4.\nBreakdown of costs to be reported\nR278 lists the removal costs for which a transporter is liable. Removal costs reported to NHQ\nshould be itemized as follows.\n•\nairline tickets for the person removed or, if applicable, the cost of chartering an aircraft or of",
+      "text_enriched": "escort officers have returned to Canada, all applicable removal costs must be calculated and\nreported to the Transportation Unit, Enforcement Branch, 300 Slater Street, 8th Floor, Ottawa,\nOntario, KIA ILI. These costs will be automatically deducted from any cash security deposited by\nthe company in respect of the foreign national removed or billed to the company in the absence of\nsecurity or an adequate amount of security.\nNote: Unless removal costs are reported to NHQ, the expenses for which the shipping company is liable\nwill not be recovered, nor will the company receive a refund for any portion of a security deposit to\nwhich it may be entitled.\n12.4.\nBreakdown of costs to be reported\nR278 (Regulation 278) lists the removal costs for which a transporter is liable. Removal costs reported to NHQ\nshould be itemized as follows.\n•\nairline tickets for the person removed or, if applicable, the cost of chartering an aircraft or of"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c69",
+      "chars": 477,
+      "page_start": 20,
+      "page_end": 20,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "should be itemized as follows.\n•\nairline tickets for the person removed or, if applicable, the cost of chartering an aircraft or of\npurchasing transportation by any other means of conveyance (including costs of\ntransportation within Canada to the port of entry);\n•\ntransportation expenses for all escorts and any other person assigned to accompany the\nperson removed, including RCMP, medical personnel and interpreters;\ntransportation to and from airports in or outside Canada;",
+      "text_enriched": "should be itemized as follows.\n•\nairline tickets for the person removed or, if applicable, the cost of chartering an aircraft or of\npurchasing transportation by any other means of conveyance (including costs of\ntransportation within Canada to the port of entry);\n•\ntransportation expenses for all escorts and any other person assigned to accompany the\nperson removed, including RCMP, medical personnel and interpreters;\ntransportation to and from airports in or outside Canada;"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c70",
+      "chars": 962,
+      "page_start": 21,
+      "page_end": 21,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "•\nthe cost of obtaining a passport or travel document from a foreign embassy, high commission\nor consulate for the person removed;\n•\nthe cost of obtaining visas for any persons who accompanied the person removed;\n•\naccommodation and meals purchased for the person removed;\n•\naccommodation for all persons who escorted the person removed;\n•\nthe cost of meals, incidental expenses and other allowances for all persons who escorted the\nperson removed;\n•\nregular wages payable to any persons who escorted or accompanied the person removed\nfrom Canada or to the port of entry in Canada;\n•\novertime wages payable to any persons who escorted or accompanied the person removed\nfrom Canada or to the port of entry in Canada;\n•\nfees paid to an interpreter during the course of removal proceedings;\n•\nfees paid to medical personnel engaged to travel with the person removed and any medical\ncosts not previously reported for which the transportation company is liable; and\n•",
+      "text_enriched": "•\nthe cost of obtaining a passport or travel document from a foreign embassy, high commission\nor consulate for the person removed;\n•\nthe cost of obtaining visas for any persons who accompanied the person removed;\n•\naccommodation and meals purchased for the person removed;\n•\naccommodation for all persons who escorted the person removed;\n•\nthe cost of meals, incidental expenses and other allowances for all persons who escorted the\nperson removed;\n•\nregular wages payable to any persons who escorted or accompanied the person removed\nfrom Canada or to the port of entry in Canada;\n•\novertime wages payable to any persons who escorted or accompanied the person removed\nfrom Canada or to the port of entry in Canada;\n•\nfees paid to an interpreter during the course of removal proceedings;\n•\nfees paid to medical personnel engaged to travel with the person removed and any medical\ncosts not previously reported for which the transportation company is liable; and\n•"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c71",
+      "chars": 910,
+      "page_start": 21,
+      "page_end": 21,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "costs not previously reported for which the transportation company is liable; and\n•\ncosts incurred to repair any damages caused by the foreign national during the removal.\n12.5.\nMeans of reporting costs\nA detailed breakdown of costs as outlined above may be reported to the Transportation Unit by\nthe following means:\n•\nan e-mail message to an officer of the Transportation Unit;\n•\na form IMM 0459B (Costs Payable by Transporters) completed by hand and mailed or sent by\nfacsimile to the Transportation Unit, Enforcement Branch, NHQ; or\n•\nan electronic version of form IMM 0459B transmitted to an officer of the Transportation Unit\nas an e-mail attachment in Word. (The electronic version is designed to be saved as a Word\ndocument, in which case the 8-digit FOSS ID number of the person removed is normally used\nas the file name. Upon request, a program officer will transmit a client-specific form by email.)",
+      "text_enriched": "costs not previously reported for which the transportation company is liable; and\n•\ncosts incurred to repair any damages caused by the foreign national during the removal.\n12.5.\nMeans of reporting costs\nA detailed breakdown of costs as outlined above may be reported to the Transportation Unit by\nthe following means:\n•\nan e-mail message to an officer of the Transportation Unit;\n•\na form IMM 0459B (Costs Payable by Transporters) completed by hand and mailed or sent by\nfacsimile to the Transportation Unit, Enforcement Branch, NHQ; or\n•\nan electronic version of form IMM 0459B transmitted to an officer of the Transportation Unit\nas an e-mail attachment in Word. (The electronic version is designed to be saved as a Word\ndocument, in which case the 8-digit FOSS ID number of the person removed is normally used\nas the file name. Upon request, a program officer will transmit a client-specific form by email.)"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c72",
+      "chars": 907,
+      "page_start": 21,
+      "page_end": 21,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "as the file name. Upon request, a program officer will transmit a client-specific form by email.)\nNote: The form IMM 0459B should only be used for reporting actual costs incurred. It should not be\nused for reporting nil amounts.\nIt is not necessary to submit copies of receipts, invoices, travel expense claims and extra duty\nand shift-work authorizations [form PER 0007] when reporting removal costs to the Transportation\nUnit. However, copies of these should be kept on file and forwarded on request to the\nTransportation Unit in the event that they are needed to substantiate any invoices questioned by\na transporter.\nIf the person removed was brought to Canada aboard a ship, a shipping agent was likely required\nto deposit security. If so, there should be an Official Receipt form IMM 0410B on the case file.\nThe IMM 0410B serial number and the amount of the deposit should be notated on all reports of",
+      "text_enriched": "as the file name. Upon request, a program officer will transmit a client-specific form by email.)\nNote: The form IMM 0459B should only be used for reporting actual costs incurred. It should not be\nused for reporting nil amounts.\nIt is not necessary to submit copies of receipts, invoices, travel expense claims and extra duty\nand shift-work authorizations [form PER 0007] when reporting removal costs to the Transportation\nUnit. However, copies of these should be kept on file and forwarded on request to the\nTransportation Unit in the event that they are needed to substantiate any invoices questioned by\na transporter.\nIf the person removed was brought to Canada aboard a ship, a shipping agent was likely required\nto deposit security. If so, there should be an Official Receipt form IMM 0410B on the case file.\nThe IMM 0410B serial number and the amount of the deposit should be notated on all reports of"
+    },
+    {
+      "id": "pdf|e958c6d42ea6|c73",
+      "chars": 288,
+      "page_start": 21,
+      "page_end": 21,
+      "heading_path": [
+        "ENF 17"
+      ],
+      "text": "The IMM 0410B serial number and the amount of the deposit should be notated on all reports of\nremoval costs transmitted to the Transportation Unit. The Manager, Transportation Unit has been\ndelegated to authorize the deduction of shipping company liabilities from security, if applicable.",
+      "text_enriched": "The IMM 0410B serial number and the amount of the deposit should be notated on all reports of\nremoval costs transmitted to the Transportation Unit. The Manager, Transportation Unit has been\ndelegated to authorize the deduction of shipping company liabilities from security, if applicable."
+    }
+  ]
+}

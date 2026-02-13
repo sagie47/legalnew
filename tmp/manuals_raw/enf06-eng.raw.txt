@@ -1,0 +1,3950 @@
+
+
+===== PAGE 1 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ENF 6 
+Review of reports under 
+subsection A44(2) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 2 =====
+ENF 6  Review of reports under subsection 44(2) 
+2 
+2025-02-20 
+Contents 
+1 What this chapter is about.......................................................................................................................... 6 
+2 Program objectives .................................................................................................................................... 6 
+3 The Act and Regulations ............................................................................................................................ 6 
+4 Instruments and delegations ...................................................................................................................... 9 
+5 Definitions ................................................................................................................................................ 11 
+6 Departmental policy ................................................................................................................................. 12 
+6.1 Procedural fairness ............................................................................................................................ 12 
+6.2 Procedures for persons less than 18 years old or persons unable to appreciate the nature of the 
+proceedings ............................................................................................................................................. 13 
+6.3 Official languages .............................................................................................................................. 14 
+6.4 Interpreters ........................................................................................................................................ 14 
+6.5 Counsel ............................................................................................................................................. 14 
+6.6 Dealing with vulnerable persons in the context of A44 ..................................................................... 15 
+6.6.1 Considerations for vulnerable persons in the context of A44 .................................................... 15 
+6.6.2 Sexual orientation and gender identity and expression and sex characteristics ....................... 16 
+6.6.3 Victims of gender-based violence (GBV) ................................................................................... 17 
+6.6.4 Interviewing vulnerable persons ................................................................................................ 19 
+6.6.5 TRPs for victims or suspected victims of trafficking in persons (VTIP) or family violence ........ 20 
+7 Procedure: Review of the A44(1) report by the Minister’s Delegate ........................................................ 20 
+7.1 Transmission of an A44(1) report to the Minister’s Delegate ............................................................ 20 
+7.2 Reviewing the A44(1) report .............................................................................................................. 21 
+7.3 Procedure: Evidentiary requirements ................................................................................................ 22 
+7.4 Burden of proof .................................................................................................................................. 22 
+7.5 Standard of Proof .............................................................................................................................. 23 
+7.6 Duty to provide information ............................................................................................................... 24 
+8 Scope of Discretion of the Minister’s Delegate ........................................................................................ 25 
+8.1 Minister’s Delegate Options— Limited discretion of the MD at A44(2) ............................................. 25 
+8.2 Priority Cases: Inadmissibility under A34, A35, A35.1, A36 and A37 of the IRPA............................ 27 
+8.3 Special considerations for protected persons ................................................................................... 27 
+9 Charter considerations ............................................................................................................................. 27 
+10 Cases where the MD has jurisdiction to issue a removal order ............................................................. 29 
+10.1 Procedural fairness considerations ................................................................................................. 29 
+10.2 Types of administrative removal orders .......................................................................................... 30 
+10.3 Permanent residents and their residency obligation— R228(2)...................................................... 30 
+10.4 Removal order for refugee claimants— R228(3) ............................................................................ 32 
+10.5 Dual intent ....................................................................................................................................... 32 
+10.6 Restoration of status........................................................................................................................ 33 
+10.7 Procedure: Reviewing A44(1) reports when a Minister’s Delegate is not on site ........................... 35 
+10.8 Procedure: Issuing removal orders to persons in absentia ............................................................. 36 
+10.9 A44(1) reports for inadmissible family members ............................................................................. 38 
+10.10 Procedure: Removal orders following vacation or cessation of refugee/protected person status by 
+RPD ......................................................................................................................................................... 39 
+11 Temporary resident permits (TRPs) ....................................................................................................... 40 
+12 Allowing withdrawal of application to enter Canada/ Allowed to leave (Port of entry cases) ................ 41 
+13 Procedure: Handling possible claims for refugee protection ................................................................. 41 
+14 Persons claiming to be Canadian citizens or registered Indians under the Indian Act .......................... 43 
+15 Cases where the jurisdiction to issue a removal order rests with the Immigration Division .................. 43 
+15.1 A44(1) reports for criminality cases ................................................................................................. 43 
+15.2 A44(1) reports concerning permanent residents of Canada ........................................................... 44 
+15.3 Loss of appeal right cases ............................................................................................................... 47 
+15.4 Preparation of warning letter ........................................................................................................... 47 
+16 Adjourning Proceedings ......................................................................................................................... 48 
+17 Procedure: Entry for the purpose of further examination or an admissibility hearing (Port of entry 
+officers) ................................................................................................................................................ 48 
+
+
+===== PAGE 3 =====
+ENF 6  Review of reports under subsection 44(2) 
+3 
+2025-02-20 
+18 Imposition of Conditions following the A44(1) report for A34:  Mandatory circumstances .................... 49 
+19 Procedure:  Directing persons back to the United States under R41 .................................................... 50 
+20 Appeals and Judicial Review— Removal Order .................................................................................... 51 
+20.1 Appeals to the Immigration Appeal Division .................................................................................... 51 
+20.2 Right to file an application for leave and judicial review— Where no statutory right of appeal exists
+ ................................................................................................................................................................. 52 
+21 Multiple allegations ................................................................................................................................. 53 
+22 Entering MD decisions into GCMS ........................................................................................................ 53 
+23 Key aspects of assessing inadmissibility under A36 ............................................................................. 54 
+23.1 Criminal equivalency between foreign and Canadian jurisdictions ................................................. 54 
+23.2 Record suspensions for convictions in Canada .............................................................................. 54 
+23.3 Criminal Rehabilitation..................................................................................................................... 55 
+23.4 Offences under the Youth Criminal Justice Act ............................................................................... 55 
+ 
+Appendix A:  Table:  Immigration and Refugee Protection Act (IRPA) Inadmissible Classes .................... 56 
+Appendix B:  Sample Warning letter ........................................................................................................... 59 
+Appendix C:  Steps for in-person A44(2) proceeding where MD has jurisdiction to issue a removal 
+order .................................................................................................................................................... 60 
+Appendix G:  Sample letter—  IAD appeal acknowledgement letter .......................................................... 62 
+Appendix H:  Sample letter—   Judicial Review Acknowledgement letter .................................................. 63 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 4 =====
+ENF 6  Review of reports under subsection 44(2) 
+4 
+2025-02-20 
+Updates to chapter  
+ 
+Listing by date: 
+ 
+ 
+2025-02-20 
+ 
+Substantive and minor changes, as well as clarifications, have been provided throughout the 
+chapter to reflect legislative and regulatory amendments and to ensure consistent application of 
+IRPA provisions as clarified through new court decisions.    
+Content added to reflect new inadmissibility for sanctions under section 35.1 and transborder 
+criminality under subsection 36(2.1) of the IRPA. 
+Section 15: re-written for clarity re-organized for more logical flow of information. Content 
+updated to reflect jurisprudence on officer scope of discretion under subsections 44(1) and 
+44(2) of the IRPA. 
+Clarification added to section 21 regarding multiple allegations. 
+Appendices A and E were removed. 
+ 
+2023-05-08 
+ 
+Minor corrections and clarifications have been made throughout chapter. Updates made to 
+reflect changes to other manual chapters.  
+New content has been added to reflect legislative and regulatory amendments and to ensure 
+consistent application of IRPA provisions as clarified through new court decisions.    
+Section 6.6:  New section added to provide guidance and resources on dealing with vulnerable 
+persons, including victims of gender-based violence (GBV). 
+Section 10.6:  Content on restoration of status updated to reflect change in terminology from 
+“implied” status to “maintained” status. 
+Section 19:  Amended to reflect regulatory changes to include new ground for directing persons 
+back to the United States under section 41 of the IRPR where the foreign national is prohibited 
+from entering Canada by an order or regulation made under the Emergencies Act or the 
+Quarantine Act. 
+Section 23:  New section added on key aspects of assessing inadmissibility under section 36 of 
+the IRPA, including determining criminal equivalency between foreign and Canadian 
+jurisdictions, record suspensions and criminal rehabilitation. 
+ 
+2020-02-12 
+ 
+Substantive and minor changes, as well as clarifications, have been provided throughout the 
+chapter. 
+New content has been added to reflect legislative and regulatory amendments and to ensure 
+consistent application of IRPA provisions as clarified through new court decisions.    
+Sections have been re-written for clarity and/or moved and re-organized for more logical flow of 
+information. 
+Section 3.1:  Amended to include several new or updated forms. 
+Section 9:  New section added to provide guidance on Charter considerations. 
+Section 10.9:  Content added to reflect amendments to IRPA provisions regarding inadmissible 
+family members under section A42. 
+Section 10.10:  Content added to reflect new inadmissibility section A40.1 Cessation of refugee 
+protection: under R228(1)(b.1) the MD has the authority to issue removal orders to foreign 
+
+
+===== PAGE 5 =====
+ENF 6  Review of reports under subsection 44(2) 
+5 
+2025-02-20 
+nationals who are found inadmissible under A40.1(1) on a final determination by the RPD under 
+A108(2) that the refugee protection of the foreign national has ceased.  
+Section 18:  New section added to reflect changes to IRPA and IRPR requiring that decision-
+makers impose prescribed conditions on security (A34) inadmissibility cases. 
+ 
+ 
+Date: 2007-04-12 
+ 
+Section 5.1: Substantial changes were made throughout that section. 
+Section 5.7: Minor changes were made to the first paragraph. As well, two paragraphs 
+were added. 
+Section 7: The entire section was re-written. 
+Section 9: Minor changes were made. 
+Section 19.2: The section on non-criminal cases involving permanent residents was re-
+written.  
+Section 20.1: The entire section was re-written. 
+2005-10-31 
+ 
+Changes were made to reflect the transition from CIC to the CBSA. The term “delegated 
+officer” was replaced with “Minister’s delegate” throughout text; references to “departmental 
+policy” were eliminated; references to CIC and CBSA officers and to the C&I Minister and 
+the PSEP Minister were made where appropriate, as were other minor changes. 
+ 
+ 
+Appendix A was removed since no countries are listed under A102(1); 
+ 
+Appendix B, C & D were renamed A, B & C; 
+ 
+Other minor changes to correct mistakes or relating to terminology were also made. 
+ 
+2004-08-11 
+ 
+ENF 6 - Review of Reports under A44(1) has been updated to reflect an amendment to 
+paragraph R228. The amendment prescribes that inadmissibility reports with respect to 
+unaccompanied minors and persons unable to appreciate the nature of proceedings who 
+are unaccompanied must be referred to the Immigration Division if the Minister's 
+delegate determines that a removal order should be sought. 
+ 
+2004-01-26 
+ 
+The title for section 23 of chapter ENF 6 in French has been amended and now reads as 
+follows: 
+Statut de citoyenneté/Citoyens canadiens qui présentent une demande d'asile 
+2003-09-02  
+A minor change was made to section 3.8 and section 24 of ENF 6.  
+ 
+2003-06-19  
+Changes to section 3.3 and the addition of section 24 relate to the procedures to follow 
+when issuing administrative removal orders on grounds of misrepresentation pursuant to 
+R228(1)(b).  
+ 
+ 
+
+
+===== PAGE 6 =====
+ENF 6  Review of reports under subsection 44(2) 
+6 
+2025-02-20 
+1 What this chapter is about  
+This chapter provides guidance to Canada Border Services Agency (CBSA) and Immigration, 
+Refugees and Citizenship Canada (IRCC) officials performing the function of the Minister’s 
+Delegate (MD) and exercising their authority to review reports prepared under A44(1) of the 
+Immigration and Refugee Protection Act (IRPA).  
+2 Program objectives  
+The objectives of Canadian immigration legislation with regard to the inadmissibility provisions 
+are: 
+ 
+to protect the health and safety of Canadians and to maintain the security of 
+Canadian society; 
+ 
+to promote international justice and security by fostering respect for human rights 
+and denying access to Canadian territory to persons, including refugee claimants, 
+who are criminals or security risks. 
+3 The Act and Regulations  
+Under A44(1), an officer may prepare and transmit a report if that officer is of the opinion that a 
+permanent resident or foreign national in Canada is inadmissible. Under A44(2), all A44(1) 
+reports must be referred to the MD to determine the accuracy and validity of the report and to 
+decide whether to:   
+ 
+issue a removal order, where the MD has jurisdiction to do so; or  
+ 
+refer the matter to the Immigration Division (ID) of the Immigration and Refugee Board 
+(IRB) for an admissibility hearing. 
+The IRPA provides authority both to members of the ID and to the MD to issue removal orders, 
+depending on the type of allegation contained in the A44(1) report, and pursuant to the authority 
+prescribed in the IRPA and the Immigration and Refugee Protection Regulations (IRPR) . 
+In order to streamline the enforcement process in cases involving straightforward allegations, 
+and to maintain the principle that the MD may make determinations in cases where there is little 
+need to weigh evidence, the scheme of the Act and Regulations empowers the MD to issue 
+removal orders under the circumstances prescribed in R228. Generally speaking, the more 
+discretion and analysis required in assessing the allegation, the more likely the jurisdiction rests 
+with a member of the ID.   
+It is important to note that where the MD is authorized to make removal orders under R228, this 
+authority applies at both ports of entry and at inland offices.  
+The following table includes some of the most relevant provisions that may apply during the 
+A44(2) process. Some of the authorities listed below pertain specifically to CBSA Border 
+Services Officers (BSOs) at the port of entry or IRCC officers assessing applications; others are 
+more relevant to CBSA Inland Enforcement Officers (IOEs). 
+ 
+ 
+ 
+
+
+===== PAGE 7 =====
+ENF 6  Review of reports under subsection 44(2) 
+7 
+2025-02-20 
+Table 1:  Sections of the IRPA and the IRPR applying to determinations under A44(2) 
+Provision 
+Act and 
+Regulations 
+Delegation of powers 
+A6(2) 
+Permanent Resident 
+A21(1) 
+Temporary resident dual intent 
+A22 
+Entry to complete examination or hearing 
+A23 
+Residency obligation 
+A28 
+Security 
+Human or international rights violations 
+Sanctions 
+Serious criminality 
+Criminality 
+Transborder criminality 
+Organized criminality 
+Health grounds 
+Financial reasons 
+Misrepresentation 
+Cessation of refugee protection 
+Non-compliance with the IRPA or IRPA — foreign national 
+Non-compliance with IRPA or IRPR — permanent resident 
+Inadmissible family member 
+A34 
+A35 
+A35.1 
+A36(1) 
+A36(2) 
+A36(2.1) 
+A37 
+A38 
+A39 
+A40 
+A40.1 
+A41(a) 
+A41(b) 
+A42 
+Preparation of report 
+A44(1) 
+Referral or removal order 
+A44(2) 
+Imposition of Conditions 
+A44(3) 
+Mandatory imposition of conditions — inadmissibility on grounds of 
+security 
+A44(4),(5) 
+Applicable removal order — Immigration Division 
+A45(d) 
+No return without prescribed authorization 
+A52(1) 
+Right of appeal to Immigration Appeal Division (IAD) 
+A63 
+Loss of appeal rights 
+A64 
+Application for judicial review 
+A72(1) 
+Protected person 
+A95 
+Referral to Refugee Protection Division  
+A100(1) 
+Suspension of consideration of eligibility of claim 
+A100(2) 
+Deemed referral to Refugee Protection Division  
+A100(3) 
+Ineligibility to refer refugee claim 
+A101 
+Cessation of refugee protection 
+A108 
+
+
+===== PAGE 8 =====
+ENF 6  Review of reports under subsection 44(2) 
+8 
+2025-02-20 
+Vacation of refugee protection 
+A109 
+Non-refoulement —  protected person 
+A115(1) 
+Ministerial Opinion for protected person 
+A115(2) 
+Rehabilitation 
+R18, R18.1 
+Direct back to the United States 
+R41(b) 
+Withdrawing application/Allow to leave 
+R42 
+Conditions A23 
+R43(1) 
+Applicable removal order — Minister 
+ 
+Serious criminality/Criminality in Canada (foreign nationals) 
+Misrepresentation (vacation of refugee/protected person status) 
+Cessation of refugee protection 
+Failure to comply  
+Inadmissible family members  
+Inadmissible under A35.1(1) (foreign nationals) 
+Permanent residents and their residency obligation  
+Claim for refugee protection  
+Unaccompanied minors 
+Persons unable to appreciate the nature of proceedings 
+R228 
+ 
+R228(1)(a) 
+R228(1)(b) 
+R228(1)(b.1) 
+R228(1)(c) 
+R228(1)(d) or (e) 
+R228(f) 
+R228(2) 
+R228(3) 
+R228(4)(a) 
+R228(4)(b) 
+Applicable removal order— Immigration Division (ID) 
+R229 
+ 
+For further information regarding the division of jurisdiction to issue removal orders, see 
+Appendix A, ‘Table:  Immigration and Refugee Protection Act (IRPA) Inadmissible 
+Classes’ 
+3.1 Forms 
+The following table includes some common forms used in the 44(2) process.  This is a non-
+exhaustive list and some may only apply to officers carrying out the administration of IRPA at 
+the port of entry.   
+ 
+Table 2: Forms 
+Form title 
+Form 
+number 
+Referral under subsection 44(2) of the Immigration and Refugee Protection 
+Act for an admissibility hearing 
+BSF506 
+Denial of Authorization to Return to Canada Pursuant to Subsection 52(1) of 
+the Immigration and Refugee Protection Act 
+IMM 1202B  
+Authorization to Return to Canada Pursuant to Section 52(1) of the 
+Immigration and Refugee Protection Act 
+IMM 1203B  
+Departure Order 
+IMM 5238B 
+
+
+===== PAGE 9 =====
+ENF 6  Review of reports under subsection 44(2) 
+9 
+2025-02-20 
+Exclusion Order 
+IMM 1214B  
+Deportation Order 
+BSF581 
+Notice to Appear for a Proceeding under Subsection 44(2) 
+IMM 1234B  
+BSF504 
+Subsection A44(1) Highlights – Port of Entry Cases 
+BSF516 
+Subsection 44(1) and A55 Highlights – Inland Cases 
+IMM 5084B  
+Request for Admissibility Hearing/Detention Review Pursuant to the 
+Immigration Division Rules  
+BSF524 
+Entry for Further Examination or Admissibility Hearing 
+BSF536 
+Direction to Leave Canada 
+BSF503 
+Direction to return to the United States 
+BSF505 
+Notification to the Refugee Protection Division and the Refugee Appeal 
+Division and the Person Concerned by an Immigration Officer Pursuant to 
+Subsection 103(1) of the Immigration and Refugee Protection Act of the 
+Suspension of Consideration of Claim 
+BSF528 
+Notification to the Refugee Protection Division and the Person Concerned by 
+an Officer Pursuant to Paragraph 103(2) of the Immigration and Refugee 
+Protection Act 
+BSF527 
+Notification to the Person Concerned by an Immigration Officer Pursuant to 
+Paragraph 104(1)(A), (B), (C), OR (D) of the Immigration and Refugee 
+Protection Act & Notification to the Refugee Protection Division pursuant to 
+Paragraph 104(1) of the same Act   
+BSF529 
+Acknowledgement of Conditions 
+BSF 821 
+Acknowledgement of Conditions for IRPA Section 34 Cases 
+BSF798 
+Notes to File 
+BSF788 
+ 
+ 
+4 Instruments and delegations 
+ 
+A4 sets out which Minister is responsible for the administration of the IRPA. The Minister of 
+Citizenship and Immigration [also known as Immigration, Refugees and Citizenship Canada 
+(IRCC)] and the Minister of Public Safety and Emergency Preparedness (PS) are jointly 
+responsible for the administration and enforcement of the IRPA, however there are some 
+differences. The IRCC Minister is responsible for the overall administration of the IRPA, unless 
+otherwise specified. The Minister of PS has the primary responsibility for the administration of 
+the IRPA as it relates to the following:  
+ 
+ 
+port of entry examinations; 
+
+
+===== PAGE 10 =====
+ENF 6  Review of reports under subsection 44(2) 
+10 
+2025-02-20 
+ 
+policy lead relating to enforcement of the IRPA including arrest, detention and removal; 
+ 
+establishment of policies respecting the enforcement of the IRPA and inadmissibility 
+under A34/35/37; and 
+ 
+declarations referred to under A42.1 (Ministerial Relief provision) 
+ 
+Pursuant to A6(1), the responsible Minister has the authority to designate specific persons or 
+classes of persons to carry out any purpose of any provision of the IRPA with respect to their 
+individual mandates as described in A4, and to specify the powers and duties of the officers so 
+designated. This is referred to as the designation of authority. In addition, A6(2) authorizes 
+that anything that may be done by the Minister under the Act may be done by a person that the 
+Minister authorizes in writing. This is referred to as delegation of authority.   
+ 
+Each Minister who has responsibilities under the IRPA has written an instrument of delegation 
+and designation that is periodically updated. The Delegation of Authority and Designations of 
+Officers (D & D) instruments stipulate who has the authority to perform specific immigration-
+related functions. CBSA and IRCC personnel are designated by position to perform all 
+delegated or designated authorities, including those associated with A44(1)/A44(2) functions.  It 
+is to be noted that the IRPA D & D instruments have a hierarchical link which means only the 
+lowest level of authority is included in the D & D instruments as every position above this one 
+(with a direct hierarchical link) has the same authority to perform specific immigration-related 
+functions. 
+ 
+CBSA and IRCC officials acting in the capacity of the MD in A44(2) proceedings should always 
+review both the CBSA and the IRCC D & D instruments as they have authorities delegated and 
+designated under both instruments, which can be found on the IL 3-  Designation of Officers and 
+Delegation of Authority.  
+ 
+The authority to review A44(1) reports has been delegated to certain CBSA and IRCC officials. 
+It is important to note that while IRCC officers have been delegated the authority to review 
+reports for most inadmissibility sections, A44(1) reports for inadmissibility under A34 (security 
+grounds), A35 (grounds of violating human or international rights), A35.1 (sanctions) and A37 
+(grounds of organized criminality) may only be prepared and reviewed by CBSA.  
+ 
+All reports written by CBSA or IRCC officers will be reviewed by the MD who has been 
+delegated the authority under the D & D instruments. If the MD is of the opinion that the report is 
+well-founded, the MD will make the appropriate decision based on the evidence and determine 
+whether to:  
+ 
+ 
+issue a removal order, if the allegation is within the MD’s authority pursuant to R228; or  
+ 
+refer the report to the ID pursuant to the R229. 
+For additional information, see Appendix A — ‘Table: Immigration and Refugee Protection Act 
+(IRPA) Inadmissible Classes’  
+ 
+Note:  Policy requires that even where officers and officials acting in the capacity of the 
+Minister’s Delegate (including chiefs and directors) have the delegated authority under 
+the D & D instruments, they should not perform Minister's Delegate functions and 
+reviews until they have successfully completed the necessary training to perform the 
+A44(2) function.  This policy is consistent with the Federal Court’s decision in Zhang v. Canada 
+
+
+===== PAGE 11 =====
+ENF 6  Review of reports under subsection 44(2) 
+11 
+2025-02-20 
+(Citizenship and Immigration), 2014 FC 362 where judicial review was granted based on a 
+finding that there was an inadequate record before the court to conclude that the MD had 
+received the required Minister’s Delegate Review training and was therefore authorized to issue 
+a removal order.  
+  
+5 Definitions 
+Adult legally responsible 
+An adult legally responsible for a minor or suspected incompetent person may be their parent or 
+legal guardian. If the accompanying adult is not a parent or guardian, reasonable efforts must 
+be made to contact a parent or guardian. For more information on accompanying adults, please 
+refer to ENF 21 Recovering Missing, Abducted and Exploited Children. 
+ 
+Foreign national 
+A person who is not a Canadian citizen or a permanent resident; includes a stateless person 
+[A2(1)]. 
+ 
+Indian 
+A person who is registered as an Indian under the Indian Act [R2]. 
+ 
+Minor  
+A minor is a person under 18 years of age. Persons claiming to be less than 18 years of age are 
+to be treated as minors unless there is conclusive evidence that they are 18 years old or older.  
+ 
+Permanent resident 
+A person who has acquired permanent residence status and has not subsequently lost that 
+status under A46 [A2(1)]. 
+ 
+Persons unable to appreciate the nature of proceedings  
+This phrase refers to persons who are unable to understand the reason for the proceedings or 
+why they are important, or cannot give meaningful instructions to counsel about their case. An 
+opinion regarding competency may be based on the person's own admission, the person's 
+observable behaviour at the proceeding, or an expert opinion on the person's mental health or 
+intellectual or physical faculties. Pursuant to R228(4)(b) and R229(4)(b), the authority to issue 
+any removal order for persons unable to appreciate the nature of the proceedings shall be the 
+Immigration Division.  
+ 
+Protected person 
+A person on whom refugee protection is conferred in Canada and whose claim or application 
+has not subsequently been deemed to be rejected because of cessation or vacation 
+proceedings [A95(2)]. 
+ 
+ 
+
+
+===== PAGE 12 =====
+ENF 6  Review of reports under subsection 44(2) 
+12 
+2025-02-20 
+6 Departmental policy 
+6.1 Procedural fairness  
+Actions and decisions made under the IRPA must be made in accordance with the principles of 
+procedural fairness and natural justice. These principles apply to the exercise of the powers of 
+the Minister’s delegate. In general terms, this means the MD must: 
+ 
+Allow the person concerned the opportunity to know the case to be met and present 
+all relevant facts of the case; 
+ 
+Inform the person concerned about the purpose and possible outcomes of the MD 
+proceedings; 
+ 
+Provide the person concerned with a reasonable opportunity to respond; 
+ 
+Allow the person to respond to facts or new information that will be considered by the 
+decision-maker; 
+ 
+Fully and fairly consider the evidence; 
+ 
+Render decisions that are impartial and free from bias; 
+ 
+Provide the notice of decision and reasons for the decision to the person concerned; 
+ 
+Inform the person concerned of a right to counsel if an A44(2) MD proceeding is 
+caused where the person is detained and the Minister has the authority to issue a 
+removal order;  
+ 
+Ensure that an interpreter is provided where necessary  
+It is important to differentiate those cases where the MD may issue a removal order and those 
+cases where the jurisdiction to issue a removal order lies with the ID, as different procedural 
+requirements and considerations will apply in order to ensure that procedural fairness and 
+natural justice are met.  
+The content of procedural fairness will also depend on the status of the person concerned and 
+additional considerations will apply for permanent residents and protected persons.  
+For additional information, see ENF 5 Writing 44(1) reports:  section 6.1,  ‘Procedural fairness’; 
+section 8, ‘Considerations before reviewing an A44(1) report- Scope of officer discretion’;  
+section 9.2, ‘Special considerations for protected persons’; section 10, ‘A44(1) reports 
+concerning permanent residents of Canada’. 
+In reaching a decision, the MD must take into account representations made by persons or by 
+their counsel, and make particular note of the nature and content of these representations. All 
+decisions of the MD are subject to judicial review, with leave, by the Federal Court of Canada. 
+Certain decisions that the MD makes may be subject to appeal before the Immigration Appeal 
+Division (IAD), where a statutory right of appeal exists under the IRPA. 
+Individuals subject to A44 proceedings have the right to know the case against them, which 
+generally includes understanding what information the MD would rely on in making a decision. 
+Each case, however, must turn on its facts and the level of disclosure required at the A44 stage 
+may vary depending on the circumstances of the case.  
+If an MD relies on new information [i.e., information that was not already provided at the A44(1) 
+stage] that is material and that the person concerned would not otherwise be aware of or have 
+
+
+===== PAGE 13 =====
+ENF 6  Review of reports under subsection 44(2) 
+13 
+2025-02-20 
+access to, the MD should ensure that it is provided to the person concerned [for further details, 
+see Durkin v. Canada (Public Safety and Emergency Preparedness), 2019 FC 174]. This is 
+particularly important where the MD has jurisdiction to issue the removal order, as a higher level 
+of procedural fairness will apply. Conversely, in cases where the ID has the jurisdiction to issue 
+the removal order, there is no duty to disclose other than information which is “material and 
+otherwise unknown or unavailable” at A44(1) or A44(2) since the person will be entitled to 
+receive disclosure in the context of an admissibility hearing [Jeffrey v. Canada (Public Safety 
+and Emergency Preparedness), 2019 FC 1180]. With respect to all requests for disclosure, MDs 
+should always be cognizant of the legal rules and restrictions on the general disclosure of 
+documents (e.g., Privacy Act, information sharing agreements, etc.). For further details, MDs 
+should refer to ENF 5 Writing 44(1) reports, section 12.5, ‘Disclosure of documents’. 
+6.2 Procedures for persons less than 18 years old or persons unable to 
+appreciate the nature of the proceedings 
+R228(4) provides for specific safeguards for certain vulnerable persons by requiring that where 
+the person: 
+ 
+is under 18 years of age and not accompanied by a parent or an adult legally 
+responsible for them;  or  
+ 
+is unable, in the opinion of the Minister, to appreciate the nature of the proceedings and 
+is not accompanied by a parent or an adult legally responsible for them; 
+the matter must be referred to the ID for an admissibility hearing. In these cases, the MD does 
+not have jurisdiction to issue a removal order.   
+Such cases will call for a higher degree of procedural fairness at the A44 stage and officers and 
+MDs must take extra care to ensure that the person’s interests are represented and that the 
+evidence has been fully and fairly considered. 
+During the ID proceedings, a designated representative will be appointed pursuant to A167(2) to 
+represent the person’s interests and ensure that procedural fairness requirements are met with 
+respect to presenting evidence relevant to the case and providing a response to facts or new 
+information that will be considered by the decision-maker. In these hearings, parties will also be 
+governed by the Immigration and Refugee Board of Canada Chairperson Guideline 8: 
+‘Procedures With Respect to Vulnerable Persons Appearing Before the IRB’ 
+Where a person appears to be unable to appreciate the nature of the proceedings, it is 
+important for the MD to identify this as soon as possible during the A44(2) proceedings. Where 
+the MD, in the course of their interactions with a person, has identified that a person has a 
+suspected or known mental illness and does not appreciate the nature of the proceedings, this 
+should be clearly documented in the MD’s decision so that in cases where the case is being 
+referred for an admissibility hearing, the need for a designated representative is flagged for the 
+ID. 
+In such cases, the MD should also ensure that other departmental and agency guidelines with 
+respect to dealing with vulnerable persons are followed. See section 6.6, ‘Dealing with 
+vulnerable persons’; ENF 20 Detention; and ENF 34 Alternatives to Detention. 
+For additional guidance on how to identify a vulnerable person, see IRCC Program delivery 
+instructions on Processing in-Canada claims for refugee protection of minors and vulnerable 
+persons. 
+
+
+===== PAGE 14 =====
+ENF 6  Review of reports under subsection 44(2) 
+14 
+2025-02-20 
+6.3 Official languages 
+Both the Official Languages Act and the Canadian Charter of Rights and Freedoms establish 
+the right of individuals who are subject to administrative proceedings in Canada to communicate 
+with employees of IRCC and CBSA in the official language of their choice, either French or 
+English. Officials carrying out the administration of the IRPA must respect the right of the 
+individual to proceed in French or English. In order to ensure that procedural fairness is 
+maintained, MDs should ensure that all the Minister’s documents are provided in the language 
+of the proceedings and, where necessary, obtain translations (e.g., a certificate of conviction 
+from another country that is not in French or English that the Minister is relying on as evidence). 
+6.4 Interpreters 
+The MD must be satisfied that the person concerned is able to understand and communicate in 
+either of the official languages in which the proceeding is being held. If necessary, an interpreter 
+is to be provided to enable the persons to understand and communicate fully.  
+Note:  Travellers arriving at a port of entry into Canada do not have an automatic right to an 
+interpreter upon request during routine port of entry examinations, however there are situations 
+where officers at the port of entry are required to suspend the proceedings until a qualified 
+interpreter is available. This may include circumstances where the officer is considering denying 
+entry to the traveller. For further information, see Nere v. Canada (Citizenship and Immigration), 
+2018 FC 672. 
+CBSA officers should consult guidelines on the use of interpreters contained in ENF 4 Port of 
+entry examinations (section 8.5 ‘Use of interpreters’).  
+For further information see IRCC Program delivery instructions (PDI) on interpreters. 
+6.5 Counsel  
+Persons do not have a right to counsel at MD review proceedings, unless they are detained. In 
+all detained cases, persons must be given the opportunity to obtain and instruct counsel at their 
+own expense. Counsel includes a barrister, solicitor, family member, consultant or friend. 
+In detained cases: The MD must inform persons of their right to counsel prior to commencing 
+the MD review. This right applies in all cases (port of entry and inland) where a person is 
+detained under an Act of Parliament and includes situations where the person is detained by the 
+criminal courts while facing charges or serving a sentence and subject to IRPA proceedings. 
+Port of entry:  Generally, CBSA’s policy is not to permit counsel at MD review proceedings 
+unless arrest/detention has occurred. However if the MD is dealing with an individual who does 
+have counsel present, the officer should allow the counsel to remain present as long as counsel 
+does not interfere with the examination process. 
+Note:  In Dehghani v. Canada (Minister of Employment and Immigration), [1993] 1 S.C.R. 
+1053], the Supreme Court of Canada (SCC) determined that the principles of fundamental 
+justice do not include the right to counsel for routine information-gathering, such as that 
+gathered at port of entry examination interviews. The SCC further held that an Immigration 
+Secondary examination at a port of entry does not constitute a detention within the meaning of 
+paragraph 10(b) of the Canadian Charter of Rights and Freedoms.1  
+                                                          
+1 Although the SCC held that secondary examination does not constitute detention, this decision also 
+highlighted that detention within the meaning of section 10(b) of the Charter would result where restraints 
+on the person’s liberty by state authorities have gone beyond those required for the routine processing or 
+
+
+===== PAGE 15 =====
+ENF 6  Review of reports under subsection 44(2) 
+15 
+2025-02-20 
+For further information regarding right to counsel at POE examinations, officers should refer to  
+ENF 4 Port of entry examinations. 
+In non-detained inland cases (CBSA/IRCC): A non-detained person does not have the right to 
+have counsel present during the MD review, however in the spirit of procedural fairness, the MD 
+shall inform the person of the possibility of obtaining counsel for the MD review prior to 
+commencing the proceeding. Call-in notices for MD reviews should advise the person that they 
+may have counsel present for the MD review. MDs are not obligated to postpone MD review 
+proceedings in non-detained cases due to counsel unavailability, however, may consider such 
+requests on case-by-case basis. 
+Where counsel is representing the person concerned at the proceeding, the MD should ensure 
+that counsel’s identity, the fact of counsel’s presence at the proceeding and statements made 
+by counsel on behalf of the person concerned are documented in the their notes, and that 
+counsel’s representations have been considered in their decision. The MD may also need the 
+person’s representative to complete a Use of a Representative form (IMM 5476). For further 
+information, see IRCC Program delivery instructions on Use of Representatives. 
+Participation by counsel involves speaking on the client's behalf, presenting evidence and 
+making submissions on the issues. Allowing counsel to participate does not mean that the MD is 
+required to tolerate disruptive or discourteous behaviour by counsel. Where such conduct is 
+encountered, the MD may require counsel to leave and/or the proceeding may be adjourned to 
+another time. In such cases, the MD should ensure to document their reasons for taking such 
+action. 
+6.6 Dealing with vulnerable persons in the context of A44 
+6.6.1 Considerations for vulnerable persons in the context of A44 
+ 
+It is an overall goal of Canada’s immigration program to treat all persons with dignity and 
+respect. In exercising their IRPA authorities, officials must approach all cases in a 
+nonjudgmental manner, remain sensitive to the potential needs and limitations of vulnerable 
+persons, and recognize that a person they are dealing with may have experienced some form of 
+violence, abuse or trauma. 
+ 
+In the context of A44, vulnerable persons may face particular challenges, including an impaired 
+ability to answer questions/provide information to officials respecting a potential IRPA 
+inadmissibility, due to a physical or psychological frailty or for other reasons. Such persons may 
+include, but would not be limited to: 
+ 
+ 
+minors (under 18 years of age), including unaccompanied minors; 
+ 
+elderly persons; 
+ 
+individuals with severe medical conditions or physical disabilities;  
+ 
+persons with a suspected or known mental illness; 
+ 
+persons who have suffered traumatic experiences that resulted in some degree of 
+vulnerability, including: 
+                                                          
+screening of their application to enter Canada. Further, while the SCC’s decision affirmed that delays in 
+routine examinations due to operational necessity do not mean the person is “detained”, officers should 
+be cognizant that unreasonably lengthy delays in the examination could lead to the conclusion that the 
+person is detained within the meaning of section 10(b) of the Charter.  
+ 
+
+
+===== PAGE 16 =====
+ENF 6  Review of reports under subsection 44(2) 
+16 
+2025-02-20 
+o victims2 of gender-based violence (GBV) (see section 6.6.3); 
+o victims/suspected victims of trafficking in persons (VTIPs) or family violence. 
+ 
+In the context of A44 procedures, officers/MDs should: 
+ 
+ 
+Identify vulnerable persons at the earliest opportunity in order to ensure that appropriate  
+accommodations are made and any relevant considerations are factored into decisions 
+and actions taken. In some instances, officers/MDs will need to use their observational 
+skills, discretion and sound judgement in identifying a person as vulnerable.   
+ 
+ 
+Recognize that a vulnerable individual’s ability to respond to questions or provide 
+information may be severely impaired, and remain sensitive to the impact of a perceived 
+vulnerability during the A44 process, including during interviews. 
+ 
+ 
+To the extent possible, prevent vulnerable persons from becoming traumatized or re-
+traumatized during the A44 process. 
+ 
+Where an individual who is subject to IRPA enforcement action is identified as a victim of 
+violence, trauma or abuse, including victims of GBV, family violence or trafficking in persons, or 
+other forms of abuse such as sexual abuse or labour abuse, officers/MDs must take a victim-
+centered and trauma-informed approach in order to avoid re-victimizing people who report 
+violence or abuse.  
+ 
+A victim-centred approach focuses on the needs and concerns of victims to ensure a 
+compassionate and sensitive delivery of services in a nonjudgmental manner.  
+ 
+A trauma-informed approach is one that avoids triggering trauma that may have placed the 
+individual in their current situation. 
+ 
+The guidelines in sections 6.6.2 to 6.6.5 are aimed at assisting MDs in identifying vulnerable 
+persons and applying a victim-centred and trauma-informed approach when dealing with 
+vulnerable persons at A44. 
+ 
+In addition to the guidelines set out in this manual chapter, MDs should always ensure that other 
+Departmental and Agency guidelines with respect to dealing with vulnerable persons and 
+minors are followed, including IRCC’s Program delivery instructions on Identifying sensitive 
+cases and on Processing in-Canada claims for refugee protection of minors and vulnerable 
+persons, where applicable. 
+6.6.2 Sexual orientation and gender identity and expression and sex characteristics3 
+ 
+Some IRPA enforcement cases may involve individuals with, or who are perceived to have, 
+                                                          
+2 It is important to recognize wherever the term “victim” is used, that some persons who have experienced 
+violence, trauma or abuse may prefer to be referred to as “survivors” rather than “victims”. 
+ 
+3 Please note that terminology in this section may have further evolved following the publication date of 
+this manual. Consult most recent GoC publications for most up to date terminology.   
+
+
+===== PAGE 17 =====
+ENF 6  Review of reports under subsection 44(2) 
+17 
+2025-02-20 
+sexual orientations, gender identities and expressions (SOGIE)4 that may not conform  to 
+socially accepted norms in a particular cultural environment. Such individuals include, but are 
+not limited to: Two-Spirit, lesbian, gay, bisexual, transgender, queer, intersex and additional 
+sexually and gender diverse (2SLGBTQI+) individuals. Depending on factors such as race, 
+ethnicity, religion, faith or belief system, age, disability, health status, social class and education, 
+individuals with diverse sexual orientations and identities may recognize and express their 
+identity differently.  
+ 
+Individuals may conceal their SOGIE out of mistrust or fear of repercussion by state and non-
+state actors, or due to previous experiences of discrimination, stigmatization, bullying, 
+ostracism, violence or sexual assault. These circumstances may manifest themselves as an 
+individual being reluctant to discuss, or having difficulty discussing, their SOGIE with an officer 
+based on a fear or general mistrust of authority figures, particularly where intolerance or 
+punishment of individuals with diverse SOGIE are sanctioned by state officials in an individual’s 
+country of origin. 
+ 
+Officials need to be sensitive to the possibility that SOGIE issues may exist in any case they 
+encounter when executing their IRPA authorities. Officials must follow all relevant guidelines 
+and procedures pertaining to handling SOGIE cases during the A44 process, remain sensitive 
+to gender-related considerations when interacting with the person and be careful to use gender-
+neutral or inclusive terms or terms that reflect the person’s gender identification in 
+documentation/notes and when completing Departmental and Agency forms. 
+ 
+Officials should consult the Internationally recognized sexual orientation or gender identity or 
+expression (SOGIE) definitions on IRCC’s Connexion for further information. 
+6.6.3 Victims of gender-based violence (GBV) 
+ 
+When considering enforcement under A44, officers and MDs need to be sensitive to the fact 
+that a person they encounter may have been subjected to specific violence, trauma or abuse 
+based solely on their gender, perceived gender, gender identity or gender expression, as 
+well as sexual orientation. This is referred to as gender-based violence (GBV), which is a 
+human rights violation.  
+ 
+It is important to note that GBV is not limited to physical violence and can also include 
+emotional/psychological abuse, harassment, threats, sexual violence, coercive control, 
+humiliation, financial abuse, discrimination or neglect. It is important to note that these may also 
+occur online through “cyberviolence”5.  
+ 
+Officers and MDs should be aware that certain individuals face a greater risk of experiencing 
+GBV, including:  women, girls, 2SLGBTQI+ people and people living with disabilities. Moreover, 
+the risk of GBV may be increased with the intersection of any two or more of these 
+                                                          
+4 Also includes individuals with, or who are perceived to have diverse sex characteristics and may also be 
+referred to as SOGIESC. For example, see the Immigration and Refugee Board of Canada’s 
+Chairperson’s Guidelines on Proceedings Before the IRB Involving Sexual Orientation, Gender Identity 
+and Expression, and Sex Characteristics: https://irb.gc.ca/en/legal-policy/policies/Pages/GuideDir09.aspx. 
+5 “Use of technologies to facilitate virtual or in-person harm including observing and listening to a person, 
+tracking their location, to scare, intimidate or humiliate a person” (Government of Canada, Fact sheet: 
+Intimate partner violence (Canada.ca). 
+
+
+===== PAGE 18 =====
+ENF 6  Review of reports under subsection 44(2) 
+18 
+2025-02-20 
+characteristics. Other groups that may experience high levels of GBV may also include Black 
+women and newcomer women to Canada6.  
+ 
+Intimate partner violence (IPV), also referred to as domestic violence or spousal violence, is a 
+widespread form of GBV that encompasses multiple forms of harm perpetrated by a current or 
+former intimate partner or spouse. IPV can occur in many types of relationships, including 
+between married or common-law spouses as well as within dating relationships, regardless of 
+gender and sexual orientation and whether or not the partners co-habit. 
+ 
+For further information respecting IPV, see the Government of Canada’s Fact sheet on Intimate 
+partner violence. 
+ 
+Depending on their cultural background, victims of GBV may be reluctant to disclose their 
+experiences in order to not “shame” their families or communities. Similarly, women who have 
+been subjected to IPV/domestic violence or abuse may also be reluctant to provide information, 
+especially against the alleged perpetrator. MDs should be alert to such cases and will ensure to 
+the extent possible that specific accommodations are made during interviews as set out  (e.g., 
+have a female officer either conduct or be present during an interview, and arrange, if possible, 
+for a female interpreter). See section 6.6.4 below for additional guidance on conducting 
+interviews. 
+ 
+Victims and survivors of GBV may be encountered both at the port of entry or inland. In such 
+cases, officers/MDs should: 
+ 
+ 
+Consider the factors that led to the individual’s breach of IRPA requirements or conditions, 
+including the possibility that the person was placed in their situation as part of abuse or 
+through coercion or threats; 
+ 
+Be aware that perpetrators of GBV are known to use threats of denunciation to immigration 
+authorities as a tool to control and oppress victims through fear of deportation and/or 
+detention. For example, MDs shall consider any such factors that may lead them to believe 
+that a foreign national overstayed their status as a result of being placed in that situation by 
+an abuser; 
+ 
+Within the confines of an MD’s limited discretion at A44(2), be sensitive to personal 
+circumstances as well as the consequences of immigration enforcement;  
+ 
+Where appropriate and within an MD’s scope of discretion, consider other options where 
+there are IRPA inadmissibility concerns. At the port of entry, this may include allowing the 
+person to withdraw their application to enter Canada (i.e. Allowed to leave) or issuing a 
+Temporary resident permit (TRP) to overcome an inadmissibility that may have resulted 
+from GBV. In the inland and port of entry context, this may include a referral to IRCC for 
+TRP consideration and/or to community-based service organizations experienced in 
+providing services to GBV victims and survivors in accordance with existing policy and 
+regional procedures or allowing the person to make arrangements to leave Canada if they 
+plan to do so. 
+ 
+For further resources on GBV, please refer to the Government of Canada’s Gender-Based 
+Violence Knowledge Centre (Canada.ca). 
+                                                          
+6 Government of Canada, What is gender-based violence? (Canada.ca) 
+
+
+===== PAGE 19 =====
+ENF 6  Review of reports under subsection 44(2) 
+19 
+2025-02-20 
+6.6.4 Interviewing vulnerable persons  
+ 
+Officers and MDs must be alert to situations where a person’s ability to answer questions and 
+present information during A44 proceedings may be impacted by one or more factors listed in 
+section 6.6.1 above. Officers/MDs may find that vulnerable persons may have issues affecting 
+their memory, behaviour, or ability to recount relevant events including symptoms that have an 
+impact on the consistency and coherence of their statements.  
+ 
+Officers/MDs should be cognizant that individuals react to violence, trauma and abuse in 
+different ways and not all victims will exhibit identical or even similar signs and/or symptoms. 
+While some individuals may show signs of distress, including anxiety, irritability, nervousness, 
+agitation, anger and aggressiveness, others may be easily intimidated and have difficulty 
+communicating. 
+ 
+In order to conduct A44 interviews in a way that avoids traumatizing vulnerable persons or re-
+victimizing persons who have experienced violence, trauma or abuse, officers/MDs should: 
+ 
+Recognize that some vulnerable persons may display less obvious symptoms of a 
+vulnerability, which may not become apparent until the person is interviewed/examined. 
+Officers/MDs may need to rely on observational skills and sound judgement in identifying 
+signs and symptoms of a vulnerability.   
+ 
+Be aware that some vulnerable persons may require special accommodations during the 
+interview. Remain sensitive to the fact that victims of severe trauma may have difficulties 
+coping with the interview process because they are confined to a closed room with the 
+interviewer. 
+ 
+Create optimum conditions to minimize stress. Allow for frequent breaks, if necessary 
+and to the extent possible.  
+ 
+Be conscious of cultural and gender considerations which may affect communication 
+such as the person and officer being the same gender, where possible. 
+ 
+Recognize that victims of violence or abuse may fear people in authority and may be 
+intimidated by the many questions that are being asked by officials. 
+ 
+Recognize that victims of GBV or other forms of violence or abuse may become 
+distressed at the prospect of being interviewed by an official of the opposite sex. 
+ 
+Where appropriate, speak to the person alone first in a confidential setting and ask if 
+they are comfortable speaking in front of family members (particularly parents, children 
+or relatives of a particular gender). 
+ 
+Provide the person with a fair opportunity to tell the story. 
+ 
+Be cognizant that there may only be one opportunity for an individual to reach out to 
+authorities, and for authorities to refer a victim of violence or abuse to victim support 
+services.  
+ 
+Be courteous, respectful, sensitive and aware of own biases. 
+ 
+Be aware that some questions may cause a victim to recall painful events. 
+ 
+Treat the person with sensitivity and with empathy and with full respect of their human 
+rights. 
+ 
+Avoid an authoritarian approach. 
+ 
+Avoid over-familiarity through eye contact or body language. 
+ 
+Ask simple questions and use encouragement. 
+ 
+Use active listening. 
+ 
+Allow free speech and avoid interruption. 
+ 
+Remember that if the vulnerable person is under 18 years of age or unable to appreciate 
+the nature of the proceedings, procedural safeguards set out in section 6.2 will apply. 
+
+
+===== PAGE 20 =====
+ENF 6  Review of reports under subsection 44(2) 
+20 
+2025-02-20 
+6.6.5 TRPs for victims or suspected victims of trafficking in persons (VTIP) or family 
+violence  
+ 
+Officials should keep in mind that there are specific policy guidelines in place respecting 
+suspected or known victims of trafficking in persons (VTIP) and victims of family violence. While 
+only IRCC officials may issue TRPs to VTIPs or victims of family violence, CBSA officials should 
+follow the guidelines set out in the IRCC Program delivery instructions for handling these cases. 
+For example, cases in which a foreign national is identified by the CBSA as a VTIP or victim of 
+family violence should be referred to the responsible IRCC local office on an urgent basis. There 
+are also instructions pertaining to IRCC procedures for contacting CBSA with respect to 
+individuals who are subject to a removal order that are applying for a VTIP or victim of family 
+violence TRP.  
+ 
+When dealing with victims or suspected victims, officials must continue to apply existing policy 
+guidance respecting VTIPs and victims of family violence. For example, MDs will take a victim-
+centred and trauma-informed approach when a permanent resident or foreign national is 
+identified as a possible VTIP and follow existing guidelines and procedures specific to 
+identifying and interviewing suspected VTIPs, as well as identifying and conducting interviews 
+for suspected human traffickers who are encountered at the port of entry or inland.  
+ 
+Officers and MDs should always be alert to any information that raises concerns that a minor 
+child has been trafficked, smuggled or abducted. In such situations, officers/MDs should refer to 
+the procedures set out in the following guidance: 
+ 
+ENF 21 Recovering missing, abducted and exploited children  
+ 
+Temporary resident permits (TRPs): Considerations specific to victims of trafficking in 
+persons 
+ 
+ 
+ 
+7 Procedure: Review of the A44(1) report by the Minister’s Delegate 
+7.1 Transmission of an A44(1) report to the Minister’s Delegate 
+Under A44(1), an officer may prepare a report if that officer is of the opinion that a permanent 
+resident or foreign national in Canada is inadmissible.   
+All A44(1) reports concerning permanent residents and foreign nationals must be referred to the 
+MD making the final decision about whether or not to issue a removal order or refer the matter 
+to the Immigration Division. 
+Where the officer transmitting the report to the MD has also prepared an A44(1) case highlights 
+form (IMM 5084B for inland cases or BSF516 for port of entry cases), a detailed memorandum 
+or an A44(1) narrative report, this must also accompany the A44(1) report.   
+The officer transmitting the report must also forward to the MD, all documentation and evidence 
+relied on by the officer in forming their opinion, including but not limited to: 
+ 
+for permanent residents, proof of a search of citizenship records; 
+ 
+copies of all relevant immigration documents and other certificates and affidavits that 
+can be obtained from IRCC, if applicable; 
+
+
+===== PAGE 21 =====
+ENF 6  Review of reports under subsection 44(2) 
+21 
+2025-02-20 
+ 
+originals or copies of other documents relevant to the case, such as a birth certificate, 
+marriage certificate, a certificate of conviction or other evidence of a previous conviction 
+that is acceptable in a court of law; 
+ 
+police occurrence reports; 
+ 
+probation, parole and psychiatric assessments; 
+ 
+police records and information on other convictions not reportable under A44(1); 
+ 
+other documentary evidence that supports the allegation(s), including statutory 
+declarations;  
+ 
+evidence filed by the person concerned. 
+ 
+See also, ENF 1 Inadmissibility; ENF 2 Evaluating inadmissibility; and ENF 23 Loss of 
+permanent resident status. 
+The importance of forwarding the officer’s recommendation to the MD at the same time as the 
+A44(1) report is transmitted was highlighted in Wong v Canada (Citizenship and Immigration) 
+2011 FC 971.  In that case, the Federal Court dealt with the legality of two removal orders 
+issued by the MD prior to the A44(1) case highlights form being signed and dated. In finding that 
+this sequence of events rendered the orders improperly issued and therefore null and void, the 
+Court affirmed that the officer’s recommendation needed to be reviewed by the MD as part of 
+the A44 process before a removal order was issued.   
+7.2 Reviewing the A44(1) report 
+Once the A44(1) report is transmitted by the officer to the MD, the MD will then review the report 
+to determine its accuracy and validity. 
+Accuracy refers to the determination of the correctness of details contained in the report. 
+Prior to any substantive review by the MD, it is important for the MD to conduct an initial review 
+of the A44(1) report to ensure that: 
+ 
+the biographical data is correctly cited [name(s), date of birth]; 
+ 
+the status of person concerned is correctly identified in the A44(1) report; 
+ 
+the inadmissibility section has been properly cited; and  
+ 
+the A44(1) report has been signed and dated.   
+Any report containing such errors should be sent back to the officer who wrote the A44(1) report 
+so that it can be corrected accordingly. 
+Validity refers to the determination of whether the report is well-founded, based on the MD’s 
+review of all of the evidence. 
+If the report is found to be valid, then the MD upholds the report and decides on the disposition 
+of the case. 
+The disposition of the MD review under A44(2) will depend on the allegations and 
+circumstances of each case and may include: 
+ 
+referring the case to an admissibility hearing; 
+ 
+issuing a removal order; 
+
+
+===== PAGE 22 =====
+ENF 6  Review of reports under subsection 44(2) 
+22 
+2025-02-20 
+ 
+allowing the person to leave Canada (POE cases only); 
+ 
+issuing a Temporary resident permit (TRP); or 
+ 
+issuing a warning letter (permanent residents/protected persons). 
+If the MD finds that the report is not valid, the MD may authorize the person to enter or remain in 
+Canada;  in certain circumstances, the MD may also decide to send the report back to an officer 
+to for consideration of preparing a new report with the accurate allegation. 
+7.3 Procedure: Evidentiary requirements 
+To form the opinion that an A44(1) report is well-founded, the MD must have knowledge of the 
+evidentiary rules and requirements for immigration matters. Knowledge of what may be required 
+to substantiate an allegation of inadmissibility is an important consideration in all cases. 
+Each allegation has specific requirements for evidence and officers are to be guided by the 
+content of ENF 1 Inadmissibility; ENF 2 Evaluating Inadmissibility; and ENF 18 Human or 
+international rights violations. 
+In order to make a decision on the validity of an A44(1) report, the MD must be satisfied that the 
+applicable burden and standard of proof may be met and that sufficient evidence has been or 
+may be gathered to ensure that each element of an inadmissibility allegation may be satisfied. 
+7.4 Burden of proof  
+The burden of proof, in the context of immigration legislation, refers to who is responsible for 
+establishing admissibility under the IRPA. 
+Under A45(d), the burden of establishing admissibility depends on whether or not the person 
+has been authorized to enter Canada.  
+In cases of foreign nationals who are seeking entry (primarily applicable to port of entry cases) 
+or those who entered Canada illegally, the onus is on the individual to establish that they are not 
+inadmissible. Where the person has been authorized to enter Canada the burden to establish 
+inadmissibility is on the Minister. 
+Table 3:  Burden of proof 
+Persons authorized/not 
+authorized to enter 
+Details 
+Burden of proof 
+Permanent residents and 
+foreign nationals authorized 
+to enter 
+A45(d) requires the Immigration Division to 
+make a removal order against a 
+permanent resident or a foreign national 
+who has been authorized to enter Canada, 
+if it is satisfied that they are inadmissible. 
+Consequently, in cases involving persons 
+who were granted entry into Canada, 
+including permanent residents, the onus 
+rests on the Minister to establish that the 
+person is inadmissible. 
+ 
+ 
+Minister 
+
+
+===== PAGE 23 =====
+ENF 6  Review of reports under subsection 44(2) 
+23 
+2025-02-20 
+Foreign nationals not 
+authorized to enter 
+A45(d) requires the Immigration Division to 
+make a removal order if it is not satisfied 
+that a foreign national who has not been 
+authorized to enter Canada is not 
+inadmissible. A21(1) states that a foreign 
+national becomes a permanent resident 
+and A22(1) states that a foreign national 
+becomes a temporary resident if an officer 
+is satisfied that, inter alia, the foreign 
+national is not inadmissible. 
+This applies to persons seeking entry into 
+Canada or those persons who have 
+entered illegally. Consequently, the onus is 
+on these persons to establish that they are 
+not inadmissible. 
+ 
+Foreign national 
+7.5 Standard of Proof 
+The term “standard of proof” refers to the degree to which the decision-maker must be satisfied. 
+Immigration proceedings are civil in nature and therefore the general standard of proof is the 
+one applicable to civil matters: balance of probabilities. However A33 provides that, unless 
+otherwise provided, the standard of proof for allegations listed under sections A34 to A37, is a 
+lower standard of proof: reasonable grounds to believe that the facts have occurred, are 
+occurring or may occur, applies. 
+ 
+“Balance of Probabilities” is a civil standard of proof used in administrative tribunals. It means 
+that the evidence presented must show that the facts as alleged are more probable than not. 
+The party having the burden of proof must demonstrate that the evidence presented outweighs 
+any opposing evidence or arguments. It is a higher standard of proof than “reasonable grounds 
+to believe”, but is lower than the criminal standard of “beyond a reasonable doubt” used in 
+criminal proceedings. 
+ 
+“Reasonable grounds to believe” is a bona fide belief in a serious possibility that fact has 
+been established based on credible evidence. Reasonable grounds to believe is more than 
+suspicion. Some objective basis for the belief has to exist. Put another way, the fact itself need 
+not be proven; it is enough to show reasonable grounds for believing the allegation true. 
+Information used to establish reasonable grounds should be specific, compelling, credible and 
+be received from a reliable source. 
+ 
+The following table summarizes the standard of proof for sections A34 to A42: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 24 =====
+ENF 6  Review of reports under subsection 44(2) 
+24 
+2025-02-20 
+Table 4:  Standard of proof 
+Reasonable grounds to believe 
+Balance of probabilities 
+ 
+Security (A34) 
+ 
+Violation of human or international 
+rights (A35) 
+ 
+Sanctions (A35.1) 
+ 
+Criminality (A36) – except for 
+A36(1)(c) for permanent residents 
+ 
+Transborder criminality [A36(2.1)] 
+ 
+Organized crime (A37) 
+ 
+ 
+ 
+Act or omission committed outside 
+Canada – for permanent residents 
+only [A36(1)(c)] 
+ 
+Health reasons (A38) 
+ 
+Financial reasons (A39) 
+ 
+Misrepresentation (A40) 
+ 
+Cessation (A40.1) 
+ 
+Non-compliance with the Act or the 
+Regulations (A41) 
+ 
+Inadmissible family member (A42) 
+  
+7.6 Duty to provide information  
+A person who seeks to enter Canada at a port of entry or who makes an application at an inland 
+office that they should be authorized to enter or remain in Canada, as the case may be, must 
+truthfully provide such information as an officer may require for the purpose of the examination. 
+As such persons are subject to examination, there is a legal obligation under A16(1) to answer 
+truthfully all questions put to them by an officer for the purpose of the examination, and produce 
+all documents or other evidence reasonably required. 
+ 
+R37 specifies the point at which the examination of a person who seeks to enter Canada, or 
+makes an application to transit through Canada, ends. Generally, examinations will end when 
+an officer makes a decision on the application before them or, in cases referred to the MD, 
+when a determination has been made.  For refugee claimants, however, R37(2) provides 
+designated officers the authority to examine a refugee claimant until the refugee claim has been 
+determined by the Refugee Protection Division (RPD) of the IRB. The same obligation to 
+answer truthfully applies to persons claiming to be refugees who are referred for a determination 
+of eligibility pursuant to A100(1.1).  
+ 
+While there is no way of compelling persons to comply with the legal obligation to provide 
+truthful information, under the IRPA it is an offence to knowingly provide false or misleading 
+information under A127 (Misrepresentation). 
+ 
+It should be noted by officers at the port of entry that while permanent residents are subject to 
+examination when seeking entry, the IRPA gives permanent residents of Canada the right to 
+enter Canada at a port of entry pursuant to A19(2) once the officer is satisfied that the person 
+holds permanent resident status. The obligation to answer truthfully under A16(1) for permanent 
+
+
+===== PAGE 25 =====
+ENF 6  Review of reports under subsection 44(2) 
+25 
+2025-02-20 
+residents is linked to A18(1) and must be related to examination for the purpose of establishing 
+that the person holds permanent resident status in Canada.   
+ 
+While an officer who is satisfied at examination that a person holds permanent resident status 
+must admit that person, the officer may also form an opinion during examination that the 
+permanent resident is inadmissible for other reasons under the IRPA. In such cases, the officer 
+should advise the person that while it has been established that they have a right to enter 
+Canada, there are reasons to believe that they could become the subject of a report under the 
+IRPA which could lead to the issuance of a removal order. If the person wishes to continue 
+answering questions or providing information/submissions pertaining to the allegation, they 
+should be given an opportunity but are not required to do so. Even if a permanent resident 
+becomes the subject of an A44(1) report, they continue to have a right to enter until a final 
+determination has been made regarding their loss of status. 
+ 
+For further details on examination, see ENF 5 Writing 44(1) reports and ENF 4 Port of entry 
+examinations. 
+ 
+ 
+ 
+8 Scope of Discretion of the Minister’s Delegate 
+8.1 Minister’s Delegate Options— Limited discretion of the MD at A44(2) 
+ 
+Where the MD reviews the A44(1) report and finds that it is well-founded, there are 
+circumstances in which the objectives of the IRPA may be achieved without the issuance of a 
+removal order. The MD has the discretion to take other action within the exercise of their 
+delegated authority as set out in the IRPA and the IRPR. However, as will be seen in this 
+section, the scope of discretion of the MD is limited. 
+ 
+The use of the word “may” in the IRPA suggests that Parliament intended to provide the officer 
+and the MD with some discretion on decisions made under A44(1) and A44(2). While the body 
+of case law respecting this scope of discretion varies, Canadian jurisprudence does affirm that 
+an MD’s discretion under A44 is limited. 
+ 
+The discretion under A44(1) and A44(2) does not mean that officers and MDs can disregard the 
+fact that someone is, or may be, inadmissible. The discretion under A44 is meant to give officers 
+and MDs some flexibility in managing cases where circumstances warrant that no removal order 
+will be sought and where the objectives of the IRPA may or will be achieved without the need to 
+write an inadmissibility report under A44(1) or issue a removal order/refer the case to the ID 
+under A44(2).  
+ 
+The courts have also found that this scope of discretion varies depending on the inadmissibility 
+grounds alleged, whether the person concerned is a permanent resident or a foreign national, 
+and whether the MD or the ID has the authority to issue a removal order. In other words, the 
+scope of discretion has been viewed as “variable and flexible”.7 
+ 
+For example, in the case of Canada (Minister of Public Safety and Emergency Preparedness) v. 
+Cha, 2006 FCA 126, a case involving a foreign national inadmissible under paragraph 36(2)(a) 
+                                                          
+7 Sharma v. Canada (Public Safety and Emergency Preparedness), 2016 FCA 319 
+
+
+===== PAGE 26 =====
+ENF 6  Review of reports under subsection 44(2) 
+26 
+2025-02-20 
+of the IRPA, the FCA held that in spite of the use of the word “may” in the wording of subsection 
+A44(2), there are limits to the discretion afforded to officers and MDs. The FCA held that with 
+respect to foreign nationals inadmissible for criminality or serious criminality, officers and MDs 
+have limited discretion under A44(1) and A44(2). The Court further outlined that the particular 
+circumstances of the foreign national, the nature of the offence, the conviction, and the 
+sentence are beyond the scope of the discretionary power of the officer when considering 
+whether or not to write an A44(1) report for criminality or serious criminality against a foreign 
+national. The FCA also concluded that permanent residents have more rights and therefore 
+benefit from more discretion by decision-makers than foreign nationals do.   
+ 
+More recent jurisprudence8 confirms that officers and MDs making decisions under A44 have 
+very limited discretion on whether to refer a case for an admissibility hearing, particularly in 
+matters concerning serious criminality and organized criminality, and that there is no obligation 
+for officers or MDs to consider factors related to H&C or ‘personal circumstances’. These 
+decisions also confirm that at this the 44 stage, officers and MDs are conducting a fact-finding 
+mission into “readily and objectively ascertainable facts” and that this administrative screening 
+function applies to both foreign nationals and permanent residents. 
+ 
+In general, discretion under A44 means that officers and MDs have some flexibility in managing 
+cases where the person is inadmissible, however the objectives of the IRPA may or will be 
+achieved without the need to write a report under A44(1) or, at the MD level, issue a removal 
+order or A44(2) referral, for example:  
+ 
+ 
+where an MD allows a withdrawal of an application to enter Canada (Allowed to Leave) 
+option at a port of entry after an A44(1) report has been written; 
+ 
+where a person is already subject to an enforceable removal order and the MD 
+determines that the objectives of the IRPA would not be served by the issuance of an 
+additional removal order and determines that a disposition of “no further action” on the 
+A44(2) report would be appropriate; 
+ 
+where an MD decides to issue a Temporary Resident Permit (TRP) to a foreign national 
+taking into account the relevant assessment risk factors set out in agency and 
+departmental guidance (e.g., foreign national who is seeking entry to work in Canada 
+and who was convicted of a non-violent offence many years ago);  
+ 
+where the MD holds the A44(2) review in abeyance pending the decision on an 
+application to IRCC for restoration of status by a foreign national who has remained in 
+Canada beyond the period authorized; or 
+ 
+where the MD decides that the issuance of a warning letter for a permanent resident or 
+protected person reported under A36(1) is warranted, in consideration of all of the 
+circumstances of the case, including the objectives under paragraphs A3(1)(h) and (i) of 
+the IRPA.  
+                                                          
+8 Obazughanmwen v. Canada (Public Safety and Emergency Preparedness), 2023 FCA 151; 
+Sidhu v. Canada (Public Safety and Emergency Preparedness), 2023 FC 1681; Matharu v. 
+Canada (Public Safety and Emergency Preparedness), 2024 FC 902 
+ 
+
+
+===== PAGE 27 =====
+ENF 6  Review of reports under subsection 44(2) 
+27 
+2025-02-20 
+8.2 Priority Cases: Inadmissibility under A34, A35, A35.1, A36 and A37 of the IRPA 
+It was affirmed by the FCA in Sharma v. Canada (Public Safety and Emergency Preparedness), 
+2016 FCA 319, that within the context of A44, officers and the MD must always be mindful of 
+Parliament’s intention in drafting the IRPA to make security of Canadians a top priority. 
+In Sharma, the FCA also concluded that the FCA’s rationale in Cha in support of a limited 
+discretion under A44 would appear to apply equally to both foreign nationals and permanent 
+residents. 
+ 
+Although the factors contained in these guidelines may be considered at the A44(2) stage, 
+officers and MDs must always be mindful of the various objectives of the IRPA, in particular 
+A3(1)(h) and (i). As suggested by Federal Court jurisprudence, in cases of inadmissibility under 
+A34 to A37, the scope of discretion enjoyed by officers and MDs making a decision under A44 
+will be very narrow and generally it is reasonably open to officers and MDs to prioritize public 
+safety and security.  
+8.3 Special considerations for protected persons 
+ 
+Under the IRPA, protected persons are provided with certain protections, including the right of 
+non-refoulement under A115(1) and, subject to A64, the right under A63(3) to appeal to the IAD 
+against a decision to make a removal order against them. This was recognized by Justice 
+Décary in Cha, who noted that the Act and the Regulations treat permanent residents differently 
+than Convention Refugees who are, in turn, treated differently than other foreign nationals.      
+ 
+It should be noted that the Federal Court jurisprudence would support that protected persons 
+are not entitled to a higher degree of procedural fairness or participatory rights with respect to 
+the operation of A44 than other foreign nationals or permanent residents [see Awed v. Canada 
+(Citizenship and Immigration) 2006 FC 469].  Officers and MDs should also keep in mind that 
+the Federal Court has made findings to support the principle that officials carrying out A44(1) 
+and (2) assessments are not obliged to speculate about how and when future deportation might 
+take place [Faci v. Canada (Public Safety and Emergency Preparedness), 2011 FC 693]. 
+ 
+In cases of protected persons, the MD may also consider as an additional factor in their 
+assessment, whether the facts of the case would support a referral for a Ministerial opinion 
+(‘Danger Opinion’) under A115(2). For further information, see ENF 5, section 14.5, ‘Overview:  
+Minister's opinions/interventions’. 
+ 
+ 
+9 Charter considerations 
+ 
+The purpose of this section is to provide guidance to officials performing MD functions under 
+A44(2) in handling Charter and/or constitutional arguments made in the course of A44(2) 
+proceedings.  
+ 
+The jurisprudence respecting the application of the Canadian Charter of Rights and Freedoms 9 
+(Charter) at the A44(2) stage is in a state of flux.10 Therefore, current guidance to MDs is 
+constrained by the evolving state of the law in this area. 
+                                                          
+9 Constitution Act, 1982, Part I Canadian Charter of Rights and Freedoms 
+ 
+10 For example, see Revell v. Canada (Citizenship and Immigration), 2019 FCA 262; 
+
+
+===== PAGE 28 =====
+ENF 6  Review of reports under subsection 44(2) 
+28 
+2025-02-20 
+Existing case law establishes that all administrative decision-making must be consistent with the 
+Charter.11  Under the IRPA, this requirement has been incorporated into the objectives of the Act 
+under A3(3)(d).  
+ 
+Where a person specifically alleges that a provision of IRPA or its application (i.e., decision of 
+the MD to issue a removal order or refer the report to the Immigration Division ID for an 
+admissibility hearing) breaches one or more enumerated Charter right, the MD must address 
+these Charter concerns in their written decision. This was affirmed by the Federal Court in its 
+decision in Abdi v. Canada (Public Safety and Emergency Preparedness), 2018 FC 733. In 
+other words, the MD cannot ignore Charter arguments. This does not mean, however, that MDs 
+are expected to engage in a complex Charter analysis within the context of A44(2) decisions. 
+ 
+In most cases, the courts have found that the specific Charter rights being raised do not apply at 
+the A44(2) admissibility stage, that is, it is premature to say at the A44 stage that the MD’s 
+decision will impact these enumerated Charter rights. For example, in Brar v. Canada, 2016 FC 
+1214, the Federal Court expressed doubts that section 7 rights could be engaged by the A44(2) 
+referral decision, and, in a related case, reiterated that section 7 rights are not engaged at the 
+referral stage (Brar v. Canada, 2017 FC 820).  
+ 
+ 
+MDs should keep in mind that the courts have found that the objectives of the IRPA 
+indicate Parliament’s intent to prioritize the security of Canadians. 12  
+ 
+MDs should note that the Federal Court has found that the MD is not obliged to 
+speculate about how and when a future deportation might take place or engage in a 
+section A25 (H&C considerations) or a section A112 (Pre-Removal Risk Assessment) 
+analysis.13 
+ 
+Where a person specifically mentions a breach of their Charter rights in either 
+verbal or written submissions, the MD should record this in their notes and address it 
+in their reasons, even if only to say that they do not find that specific Charter rights are 
+engaged at this stage and provide supporting reasons.  
+ 
+Constitutional arguments about legislation:  
+ 
+In cases where the person concerned is challenging the constitutionality of a provision of the 
+IRPA itself:  
+ 
+CBSA and IRCC officials do not have jurisdiction to grant Charter remedies under 
+section 52 of the Constitution Act or under section 24 of the Charter.14   
+                                                          
+Moretto v. Canada (Citizenship and Immigration), 2019 FCA 261; Surgeon v. Canada (Public Safety and 
+Emergency Preparedness), 2019 FC 1314 
+ 
+11 Doré v. Barreau du Québec, 2012 SCC 12 
+ 
+12 Medovarski v. Canada (Minister of Citizenship and Immigration), [2005] 2 S.C.R. 39 
+13 Faci v. Canada (Public Safety and Emergency Preparedness), 2011 FC 693 
+14 Under subsection 24. (1) of the Charter, a person whose rights or freedoms guaranteed by the Charter, 
+“have been infringed or denied may apply to a court of competent jurisdiction to obtain such remedy as 
+the court considers appropriate and just in the circumstances”.  Pursuant to subsection 52(1) of the 
+Constitution Act, a court may also strike down a legislated provision which is found to infringe a person’s 
+Charter rights as invalid. Subsection 24(1) of the Charter relates to personal remedies for a government 
+
+
+===== PAGE 29 =====
+ENF 6  Review of reports under subsection 44(2) 
+29 
+2025-02-20 
+ 
+Where the MD is specifically asked to rule on the constitutionality of A44(2) or another 
+provision under the IRPA, the MD should indicate in their decision that they do not have 
+the authority to do so and such a remedy should be sought in a court of competent 
+jurisdiction.  
+ 
+If the MD is requested to delay A44(2) procedures so that the person concerned may 
+make an application to the Federal Court on the constitutionality of a provision under the 
+IRPA, the MD should, in deciding the request, consider that the legal process permits an 
+application to the Federal Court to be made following the decision on eligibility or 
+admissibility. Consequently, there is no reason, based on a constitutional argument, for 
+the MD to permit a delay of procedures for the purpose of pursuing a Federal Court 
+application. 
+ 
+ 
+10 Cases where the MD has jurisdiction to issue a removal order 
+10.1 Procedural fairness considerations 
+ 
+The purpose of A44(2) proceedings is for the MD to review the A44(1) report to determine 
+whether the report is well-founded. In prescribed circumstances set out in the Regulations, 
+where the MD determines that the A44(1) report is well-founded, the MD has the authority to 
+issue a removal order.    
+ 
+In cases where the MD has the authority to issue a removal order, the MD will need to ensure 
+that certain steps are completed to ensure that procedural fairness has been met. 
+ 
+During in-person proceedings before the MD, the person concerned must be informed of the 
+purpose of the A44(2) interview/proceeding and the possible outcomes of it. Prior to a 
+substantive review, the MD must also give the person concerned the opportunity to obtain the 
+services of an interpreter where one is necessary and the MD must ensure that the person 
+concerned understands the proceedings. In certain circumstances, such as where the person 
+concerned is detained, the officer must also explain the right to counsel and ensure that an 
+opportunity to be represented by counsel has been provided. 
+ 
+Persons must be informed of the nature of the allegations regarding their inadmissibility 
+contained in the A44(1) report(s) at the earliest opportunity, and must be given a reasonable 
+opportunity to respond to those allegations before a removal order is issued. 
+ 
+It is important for the MD to make notes detailing the process followed in exercising their 
+decision-making powers. Where the MD is utilizing the case highlights form (BSF516 or 
+IMM5084B) to record their decision, the form should be completed in as much detail as 
+possible). 
+ 
+For further detail on procedures during in-person proceedings, see Appendix C: Steps to be 
+completed during in-person A44(2) proceedings where the MD has jurisdiction to issue a 
+removal order.  
+                                                          
+action which breaches Charter rights, whereas subsection 52(1) would apply where legislation is found to 
+be invalid. MDs are not considered a court of competent jurisdiction and therefore cannot grant a remedy 
+under section 24 of the Charter.  
+
+
+===== PAGE 30 =====
+ENF 6  Review of reports under subsection 44(2) 
+30 
+2025-02-20 
+10.2 Types of administrative removal orders  
+ 
+The IRPA and IRPR contain provisions regarding the issuance of removal orders for persons 
+who are found to be inadmissible on one of the grounds listed in the IRPA.   
+ 
+R223 provides for three types of removal orders that may be issued: 
+ 
+ 
+departure order;  
+ 
+exclusion order; and 
+ 
+deportation order.  
+ 
+R228 specifies the type of removal order that the MD is authorized to make in prescribed 
+circumstances for certain inadmissibility provisions. It is important to note that the Regulations 
+do not distinguish between removal orders that are in force under the IRPA and those that are 
+not (conditional) and it is A49 which specifies when removal orders come into force. 
+ 
+Table 5:   Types of removal orders  
+ 
+Departure Order 
+R224(2) 
+ 
+Requires the person to leave Canada within 30 days after the 
+order becomes enforceable. 
+ 
+Becomes a deportation order by operation of law when the person 
+does not meet the requirements set out under R240(1)(a) to (c) 
+within 30 days after the order becomes enforceable.  
+Exclusion Order 
+R225 
+ 
+A person who has been removed on an exclusion order cannot 
+return to Canada for one (1) year* unless the person obtains the 
+required written authorization to return 
+*If the exclusion order issued as a result of the application of 
+A40(2)(a) (misrepresentation), the exclusion period is five (5) 
+years 
+Deportation Order 
+R226 
+ 
+Permanently bars the person from returning to Canada, unless the 
+person obtains the required written authorization to return 
+10.3 Permanent residents and their residency obligation— R228(2) 
+ 
+Pursuant to the IRPR, the MD has the authority to issue removal orders against permanent 
+residents only in cases where the inadmissibility is based on a failure to comply with the 
+residency obligations under A28. The authority of the MD does not include the issuance of 
+removal orders for permanent residents on other grounds of inadmissibility. 
+ 
+
+
+===== PAGE 31 =====
+ENF 6  Review of reports under subsection 44(2) 
+31 
+2025-02-20 
+Before the MD issues a departure order against a permanent resident, paragraph A28(2)(c) 
+specifically requires the MD to determine whether humanitarian and compassionate 
+considerations, including the best interests of any child affected by the decision, overcome any 
+breach of the residency obligation.   
+ 
+The MD is required to consider all information presented by the permanent resident on a case-
+by-case basis. The following are examples of considerations the MD may consider in 
+determining whether humanitarian and compassionate grounds justify the retention of 
+permanent resident status. The MD is to consider circumstances and events that occurred in the 
+last five-year period which led to the permanent resident’s non-compliance with the residency 
+obligation. 
+ 
+Examples of factors to weigh under A28(2)(c) 
+ 
+i.  Extent of non-compliance: 
+ 
+ 
+What is the number of days of physical presence in Canada within the five-year period 
+under examination? 
+ 
+Was any period of time outside of Canada due to a medical condition or the medical 
+condition of a close family member? Could alternative arrangements for the care of the 
+family member have been made?  
+ 
+ii. Circumstances beyond the person’s control: 
+ 
+ 
+Are the circumstances for remaining outside of Canada compelling? 
+ 
+Were there circumstances which prevented the permanent resident from returning to 
+Canada? 
+ 
+Has the permanent resident returned to Canada at the earliest opportunity? 
+ 
+Did the permanent resident leave as a child accompanying a dependent?  If so, is the 
+permanent resident returning at the earliest possible opportunity?  Did the permanent 
+resident accompany a parent because of a mental or physical disability? 
+ 
+iii. Establishment in and outside Canada: 
+ 
+ 
+Is the permanent resident a citizen or permanent resident of another country? 
+ 
+Has the permanent resident taken steps to establish permanence in a country other than 
+Canada? 
+ 
+To what degree is the permanent resident established in Canada? 
+ 
+What ties to Canada has the permanent resident maintained? 
+ 
+iv. Presence and degree of consequential hardship: 
+ 
+ 
+What is the degree of hardship caused by the loss of permanent resident status in 
+relation to the permanent resident’s personal circumstances?  What is the impact on 
+family members, especially children? 
+
+
+===== PAGE 32 =====
+ENF 6  Review of reports under subsection 44(2) 
+32 
+2025-02-20 
+10.4 Removal order for refugee claimants— R228(3) 
+ 
+R228(3) provides that where a removal order issued with respect to a person who has made a 
+claim for refugee protection which has been determined to be eligible to be referred to the 
+Refugee Protection Division (RPD) or no eligibility determination has been made, a departure 
+order is the applicable removal order in prescribed circumstances. 
+ 
+A49(2) provides that a removal order made against a refugee protection claimant is conditional 
+and prescribes the circumstances under which the removal order will come into force.  
+ 
+Note:  MDs should keep in mind that there are special procedures for vulnerable persons and  
+refer to the IRCC Program delivery instructions on Processing in-Canada claims for refugee 
+protection of minors and vulnerable persons. 
+10.5 Dual intent  
+ 
+A22(2) states that the intention of a foreign national to become a permanent resident does not 
+preclude them from becoming a temporary resident if the officer is satisfied that the person will 
+leave Canada by the end of the period authorized for their stay.  
+ 
+Dual intent is present when a foreign national who has applied for permanent residence in 
+Canada (or is entitled to apply for permanent residence within Canada) also seeks to enter 
+Canada for a temporary period as a visitor, worker or student. If an officer has concerns/doubts 
+about the foreign national’s bona fides, the foreign national must be made aware of these 
+concerns and given an opportunity to respond to them.  
+ 
+Some examples of dual intent could include: 
+ 
+ 
+a foreign national frequently visiting a Canadian spouse who has complied with previous 
+conditions of entry and is otherwise not inadmissible, even if an application for 
+permanent residence has not yet been submitted; 
+ 
+a foreign national who has applied or intends to apply for permanent residence, but is 
+visiting Canada to assess employment opportunities, setting up household, etc. 
+The Federal Court in Rebmann v. Canada (Solicitor General), 2005 FC 301 held that an officer 
+is required to take into account the foreign national's dual intent in entering/remaining in Canada 
+as a temporary resident and provide analysis of the relevant evidence with regards to the 
+foreign national’s intention to establish permanent residence in Canada to show that the foreign 
+national will not leave Canada by the end of the period authorized for their stay as a temporary 
+resident. 
+ 
+Officers and MDs should distinguish between a foreign national whose intentions are bona fide 
+and a foreign national who has no intention of leaving Canada at the end of their authorized stay 
+if the application for permanent residence is refused.  
+ 
+The possibility that a foreign national may, at some point in the future, be approved for 
+permanent residence does not absolve the individual from meeting the requirements of a 
+temporary resident, specifically, to leave Canada at the end of the period authorized for their 
+stay, in accordance with section R179. 
+ 
+
+
+===== PAGE 33 =====
+ENF 6  Review of reports under subsection 44(2) 
+33 
+2025-02-20 
+In assessing the foreign national’s intentions, officers and MDs should weigh all the factors 
+relevant to the case, including the length of time the applicant has spent in Canada, the means 
+of support; obligations and ties in the home country, previous compliance with requirements of 
+the IRPA and any compassionate circumstances of the person concerned. These factors should 
+be considered before proceeding with administrative enforcement action under A44(1) or 
+A44(2).   
+ 
+Officers are reminded to use their own judgment and the flexibility afforded to them by 
+subsection A22(2) when making decisions on cases where the foreign national also has the 
+intention to become a permanent resident. 
+ 
+For further guidance on assessing dual intent considerations, see IRCC Program delivery 
+instructions on Dual intent.  See also:  ENF 4 Port of entry examinations. 
+10.6 Restoration of status 
+ 
+R182 describes a mechanism by which a visitor, worker or student who has lost temporary 
+resident status for having failed to comply with any of the conditions imposed under R185(a), 
+R185(b)(i) to (iii) or R185(c), may nevertheless submit an application within the 90-day period of 
+the loss of their status, and if eligible have that status restored.  
+ 
+It is important to note that under the D & D instruments, only IRCC officials have the authority to 
+consider an application for restoration of status. 
+ 
+The application submitted to IRCC shall be approved if the processing officer is satisfied that the 
+foreign national continues to meet the initial requirements of their stay, and has not failed to 
+comply with any other conditions imposed and is not the subject of a declaration made under 
+A22.1. It is to be noted that an officer shall not restore the status of a student if the student is not 
+in compliance with a condition set out in R220.1(1). 
+ 
+Note:  If a temporary resident has applied for an extension of their authorized status before the 
+status expires, they are considered to have maintained status (formerly referred to as “implied 
+status”) until a decision is made on their application. Maintained status works by operation of 
+law [R183(5)], and the temporary resident cannot be reported for non-compliance until a 
+decision is made on their application for an extension, unless other IRPA inadmissibilities are 
+present. For further details regarding procedures for persons with maintained status, see IRCC 
+Program delivery instructions on Temporary residents: Maintained status during processing 
+(previously called implied status). 
+ 
+The following guidelines must be taken into account by Inland Enforcement Officers and MDs 
+prior to taking enforcement action in such cases:  
+Scenario 1:  Foreign national is out of status, but has applied for restoration of status 
+within the 90-day period and is otherwise admissible – decision pending 
+ 
+Foreign nationals who have submitted an application to have their status restored within the 90-
+day period, and who are not inadmissible under any other section of the Act or Regulations, 
+should not be subject to an A44(1) report. In such circumstances, officers and MDs must allow 
+for a decision to be rendered by IRCC before taking enforcement action, an approach which is 
+consistent with the Federal Court’s findings in Sui v. Canada (Minister of Public Safety and 
+Emergency Preparedness), 2006 FC 1314. 
+
+
+===== PAGE 34 =====
+ENF 6  Review of reports under subsection 44(2) 
+34 
+2025-02-20 
+Scenario 2:  Foreign national is out of status and has not applied for restoration of status 
+but is still within 90-day eligibility period 
+ 
+While there is nothing in the IRPA or the Regulations that prohibits an officer from writing an 
+A44(1) report or an MD from issuing an exclusion order during the 90-day restoration period 
+where no application for restoration has yet been made, officers and MDs should consider 
+whether or not to pursue enforcement action in such cases. After taking appropriate steps to 
+ensure that a restoration application has not been made, should an officer decide to write an 
+A44(1) report and refer it to the MD for review, the officer should articulate their reasoning in 
+pursuing enforcement action in the decision, if such action is pursued prior to the expiration of 
+the 90-day eligibility period.  
+ 
+Where the MD receives an A44(1) report for non-compliance within the 90-day restoration 
+period where the foreign national has not filed an application but is otherwise admissible, the 
+MD must then consider R182 and has the discretion to hold the report in abeyance until the 90-
+day eligibility period has lapsed. If the MD decides to proceed with the A44(2) review, the MD 
+should verify whether a restoration application has been or will be filed, and must consider all 
+the circumstances of the case, including the fact that the foreign national is within the 90-day 
+restoration period.   
+ 
+This approach is consistent with the Federal Court’s decision in Ouedraogo v. Canada (Public 
+Safety and Emergency Preparedness), 2016 FC 810 where the Court noted that the discretion 
+of a MD to issue an exclusion order and the ability of a foreign national to apply for restoration of 
+status are not mutually exclusive – both can occur at the same time. The Court found that the 
+simple existence of an application for restoration does not in and of itself shield a foreign 
+national against enforcement action. In short, where an application for restoration is made, 
+although the existence of the application should be taken into consideration by the MD when 
+they are exercising their discretion, there is nothing prohibiting the MD from nonetheless making 
+an inadmissibility finding where the foreign national is found to be non-compliant with the 
+requirements set out in R185. 
+ 
+In order to adhere to the principles of procedural fairness and natural justice, officers and MDs 
+must consider each case on its own merits and may consider the following: 
+ 
+ 
+Does the foreign national state that they wish to remain in Canada and for what 
+purpose? 
+ 
+Has the foreign national already made arrangements to depart Canada in the immediate 
+future? 
+ 
+Is the foreign national evasive about their departure plans or the intent to remain in 
+Canada? 
+ 
+Has the foreign national otherwise been in compliance with the terms and conditions of 
+their temporary resident status? 
+ 
+If the foreign national has not applied for a restoration of status, is the officer/MD 
+satisfied that the foreign national will appear for future immigration interviews and/or 
+depart Canada voluntarily? 
+ 
+If the officer/MD is satisfied that the foreign national will seek to remedy lapsed status 
+within the 90-day period, then the officer/MD may wish to allow the 90-day application 
+period to lapse before reviewing the case again in consideration of enforcement action.  
+
+
+===== PAGE 35 =====
+ENF 6  Review of reports under subsection 44(2) 
+35 
+2025-02-20 
+ 
+Scenario 3:  Foreign national is out of status beyond the 90-day restoration of status 
+eligibility period, or is otherwise inadmissible under the IRPA or Regulations 
+ 
+If an officer encounters a foreign national who has overstayed their authorized period of stay 
+beyond the 90-day eligibility period for applying for restoration of status, or where the foreign 
+national is otherwise inadmissible under the IRPA or Regulations, the officer may pursue 
+appropriate enforcement action, which includes writing an A44(1) report and referring it to the 
+MD for a review under A44(2). 
+10.7 Procedure: Reviewing A44(1) reports when a Minister’s Delegate is not on 
+site  
+ 
+Officers cannot prepare and then review their own A44(1) report under the IRPA. In those 
+circumstances where a MD is not physically on-site and/or otherwise available to conduct a 
+review under A44(2) in person and deferring the proceeding is not a viable option, officers must 
+contact an off-site MD for the purpose of reviewing the A44(1) report and conducting a 
+determination under A44(2) by telephone or videoconference.  
+ 
+In all A44(2) reviews not conducted in person, the MD will need to review the A44(1) report in 
+GCMS as well as any case notes or accompanying documents that the officer has uploaded into 
+GCMS. The officer who contacts the MD must also ensure that their recommendation and any 
+supporting evidence has also been provided to the MD prior to the commencement of the 
+A44(2) proceeding. The officer must also make notes during the MD review and fully document 
+the procedural steps taken throughout all stages of the proceedings.  
+ 
+The MD is required to follow all steps for conducting the MD review and enter detailed 
+examination or application notes into the GCMS that fully support the decision being made. MDs 
+may refer to section 22 of this manual chapter, ‘Entering MD decisions into GCMS’. Where the 
+MD also makes handwritten notes during the proceedings, these should be forwarded to the 
+officer holding the file and/or uploaded into GCMS. 
+ 
+In those cases where the MD has jurisdiction to issue a removal order, officers and MDs must 
+be particularly diligent in ensuring that all matters relating to natural justice and procedural 
+fairness are satisfied and documented in notes. 
+ 
+In cases where the MD has jurisdiction to issue a removal order and if, for any reason, the 
+opportunity does not exist for the person concerned to communicate directly with the MD, or if 
+the MD is of the opinion that the person concerned does not truly appreciate the nature of the 
+proceedings, then the A44(2) proceeding must be postponed until a MD is physically on site to 
+conduct the A44(2) review in person.  
+ 
+If the MD makes a decision to issue a removal order pursuant to R228, the MD will enter the 
+decision into GCMS and the officer who has the person concerned before them can print the 
+removal order and provide it to the person concerned.  
+ 
+Note: If, for any reason, the MD has made a decision not to proceed with or otherwise continue 
+the MD review under A44(2), the officer is not to contact other MDs.  
+
+
+===== PAGE 36 =====
+ENF 6  Review of reports under subsection 44(2) 
+36 
+2025-02-20 
+10.8 Procedure: Issuing removal orders to persons in absentia 
+ 
+In absentia is Latin for "in the absence of".  
+ 
+In the context of A44(2), the practical application of an in absentia proceeding will be in those 
+exceptional circumstances when persons who are subject to an A44(2) Minister’s proceeding 
+have a removal order made against them without being present at the time the removal order is 
+issued. 
+ 
+A55(1) allows for the issuance of a warrant for the arrest and detention of a foreign national or 
+permanent resident where there are reasonable grounds to believe the person is inadmissible 
+and unlikely to appear “at a proceeding that could lead to the making of a removal order by 
+the Minister under subsection 44(2)”.   
+ 
+As officers have the authority to issue a warrant for a person unlikely to appear at A44(2) 
+proceedings in cases where the MD has jurisdiction to issue the removal order, removal orders 
+should not be issued in absentia, unless under exceptional circumstances. These cases will 
+be rare, and each will need to be assessed on an individual basis taking into consideration all 
+relevant information before proceeding with an in absentia proceeding.  
+ 
+The following scenario illustrates an example of exceptional circumstances where an in absentia 
+proceeding may be reasonable. 
+ 
+Scenario: 
+ 
+A foreign national entered Canada as a member of a crew and shortly after deserted 
+their vessel. The crew member did not report to CBSA or IRCC within the specified time 
+frames under the Regulations and was reported under A44(1). In an attempt to locate 
+the person in Canada, all investigative leads were exhausted. The A44(2) proceeding 
+was held in absentia and after reviewing all the evidence, the report was determined to 
+be well-founded and the person was issued a removal order and a warrant for removal. 
+ 
+This approach is consistent with the FCA’s findings in Canada (Citizenship and Immigration) v. 
+Jayamaha Mudalige Don, 2014 FCA 4. While the FCA concluded that it was open to the MD to 
+issue the removal order, the court’s finding that procedural fairness was not breached was 
+based on the specific facts of the case (i.e., immigration officials had NO contact information for 
+the person, more than 72 hours had elapsed from the time when the person deserted his ship 
+and subparagraph 228(1)(c)(v) of the Regulations expressly provided for the issuance of a 
+removal order). It is important to note that the FCA placed great weight on the fact that the 
+person concerned had an obligation to report to CBSA or IRCC and failed to do so and the 
+coordinates of the person concerned in that case were NOT known to CBSA/IRCC and 
+therefore the person was incapable of being notified.   
+ 
+Notification when scheduling A44(2) proceedings 
+ 
+Not all A44(2) proceedings will take place on the same day that the A44(1) report is written, for 
+number of reasons. In some cases, a person may be reported pursuant to A44(1), and the 
+review of that report by a MD will not take place until a MD is available. In these situations, 
+reasonable efforts shall be made to notify the person to appear and provide an opportunity to be 
+heard at the A44(2) proceeding. ‘Reasonable efforts' will vary from case to case depending on 
+
+
+===== PAGE 37 =====
+ENF 6  Review of reports under subsection 44(2) 
+37 
+2025-02-20 
+the nature of the case, type of information available and the level of engagement with the 
+person concerned. 
+ 
+ 
+Where the person's address is known, officers shall provide written notice in-person or 
+mail, depending on the circumstances, by completing a Notice to Appear for a 
+Proceeding under A44(2) [IMM 1234B or BSF504]. This form will provide notice of the 
+location, date and time of the A44(2) Minister's proceeding; legal authority to conduct the 
+proceeding; and consequences of failing to appear at the proceeding. Other relevant 
+information such as a copy of the A44(1) report which sets out the allegation(s) and 
+contact information should also be provided. 
+ 
+If the notice is being mailed, reasonable efforts shall be made to verify the accuracy of 
+the person's address; this includes querying and updating databases. Reasonable time 
+and opportunity shall be provided to the person to allow for attendance at the A44(2) 
+proceeding. 
+ 
+Failure to Appear at 44(2) Proceedings 
+ 
+ 
+If the person fails to attend on the date specified, the MD conducting the review shall 
+adjourn the proceeding. Reasonable efforts shall be made to determine the reasons for 
+the no-show (e.g. letter to the last known address, site visit and/or telephone call). 
+ 
+In some circumstances, there will be valid excuses as to why the person failed to 
+appear. The onus will be on the person to show cause for not appearing at the 
+proceeding. Officers shall make a determination as to whether the explanation is 
+reasonable and attempt to communicate the results of that determination to the person. 
+ 
+If satisfied of the explanation for not attending the proceeding, a second written notice 
+[IMM 1234B or BSF504] will be delivered in-person or by mail, depending on the 
+circumstances. Officers must clearly write or otherwise indicate "second notice" on the 
+form. 
+ 
+If, following the second call-in notice there is no communication from the person 
+concerned and/or their legal representative explaining their absence and if the 
+inadmissibility allegation falls within the MD’s jurisdiction to issue a removal order 
+(R228), the MD may pursue the issuance of an arrest warrant for being unlikely to 
+appear for an A44(2) proceeding that could lead to the making of a removal order. 
+ 
+For allegations where the jurisdiction to issue a removal order rests with the ID, it is open 
+to the MD to refer the A44(1) report to ID for an admissibility hearing and consider 
+issuing a warrant for admissibility hearing pursuant to A55(1) (see ENF 7 Immigration 
+Investigations and IRPA s.55 Arrests/Detention for further details). 
+ 
+Note: IRCC officers may refer cases for warrant issuance to CBSA for review. All such 
+referrals must include all details of attempts made to contact the person concerned and 
+copies of all call-in notices sent and case notes. 
+ 
+In exceptional cases where there is detailed information on file that the person 
+concerned was aware of the A44(2) proceeding (e.g., person was served with the call-in 
+notice in-person and understood the consequences, the A44(2) proceeding was initiated 
+by the MD but had to be postponed due to unavailability of the person’s counsel and the 
+person concerned was fully aware of the new date, etc.) the MD may proceed to conduct 
+a review under A44(2) in absentia.  
+
+
+===== PAGE 38 =====
+ENF 6  Review of reports under subsection 44(2) 
+38 
+2025-02-20 
+ 
+In those exceptional cases where the MD proceeds with the A44(2) review in absentia, 
+the MD will be required to conduct a paper review of the A44(1) report with all relevant 
+evidence available at the time of the A44(2) review. If, after such review, the MD 
+determines the A44(1) report to be well-founded, and if all grounds of inadmissibility are 
+those for which the MD has jurisdiction, a removal order may be made against the 
+person concerned even though the person is not present at the time the removal order is 
+issued. 
+10.9 A44(1) reports for inadmissible family members 
+ 
+Under A42, accompanying and non-accompanying family members may be inadmissible to 
+Canada under prescribed circumstances. This provision may only apply to family members who 
+are foreign nationals, other than protected persons. 
+ 
+Where an officer writes an A44(1) report against a family member for inadmissibility under A42, 
+the MD has jurisdiction under R228 to issue the applicable removal order.  Officers and MDs 
+should note, however, that for the purposes of A52(1), the making of a removal order against a 
+foreign national on the basis of inadmissibility under A42 is a prescribed circumstance that does 
+not oblige the foreign national to obtain the authorization of an officer in order to return to 
+Canada.  
+ 
+It is important to note that A42 may only form the basis of an A44(1) report when the person is 
+inadmissible under sections A34, A35, A35.1, or A37. 
+ 
+Procedure to include family members on ID removal order 
+ 
+R227 sets out that, for the purposes of section 42 of the Act, a report prepared under A44(1)  
+against a foreign national is also a report against the foreign national’s family members in 
+Canada.  
+ 
+R227(2) provides that, in the case of a removal order made by the ID against a foreign national 
+who has family members in Canada, the removal order issued by the ID against a foreign 
+national may also be made effective against the family members without the need for a separate 
+inadmissibility report provided that an officer informed the family member(s): 
+ 
+of the report; 
+ 
+that they are the subject of an admissibility hearing and, consequently, have the right to 
+make submissions and be represented, at their own expense, at the admissibility 
+hearing; and 
+ 
+that they are inadmissible under A42 on grounds of being an inadmissible family 
+member. 
+ 
+While this procedural avenue may be available under the Regulations, it is generally 
+recommended that where an officer decides to pursue enforcement action against inadmissible 
+family members of a foreign national under A42, the officer should proceed by way of writing a 
+separate A44(1) inadmissibility report for each family member after the removal order has been 
+made against the foreign national. It is also to be noted that this avenue is not available in cases 
+involving allegations within the jurisdiction of the MD. 
+
+
+===== PAGE 39 =====
+ENF 6  Review of reports under subsection 44(2) 
+39 
+2025-02-20 
+ 
+Note:  the MD only has the authority to issue removal orders against persons against whom an 
+A44(1) report has been written. The MD cannot include family members in an administrative 
+removal order relating to another member of the family.  
+10.10 Procedure: Removal orders following vacation or cessation of 
+refugee/protected person status by RPD  
+ 
+R228(1)(b) allows the MD to issue removal orders to foreign nationals who are inadmissible for 
+misrepresentation under A40(1)(c) on a final determination by the RPD to vacate a decision to 
+allow the person’s claim for refugee protection or application for protection pursuant to A109.   
+ 
+Under A109(1), the RPD may, on application by the Minister, vacate a decision to allow a claim 
+for refugee protection, if it finds that the decision was obtained as a result of directly or indirectly 
+misrepresenting or withholding material facts relating to a relevant matter.   
+ 
+R228(1)(b.1) allows the MD to issue removal orders to foreign nationals who are inadmissible 
+under A40.1(1) on a final determination by the RPD under A108(2) that the refugee protection of 
+the foreign national has ceased (i.e., cessation of refugee protection).   
+ 
+Pursuant to A46 a person loses permanent resident status on a final determination by the RPD:  
+ 
+ 
+to vacate a decision to allow a claim for refugee protection or application for protection 
+[A46(1)(d)]; or  
+ 
+that their refugee protection has ceased under A108(2) for any of the reasons described 
+in paragraphs A108(1)(a) to (d) [A46(1)(c.1)]. 
+The MD should only issue the applicable removal order once all court challenges to the decision 
+by the RPD to vacate the refugee protection claim or cease refugee protection have been 
+exhausted and are resolved.  
+ 
+Note: following a decision of the RPD that refugee protection has ceased under A108(2), the 
+Minister may not simply rely on a previous removal order (issued against the person before 
+protected person status was granted) to remove that person. In other words, a new A44(1) 
+report based on inadmissibility under A40.1(1) would need to be written and a new removal 
+order would need to be issued by the MD in these circumstances. 
+ 
+Following a decision by the RPD to vacate a decision to allow a claim for refugee protection or 
+cease refugee protection, the foreign national has 15 days to apply for leave to the Federal 
+Court for a judicial review as stipulated in A72(2). Therefore, the MD shall wait a minimum of 22 
+days (seven days for receipt of a decision sent by mail and 15 days for the application under 
+A72(2)) before issuing the removal order following the writing of an A44(1) report for 
+inadmissibility under A40(1)(c) or A40.1(1).  
+ 
+Where an application for leave to the Federal Court has been filed, the MD shall wait until the 
+final decision is rendered and all legal means of challenging the decision have been exhausted 
+and resolved. Prior to issuing the removal order, the MD shall ensure that no litigation regarding 
+the RPD decision remains outstanding and that the minimum period of time to file an extension 
+of time has elapsed without an application. The MD should seek the assistance of the regional 
+
+
+===== PAGE 40 =====
+ENF 6  Review of reports under subsection 44(2) 
+40 
+2025-02-20 
+Justice Liaison officer with respect to the status of litigation and any issues regarding extensions 
+of time. 
+ 
+ 
+11 Temporary resident permits (TRPs) 
+ 
+In some cases, a designated officer may exercise their authority under A24(1) to issue a TRP to 
+allow a foreign national who is inadmissible or does not meet the requirements of the IRPA to 
+enter or remain in Canada where it is justified in the circumstances. TRPs are always issued at 
+the discretion of the designated authority and may be cancelled at any time. 
+ 
+The authority to issue a TRP is determined by the IRCC Designation and Delegation (D & D) 
+Instrument and depends on the nature of the allegation.  
+ 
+Note:  For CBSA, TRPs may only be issued by designated officials at the port of entry 
+There are instances where the person who has the delegated authority to review the A44 report 
+(the MD) does not have the designated authority to issue a TRP.  In such cases, the official with 
+authority to review the report (i.e., the MD) may make a recommendation to the person with the 
+designated authority to issue a TRP.  
+ 
+Officers and MDs may recommend or issue TRPs only in accordance with the Act and 
+Regulations, and must follow the IRCC Program delivery instructions on Temporary resident 
+permits. In all cases, officers and MDs must leave a record, which includes detailed notes 
+entries in GCMS, of their decision or recommendation. For further information, see ENF 4 Port 
+of entry examinations. 
+ 
+TRPs should only be issued after careful consideration of all assessment factors as the 
+document carries privileges greater than those accorded to other visitors, students and workers 
+with temporary resident status. Before issuing a TRP, officials must consult the departmental 
+and agency guidelines on risk assessment factors and procedures for issuing TRPs. This 
+applies to both initial and subsequent TRPs. 
+ 
+Where an officer does not have the authority to issue a TRP but has reviewed the case and is 
+recommending the issuance of a TRP, the officer must prepare a written a case summary that 
+includes a recommendation for a final decision. The officer will refer the case file to the decision-
+maker with the designated authority to issue a TRP for a final determination. If the decision is 
+made to issue a TRP, the decision-maker will determine the period of validity of the TRP.  
+ 
+For further instructions and procedures for TRPs, officers must refer to the IRCC Program 
+delivery Instructions on Temporary resident permits and ENF 4 Port of entry examinations. 
+ 
+Additional considerations for TRP issuance: 
+ 
+A person is not eligible for a TRP if less than 12 months have passed since their 
+claim for refugee protection was last rejected [or determined to be withdrawn or 
+abandoned as described under subsection A24(4)]. 
+Exception: The one-year ban on accessing a TRP under A24(4) does not bar an 
+IRCC officer, on their own initiative, from considering a TRP for a victim of human 
+trafficking. 
+
+
+===== PAGE 41 =====
+ENF 6  Review of reports under subsection 44(2) 
+41 
+2025-02-20 
+ 
+There are specific IRCC policy guidelines respecting certain vulnerable persons 
+including suspected or known victims of human trafficking and victims of family 
+violence. Only IRCC officials may issue TRPs to victims of human trafficking or victims 
+of family violence, however CBSA officials should follow the procedures set out in the 
+Program delivery instructions above for handling these cases. 
+ 
+If a student, worker or visitor with valid temporary resident status is reported 
+under subsection A44(1) but a decision is made not to hold an admissibility hearing or 
+issue a removal order, that person remains a temporary resident, and a TRP is not 
+required. 
+ 
+12 Allowing withdrawal of application to enter Canada/ Allowed to 
+leave (Port of entry cases)   
+ 
+Under R42, the officer who examines a foreign national who is seeking to enter Canada and 
+who has indicated that they want to withdraw their application to enter Canada shall allow the 
+foreign national to withdraw their application, unless R42(2) applies. 
+ 
+R42(2) provides that a foreign national shall not be allowed to withdraw their application to enter 
+Canada where a report under A44(1) is being prepared or has been prepared, unless the MD 
+does not make a removal order or refer the report to the ID for an admissibility hearing.  
+In other words, once an officer writes an A44(1) report, the allowed to leave option may only be 
+exercised at the MD level.   
+ 
+In exercising their discretion, the MD should consider whether the objectives of the IRPA are 
+better served by allowing the person to voluntarily withdraw their application to enter Canada 
+pursuant to R42 in the circumstances of the case. 
+ 
+R42(3) provides that foreign nationals who are allowed to withdraw their application to enter 
+Canada must appear without delay at a port of entry to verify their departure from Canada. 
+If a person is allowed to leave Canada voluntarily, the officer or MD must give the person an 
+Allowed to Leave Canada form (IMM 1282B). 
+ 
+For further details regarding allowing persons to leave/withdraw their application to enter 
+Canada:  see ENF 5, section 9. 4, ‘Allowing withdrawal of application to enter Canada/ Allowed 
+to leave (Port of entry cases)’ and ENF 4 Port of entry examinations. 
+ 
+ 
+13 Procedure: Handling possible claims for refugee protection 
+ 
+Although there is no requirement in the IRPA for the MD to ask whether the subject of a 
+determination wishes to make a claim for refugee protection, the MD should be aware of 
+Canada's obligations under the United Nations Convention relating to the Status of Refugees, 
+and under the Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or 
+Punishment. 
+ 
+A99(3) excludes persons under a removal order from making a claim for refugee protection. 
+Therefore, the MD must ensure, before issuing a removal order under A44(2), that this would 
+
+
+===== PAGE 42 =====
+ENF 6  Review of reports under subsection 44(2) 
+42 
+2025-02-20 
+not be contrary to the spirit of Canada’s obligations, even when the individual does not explicitly 
+request access to the refugee determination process.  
+ 
+It must also be recognized that some people who may have a legitimate need of Canada’s 
+protection are unaware of the provision for claiming refugee status.  
+Handling a possible claim for refugee protection:  
+ 
+Where the subject of a determination for an administrative removal order has not made a 
+claim, the MD should ask them how long they intend to remain in Canada (port of entry 
+cases) or when they intend to return to their home country (inland cases) or if there are 
+any reasons why they are unable or unwilling to return to their home country. 
+ 
+If the person indicates that their intention is or was to remain temporarily, the MD should 
+proceed with the removal order decision and issue the removal order, if appropriate. 
+ 
+If the person indicates that their intention is or was to remain in Canada indefinitely, the 
+MD is to inquire about their motives for leaving their country of nationality/home country 
+and the consequences of returning there before making a decision on issuing a removal 
+order. 
+ 
+Where the responses indicate a fear of returning to the country that may relate to 
+refugee protection, the MD is to inform the person of the definition of a “Convention 
+refugee” or “person in need of protection” as found in A96 and A97, and ask whether 
+they wish to make a claim. 
+ 
+Where the person indicates an intention not to make a claim, the MD should proceed 
+with the decision and issue a removal order, if appropriate. 
+ 
+Where the person is uncertain, the MD should inform them that they will not be able to 
+make a claim for refugee protection after a removal order has been issued [A99(3)], and 
+provide them with an opportunity to make the claim before proceeding with a removal 
+order decision. 
+ 
+If the person does not express an intent to make a claim, despite the explanation that 
+this is their last opportunity, the MD should proceed with the decision and issue the 
+removal order, if appropriate. 
+ 
+Whenever the person indicates a fear of returning to their home country, the MD is to 
+refrain from evaluating whether the fear is well-founded. As well, the MD must not 
+speculate on  eligibility before the claim is made or speculate on the processing time or 
+eventual outcome of a claim. 
+These procedures do not preclude any person from making a claim for refugee protection at any 
+time before a removal order is issued, regardless of the responses provided to the officer.  
+In order to address concerns that may arise subsequent to the issuance of a removal order, it is 
+important that the notes accurately reflect—in detail—the questions asked and the information 
+provided by the person during the A44 proceedings. 
+For further information on processing refugee claims, see ENF 4 Port of entry examinations. 
+See also:  PPI  In-Canada claims for refugee protection; IRCC Program delivery instructions on 
+Processing in-Canada claims for refugee protection: Post-interview processing and final 
+decision. 
+ 
+
+
+===== PAGE 43 =====
+ENF 6  Review of reports under subsection 44(2) 
+43 
+2025-02-20 
+14 Persons claiming to be Canadian citizens or registered Indians 
+under the Indian Act 
+ 
+Under the IRPA, Canadian citizens and persons registered as Indians under the Indian Act have 
+an unqualified right to enter and remain in Canada and are not subject to the inadmissibility 
+provisions of IRPA. Therefore, before writing an A44(1) report, an officer should have evidence 
+to confirm that the person does not hold such status.  
+ 
+In cases of permanent residents, officers must confirm through the appropriate queries that the 
+person has not obtained Canadian citizenship and ensure that due diligence has been 
+exercised before proceeding with further enforcement action.  
+ 
+Should the MD detect the possibility of Canadian citizenship or registered Indian status during 
+the A44(2) proceedings, the MD shall cause an investigation of the matter to be initiated before 
+making any removal order or referring the case to the ID for an admissibility hearing.  
+ 
+ 
+15 Cases where the jurisdiction to issue a removal order rests with 
+the Immigration Division  
+ 
+In cases where the MD does not have jurisdiction to issue a removal order, the MD must 
+determine whether to refer the A44(1) report to the ID if satisfied that the report is well-founded. 
+At the end of the admissibility hearing, if satisfied that the person is inadmissible, the member of 
+the ID shall, pursuant to A45(d), make the applicable removal order against the foreign national 
+or permanent resident pursuant to R229. 
+Before forming an opinion that a report is well-founded and referring it to the ID for an 
+admissibility hearing, the MD must assess the case on its own merits. At the time of the MD’s 
+assessment, the MD should have before them all submissions and documents filed by the 
+person concerned as well as any evidence relied on by the reporting officer in their 
+recommendation under A44(1). 
+This section is intended to assist officers in making decisions that are consistent with the 
+objectives of the IRPA; it is not intended to restrict the MD in the lawful exercise of their 
+discretion. What follows are guidelines only.  
+15.1 A44(1) reports for criminality cases 
+In Medovarski v. Canada (Minister of Citizenship and Immigration); Esteban v. Canada (Minister 
+of Citizenship and Immigration), 2005 SCC 51, the Supreme Court of Canada (SCC) stated that 
+the objectives in the IRPA reflect an intent to prioritize security and that this objective is given 
+effect by removing persons with criminal records from Canada. The SCC noted that in drafting 
+the IRPA, Parliament demonstrated a strong desire to treat criminals less leniently than under 
+the former Immigration Act. This was noted in Sharma, where the FCA affirmed that officers and 
+MDs, when dealing with matters under A44(1) and A44(2), must always be mindful of the 
+various objectives of the IRPA, in particular A3(1)(h) and (i). The FCA also concluded that the 
+Court’s rationale in Cha in support of a limited discretion under A44 would appear to apply 
+equally to both foreign nationals and permanent residents. 
+The MD should also be cognizant of how evidence of pending or existing charges was relied on 
+by the reporting officer during the A44(1) assessment; the MD should be careful about how such 
+
+
+===== PAGE 44 =====
+ENF 6  Review of reports under subsection 44(2) 
+44 
+2025-02-20 
+evidence is relied on in the A44(2) decision. The MD must also be careful not to rely on 
+convictions for which an application for rehabilitation or a record suspension has been granted 
+as evidence of a criminal record.  For further information, see ENF 5 Writing 44(1) reports, 
+section 12.2,  ‘Evidence of pending or withdrawn charges’. 
+15.2 A44(1) reports concerning permanent residents of Canada  
+As mentioned in section 8 above, the courts15 have confirmed that officers and MD’s making 
+decisions under A44 have no obligation to consider H&C-like factors or ‘personal 
+circumstances’ once inadmissibility is established by the evidence.  
+ 
+Note: this section does not apply to PR residency obligation cases reported under A41(b). 
+Before the MD issues a departure order against a permanent resident under R228(2), 
+paragraph A28(2)(c) specifically requires the MD to determine whether humanitarian and 
+compassionate considerations, including the best interests of any child affected by the decision, 
+overcome any breach of the residency obligation [refer to section 10.3 Permanent residents and 
+their residency obligation— R228(2)”]. 
+ 
+During the course of A44 proceedings, however, an officer or MD may receive evidence or 
+submissions relating to a permanent resident or protected person’s personal circumstances and 
+why a removal order should not be sought. 
+While the courts have affirmed that an MD is not required to consider personal circumstances, 
+but if the MD does, such an assessment must be reasonable in the circumstances of the case. 
+This means that if an MD exercises their discretion to consider personal factors, the assessment 
+must be reasonable and the reasoning articulated. Where these factors are considered and 
+rejected, an explanation of how these factors were assessed should be provided, even if only 
+very brief in nature.16 An MD must ensure that the decision as a whole is “justifiable, 
+transparent, and intelligible”17.  
+Where the officer at A44(1) has exercised their discretion to consider personal circumstances in 
+their recommendation, the MD must consider this information and explain in their decision 
+whether or not they concur with the officer’s recommendation. To clarify, the MD is not bound by 
+the A44(1) officer’s recommendation. For example, if the officer at A44(1) did NOT exercise 
+their discretion to consider personal circumstances, this does not prevent the MD from 
+exercising that discretion to consider such factors in the A44(2) decision. 
+MDs should also provide reasons for giving more weight to certain documents over others 
+where there is conflicting or inconsistent information before them. For example, where there are 
+conflicting versions of events pertaining to a criminal offence, an explanation as to why one 
+version is being relied on over the other should be provided. 
+                                                          
+15 Obazughanmwen v. Canada (Public Safety and Emergency Preparedness), 2023 FCA 151; Sidhu v. 
+Canada (Public Safety and Emergency Preparedness), 2023 FC 1681; Matharu v. Canada (Public Safety 
+and Emergency Preparedness), 2024 FC 902  
+16 McAlpin v. Canada (Public Safety and Emergency Preparedness), 2018 FC 422 
+17 Canada (Minister of Citizenship and Immigration) v Vavilov, 2019 SCC 65, [2019] 4 SCR 653 [Vavilov]  
+wherein the SCC further affirmed at para. 85 that a reasonable decision is “one that is based on an 
+internally coherent and rational chain of analysis and that is justified in relation to the facts and law that 
+constrain the decision maker”. 
+
+
+===== PAGE 45 =====
+ENF 6  Review of reports under subsection 44(2) 
+45 
+2025-02-20 
+Whether to consider personal circumstances for permanent residents and protected 
+persons   
+As confirmed by the courts18, MDs are not obligated to consider personal circumstances during 
+the A44 process. However, the courts have also affirmed that MDs retain the discretion to 
+consider these circumstances, and if they exercise their discretion to do so, the decision must 
+be reasonable. The discretion is tempered by their limited role at A44.19 The guidance in this 
+section is intended to assist MDs determine when and how to exercise such discretion. 
+ 
+MDs must always keep in mind the principles set out in section 8.2 and 15.1 above when 
+rendering decisions under A44, including Parliament’s intention in drafting the IRPA to make 
+security of Canadians a top priority.  
+ 
+In consideration of the various objectives of the IRPA and the limited discretion at A44 as 
+confirmed by the courts, the CBSA’s policy is that MDs must consider the factors below when 
+deciding whether or not to exercise their limited discretion to consider evidence or submissions 
+filed by the person concerned regarding personal circumstances.  
+Generally speaking, the following factors would weigh against consideration of personal 
+circumstances by the MD: 
+ 
+the inadmissibility falls under section A34, A35, A35.1 or A37;   
+ 
+ 
+A36(1) serious criminality cases in the following circumstances: 
+o the permanent resident or protected person was previously issued a 
+warning letter by CBSA or had a previous removal order stayed or 
+quashed by the IAD on humanitarian and compassionate grounds; 
+o the reportable offence:  involved violence that resulted in bodily or 
+psychological harm to another person, the use of a firearm or is a sexual 
+offence; was committed against a vulnerable person (e.g. minor child or 
+intellectually or physically challenged persons, or senior citizen), was a 
+racially motivated crime, a crime of gender-based violence, including 
+domestic violence, a hate crime or a crime involving trafficking or 
+smuggling in large quantities of a controlled substance or weapons;  
+o the criminal record of the permanent resident or protected person 
+demonstrates a pattern of escalating seriousness 
+ 
+If the decision is not to consider personal circumstances, the MD should state this in their 
+A44(2) decision. For example, the MD may state in their decision: “I am not exercising my 
+discretion to consider evidence and/or submissions filed on behalf of (name of person 
+concerned) pertaining to their personal circumstances given the seriousness of the reportable 
+offence”.  
+ 
+                                                          
+18 Obazughanmwen v. Canada (Public Safety and Emergency Preparedness), 2023 FCA 151; Sidhu v. 
+Canada (Public Safety and Emergency Preparedness), 2023 FC 1681; Matharu v. Canada (Public Safety 
+and Emergency Preparedness), 2024 FC 902 
+19 Dass v. Canada (Public Safety and Emergency Preparedness), 2024 FC 624 
+
+
+===== PAGE 46 =====
+ENF 6  Review of reports under subsection 44(2) 
+46 
+2025-02-20 
+If the MD exercises discretion to consider personal circumstances 
+If the MD decides to consider the personal circumstances of the person concerned, the CBSA’s 
+policy is that the MD must balance these with the objectives of the IRPA to protect public health 
+and safety, and maintain the security of Canadian society by denying access to Canadian 
+territory to persons who are criminals or security risks.  
+Examples of personal circumstances the MD may consider, if they decide to exercise their 
+discretion to do so:  
+• 
+Age at time of landing—Has the person been a permanent resident of Canada since 
+childhood?  
+• 
+Was the permanent resident an adult at the time of admission to Canada? 
+• 
+Was the person granted protected person status in Canada? 
+• 
+Length of residence—How long has the person resided in Canada after the date of 
+admission?  
+• 
+Location of family support and responsibilities—Are family members in Canada 
+emotionally or financially dependent on the permanent resident? Are all extended family 
+members in Canada?  
+• 
+Degree of establishment—Is the permanent resident financially self-supporting? Are they 
+employed? Do they have a marketable trade or skill? Has the permanent resident made 
+efforts to establish themselves in Canada through language training or skills upgrading? Is 
+there any evidence of community involvement? Has the permanent resident received social 
+assistance (frequency/duration)? 
+• 
+Criminality—Has the permanent resident been convicted of any prior criminal offence? 
+Based on reliable information, is the permanent resident involved in criminal or organized 
+crime activities? What is the nature and frequency of the person’s interactions with the law? 
+(for further details please refer to ENF 5 Writing 44(1) reports, section 10.1, ‘A44(1) reports 
+for criminality cases’). 
+• 
+What is the potential for rehabilitation? How much time has passed since the last 
+conviction? Has the permanent resident already been released? For how long? Has the 
+permanent resident accepted culpability, expressed remorse, enrolled in or completed 
+educational, skills upgrading or rehabilitation programs (for example, Alcoholics 
+Anonymous, Narconon/narcotics rehabilitation programs, anger management programs, life 
+skills)? Are family members willing and able to support/assist?  
+• 
+History of non-compliance and current attitude—Has the permanent resident been 
+cooperative and forthcoming with information? Has a warning letter been previously issued? 
+Does the permanent resident accept responsibility for their actions? Are they remorseful? 
+• 
+Best interests of any children directly affected by the decision.  
+• 
+Right of Appeal—Does the person have a right of appeal to the IAD under A63 if a 
+removal order is issued? (see section 20.1 of this chapter, ‘Appeals to the Immigration 
+Appeal Division’). 
+Regardless of the factors being considered, the MD should be aware that there are limitations to 
+the scope of their assessment. For example, the Federal Court has made findings to support the 
+principle that officials carrying out A44(1) and (2) assessments are not obliged to speculate 
+about how and when future deportation might take place, nor is the expectation that a person’s 
+rehabilitation be analyzed in considerable detail.  
+
+
+===== PAGE 47 =====
+ENF 6  Review of reports under subsection 44(2) 
+47 
+2025-02-20 
+15.3 Loss of appeal right cases 
+For inadmissibility under A36(1)(a) for permanent residents, it is important for reporting officers 
+to obtain the most accurate evidence of the sentence imposed during the A44(1) process in 
+order to determine whether the person retains a right of appeal. Under A64, a loss of appeal 
+rights for serious criminality under A36(1)(a) must be with respect to a crime that was punished 
+in Canada by a term of imprisonment of at least six months.  Where it is not clear from the 
+evidence whether the sentence meets the six month threshold under A64(2), before making any 
+assessment under A44(1), the officer should obtain evidence demonstrating how the judge 
+calculated the total sentence imposed as reflected in the court documents, taking into account 
+the imposition of further credits for time served. Regardless of what assessment is made by the 
+reporting officer, and especially in cases where the right of appeal is in doubt, the officer and/or 
+the MD should clearly articulate in the recommendation and/or decision that the determination 
+as to whether the person concerned retains a right of appeal ultimately rests with the IAD. 
+15.4 Preparation of warning letter 
+Where the MD finds that the A44(1) report is well-founded, but that there are other compelling 
+reasons, taking into account the objectives of the IRPA, not to refer the A44(1) report to the ID 
+for an admissibility hearing, the MD may exercise their discretion to issue a warning letter. In 
+such a case, the decision to issue a warning letter constitutes a disposition of the A44(2) 
+proceedings on the existing A44(1) report.   
+Based on the limited scope of discretion of the MD, this option to the MD is intended only to be 
+available in cases of permanent residents and, in some circumstances, protected persons who 
+remain foreign nationals. Such discretion should not be exercised lightly by the MD and must 
+take into account all of the circumstances of the case, the limited scope of discretion of the MD, 
+the objectives of the IRPA and Agency priorities regarding inadmissibility under A34, A35, 
+A35.1, A36(1) and A37.   
+In addition to the list of factors provided in section 15.2, in cases involving inadmissibility under 
+A36(1), MDs should closely examine the nature of the criminal offence when reviewing the 
+A44(1) report before issuing a warning letter. 
+While balancing IRPA objectives regarding public safety and security, the MD may also 
+consider, in cases where the person is a protected person, whether the severity of the acts 
+committed is such that the CBSA officer will be seeking a Danger Opinion under A115.    
+The purpose of a warning letter is twofold: it conveys the decision and it is intended to act as a 
+deterrent. 
+A warning letter sometimes has a third critical role: if, at some point in the future, the person 
+becomes reportable again (i.e., new circumstances of inadmissibility arise following the 
+issuance of the warning letter), the record of the warning letter will be an important factor to 
+consider in an officer’s determination of whether to write a new A44(1) report and/or in the MD’s 
+decision to issue a removal order or refer the new report to the ID, should the person engage in 
+further unlawful conduct. Officers also rely on the warning letter to demonstrate to the IAD that 
+the person concerned was duly cautioned as to the negative repercussions if another violation 
+occurred.  
+It should be noted, however, that following the issuance of a warning letter, any new A44(1) 
+report must be based on new facts/circumstances. In other words, a new report for the same 
+allegation must not arise solely based on the same facts underlying the allegation of the 
+previous report on which the warning letter was issued and the MD cannot re-open the previous 
+
+
+===== PAGE 48 =====
+ENF 6  Review of reports under subsection 44(2) 
+48 
+2025-02-20 
+A44(2) proceedings. For example, if a permanent resident receives a warning letter based on an 
+A44(1) report for A36(1)(a) (e.g., based on a robbery conviction), the permanent resident cannot 
+be re-reported under A44(1) for A36(1)(a) and/or referred for admissibility hearing based on the 
+same conviction should the permanent resident be subsequently convicted of a non-reportable 
+offence (e.g., theft under).  
+ 
+The warning letter should always be printed on letterhead. The fields should never be 
+handwritten. This cannot be a standard form letter, as it needs to be tailored to the individual 
+circumstances of the person concerned.  
+ 
+Every effort should be made to hand-deliver the warning letter. The person concerned 
+should be asked to sign the file copy acknowledging receipt of the original. This is especially 
+important in criminal cases in the event of a subsequent violation.  
+ 
+If the letter cannot be hand-delivered because the person concerned is outside of the local 
+office’s jurisdiction, the letter should be forwarded to the responsible office with a request to 
+hand-deliver the letter. If this is not feasible or practical, the letter should be sent by 
+registered mail. 
+ 
+Once the letter is completed and signed, it must be uploaded into GCMS and the MD  
+disposition under the A44(2) examination process must be updated accordingly. The MD is 
+also required to enter detailed examination or application notes into GCMS fully supporting 
+the decision being made (see section 22, ‘Entering MD decisions into GCMS’). The 
+issuance of the warning letter must also be recorded in the National Case Management 
+System (NCMS) in offices where NCMS is utilized. 
+For an example of the warning letter, see Appendix B: Sample warning letter. 
+ 
+ 
+16 Adjourning Proceedings 
+ 
+Circumstances may warrant the adjournment of a proceeding under A44(2). In some cases, the 
+MD may have to consider a request for an adjournment to ensure that a person has a 
+reasonable opportunity to provide more evidence or to obtain counsel. 
+ 
+The MD may also have to adjourn proceedings based on operational reasons, such as the lack 
+of an interpreter, however adjournments should not be a tool of administrative convenience. 
+ 
+In all cases, the MD will need to ensure that any decision regarding a request to adjourn is 
+reasonable and meets the procedural fairness requirements set out in previous sections. 
+ 
+ 
+17 Procedure: Entry for the purpose of further examination or an 
+admissibility hearing (Port of entry officers) 
+ 
+Under A23, an officer may authorize a person to enter Canada for the purpose of further 
+examination or an admissibility hearing. It is important to note that, pursuant to R43(2), a foreign 
+national authorized to enter Canada under A23 does not, by reason of that authorization, 
+become a temporary resident or a permanent resident. The MD may have to initiate entry under 
+A23 following an adjournment of the A44(2) proceeding or for operational reasons, such as the 
+lack of an interpreter, however this procedure should not be used as a tool of administrative 
+convenience. 
+
+
+===== PAGE 49 =====
+ENF 6  Review of reports under subsection 44(2) 
+49 
+2025-02-20 
+The MD should not consider a request for entry under A23 to provide additional information 
+unless all of the following conditions have been met: 
+ 
+ 
+there are strong indications that the person can easily produce additional documents 
+relevant to the inadmissibility report determination; 
+ 
+the MD believes the person’s indications to be credible; and 
+ 
+the person has not yet been given a reasonable chance to present additional 
+documents. 
+MDs should be cautious when considering entry for the purpose of an admissibility hearing 
+since the ID may not schedule an admissibility hearing for weeks or months, which could lead to 
+the foreign national remaining in Canada for a prolonged period without any legal status or a 
+means of financial support. MDs may also consider other options such as directing persons 
+back to the United States under R41 (see section 19, ‘Procedure: Directing persons back to the 
+United States under R41’). 
+ 
+Note:  Pursuant to R43(1) the imposition of certain prescribed conditions for persons authorized 
+to enter Canada under A23 is mandatory.   
+ 
+The MD should also keep in mind the provisions of A44(3), A55(3) and A56, which provide 
+authority to detain and release persons, and impose further conditions—including the payment 
+of a deposit or the posting of a guarantee—following the furthering of an examination of a 
+person who is the subject of an A44(1) report. For further guidance see ENF 8 Deposits and 
+Guarantees. For further details regarding detention and release authorities, see ENF 20 
+Detention and ENF 34 Alternatives to detention. 
+ 
+ 
+18 Imposition of Conditions following the A44(1) report for A34:  
+Mandatory circumstances 
+ 
+A44(3) authorizes officers to impose any conditions, including the posting of a deposit or the 
+posting of a guarantee for compliance with conditions, that the officer considers necessary, on a 
+permanent resident or foreign national who is the subject of a subsection A44(1) report, an 
+admissibility hearing or, being in Canada, a removal order.   
+ 
+Whenever officers write an A44(1) report, consideration should be given to imposing conditions 
+on the foreign national or permanent resident. The MD also has the authority to impose 
+conditions during the A44(2) process (e.g., following an adjournment of the proceedings or 
+following the decision to issue a removal order or refer the A44(1) report to the ID for an 
+admissibility hearing). Officers and MDs should always consult the D & D instruments regarding  
+the authority to impose conditions as this authority may vary depending on whether the person 
+concerned is a foreign national or a permanent resident.  
+ 
+The MD must be aware that in cases of inadmissibility on security grounds under A34, the 
+imposition of conditions is mandatory once the report has been referred to the ID. Under the 
+IRPA, decision-makers specified in the relevant legislative authority are required to impose the 
+baseline prescribed conditions in prescribed circumstances: CBSA officers are required in 
+A44(4) and A56(3); ID is required in A58(5); Minister is required in A58.1(4) and A77.1(1); 
+Federal Court is required in A82(6). 
+
+
+===== PAGE 50 =====
+ENF 6  Review of reports under subsection 44(2) 
+50 
+2025-02-20 
+The prescribed conditions must be imposed in the following circumstances: 
+ 
+ 
+when an inadmissibility report on grounds of security (A34) is referred to the ID and the 
+subject of the report is not detained (designated CBSA officers); 
+ 
+when the subject of either an inadmissibility report on grounds of security (A34) that has 
+been referred to the ID or a removal order for inadmissibility on grounds of security is 
+released from detention; [designated CBSA officers under A56(3); ID under A58(5) and 
+the Minister under A58.1(4)]. 
+ 
+For each of the circumstances outlined above, the prescribed conditions to be imposed are 
+found in R250.1. 
+ 
+See Acknowledgement of Conditions for IRPA Section 34 Cases [BSF798]. 
+ 
+ 
+19 Procedure:  Directing persons back to the United States under R41 
+ 
+R41 authorizes an officer to direct a foreign national seeking to enter Canada from the United 
+States (U.S.) to return to the U.S. if: 
+ 
+ 
+no officer is able to complete an examination [R41(a)]; 
+ 
+the MD is not available to consider, under A44(2), a report made with respect to the 
+person [R41(b)];  
+ 
+an admissibility hearing cannot be held by the ID [R41(c)]; or 
+ 
+the foreign national is prohibited from entering Canada by an order or regulation made 
+by the Governor in Council under the Emergencies Act or the Quarantine Act. 
+In such cases, the person concerned may be given a Direction to Return to the United States 
+form (BSF505) in appropriate circumstances. Officers and MDs should be aware that there is a 
+specific policy for refugee claimants at the land port of entry. 
+ 
+A person who has been directed to return to the U.S. pending an admissibility hearing by the ID 
+and who seeks to come into Canada for reasons other than to appear at that hearing is 
+considered to be seeking entry. If such a person remains inadmissible for the same reason(s), 
+and if a member of the ID is not reasonably available, the person may be directed again to 
+return to the U.S. to wait until a member of the ID is available. In these circumstances it is not 
+necessary to write a new A44(1) report. 
+ 
+Note: Generally, persons directed back to the U.S. who choose not to return to Canada will not 
+be subject to enforcement action, as they have no desire to continue with their application to 
+enter Canada. Such persons will simply be deemed to have withdrawn their application. Officers 
+should therefore not counsel the person that failure to return in these instances will 
+automatically result in enforcement action while the person is not in Canada. 
+ 
+In exceptional cases, it may be appropriate to pursue enforcement action for persons seeking 
+entry who have failed to comply with R44(3). Officers and MDs should consider all information 
+and individual circumstances of each case before they elect to proceed with enforcement action 
+
+
+===== PAGE 51 =====
+ENF 6  Review of reports under subsection 44(2) 
+51 
+2025-02-20 
+under A44(1)/ A44(2), including the circumstances surrounding the failure to comply and the 
+intent of the person concerned.  
+ 
+See also: ENF 4 Port of entry examinations. 
+ 
+ 
+20 Appeals and Judicial Review— Removal Order 
+ 
+There are two levels of review of decisions made under the IRPA. Sponsors, permanent 
+resident visa holders, permanent residents and protected persons have a statutory right to 
+appeal adverse decisions to the Immigration Appeal Division (IAD) of the Immigration and 
+Refugee Board. In all other cases, where no statutory right of appeal exists under the IRPA or 
+those rights have been exhausted, there is a right to seek judicial review at the Federal Court of 
+Canada. 
+20.1 Appeals to the Immigration Appeal Division  
+ 
+The MD will encounter three circumstances in which a person against whom they have made a 
+removal order may have a right of appeal to the IAD. Those circumstances involve a person 
+who is: 
+ 
+ 
+a foreign national who holds a permanent resident visa; 
+ 
+a permanent resident (inside or outside Canada); and 
+ 
+a protected person. 
+ 
+Where a person has a right to appeal, removal orders are stayed until the end of the appeal 
+period expires (30 days) if no appeal is made and until the day of final determination of the 
+appeal, if an appeal is made. Pursuant to A50(c), if the IAD grants a stay of removal, the  
+removal order is stayed under A66(b) and A68 until the stay is no longer in force.  
+  
+Table 6:  Right to Appeal— Removal Order 
+ 
+Who has right to 
+appeal 
+Legislation 
+Period in which 
+appeal must be 
+made 
+Who is excluded 
+Foreign national 
+holding a permanent 
+resident visa  
+A63(2)* 
+30 days after 
+receiving the 
+decision 
+ 
+ 
+A64(1), A64)(2) 
+Permanent resident 
+(in Canada) 
+A63(3)* 
+30 days after 
+receiving the 
+decision 
+ 
+ 
+A64(1), A64(2) 
+Permanent resident 
+(outside Canada) 
+A63(4) 
+60 days to appeal 
+ 
+ 
+Protected person 
+ 
+A63(3)* 
+30 days after 
+receiving the 
+decision 
+ 
+A64(1) 
+
+
+===== PAGE 52 =====
+ENF 6  Review of reports under subsection 44(2) 
+52 
+2025-02-20 
+*A64(1)— No Right to Appeal  
+ 
+No appeal may be made to the IAD by a foreign national or their sponsor or by a permanent 
+resident or protected person if they have been found to be inadmissible on grounds of: 
+ 
+ 
+security, violating human or international rights (A34)  
+ 
+violating human or international rights (A35)   
+ 
+sanctions (A35.1) 
+ 
+serious criminality (A36)**  
+ 
+organized criminality (A37)  
+ 
+**must be with respect to a crime that was punished in Canada by        
+             a term of imprisonment of at least six months or that is described in paragraph 36(1)(b)  
+             or (c) 
+ 
+When the MD makes a removal order against a person who may have a right to appeal that 
+decision to the IAD, officers must advise the persons of that right. This is easily accomplished 
+by giving them a notification of appeal form and informing them of their right to appeal. 
+ 
+The MD is also to provide the persons with the address and telephone number of the IAD 
+registry office so that the persons may file a notice of appeal with the Registrar if they so 
+choose. 
+ 
+The MD should also obtain a written acknowledgement from the persons that they have been 
+advised of their right to appeal to the IAD and place it in the case file. 
+ 
+See Appendix G:  Sample letter—  IAD Appeal Acknowledgement Letter 
+20.2 Right to file an application for leave and judicial review— Where no statutory 
+right of appeal exists 
+ 
+When an MD makes a removal order against a person who does not have the right to appeal to 
+the IAD, the MD is to advise the person of their right to file an application for leave and judicial 
+review with the Federal Court pursuant to A72(1). 
+ 
+For example, foreign nationals who are not protected persons or who do not hold a permanent 
+resident visa have no statutory right of appeal to the IAD against a removal order issued by the 
+MD. However, they may challenge a removal order made by the MD at the Federal Court. 
+ 
+If a statutory appeal, as may be provided for by the IRPA, has not been resolved, neither the 
+Minister nor the person concerned may appeal to the Federal Court.  
+ 
+The MD should obtain a written acknowledgment from the persons concerned, stating that they 
+have been advised of their right to file an application for leave and judicial review, and place it in 
+the case file. Applications for leave and judicial review must be filed within 15 days of the date of 
+the removal order. 
+ 
+See Appendix H:  Sample letter—  Judicial Review Acknowledgement Letter  
+ 
+
+
+===== PAGE 53 =====
+ENF 6  Review of reports under subsection 44(2) 
+53 
+2025-02-20 
+For further information regarding Judicial reviews, see ENF 9 Judicial Reviews and ENF 10 
+Removals.  
+ 
+ 
+21 Multiple allegations  
+ 
+Where the person is inadmissible under multiple provisions of the IRPA, it is generally 
+recommended that the officer writes a separate report for each allegation. The MD will then 
+make a determination on each report during the A44(2) process.  
+ 
+There may be instances where multiple allegations are contained within the same report. This 
+practice is generally discouraged, especially where the jurisdiction for each inadmissibility does 
+not lie with the same decision-maker (i.e., MD or ID). It should be noted, however, that where a 
+report contains one or more inadmissibility allegation, and if the MD has jurisdiction for all 
+inadmissibility allegations contained within that report, the MD can determine the disposition of 
+that report; conversely, where there are several inadmissibility allegations in a report and the 
+MD has jurisdiction for only some of them, the MD is not authorized to determine a disposition 
+for that report, and all allegations must be referred to the ID. 
+ 
+In cases where multiple A44(1) reports have been prepared against an individual concurrently 
+and the MD is of the opinion that each of the inadmissibility allegations is well-founded, the MD 
+should consider the potential consequences of not referring all reports for an admissibility 
+hearing (where the jurisdiction to the issue the removal order rests with the ID) at the same 
+time, including the following: 
+ 
+in cases where multiple reports have been written for A36(1)(a) serious criminality based 
+on separate convictions in Canada, the fact that having a separate removal order on 
+each report may be critical in ensuring that IRPA objectives are met in the event that one 
+or more of the underlining convictions and/or sentences are later overturned on appeal 
+by the criminal courts; 
+ 
+abuse of process arguments may be raised at a later time if all A44(1) reports before the 
+MD are not referred for an admissibility hearing at the same time.   
+ 
+ 
+22 Entering MD decisions into GCMS 
+ 
+When processing or issuing an immigration document, completing an MD review, or conducting 
+an examination, the MD is required to enter detailed examination or application notes into 
+GCMS fully supporting the decision being made, regardless of whether the decision was 
+positive or negative. 
+ 
+ 
+Notes are to be factual and should not contain personal opinions which are not 
+supported by elements collected during the examination or review. The notes may 
+consist of such items as: questions and answers asked during the examination or 
+review, admissibility concerns the officer or MD may have, a synopsis of any 
+documentation reviewed or requested, and any other pertinent details related to the 
+examination/application or MD review. The notes are to include the decision made and 
+rationale supporting the decision. Notes should provide sufficient detail to allow another 
+GCMS user to understand what transpired and why an action was taken. Notes entered 
+
+
+===== PAGE 54 =====
+ENF 6  Review of reports under subsection 44(2) 
+54 
+2025-02-20 
+on the Client screen should be general information on the client, and should not be used 
+for Examination/Application Notes. 
+ 
+Officers are to continue to record user remarks on facilitation documents and narratives 
+in the inadmissibility sub-tab supporting the inadmissibility allegations. 
+ 
+MDs should be uploading examination notes that clearly show that procedural fairness 
+has been met, and what factors were considered as part of the decision. 
+ 
+It is important to note that A44(2) decision notes in GCMS are also reviewed by officials 
+processing applications, and therefore may directly impact future decisions (e.g. 
+applications for TRPs, temporary residence or permanent residence).  
+ 
+CBSA officers may consult the GCMS Help Centre for additional information on how to enter 
+notes and upload documents into GCMS. 
+ 
+ 
+ 
+23 Key aspects of assessing inadmissibility under A36 
+ 
+23.1 Criminal equivalency between foreign and Canadian jurisdictions 
+ 
+As part of the inadmissibility determination for A36(1)(b) or (c) and A36(2)(b) or (c) as well as 
+considerations related to criminal rehabilitation under the IRPA, it is necessary for the MD to 
+determine if a conviction or offence committed outside of Canada has an equivalent in Canadian 
+law. This means that in A44(2) proceedings, all necessary evidence for determining criminal 
+equivalency will also need to accompany the A44(1) report.   
+In other words, the MD must have the evidence required to determine whether the acts 
+committed abroad and punished there would be punishable in Canada. This analysis is a 
+necessary part of the MD’s decision in order to refer the report to the ID for an admissibility 
+hearing, even though the MD does not have jurisdiction to issue the removal order. 
+It is important to note that A36(1)(b) or (c) and A36(2)(b) or (c) cannot be used where the 
+person has been acquitted or a court has made a finding of not guilty. 
+For further details, see ENF 2 Evaluating Inadmissibility and ENF 3 Admissibility Hearings and 
+Detention Reviews. 
+23.2 Record suspensions for convictions in Canada 
+ 
+MDs must also be careful not to rely on convictions for which a record suspension has been 
+granted as evidence of a criminal record. 
+ 
+In the case of convictions in Canada, the Parole Board of Canada has the authority to grant and 
+issue record suspensions (formerly known as “pardons”) to persons described in A36(1)(a), and 
+A36(2)(a), who have been convicted in Canada of an offence under an Act of Parliament. 
+ 
+Record suspension for in-Canada offences is the responsibility of the Parole Board of Canada, 
+so neither deemed rehabilitation nor rehabilitation can be granted for such offences. 
+ 
+For more information about record suspensions, see ENF2, Evaluating inadmissibility. 
+
+
+===== PAGE 55 =====
+ENF 6  Review of reports under subsection 44(2) 
+55 
+2025-02-20 
+23.3 Criminal Rehabilitation 
+ 
+Pursuant to A36(3)(c), in prescribed circumstances, an inadmissibility under A36(2)(b) or (c) 
+may be overcome through rehabilitation.  
+ 
+There are two types of Rehabilitation: Deemed Rehabilitation and Individual Rehabilitation. The 
+effect of both is that they remove specific grounds of inadmissibility if certain conditions exist or 
+prescribed requirements are met. 
+ 
+Under the D&D instruments, only certain MDs have been delegated to assess and render a 
+decision on applications for individual rehabilitation. 
+ 
+For further guidance on criminal rehabilitation, see ENF2 Evaluating inadmissibility. 
+23.4 Offences under the Youth Criminal Justice Act 
+ 
+A36(3)(e) exempts permanent residents and foreign nationals found guilty under the Young 
+Offenders Act (YOA) or the Youth Criminal Justice Act (YCJA) from the inadmissibility 
+provisions in A36(1) and A36(2). 
+ 
+Canadian legislation (YOA and YCJA) defines a young offender/young person as someone who 
+is at least 12, but under 18 years of age. A child under the age of 12, cannot be charged with an 
+offence under the Criminal Code of Canada and a person 18 years old and over would be 
+charged as an adult. 
+ 
+The MD must ensure that they do not rely on or refer to youth offences in any determinations 
+under A44(2), except where access is authorized under the YCJA.  Information that is not 
+accessible under the provisions of the YCJA cannot be considered and must not be included or 
+referenced at any point during A44(1) or (2) proceedings. Moreover, contravention of the 
+provisions of the YCJA is a serious matter. 
+ 
+The importance of verifying whether information is protected by YCJA provisions was 
+highlighted in Abdi v. Canada (Public Safety and Emergency Preparedness) 2017 FC 950. In 
+that case, the Federal Court held that while the MD did not commit an error in relying on youth 
+crimes that the applicant was found guilty of where access to these records was not restricted 
+by virtue of section 119(9) of the YCJA, the MD’s reliance on youth offences that were 
+withdrawn or dismissed was unreasonable since section 119(2)(c) of the YCJA allows access to 
+these records for only a brief period after dismissal or withdrawal of the youth charges and the 
+access period to such charges had expired. 
+ 
+Officials conducting A44(1) and A44(2) functions must ensure that they only rely on youth 
+records to which access is not restricted under the provisions of the YCJA.  It is therefore 
+important for reporting officers and the MD to be aware of the provisions of the YCJA which 
+relate to access to youth records. 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 56 =====
+ENF 6  Review of reports under subsection 44(2) 
+56 
+2025-02-20 
+Appendix A:  Table:  Immigration and Refugee Protection Act (IRPA) Inadmissible 
+Classes 
+IRPA 
+Section/ 
+subsection 
+ 
+Inadmissibility 
+ 
+Paragraph 
+ 
+IRPA Text 
+IRPR 
+ reference 
+Jurisdiction to 
+Issue Removal 
+Order 
+Applicable Removal  
+Order 
+A34 
+ 
+Security 
+ 
+(PR and FN) 
+ 
+34(1)(a) 
+act of espionage against Canada or 
+that is contrary to Canada’s interests 
+ 
+ 
+ 
+ 
+ 
+ 
+ID 
+ 
+ 
+ 
+ 
+ 
+Deportation Order 
+R229(1)(a) 
+34(1)(b) 
+subversion by force of any 
+government 
+34(1)(b.1) 
+ 
+subversion against democratic 
+government, institution or process 
+34(1)(c) 
+terrorism 
+R14 
+34(1)(d) 
+danger to security of Canada 
+ 
+34(1)(e) 
+ 
+violence/endanger lives or safety of 
+persons in Canada 
+34(1)(f) 
+ 
+membership in an organization 
+described in (a)(b)(b.1) or (c) 
+A35 
+ 
+Human or 
+International 
+Rights 
+Violations 
+ 
+(PR and FN) 
+35(1)(a) 
+ 
+Crimes against Humanity and War 
+Crimes Act 
+R15 
+ 
+ 
+ID 
+ 
+Deportation Order 
+R229(1)(b) 
+35(1)(b)  
+ 
+prescribed senior official 
+R16 
+35(1)(c.1) 
+organ trafficking 
+ 
+A35.1 
+Sanctions 
+ 
+ 
+(FN only) 
+35.1(1)(a) 
+ 
+entry into or stay in Canada restricted 
+due to international sanctions   
+ 
+ 
+ 
+ 
+MD 
+ 
+ 
+Deportation Order 
+R228(1)(f) 
+ 
+35.1(1)(b) 
+ 
+subject of an order made under 
+Special Economic Measures Act 
+35.1(1)(c) 
+subject of an order made under 
+Justice for Victims of Corrupt Foreign 
+Officials Act 
+A36(1) 
+Serious 
+Criminality 
+ 
+(PR and FN) 
+36(1)(a) 
+ 
+ 
+convicted in Canada-  FN 
+ 
+MD 
+Deportation Order 
+R228(1)(a) 
+convicted in Canada- PR 
+ 
+ID 
+ 
+Deportation Order 
+R229(1)(c) 
+36(1)(b) 
+ 
+convicted outside Canada  
+R17 
+ID 
+36(1)(c) 
+committed an act outside Canada 
+R17 
+ID 
+A36(2) 
+Criminality 
+ 
+(FN only) 
+36(2)(a) 
+convicted in Canada (= by way of 
+indictment or 2 offences) 
+R18.1 
+MD 
+Deportation Order 
+R228(1)(a) 
+36(2)(b) 
+convicted outside Canada  
+(=indictment or 2 offences) 
+R17 
+R18 
+ID 
+Deportation Order 
+R229(1)(d) 
+36(2)(c) 
+committed an act outside Canada  
+(=indictment) 
+R17 
+R18 
+ID 
+A36(2.1) 
+Transborder 
+Criminality 
+(FN only)  
+ 
+ 
+committing, on entering Canada, a 
+prescribed offence under an Act of 
+Parliament 
+ 
+R19 
+ 
+ 
+ID 
+Deportation Order 
+R229(1)(d.1) 
+ 
+MD (specific 
+offences 
+only) 
+Deportation Order 
+R228(1)(a.01) 
+A37 
+Organized 
+Criminality 
+ 
+37(1)(a) 
+member of an organization engaged in 
+criminal activity/ engaging in pattern 
+of activity 
+ 
+ 
+ 
+ 
+ 
+ 
+Deportation Order 
+R229(1)(e) 
+
+
+===== PAGE 57 =====
+ENF 6  Review of reports under subsection 44(2) 
+57 
+2025-02-20 
+(PR and FN) 
+37(1)(b) 
+engaging in transnational crime 
+(people smuggling/ trafficking, 
+laundering money or other proceeds 
+of crime) 
+R16.1 
+ 
+ID 
+A38 
+Health 
+Grounds 
+ 
+(FN only) 
+38(1)(a) 
+danger to public health 
+R20 
+ 
+ 
+ID 
+Exclusion Order*o 
+R229(1)(f) 
+ 
+38(1)(b) 
+health condition danger to public 
+safety 
+R20 
+38(1)(c) 
+excessive demand on health or social 
+services 
+R24(3) 
+A39 
+Financial 
+Grounds 
+ 
+(FN only) 
+ 
+unable or unwilling to support 
+themself or dependents 
+R21 
+ID 
+Exclusion Order*o 
+R229(1)(g) 
+ 
+A40 
+Misrep- 
+resentation 
+ 
+ 
+(PR or FN) 
+ 
+ 
+40(1)(a) 
+misrepresentation/ withholding 
+material facts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R22 
+ID 
+(exception: 
+R228(1)(a.1) 
+Exclusion Ordero 
+R229(1)(h) 
+ 
+MD 
+(Misrep on 
+eTA re: TRV-
+exempt 
+status) 
+Exclusion Order 
+R228(1)(a.1) 
+40(1)(b) 
+being or having been sponsored by a 
+person  inadmissible for 
+misrepresentation 
+ 
+ID 
+Exclusion Order 
+R229(1)(h) 
+40(1)(c) 
+final determination to vacate refugee 
+claim or application for protection 
+MD 
+Deportation Order 
+R228(1)(b) 
+40(1)(d) 
+ceasing to be a Canadian citizen 
+ID 
+Deportation Order 
+R229(1)(i) 
+A40.1 
+Cessation of 
+refugee 
+protection 
+ 
+(PR and FN) 
+A40.1(1) 
+FN under A108(2) 
+ 
+ 
+A46(1)(c.1) 
+ 
+MD 
+ 
+Departure Order 
+R228(1)(b.1) 
+ 
+A40.1(2) 
+PR under A108(1)(a) to (d) [however, 
+person becomes a FN as per 
+A46(1)(c.1) so A40.1(1) will apply] 
+ 
+ 
+ 
+A41(a) 
+Non-
+compliance 
+with Act 
+ 
+(FN only) 
+ 
+ 
+ 
+Foreign national — non-compliance 
+ 
+Examples: 
+ 
+A41(a) + A52(1)  Obligation to obtain the 
+authorization to return to Canada 
+ 
+A41(a) + A20(1)(a)  Does not hold the PR visa or 
+other document required under the Regulations 
+and have come to Canada in order to establish 
+permanent residence 
+ 
+ 
+A41(a) + A29(2)  Failure to leave Canada by the end 
+of the period authorized for their stay 
+ 
+ 
+A41(a) + 30(1) Work or study without authorization 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R6 
+ 
+ 
+ 
+ 
+R183(1)(a) 
+ 
+ 
+ 
+R183(1)(b),
+(c) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MD 
+ 
+ 
+MD 
+ 
+ 
+ 
+MD 
+ 
+ 
+ID 
+ 
+ 
+ 
+ 
+ 
+Deportation Order 
+R228(c)(ii) 
+ 
+ 
+Exclusion Order** 
+R228(1)(c)(iii) 
+ 
+ 
+Exclusion Order** 
+R228(1)(c)(iv) 
+ 
+ 
+Exclusion Order** 
+R229(1)(n) 
+ 
+
+
+===== PAGE 58 =====
+ENF 6  Review of reports under subsection 44(2) 
+58 
+2025-02-20 
+A41(b) 
+ 
+ 
+Non-
+compliance 
+with 
+residency 
+obligation  
+(PR only) 
+Permanent resident & non-compliance with 
+residency obligation 
+ 
+ 
+A28 
+ 
+ 
+MD 
+ 
+Departure Order 
+R228(2) 
+A42 
+Inadmissible  
+Family 
+Member 
+ 
+(FN only) 
+ 
+A42(1)(a) 
+ 
+accompanying family member is 
+inadmissible 
+ 
+R23 
+ 
+MD 
+Same removal order 
+as inadmissible 
+family member  
+R228(1)(d) 
+A42(1)(b) 
+FN is accompanying family member of 
+person  inadmissible under A34, A35, 
+A35.1 or A37 
+ 
+ 
+ 
+MD 
+Deportation Order 
+R228(1)(e) 
+ 
+ID:  Immigration Division   MD:  Minister’s Delegate 
+ 
+MD may not issue a removal order where R228(4) applies (unaccompanied minors and persons unable to appreciate nature of                 
+               proceedings) 
+ 
+*Departure order for refugee claimants R229(2) 
+o Deportation order where R229(3) exceptions apply 
+**Departure Order for refugee claimants R228(3); Subject to R228(4) 
+ 
+Note:    Only s. 34 deals with future events.  Sections 35-37 are limited to past or present events 
+ 
+This chart is a quick reference tool reflecting the IRPA inadmissibility classes and 
+corresponding removal orders in effect as of the most recent date of publication of ENF 6. 
+Officers should reference full Act and Regulations on Justice.gc.ca website for complete 
+information on IRPA inadmissibilities and jurisdiction to issue removal orders. 
+ 
+ 
+
+
+===== PAGE 59 =====
+ENF 6  Review of reports under subsection 44(2) 
+59 
+2025-02-20 
+Appendix B:   Sample Warning letter 
+ 
+(Name and Address of person concerned) 
+ 
+ 
+ 
+ 
+Client ID #: 
+ 
+ 
+(Date)   
+ 
+ 
+Dear XXXX; 
+ 
+This letter is in reference to your criminal conviction(s) and status in Canada.  Enclosed, you will find a 
+report written under subsection 44(1) of the Immigration and Refugee Protection Act. 
+ 
+Permanent residents of Canada may be reported to the Minister when they have engaged in criminal 
+activity of a serious nature. Your conviction for xxxxxxxxxxxxxxxxxxxx is reportable under paragraph 
+36(1)(a) of the Immigration and Refugee Protection Act. 
+ 
+This report is now a permanent part of your immigration record.  The circumstances of your case have 
+been considered carefully and it has been decided that your case will not be referred to the Immigration 
+Division for an admissibility hearing at this time. 
+ 
+You must understand however, that this decision may be reviewed in the future should new adverse 
+information come to our attention or any further criminal convictions be registered against you. If such a 
+review occurs, a decision to pursue enforcement action may result in referring you to the Immigration 
+Division of the Immigration and Refugee Board for an admissibility hearing.  The outcome of this hearing 
+could result in a deportation order and your permanent removal from Canada. 
+ 
+We trust that you understand the gravity of this matter and that we will not be required to contact you 
+again as the result of any further criminal activity. 
+ 
+ 
+Yours truly, 
+ 
+ 
+ 
+(signature) 
+ 
+Name of Minister’s Delegate and title 
+ 
+ 
+ 
+ 
+Note: This is a sample letter with suggested wording. Preference as to final wording, or the use of pre-
+printed as opposed to micro-produced “originals” is left to the discretion of local managers provided the 
+content remains consistent with the intent. 
+ 
+ 
+
+
+===== PAGE 60 =====
+ENF 6  Review of reports under subsection 44(2) 
+60 
+2025-02-20 
+Appendix C:  Steps for in-person A44(2) proceeding where MD has jurisdiction to 
+issue a removal order 
+ 
+Prior to the A44(2) proceedings, MDs should review A44(1) report and accompanying evidence 
+to ensure: 
+ 
+person concerned is not a Canadian citizen 
+ 
+person is not a Permanent Resident of Canada (except for residency obligation files) 
+ 
+person concerned is not an Indian registered under the Indian Act 
+ 
+person’s biographical data is correctly cited (name(s), date of birth) 
+ 
+status of person concerned is correctly identified in A44(1) report 
+ 
+ 
+inadmissibility section has been properly cited 
+ 
+A44(1) report has been signed and dated 
+ 
+ensure MD has jurisdiction to issue the removal order under R228 
+ 
+ 
+During the A44(2) proceedings, MD should: 
+ 
+Step 1  Notate the date/time of proceedings 
+ 
+Introduce themselves as the MD  
+ 
+ 
+Step 2  Confirm person before the MD is the subject of the A44(1) report  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Step 3  Determine whether person concerned requires an accredited interpreter 
+ 
+Where an interpreter is required, confirm person understands the interpreter  
+            and that MD may continue with the proceedings. Advise the person that they      
+            should advise MD at any time if they do not understand the interpreter. 
+ 
+If necessary, adjourn proceedings to obtain interpreter. 
+ 
+ 
+ 
+Step 4  Confirm person concerned has a copy of the report and the evidence being used to   
+             support the allegation and has had the opportunity to review it.  
+ 
+Read the allegations contained in the A44(1) to the person concerned. 
+ 
+State the purpose of the proceedings and refer to the A44(1) report. 
+ 
+Advise the person that they must answer questions completely and truthfully. 
+ 
+Step 5  Explain the process MD will be following, evidence to be considered and the  
+             consequences of finding the report well-founded. Ensure the person concerned    
+             understands that this process may result in a removal order being issued, the type of     
+             removal order, and the consequence of this order. 
+ 
+Step 6  In detained cases:  Prior to commencing the proceeding, advise the person concerned  
+            of their right to have a counsel of their choosing present at their own expense. This right  
+            applies in all cases where a person is detained under an Act of Parliament and includes  
+            situations where the person is detained by the criminal courts while facing charges or  
+            serving a sentence and subject to IRPA proceedings. Should the person express an  
+            intention to communicate with counsel, the MD should adjourn the proceeding and allow  
+            a reasonable period of time for the person to retain counsel. 
+ 
+In released cases:  The person does not have the right to have counsel present during 
+the MD review, however the MD should consider permitting counsel’s attendance should 
+
+
+===== PAGE 61 =====
+ENF 6  Review of reports under subsection 44(2) 
+61 
+2025-02-20 
+the person concerned have a counsel present, as long as counsel’s presence will not 
+interfere with the process. MDs are not obligated to postpone MD review proceedings 
+due to counsel unavailability, however, may consider such requests on case-by-case 
+basis.  
+ 
+ 
+ 
+ 
+ 
+ 
+Step 7  Verify each of the case elements of the allegation contained in the A44(1) report  
+ 
+ by questioning the person to confirm that each of these elements has been proven     
+             by the evidence, either verbally or in writing.   
+ 
+ Verify person concerned has no other evidence/information to provide and if so,  
+determine whether an adjournment is warranted.  
+ 
+Allow the person the opportunity to respond and acknowledge their evidence and 
+document this either by notes or making copies of what is presented, particularly if there 
+is any inconsistency between the allegation in the A44(1) report and the person's 
+declaration. MD must ensure that all the evidence presented has been considered. 
+ 
+Step 8  The MD should ask the person how long they intend to remain in Canada and follow  
+             the steps in ENF 6, section 13, ‘Procedure: Handling possible claims for refugee  
+             protection’. 
+ 
+Where the person does not express a fear of returning to their country or indicate an 
+intention to make a claim, the MD should proceed with the decision and issue a removal 
+order, if appropriate. 
+ 
+Where the person’s statements indicate a fear of returning to the country that may relate 
+to refugee protection, the MD is to inform the person of the definition of a “Convention 
+refugee” or “person in need of protection” as found in A96 and A97, and ask whether 
+they wish to make a claim before proceeding with the issuance of a removal order. 
+ 
+Step 9   Advise the person of the decision and the reasons for the decision.  
+ 
+ 
+Step 10   If issuing a removal order, provide the person concerned with a copy of the removal  
+                order and  its legal effect.   
+ 
+Where applicable, explain the Certificate of Departure process and that a Departure 
+Order will turn into a Deportation Order should they fail to properly follow the process for 
+verifying departure (for further information, see ENF 10 Removals). 
+ 
+Advise person concerned of their right to appeal (as applicable) or right to seek judicial 
+review and the relevant time limits and document this. Provide relevant appeal forms 
+and have the person sign the relevant acknowledgement letter, where appropriate. For 
+further information, see ENF 6, section 20 ‘Appeals and Judicial Review- Removal 
+Order’. 
+   
+Step 11  At the conclusion of the review, notate the time and sign the record of decision, 
+               including the completion of the MD portion of forms [e.g., BSF516, IMM5084 or  
+               A44(1) narrative report]. Complete appropriate system updates/data entry. 
+ 
+ 
+
+
+===== PAGE 62 =====
+ENF 6  Review of reports under subsection 44(2) 
+62 
+2025-02-20 
+Appendix G:   Sample letter—  IAD appeal acknowledgement letter 
+ 
+Office Address   ______________________ 
+Date: _______________________________ 
+ 
+I acknowledge being informed that I have a right to appeal the removal order issued against me to the 
+Immigration Appeal Division of the Immigration and Refugee Board and that I have 30 days from the 
+date of the removal order to file such notice of appeal with the Immigration Appeal Division.  
+I also acknowledge having received a notice of appeal form, which I understand is the form to be used to 
+file an appeal with the Immigration Appeal Division.  
+ 
+____________________________________________________________________________ 
+Signature 
+ 
+ 
+ 
+              Date 
+ 
+____________________________________________________________________________ 
+Print name 
+ 
+ 
+ 
+ 
+Client ID 
+ 
+____________________________________________________________________________ 
+Minister’s Delegate Name/Badge number 
+ 
+ 
+Interpreter Declaration: 
+I, ______________________________________________, solemnly declare 
+                  
+      (Name of interpreter) 
+ 
+ 
+ 
+ 
+ 
+                 
+ 
+that I have faithfully and accurately interpreted in the ____________  language.                                                   
+ 
+I make this solemn declaration conscientiously believing it to be true knowing that it is of the same force 
+and effect as if made under oath. 
+ 
+_______________________________________                                        
+(Signature of interpreter) 
+ 
+ 
+                              
+ 
+ 
+
+
+===== PAGE 63 =====
+ENF 6  Review of reports under subsection 44(2) 
+63 
+2025-02-20 
+Appendix H:   Sample letter—   Judicial Review Acknowledgement letter 
+ 
+Office Address   ______________________ 
+Date: _______________________________ 
+ 
+I acknowledge being informed on this date that I have a right to file an application for leave and judicial 
+review with the Federal Court of Canada and that if I wish to file such an application, it must be filed 
+within 15 days of the date of the issuance of the removal order. 
+ 
+I have been provided with the following link with instructions: 
+ 
+http://www.cic.gc.ca/english/refugees/inside/appeals-review.asp  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+____________________________________________________________________________________ 
+Signature 
+ 
+ 
+ 
+              Date 
+ 
+ 
+Print name 
+ 
+ 
+ 
+ 
+Client ID 
+ 
+____________________________________________________________________________ 
+Minister’s Delegate Name/Badge number 
+ 
+ 
+Interpreter Declaration: 
+ 
+I, ______________________________________________, solemnly declare 
+                  
+      (Name of interpreter) 
+ 
+ 
+ 
+ 
+ 
+                 
+ 
+that I have faithfully and accurately interpreted in the ____________  language.                                                   
+ 
+I make this solemn declaration conscientiously believing it to be true knowing that it is of the same force 
+and effect as if made under oath. 
+ 
+_______________________________________                                        
+(Signature of interpreter) 
+ 
+ 
+ 

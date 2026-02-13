@@ -1,0 +1,2626 @@
+
+
+===== PAGE 1 =====
+ENF 8 Deposits and Guarantees 
+2020-10-07 
+ 
+ 
+1 
+ 
+ 
+ 
+1 
+What this chapter is about……………………..…………………………..…….... 
+  3 
+2 
+Program objectives…………………………………………………………………. 
+  3 
+3 
+The Act and Regulations…………………………………………………………… 
+  3 
+4 
+Definitions…………………………………………………………………………….. 
+  6 
+5 
+Forms…………………………………………………………………………………... 
+  7 
+6 
+Delegation and Designation Instruments………………………………………... 
+  8 
+7 
+Departmental Policy…………………………………………………………………. 
+  9 
+ 
+7.1 Deposits and guarantees………………………………………………………....      9 
+ 
+7.2 General requirements…………………………………………………………….. 
+10 
+8 
+Procedures…………………………………………………………………………….. 
+13 
+ 
+8.1 General……………………………………………………………………………... 
+13 
+ 
+8.2 Receiving Orders for Release from the Immigration Division (ID) or delegated 
+officer………………………………………………………………………………….… 
+15 
+ 
+8.3 Modifications of conditions of release…………………………………………... 
+15 
+ 
+8.4 Surrendered passports and other documents…………………………………. 
+16 
+ 
+8.5 Deposits – General……………………………………………………………..… 
+16 
+ 
+8.6 Ability to ensure person concerned will comply with deposit conditions……. 
+17 
+ 
+8.7 Establish identity of depositor……………………………………………………. 
+17 
+ 
+8.8 Acceptable forms of payment for deposits……………………………………... 
+18 
+ 
+8.9 Taking the deposit………………………………………………………………… 
+18 
+ 
+8.10 Altering or amending a deposit…………………………………………………. 
+21 
+ 
+8.11 Guarantees – General…………………………………………………………... 
+22 
+ 
+8.12 Ability to ensure the person concerned will comply with conditions of 
+guarantee………………………………………………………………………………. 
+22 
+ 
+8.13 Establish identity of guarantor…………………………………………………. 
+24 
+ 
+8.14 Determining solvency for guarantors………………………………………….. 
+25 
+  
+8.15 Taking a guarantee……………………………………………………………… 
+28 
+   
+8.16 Altering or amending a guarantee……………………………………………... 
+28 
+ 
+8.17 Rejecting a deposit or guarantee………………………………………………. 
+29 
+ 
+8.18 Stay of removal order…………………………………………………………… 
+30 
+ 
+8.19 Withdrawal, refund and forfeiture of a deposit or enforcement of a 
+guarantee………………………………………………………………………………. 
+30 
+ 
+8.20 Requests for information………………………………………………………... 
+Appendix A:  Sample letter— Notification to Bondsperson re: Refund of Security 
+Deposit…………………………………………………………………………………….   
+Appendix B:  Sample letter— Notification to Bondsperson re: Refund of Security 
+deposit and cancellation of performance bond………………………………………. 
+Appendix C:  Sample letter— Notification to Guarantor re: Cancellation of 
+Performance Bond……………………………………………………………………….  
+ 
+35 
+ 
+36 
+37 
+ 
+38 
+ 
+ 
+
+
+===== PAGE 2 =====
+ENF 8 Deposits and Guarantees 
+2020-10-07 
+ 
+ 
+2 
+Updates to chapter  
+Listing by date:  
+2020-10-07 
+ 
+Sections 3 and 8 have been updated to reflect regulatory changes, including the addition of prescribed 
+factors for consideration under subsection 47(4) of the Immigration and Refugee Protection Regulations. 
+Updates have also been made to reflect new BSF Acknowledgement of conditions form. Content has 
+been updated to include sample form letters. Minor changes and clarifications have been provided 
+throughout the chapter.    
+ 
+ 
+2017-05-15 
+Substantive and minor changes, as well as clarifications, have been provided throughout the chapter. 
+2007-02-01 
+Changes have been made to Section 7.8 and a paragraph has been deleted. In addition, the title of the 
+Minister of Public Safety and Emergency Preparedness has been changed to Minister of Public Safety.  
+2005-11-08  
+Changes have been made throughout chapter ENF 8 to reflect the change in responsibilities as a result of 
+the CIC/CBSA transition. All previous versions should be discarded.  
+Of particular note are the following modifications: 
+ 
+changes have been made throughout this chapter to reflect accurate officer titles within the CBSA 
+and CIC.  
+ 
+section 4, Instruments and delegations, outlines specific roles and authorities of CIC and CBSA 
+personnel.  
+2004-11-04 
+Editorial modifications have been made throughout this chapter. All previous versions should be 
+discarded.  
+2004-01-15  
+The chapter’s name has been changed to “Deposits and Guarantees” to better reflect the terminology of 
+IRPA and its Regulations.  
+ 
+ 
+
+
+===== PAGE 3 =====
+ENF 8 Deposits and Guarantees 
+2020-10-07 
+ 
+ 
+3 
+1 What this chapter is about  
+ 
+This chapter provides functional guidance to the Canada Border Services Agency (CBSA), both at the 
+Port of Entry and Inland, as well as Immigration, Refugees and Citizenship Canada (IRCC) officers, 
+managers and others with the delegated and designated authority to impose the payment of deposits and 
+the posting of guarantees in respect of persons seeking entry to Canada, and permanent residents and 
+foreign nationals who are the subject of an inadmissibility report, an admissibility hearing, or a removal 
+order.  
+ 
+ 
+2 Program objectives  
+ 
+The use of deposits and guarantees, also referred to as “bonds”, in the Canadian immigration program is 
+intended to: 
+ 
+ 
+ensure that persons seeking temporary entry comply with any conditions that may be imposed on 
+them under the Immigration and Refugee Protection Act (IRPA) and the Immigration and Refugee 
+Protection Regulations (IRPR);  
+ 
+ 
+ensure that persons subject to an inadmissibility report, an admissibility hearing or a removal 
+order comply with any conditions that may be imposed under the IRPA and IRPR; and  
+ 
+ 
+allow the release of a person held in immigration detention, based on that person's agreement to 
+abide by any conditions of release, to ensure compliance with the IRPA and IRPR.  
+ 
+ 
+3 The Act and Regulations  
+ 
+This part of the chapter provides a guide to the IRPA and IRPR provisions concerning deposits and 
+guarantees, for officers’ reference. 
+IRPA – Deposits and guarantees  
+Section  
+The authority to make Regulations regarding conditions 
+that may be imposed on permanent residents and foreign 
+nationals and Regulations governing deposits or 
+guarantees for the performance of obligations imposed 
+A14(2)  
+A14(2)(d) 
+A14(2)(f) 
+Authority for a CBSA or IRCC officer or the Immigration 
+Division to impose conditions including the payment of a 
+deposit or posting of a guarantee for compliance with 
+conditions imposed by a CBSA or IRCC officer or the 
+Immigration Division on a permanent resident or foreign 
+national who is the subject of a report, an admissibility 
+hearing or, being in Canada, a removal order 
+A44(3)  
+Authority for a CBSA officer to order the release from 
+detention before the first detention review of a permanent 
+resident or foreign national on payment of a deposit or 
+posting of a guarantee, if required, for compliance with the 
+conditions imposed 
+A56  
+Authority for the Minister to order the release on request 
+of a Designated Foreign National aged 16 or older from 
+A58.1 
+
+
+===== PAGE 4 =====
+ENF 8 Deposits and Guarantees 
+2020-10-07 
+ 
+ 
+4 
+detention and to impose any conditions, including the 
+payment of a deposit or the posting of a guarantee for 
+compliance with the conditions deemed necessary. 
+Note: This authority is not currently delegated, but is held 
+by the Minister of Public Safety. 
+Authority for the Immigration Division to impose conditions 
+of release on a permanent resident or foreign national, 
+including the payment of a deposit or the posting of a 
+guarantee for compliance with the conditions 
+A58(3)  
+Authority to collect monies that a person has agreed to 
+pay as a deposit or guarantee of performance is a debt 
+due to the Crown 
+A145(1) 
+A145(1)(b) 
+Authority to certify debts due that have not been paid, if 
+either the Minister of Immigration, Refugees and 
+Citizenship (IRCC) or the Minister of Public Safety is of 
+the opinion that the person liable for the amount is 
+attempting to avoid payment, or on the expiration of 30 
+days after the default 
+A146(1) 
+A146(1)(a) 
+A146(1)(b) 
+The certificate, when filed and registered in the Federal 
+Court, has the same force and effect, and all proceedings 
+may be taken, as if the certificate were a judgment 
+obtained for a debt of the amount specified in the 
+certificate plus interest to the day of payment 
+A146(2) 
+Authority to recover costs of registering the certificate  
+A146(3) 
+Authority for the Minister to garnish all or part of a debt 
+due to the Crown, if the Minister is of the opinion that a 
+third person is or is about to become liable to make a 
+payment to a person liable to make a payment under 
+IRPA 
+A147  
+IRPR – Deposits and guarantees  
+Section  
+Authority for an officer to require a deposit or guarantee in 
+respect of a person or group of persons seeking entry to 
+Canada for compliance with conditions imposed 
+R45(1)  
+Officers are to fix the amount of the deposit or guarantee 
+on the basis of the following factors: 
+ 
+ 
+the financial resources of the person or group; 
+ 
+the obligations that result from the conditions 
+imposed; 
+ 
+the costs likely to be incurred to locate and arrest 
+the person or group, detain them, hold an 
+admissibility hearing and remove them from 
+Canada; and 
+ 
+ 
+the costs likely to be incurred to enforce a 
+guarantee 
+R45(2)  
+R45(2)(a) 
+R45(2)(b) 
+ 
+R45(2)(c) 
+R45(2)(d) 
+
+
+===== PAGE 5 =====
+ENF 8 Deposits and Guarantees 
+2020-10-07 
+ 
+ 
+5 
+A person who pays a deposit or posts a guarantee:  
+ 
+ 
+must not have signed or co-signed another 
+guarantee that is in default; and 
+ 
+ 
+must have the capacity to contract in the province 
+where the deposit is paid or the guarantee is 
+posted 
+R47(1) 
+R47(1)(a) 
+R47(1)(b) 
+A person who posts a guarantee must:  
+ 
+ 
+be a Canadian citizen or a permanent resident, 
+physically present and residing in Canada; 
+ 
+ 
+be able to ensure that the person or group of 
+persons in respect of whom the guarantee is 
+required will comply with the conditions imposed; 
+and 
+ 
+ 
+present to an IRCC or CBSA officer evidence of 
+their ability to fulfill the obligation arising from the 
+guarantee 
+R47(2)  
+R47(2)(a) 
+ 
+R47(2)(b) 
+ 
+R47(2)(c) 
+Money illegally obtained: 
+ 
+If a CIC or CBSA officer believes a sum of money offered 
+as a deposit, or a sum of money that a person may be 
+obliged to pay under a guarantee was, or would not be 
+legally obtained, the CIC or CBSA officer shall not allow 
+that person to pay a deposit or post a guarantee 
+ 
+R47(3)  
+Factors to consider 
+ 
+An officer, the Immigration Division or the Minister must 
+consider the following factors in assessing whether the 
+person who posts a guarantee has the ability to ensure 
+that the person or group of persons in respect of whom 
+the guarantee is required will comply with the conditions 
+imposed: 
+(a) their relationship to the person or group of persons in 
+respect of whom the guarantee is required; 
+(b) their financial situation; 
+(c) any previous history posting a guarantee; 
+(d) their criminal record; and 
+(e) any other relevant factor in determining their ability to 
+ensure that the person or group of persons in respect of 
+whom the guarantee is required will comply with the 
+conditions imposed. 
+R47(4) 
+Mandatory conditions to be imposed on the person or 
+group of persons in respect of which a guarantee is 
+required:  
+ 
+ 
+provide the IRCC or CBSA with the address of 
+the guarantor and advise the IRCC or CBSA 
+before any change in that address; and 
+ 
+R48(1) 
+ 
+R48(1)(a) 
+
+
+===== PAGE 6 =====
+ENF 8 Deposits and Guarantees 
+2020-10-07 
+ 
+ 
+6 
+ 
+appear at time and place required by an IRCC or 
+CBSA officer or the ID to comply with any 
+obligation imposed under IRPA 
+ 
+R48(1)(b) 
+Mandatory conditions to be imposed on the person or 
+group of persons in respect of which a deposit is required: 
+ 
+ 
+provide address and change of address 
+ 
+ 
+appear at time and place required to comply with 
+an obligation imposed 
+R48(2)  
+ 
+R48(2)(a) 
+R48(2)(b) 
+Mandatory written acknowledgment required from the 
+person who pays a deposit or posts a guarantee: 
+ 
+ 
+that they have been informed of the conditions 
+imposed; and 
+ 
+That they have been informed that non-
+compliance with any conditions imposed will 
+result in forfeiture of the deposit or enforcement 
+of the guarantee 
+R49(1)  
+R49(1)(a) 
+R49(1)(b) 
+Requirement on officer to issue a receipt to the depositor 
+and guarantor for the deposit or a copy of the guarantee, 
+and a copy of the conditions imposed 
+R49(2) 
+Requirement of the IRCC or CBSA to return the deposit 
+paid after an officer notifies the IRCC or CBSA of  
+compliance with conditions imposed 
+R49(3) 
+Sum of money deposited is forfeited, and guarantee 
+becomes enforceable on the failure of the person or any 
+member of group to comply with any condition imposed 
+R49(4)  
+ 
+ 
+4. Definitions  
+Bond 
+Deposits and guarantees paid or posted to ensure compliance of 
+the person concerned with IRPA conditions. 
+ 
+Bondsperson 
+The depositor or guarantor who paid or posed a deposit or 
+guarantee to ensure compliance of the person concerned with 
+IRPA conditions. This term is generic and refers to both depositors 
+and guarantors. 
+ 
+Cash Bond  
+A cash bond is a deposit. 
+ 
+Depositor 
+The person who pays a deposit to ensure compliance by the 
+person concerned or the group with conditions imposed under 
+IRPA or IRPR. 
+ 
+Deposit 
+The payment of a sum of money by a person to the Receiver 
+General for Canada for compliance with the conditions imposed on 
+the person concerned’s release from detention. 
+ 
+
+
+===== PAGE 7 =====
+ENF 8 Deposits and Guarantees 
+2020-10-07 
+ 
+ 
+7 
+Forfeiture / Forfeit 
+ 
+The relinquishment of the deposit as a consequence of a breach of 
+conditions.  
+ 
+Guarantee 
+A guarantee is an written enforceable undertaking by a third party 
+(the guarantor) that the person concerned will abide by the 
+conditions imposed by a CBSA or IRCC officer or the Immigration 
+Division and to forfeit or pay a sum of money to the Crown if the 
+person concerned breaches any conditions. The guarantor and the 
+person concerned must both agree to the conditions. They are also 
+called “performance bonds”. 
+ 
+Guarantee in default 
+A guarantee is in default when a formal demand for payment of the 
+amount guaranteed has been made to the guarantor and the 
+amount has not yet been paid or otherwise extinguished. 
+ 
+Guarantor 
+The person who posts a guarantee with IRCC or the CBSA to 
+ensure compliance with conditions imposed under IRPA or IRPR 
+on the person concerned. 
+ 
+Performance Bond 
+A performance bond has the same meaning as the term 
+“guarantee”. 
+ 
+Person concerned 
+The foreign national or permanent resident or the group of persons 
+on whom conditions are imposed by an IRCC or CBSA officer or 
+the Immigration Division and who is the subject of the deposit or 
+guarantee. 
+ 
+Power of Attorney  
+ 
+A legal document signed by a person to authorize another person 
+(the “attorney”) to act on their behalf in respect of all or some of 
+their finances and property. The “attorney” does not need to be a 
+lawyer.  The document must have been issued in accordance with 
+the laws of the province where it was signed. 
+ 
+Liquid funds  
+Cash or any investment that can easily and quickly be converted to 
+cash (e.g. money in personal accounts; stocks and bonds).  
+ 
+Reasonable grounds to believe 
+Credible evidence that would produce in a normally prudent and 
+informed person bona fide belief in a serious possibility. They are 
+not mere suspicions. 
+ 
+Security deposit 
+This term has the same meaning as that for “deposit”. 
+ 
+ 
+ 
+5. Forms  
+ 
+All forms required for the processing of a deposit or guarantee are listed below and are accessible on 
+IRCC Connexion under Forms or on CBSA Atlas under Forms and Templates.  
+ 
+Forms used for deposits and guarantees are generally IMM forms for historical reasons as the authority to 
+perform most functions relating to deposits and guarantees is delegated to both IRCC and CBSA officers. 
+However, some IMM forms now have BSF equivalents. Where an IMM form has a BSF equivalent, CBSA 
+officers shall use the BSF form for the action. 
+ 
+
+
+===== PAGE 8 =====
+ENF 8 Deposits and Guarantees 
+2020-10-07 
+ 
+ 
+8 
+Title  
+Number  
+Acknowledgement of Conditions - The Immigration and 
+Refugee Protection Act  
+BSF821  
+Amendment to Guarantee for Compliance Issued  
+ IMM 5071B  
+Guarantee of Compliance Enforcement Notice  
+IMM 5072B 
+Guarantee Bond – The Immigration and Refugee 
+Protection Act  (Where there are Co-Signers)  
+Performance Bond – The Immigration and Refugee 
+Protection Act  (Where there are Co-Signers) 
+BSF507E 
+ 
+IMM 1259E  
+Guarantee Log  
+IMM 5073B  
+Performance Bond  – The Immigration and Refugee 
+Protection Act  (Guarantee) 
+IMM 1230E  
+Request for a Security Deposit pursuant to R45(1)  
+(at the port of entry only) 
+BSF517E 
+Requisition for Enforcement of Guarantee  
+Immigration and Refugee Protection Act and Regulations  
+IMM 5345B  
+Requisition for Refund / Forfeiture of Security Deposit  
+IMM 0709B*  
+Security Deposit  
+(this form is also the official receipt for deposits) 
+BSF579*  
+Solemn Declaration of Solvency by Guarantor  
+BSF564  
+Financial information related to deposits or guarantees 
+assessed during the detention review process 
+BSF211 
+* Multiple copy form that must be completed manually.  Online version of this form in Atlas/ 
+Connexion is a sample only 
+ 
+6 Delegation and Designation Instruments  
+ 
+Officers should refer to the most recent version of the Delegation of Authority and Designation of Officers 
+by the Minister of Public Safety and Emergency Preparedness under the Immigration and Refugee 
+Protection Act (IRPA) and the Immigration and Refugee Protection Regulations (IRPR) on CBSA Atlas 
+and IRCC Connexion to ensure that only delegated and designated officers exercise the authority 
+associated to the functions related to deposits and guarantees.  
+ 
+Immigration and Refugee Protection Act (IRPA) 
+ 
+Delegated authority 
+CBSA and IRCC officers designated as per 
+instruments of delegation 
+ 
+May require a deposit or a guarantee, or 
+both, for compliance with conditions 
+imposed on the release from detention of a 
+foreign national or permanent resident who 
+is the subject of a report, an admissibility 
+
+
+===== PAGE 9 =====
+ENF 8 Deposits and Guarantees 
+2020-10-07 
+ 
+ 
+9 
+hearing, or, in Canada, a removal order. 
+[A44(3)] 
+ 
+CBSA officers designated as per the instruments 
+of delegation 
+May order, before the first detention review 
+by the Immigration Division, the release 
+from detention of a person and impose 
+conditions, including the payment of a 
+deposit or the posting of a guarantee for 
+compliance with the conditions [A56]. 
+ 
+CBSA, IRCC and Canada Revenue Agency 
+headquarters officials as per the instruments of 
+delegation 
+ 
+May certify an amount or part of an amount 
+payable under IRPA as debts due to Her 
+Majesty; may order payment to the 
+Receiver General [A146]. 
+CBSA headquarters staff as per the instruments 
+of delegation 
+ 
+May garnish all or part of a debt due to the 
+Crown, if the Minister is of the opinion that a 
+third person is or is about to become liable 
+to make a payment to a person liable to 
+make a payment under IRPA [A147]. 
+Immigration and Refugee Protection Regulations (IRPR) 
+CBSA and IRCC officers as per instruments of 
+delegation 
+ 
+May require a deposit or guarantee in 
+respect of a person or group seeking to 
+enter Canada for compliance with 
+conditions imposed [R45(1)]. 
+ 
+May fix the amount of the deposit or 
+guarantee [R45(2)]. 
+ 
+May refuse to allow a person to pay a 
+deposit or post a guarantee [R47(3)]. 
+ 
+Shall impose mandatory conditions when 
+deposit or guarantee required [R48]. 
+ 
+Shall issue a receipt for the payment of a 
+deposit or a copy of the guarantee, and a 
+copy of the conditions imposed [R49(2)]. 
+ 
+7 Departmental policy  
+ 
+7.1 Deposits and guarantees  
+ 
+The purpose of requiring deposits and guarantees (collectively referred to as bonds) under the IRPA or 
+IRPR is to motivate the person concerned or group to comply with the conditions imposed which are 
+intended to ensure that they will appear at the next required IRPA proceeding. They also serve as an 
+incentive for the bondsperson to ensure compliance. 
+ 
+CBSA or IRCC officers may request the payment of a deposit or the posting of a guarantee, or both, 
+under the following circumstances: 
+ 
+
+
+===== PAGE 10 =====
+ENF 8 Deposits and Guarantees 
+2020-10-07 
+ 
+ 
+10 
+ 
+At a port of entry, a CBSA officer may require a person or group of persons seeking to enter 
+Canada to pay a deposit or post a guarantee, or both, for compliance with any conditions 
+imposed [R45(1)]. (For the purpose of this section a group of persons refers to a group of persons 
+such as an entertainment group coming to Canada for the same purpose. This section is not 
+meant to apply to several different individuals believed to be part of an organized smuggling ring. 
+In scenarios such as this, the requirement for a security deposit or guarantee should be assessed 
+on an individual basis.) 
+ 
+ 
+At a port of entry or inland office, a CBSA or IRCC officer may impose conditions and require a 
+permanent resident or foreign national who is the subject of an inadmissibility report, admissibility 
+hearing or a removal order to pay a deposit or post a guarantee. [A44(3)].                                
+ 
+Note: the delegated authority to impose conditions on permanent residents is at supervisory level 
+or higher. 
+ 
+ 
+Where a permanent resident or foreign national has been detained pursuant to the IRPA or IRPR 
+and a CBSA officer orders their release before the first detention review by the Immigration 
+Division, the CBSA officer may impose conditions and require that they pay a deposit or that a 
+guarantee be posted [A56].  
+ 
+ 
+At a detention review or admissibility hearing, a CBSA Hearings Officer may request the 
+Immigration Division to impose conditions, including the requirement to pay a deposit or post a 
+guarantee, on a foreign national or permanent resident prior to ordering they be released from 
+detention [A58(3)].  
+ 
+ 
+7.2 General requirements  
+ 
+Note: for procedures, refer to Part 8. 
+ 
+The following requirements apply to deposits and guarantees: 
+ 
+7.2.1 Delegated Officers 
+ 
+ 
+When imposing the requirement to pay a deposit or post a guarantee under A44(3) or A56, 
+delegated officers are responsible to ensure that a person who pays a deposit (depositor) or 
+posts a guarantee (guarantor) meets the regulatory requirements. The officers should thoroughly 
+assess any potential bondsperson who offers to pay a deposit or post a guarantee and, where 
+that person does not satisfy the regulatory requirements, they shall not be permitted to pay a 
+deposit or post a guarantee. 
+ 
+ 
+Only delegated officers may make decisions regarding deposits and guarantees, including the 
+assessment of whether the person proposing to post a deposit or guarantee meets any regulatory 
+requirements and is otherwise suitable.  
+ 
+7.2.2 Immigration Division (ID)  
+ 
+ 
+The Immigration Division (ID) may, at detention review, order the person concerned released 
+pending continuation of an examination, an admissibility hearing, or removal, and may impose 
+conditions, including the payment of a deposit or a guarantee. 
+ 
+ 
+Inland Enforcement Officers may provide valuable input concerning specific requirements under 
+R47 (e.g. the proposed bondsperson is in default of a previous guarantee; money offered as a 
+deposit was not legally obtained, the proposed bondsperson is not a Canadian citizen or 
+permanent resident, not physically present and residing in Canada; the proposed bondsperson is 
+not able to ensure that the person concerned will comply with conditions, etc.) or if a proposed 
+
+
+===== PAGE 11 =====
+ENF 8 Deposits and Guarantees 
+2020-10-07 
+ 
+ 
+11 
+residential address for the release is of concern. In these cases, Inland Enforcement Officers 
+should articulate their concerns to the Hearings Officer who can address them with the ID. 
+ 
+ 
+During a detention review when counsel presents an alternative to detention involving a 
+bondsperson, the ID and Hearings Officers will assess the suitability of the bondsperson by 
+questioning them about their relationship with the person concerned, their knowledge of the 
+person concerned’s immigration status and, if applicable, criminal history, potential 
+bondsperson’s income, assets, their ability to pay a cash deposit or fulfill the obligation from the 
+guarantee, their living situation, their willingness to provide shelter to the person concerned and 
+their ability to ensure the person concerned will comply with conditions imposed on their release. 
+In this context, the ID is also required to assess the factors for consideration prescribed under 
+R47(2)(d) with respect to persons coming forward as potential guarantors.   
+ 
+ 
+If release on conditions including a requirement of a deposit or guarantee is warranted, the 
+Immigration Division will name the bondsperson and set the amount of the deposit or guarantee 
+required. 
+Note: Generally, ability to pay and solvency are not assessed during detention review as 
+documents from guarantors may not be available and/or there is insufficient time to do so. A 
+bondsperson may sometimes be proposed before a detention review which may lead to the 
+assessment of the ability to pay or solvency being done during the detention review process  
+ 
+ 
+If a Hearings Officer has assessed the ability of the bondsperson to pay a cash deposit and/or 
+fulfil his/her obligation from a guarantee, and the Hearings Officer is satisfied that the 
+bondsperson has the ability to pay the cash deposit and/or fulfil the guarantee, the Hearings 
+Officer will document this information on form BSF211.  In those instances, Inland Enforcement 
+Officers may not re-assess the ability to pay or the solvency of the named bondsperson when 
+they seek to pay the deposit or post the guarantee (refer to section 8.14 Determining Solvency for 
+Guarantors for further details). This is subject to the following exceptions: 
+ 
+ 
+Officers uncover information after the fact that the bondsperson has signed or co-
+signed another guarantee that is in default; 
+ 
+Officers uncover after the fact that the bondsperson does not have the capacity 
+to contract in the province where the deposit is paid or the guarantee is posted; 
+or 
+ 
+Officers uncover information after the fact that there are reasonable grounds to 
+believe that a sum of money offered by the bondsperson to pay a cash deposit 
+was not legally obtained or a sum of money that the bondsperson is obliged to 
+pay under a guarantee was not legally obtained; 
+ 
+The Hearings Officer should communicate these exceptions to the tribunal, detainee and counsel.  
+ 
+ 
+Generally, the suitability of a bondsperson is assessed during the detention review without 
+assessing their ability to pay a cash deposit or to fulfil a guarantee as no evidence or insufficient 
+evidence was presented during the detention review process on the financial situation of the 
+bondsperson and/or there is insufficient time to do so. This may occur for instance in situations 
+where the bondsperson was not proposed in advance of the detention review. In those cases, 
+the Hearings Officer should clearly indicate to the tribunal, the detainee, and counsel (if 
+applicable), that another officer will determine whether the bondsperson has ability to pay the 
+cash deposit and/or fulfil the guarantee before release can occur.  Hearings Officers may use 
+BSF211 to provide comments to the officer who will be responsible to take the bond or if they 
+wish to bring specific information to their attention.  
+ 
+ 
+Once the ID has made a decision to release and specified conditions, an officer processing the 
+bond has no legal authority to reject or change the conditions; however if the officer has specific 
+
+
+===== PAGE 12 =====
+ENF 8 Deposits and Guarantees 
+2020-10-07 
+ 
+ 
+12 
+concerns regarding the deposit or guarantee requirements, the officer should communicate their 
+concerns to the Hearings Officer who can address them, if appropriate, with the ID.  
+ 
+7.2.3 Choice of deposit or guarantee: 
+ 
+ 
+When the imposition of a deposit or guarantee is warranted, deposits are always preferred to 
+guarantees, but a combination of both may be acceptable.  
+ 
+ 
+If the person who will be paying a deposit or posting a guarantee has sufficient liquid funds (see 
+Definitions) for the amount of deposit deemed appropriate, a deposit should be required.  
+ 
+7.2.4 Minimum qualifications for bondspersons: 
+ 
+ 
+Bondspersons must not have signed or co-signed another guarantee that is in default [R47(1)(a)]; 
+and  
+ 
+ 
+Bondspersons must have the capacity to contract in the province where the deposit is paid or the 
+guarantee posted [R47(1)(b)]. Bondspersons must not suffer from any serious mental disability 
+that would render them incapable of understanding the bond. In addition, they should be at the 
+age of majority according to the law of the relevant province or older. 
+Note: A guarantee that is “in default” means that a formal demand for payment of the amount 
+guaranteed has been made to the guarantor and the amount owing has not yet been paid or 
+otherwise extinguished. Where a person concerned under a guarantee has breached conditions 
+and no formal demand for payment of the guarantee has been issued, the guarantee is not in 
+default and the guarantor would not be disqualified under R47(1)(a). 
+ 
+ 
+Guarantors must be Canadian citizens or permanent residents, physically present and residing in 
+Canada [R47(2)(a)]; and  
+ 
+Note: The requirement that the guarantor be a Canadian citizen or a permanent resident does not 
+apply to cash bonds. 
+ 
+ 
+Guarantors must be able to ensure that the person concerned will comply with the conditions 
+imposed. 
+ 
+7.2.5 Conditions 
+ 
+ 
+It is imperative that the CBSA and IRCC officers ensure that the person concerned and the 
+bondsperson understand the conditions of the deposit or guarantee and the repercussions for 
+violating the conditions.  
+ 
+ 
+The bondsperson is required to acknowledge in writing (BSF579 for security deposits or 
+BSF507E for guarantees) that they have been informed of the conditions imposed and that non-
+compliance with any of the conditions will result in forfeiture of the deposit or enforcement of the 
+guarantee [R49(1)]. 
+ 
+ 
+CBSA Inland Enforcement Officers are normally responsible for monitoring of compliance of 
+conditions for deposits and guarantees.  
+ 
+ 
+Where the person concerned fails to comply with any of the conditions imposed, the deposit will 
+be declared forfeited or the guarantee will be enforced.  
+ 
+ 
+When the conditions under which the deposit or guarantee was posted are revoked or met, the 
+obligation under the deposit or guarantee becomes null and void and the deposit shall be 
+refunded.  
+
+
+===== PAGE 13 =====
+ENF 8 Deposits and Guarantees 
+2020-10-07 
+ 
+ 
+13 
+8 Procedures 
+ 
+8.1 General 
+ 
+8.1.1 Conditions in officer release cases where a bond is required 
+ 
+In addition to any other conditions, the following conditions shall be imposed on a person or a group of 
+persons for whom a deposit or guarantee is required (the person concerned):  
+ 
+ 
+Where a guarantee is being posted: 
+ 
+a) to provide IRCC or CBSA with the address of the guarantor; and to advise the appropriate 
+office before any change in that address [R48(1)(a)]; and  
+ 
+b) to present themselves at the time and place an IRCC or CBSA officer or the ID requires them 
+to appear to comply with any obligation imposed on them under the IRPA. [R48(1)(b)].  
+ 
+ 
+ 
+Where a deposit is being paid: 
+ 
+a) to provide IRCC or CBSA with their address; and to advise the appropriate office before a 
+change in that address [R48(2)(a)]; and  
+ 
+b) to present themselves at the time and place an IRCC or CBSA officer or the ID requires 
+them to appear to comply with any obligation imposed on them under the IRPA. 
+[R48(2)(b)]. 
+ 
+When a person is released by an officer from detention under a deposit or a guarantee with the condition 
+to appear at an admissibility hearing, the bond will become void after the appearance of the person at the 
+admissibility hearing. To avoid this situation, the conditions of the deposit or guarantee should include the 
+following wording:  
+ 
+ 
+that (name of person concerned) shall appear at the time and place required for the purpose of 
+scheduling an admissibility hearing under the Immigration and Refugee Protection Act for 
+admissibility hearing, and at each subsequent sitting of such admissibility hearing, for removal, or 
+whenever required. 
+ 
+An immigration admissibility hearing is not terminated by the effect of a subject of a deposit or guarantee 
+departing and seeking to re-enter Canada [Ravinder Kaur v. Minister of Employment and Immigration, 
+FCA, Doc. No. A-295-84, September 25, 1984; Harnek Singh Grewal v. Minister of Employment and 
+Immigration, FCA, Doc. No. A-42-80, May 7, 1980]:  
+ a guarantee is valid if the person who is the subject of the guarantee has not violated any of the 
+conditions; 
+ should the subject of a guarantee leave Canada and seek to re-enter to attend the continuation of 
+the immigration admissibility hearing, the CBSA officer at the port of entry (POE) should examine 
+the person to determine whether a new report and guarantee would be required; 
+ a guarantor may be liable for the amount of the guarantee.  
+ 
+When officers release a person concerned from detention on payment of a deposit or posting of 
+guarantee they shall use the Acknowledgement of Conditions – the IRCC form] BSF821 to record any 
+additional conditions imposed. 
+ 
+For information on cases where the ID releases a person concerned and imposes a bond, see Part 7.2.2 
+above, for policy and Part 8.2 below, for procedures. 
+ 
+
+
+===== PAGE 14 =====
+ENF 8 Deposits and Guarantees 
+2020-10-07 
+ 
+ 
+14 
+8.1.2 Amount of deposit and/or guarantee: 
+ 
+The amount of the deposit or guarantee is fixed by an officer in consideration of:  
+ 
+ 
+the financial resources of the person concerned or group;  
+ 
+the obligations resulting from the conditions imposed;  
+ 
+the costs of enforcement should a condition be breached; and  
+ 
+the costs that would be incurred to enforce a guarantee.   
+ 
+Where risk of non-compliance with conditions is high (e.g. history of non-compliance, serious 
+inadmissibility, etc.), a large deposit or guarantee may be a more appropriate incentive for compliance 
+with conditions.  
+ 
+Where the risk of non-compliance with conditions is low, financial resources may be the main factor in 
+determining amount. 
+ 
+A smaller amount may be appropriate when: 
+ 
+ 
+detention has been for a prolonged period due to circumstances beyond the CBSA’s control 
+(e.g. inability to obtain travel document where person concerned has cooperated, or inability to 
+remove to certain countries due to country conditions) and the person concerned has been 
+cooperative; or 
+ 
+ 
+prospects of conclusion of the case are very limited in the short term due to reasons outside of 
+the control of the CBSA or IRCC and not due to the person concerned’s failure to cooperate 
+with the CBSA and IRCC. 
+ 
+8.1.3 Illegally obtained money 
+ 
+If a CBSA or IRCC officer has reasonable grounds to believe (i.e. a belief based on credible evidence) 
+that a sum of money that a person would be obliged to pay as a deposit or under a guarantee was not or 
+would not be legally obtained, i.e. obtained in a manner in accordance with the law, the officer shall not 
+allow that person to pay a deposit or post a guarantee [R47(3)].  
+ 
+ 
+For the purposes of R47(3), illegally obtained money is money that has been either:  
+ 
+a) obtained or derived directly or indirectly as a result of the commission of an offence in 
+Canada; or 
+ 
+b) by an act or omission that occurred outside Canada that was an offence in the place that it 
+occurred and if it had occurred in Canada, would have also constituted an offence.  
+ 
+Officers may seek out sources of additional information regarding the source of the money offered for the 
+deposit if further corroboration is needed. For example, a credible explanation from the bondsperson may 
+either negate or justify the need for an officer to obtain further information. Additionally, the officer must 
+use discretion as to the severity of the circumstances and whether further enquires are warranted in the 
+circumstances. An example of this type of situation would be if a bondsperson is paying a $1,000 deposit 
+or posting a $1,000 guarantee, the officer might make some enquiries and if reasonable answers are 
+forthcoming, go no further; however if the bond is $20,000, the officer’s enquiries are expected to be more 
+thorough because the amount would reasonably be more of a burden to the bondsperson. 
+ 
+While one possible indicator of illegally obtained money is where the bondsperson indicates that they do 
+not file tax returns, it does not necessarily follow that their income was obtained in an illegal manner. For 
+example, if the bondsperson admits to not paying income tax, that does not necessarily equate to the 
+offence of tax evasion; however if the bondsperson admits to the offence of tax evasion, the officer should 
+
+
+===== PAGE 15 =====
+ENF 8 Deposits and Guarantees 
+2020-10-07 
+ 
+ 
+15 
+not accept the funds. If the bondsperson indicates that they do not pay taxes or file tax returns, officers 
+should engage in a more thorough inquiry to ensure that the money presented was not illegally obtained. 
+ 
+8.1.4 Importance of fully documenting each process, decision and rationale  
+ 
+Officers involved in the determination of whether to require a deposit or guarantee, or both; whether a 
+proposed bondsperson is suitable; whether a breach of a condition has occurred; and whether forfeiture 
+of the deposit or guarantee will be pursued must fully detail the reasons, including the factors considered, 
+for their recommendations and decisions on file. A rigorous approach to documenting actions and 
+decisions will assist others, including Hearings Officers and litigators, to understand and defend those 
+decisions.  
+ 
+8.2 Receiving Orders for Release from the Immigration Division (ID) or 
+delegated officer 
+ 
+Upon receipt, the CBSA officer shall review the Order for Release which sets out the conditions of 
+release. The Order for Release can prescribe release on: 
+ 
+ 
+a Cash Bond (deposit); 
+ 
+a Performance Bond (guarantee); 
+ 
+an Acknowledgement of Conditions; or 
+ 
+a combination of any of the above.  
+ 
+Where the Order for Release is to release on the Acknowledgement of Conditions only, officers shall 
+action the Order immediately on receipt, provided there are no outstanding conditions to be satisfied such 
+as the surrender of an identification or travel document. 
+ 
+Officers shall complete the Acknowledgement of Conditions [BSF821] in all cases, with the appropriate 
+conditions, and have the person concerned sign it. The person concerned is given a copy and the original 
+is placed on the client file with all associated release paperwork (copies of all bonds, bondsperson’s 
+identification documents, faxes, receipts, solemn declarations, applicable letters, proof of funds, 
+conditions of release, the Authority to Release from Detention form, etc.) 
+ 
+If release is ordered by the ID, have the person concerned sign conditions of release specified by the ID.  
+ 
+Where the person is to be released on the Acknowledgement of Conditions form plus the payment of a 
+deposit or the posting of a guarantee, officers shall comply with the procedures for deposits in Sections 
+8.5 to 8.9, or for guarantees in Sections 8.11 to 8.15, as applicable. 
+ 
+8.3 Modifications of conditions of release 
+ 
+Where release from detention was ordered by a CBSA officer under A56 before the first detention review, 
+a CBSA delegated officer may modify the conditions of release, including the deposit or guarantee.  
+ 
+Where the conditions were imposed by the ID under A58, only the ID may modify the conditions it 
+imposed. 
+ 
+When a person concerned’s conditions of release from detention have been modified and there is an 
+existing deposit or guarantee, the bondsperson must be notified and agree to the modifications in order 
+for them to continue to be legally bound by the deposit or guarantee. If they do not agree, the conditions 
+should not be modified or if the modification is deemed necessary, a new deposit or guarantee shall be 
+required if deemed appropriate in the circumstances for compliance with the conditions.  
+ 
+In cases where modification of conditions are considered and it comes to light that the bondsperson 
+cannot be notified as they are no longer at their last known address and the person concerned cannot 
+
+
+===== PAGE 16 =====
+ENF 8 Deposits and Guarantees 
+2020-10-07 
+ 
+ 
+16 
+provide their current address, the person concerned has breached the mandatory condition imposed 
+under R48(1)(a) to advise the IRCC or the CBSA of changes in the address of the bondsperson. 
+Forfeiture may be considered and actioned, if deemed appropriate in the circumstances. Should the 
+condition modification be deemed necessary, a new deposit or guarantee shall be required. 
+ 
+8.4 Surrendered passports and other documents 
+ 
+ 
+Where the surrender of the person concerned’s passport or other identity or travel document is 
+a condition of release, the passport or other document shall be placed in a Property Envelope, 
+clearly marked with the person concerned’s name and GCMS Unique Client Identifier (UCI) and 
+placed on the case file. 
+ 
+ 
+Officers shall provide the person concerned with a Notice of Seizure of Identity Document(s) 
+BSF698 form and update NCMS and GCMS with the information on the document seizure.  
+ 
+8.5 Deposits - General 
+ 
+The following guidelines apply to deposits (detailed procedures follow this section):  
+ 
+    A deposit is a sum of money required to ensure compliance by the person concerned with 
+conditions imposed by an IRCC or CBSA officer or the ID under IRPA or IRPR. 
+ 
+ A deposit may be provided by the person concerned or by a third party. 
+ 
+ A depositor: 
+ 
+o must not have signed or co-signed a guarantee that is in default [R47(1)(a)]; and  
+ 
+o must be of legal age with the capacity to contract in the province where the deposit is paid 
+[R47(1)(b)]. This means that the depositor must not suffer from a serious mental disability that 
+renders them unable to understand the conditions of the deposit and other conditions. 
+ 
+The CBSA or IRCC officer should consider whether the person concerned, who is the subject of a 
+removal order, will likely be removed from Canada within a reasonable time.  
+ 
+When considering taking a deposit from the person concerned, CBSA and IRCC officers should consider 
+whether the amount of deposit is sufficiently high that the possibility of its forfeiture will motivate the 
+person concerned to comply with all conditions. If it is reasonably unlikely that the person concerned’s 
+compliance will be ensured by the potential loss of the deposit, officers may consider requiring that any 
+deposit be paid by a suitable third party. 
+ 
+Deposits by the lawyer for the person concerned or group may be made “in trust” for their client and, as 
+such, are a debt by the client to the lawyer. They should not be considered a deposit by a third party. The 
+consideration should be whether the requirement to pay that debt to the lawyer, should the deposit be 
+forfeited, will be sufficient motivation for the person concerned or group to comply with the conditions. 
+ 
+Although the IRPR does not require that the depositor be a Canadian citizen or a permanent resident, 
+CBSA and IRCC officers taking a deposit from a third party should require that the depositor have legal 
+status under IRPA and be physically present and reside in Canada, and be able to ensure that the person 
+concerned or group will comply with the conditions imposed if these requirements are deemed necessary 
+in the circumstances to achieve the compliance objective of the deposit. 
+ 
+If the person concerned defaults on or breaches any of the conditions, legal proceedings may be taken to 
+forfeit the deposit (see Part 8.19).  
+ 
+
+
+===== PAGE 17 =====
+ENF 8 Deposits and Guarantees 
+2020-10-07 
+ 
+ 
+17 
+When the conditions under which the deposit was paid are revoked or met, the deposit must be refunded 
+(see Part 8.19).  
+ 
+8.6 Ability to ensure person concerned will comply with deposit 
+conditions  
+When exercising their authority to impose a deposit, officers may assess whether a proposed depositor is 
+able to ensure that the person concerned complies with conditions imposed. Under A56(1) this will form 
+part of a CBSA officer’s requirement to consider alternatives to detention. To clarify, where the matter is 
+before the ID, the ID member will be responsible for conducting this assessment during the detention 
+review.  
+In the assessment, officers may consider factors such as: 
+ 
+the length and closeness of relationship of the depositor with the person concerned or group;   
+ 
+ 
+whether they are related;   
+ 
+ 
+whether the depositor has real influence over the person concerned or group;  
+ 
+ 
+whether they live in close proximity and the frequency of their contact; 
+ 
+ 
+whether the existence of the deposit and the possibility of its forfeiture will serve as an 
+incentive towards compliance by the person concerned   
+ 
+ 
+the financial means of the depositor. 
+If the officer in the circumstances  determines that the depositor is unlikely to be able to ensure 
+compliance with the conditions, the officer may refuse the depositor, except when the release is ordered 
+by the ID. Officers may consider accepting another person as a depositor in these cases, if one is 
+available and willing to post the bond. Officers shall fully document this decision and the reasons in the 
+case file. 
+ 
+For further details regarding the assessment of risk and evaluating alternatives to detention, officers 
+should refer to ENF 20 Detentions and ENF 34 Alternatives to detention. 
+ 
+8.7 Establish identity of depositor 
+ 
+The IRCC or CBSA should require that the depositor provide the following original genuine 
+documentation to prove their identity, status and residence: 
+ 
+ 
+Government-issued photo identification (e.g. passport; driver’s license; permanent resident card) 
+showing the image of the depositor, their name, and age or date of birth; 
+ 
+Proof of status in Canada (e.g., passport; permanent resident card; birth certificate, citizenship 
+card); and  
+ 
+A document stating the depositor’s current residential address (e.g., driver’s license, water bill, 
+hydro bill, cable bill). 
+ 
+
+
+===== PAGE 18 =====
+ENF 8 Deposits and Guarantees 
+2020-10-07 
+ 
+ 
+18 
+Copies of the original identity, status and residency documentation provided for the establishment of the 
+depositor’s identity shall be placed on file and shall accompany the security deposit information when 
+sent to the Revenue Accounting and Reporting Division.  
+ 
+Failure to provide requested identity, status and residency documents may result in the rejection of the 
+depositor or a direction to the proposed depositor to return at a later time with the requested 
+documentation. 
+ 
+8.8 Acceptable forms of payment for deposits 
+ 
+Deposits must be paid by the individual listed on the Order for Release. 
+ 
+Acceptable forms of payment, payable to the Receiver General for Canada, are: 
+ 
+ 
+Bank draft; 
+ 
+Money order; 
+ 
+Certified cheque; 
+ 
+Debit cards; 
+ 
+Credit cards, so long as the credit card holder is the same person as the depositor listed on the 
+order for release;  
+ 
+Travellers cheques; and  
+ 
+Cash – only in offices with capability of processing cash payments. 
+ 
+ 
+Pre-paid credit cards are not acceptable. 
+ 
+When payment is via credit card, officers shall copy the front and back of the credit card used and forward 
+it with the deposit package to the Revenue Accounting and Reporting Division for the CBSA and if the 
+deposit is taken by an IRCC officer, to:  Accounting Operations, Revenue Unit, NHQ, at the completion of 
+the deposit process.  
+ 
+Payment may be made only in Canadian funds, or in the exceptional port of entry case described below, 
+in U.S. funds: 
+ 
+ 
+U.S. funds shall be accepted only at the port of entry where the depositor does not have sufficient 
+Canadian funds. CBSA officers shall indicate in the Security Deposit form [BSF579] that U.S. 
+currency was accepted. The depositor shall be advised that refunds will be paid in Canadian 
+funds and that no interest is paid on the deposit.  
+ 
+ 
+CBSA officers should refer to Acceptable Forms of Payment in Chapter 10, Section 1 of the 
+Comptrollership Manual, Finance Volume, for more detailed information 
+ 
+8.9 Taking the deposit 
+ 
+Two employees are needed to take a deposit, one of whom must be a delegated officer.  This is to ensure 
+that there is a witness so that there is protection against accusations of mishandling funds. 
+ 
+The Security Deposit form [BSF579] must be completed and, unless the ID has issued the order for 
+release using their own form, the Acknowledgement of Conditions form [BSF821] must also be 
+completed.  Officers must ensure that the information is complete (including the mailing address) and 
+easy to read. 
+ 
+For R45(1) port of entry cases, the CBSA officer will begin the process by completing the Request for 
+Security Deposit [BSF517E] pursuant to subsection 45(1) of the IRPR. 
+  
+
+
+===== PAGE 19 =====
+ENF 8 Deposits and Guarantees 
+2020-10-07 
+ 
+ 
+19 
+The CBSA or IRCC officer:  
+ 
+ 
+records the personal information of the depositor (full name, date of birth, address, phone 
+numbers, driver’s license number, status, name, address and phone number of employer, 
+relationship to person concerned, etc.) for the file; 
+ 
+ 
+verifies that the information on the money order, bank draft, or certified cheque is correct. For 
+cash handling procedures, see below; 
+ 
+ 
+completes the Security Deposit form [BSF579] after receiving the sum of money; 
+ 
+ 
+advises the depositor that should conditions be met, the deposit will be refunded in the form of a 
+cheque (Canadian currency), which may take several months to be processed and that no 
+interest will be paid;  
+ 
+ 
+advises the depositor that it is imperative that they advise the CBSA if they change addresses as 
+the deposit will be refunded to the address listed on the Security Deposit form; 
+ 
+ 
+completes the Acknowledgement of Conditions form [BSF821], (unless the ID has ordered 
+release and issued their own form to impose conditions); 
+ 
+ 
+explains the conditions and the consequences of non-compliance to the person concerned and 
+depositor, ensuring that they understand their responsibilities and the consequences should the 
+person concerned not comply with any of the conditions imposed; 
+ 
+ 
+ensures that the person concerned and a witness sign the Acknowledgement of Conditions form 
+[BSF821] (where applicable) and in port of entry cases, the Request for Security Deposit form 
+[BSF517E]; 
+ 
+ 
+gives copy 1 (white copy) of the Security Deposit Form (which is also the official receipt) and a 
+copy of the signed Acknowledgement of Conditions to the depositor; in port of entry cases, 
+provide a copy of the Request for Security Deposit form to the depositor; 
+ 
+ 
+If the depositor has presented a signed and sealed Power of Attorney document for an 
+assignment for the refund of the deposit, CBSA officers shall send the original copy of the 
+document, not a photocopy, to Revenue Accounting and Reporting Division at the address below; 
+and for IRCC officers, to: Accounting Operations, Revenue Unit, NHQ; 
+ 
+ 
+advises the person concerned that failure to confirm departure from Canada may result in the 
+forfeiture of the deposit if conditions of the deposit require departure from Canada on or before a 
+specified date; 
+ 
+ 
+provides detailed reasons in file notes for the decision to require a deposit;  
+ 
+ 
+CBSA staff shall follow the procedures for depositing payments into a financial institution set out 
+in Receipts, Deposits and Safeguarding of Public Money and Monetary Assets in Chapter 10, 
+Section 11 of the Comptrollership Manual, Finance Volume; 
+ 
+ 
+The deposit information needs to be entered into the financial systems.  The Corporate 
+Administrative System (CAS) document number, or if using TEPs/G11, the K21 or K10 document 
+number needs to be recorded on the Security Deposit form [BSF579]; 
+ 
+ 
+After ensuring the financial systems are updated, CBSA staff shall forward the following 
+documentation to the CBSA Revenue Accounting and Reporting Division, 355 North River Road, 
+18th Floor, Ottawa, ON K1A 0L8: 
+
+
+===== PAGE 20 =====
+ENF 8 Deposits and Guarantees 
+2020-10-07 
+ 
+ 
+20 
+o 
+a copy of both sides of the credit card, if payment is by credit card; 
+o 
+copy 2 of the Security Deposit form [BSF579]; 
+o 
+a copy of the K10 document if deposit entered in G11; 
+o 
+original of any valid Power of Attorney signed by the depositor. 
+ 
+IRCC officers shall forward the following documentation to the  Accounting Operations, Revenue Unit, 
+NHQ, 70 Crémazie Street, Gatineau, QC, K1A 1L1:  
+ 
+ 
+depositor’s personal information (full name, date of birth, address, phone numbers, driver’s 
+license number, status, name, address and phone number of employer, relationship to person 
+concerned, etc.); 
+ 
+a copy of both sides of the credit card, if payment is by credit card; 
+ 
+for payment methods other than credit card, all funds collected must be sent to the Revenue Unit, 
+NHQ to be deposited in NHQ bank account; 
+ 
+copy 2 of the Security Deposit form [BSF579]; 
+ 
+original of any valid Power of Attorney signed by the depositor. 
+ 
+Hard copies of the bank deposit slip and the internal deposit slip shall be placed in the person 
+concerned’s file. 
+ 
+Cash handling procedures 
+When a deposit is paid in cash, the following procedures will be incorporated into the procedures above: 
+ 
+ 
+The officer and the second employee shall separately count the currency in the presence of each 
+other to verify accuracy, noting the currency denominations on the Security Deposit form [BSF579];  
+ 
+ 
+They shall each sign the Security Deposit form; 
+ 
+ 
+They shall seal the BSF579 form along with the cash in an envelope and shall initial it over the 
+seal; 
+ 
+ 
+The envelope must be labelled with the person concerned’s name, client I.D., deposit number and 
+the amount of the deposit; 
+ 
+ 
+The deposit information is recorded in the office log for bonds, and the officer and employee 
+witness shall initial the entry; 
+ 
+ 
+The officer shall notify the manager via email that a cash deposit has been received, specifying the 
+amount of the deposit, the name of the depositor and the document number of the deposit; 
+ 
+ 
+The officer and employee witness shall deposit the sealed envelope and corresponding documents 
+into the safe in the office; 
+ 
+  The employee responsible for handling cash payments in the office will retrieve the sealed envelope 
+with accompanying documentation from the drop safe in the presence of a CBSA manager and 
+verify the cash amount in the envelope, then secure the cash and documentation in the petty cash 
+safe in the presence of a witness;  
+ 
+ 
+The employee responsible for regional finance transactions will enter the deposit information into 
+CAS and record the numbers generated by CAS on the security deposit form [BSF579]. 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 21 =====
+ENF 8 Deposits and Guarantees 
+2020-10-07 
+ 
+ 
+21 
+8.10 Altering or amending a deposit 
+ 
+An amended deposit may be warranted if any of the conditions of the original deposit have been altered 
+or amended; 
+ 
+When the subject of a deposit makes a request to the CBSA, IRCC or the ID to have any reporting 
+conditions modified and the request is granted, the depositor must be made aware of the new conditions 
+imposed on the subject. The depositor is required to appear at the CBSA or IRCC office as applicable 
+and sign the amendment to the conditions of the deposit; 
+ 
+The original office involved in the original imposition of the deposit, should whenever possible, be advised 
+of any alterations, amendments, extensions, and refunds. 
+ 
+Procedures to increase the amount of the original deposit 
+ 
+To increase the amount of the original deposit, the IRCC or CBSA officer:  
+ 
+ 
+advises the depositor that an additional deposit is required; 
+ 
+ 
+completes a second Security Deposit form [BSF579] to replace the original form;  
+ 
+ 
+provides reasons for the increased amount of the deposit in NCMS or GCMS (as appropriate);  
+ 
+ 
+ticks off 'Replaces previous security deposit no...' in the Official Receipt box of the Security Deposit 
+form, and add the previous deposit number; 
+ 
+ 
+for the CBSA, forward copy 2 of the BSF579 to CBSA Revenue Accounting and Reporting Division, 
+355 North River Road, 18th Floor, Ottawa, ON K1A 0L8; and  
+ 
+ 
+for IRCC, forward copy 2 of the BSF579 to Accounting Operations, Revenue Unit, NHQ, 70 
+Crémazie Street, Gatineau, QC, K1A 1L1  . 
+ 
+ 
+Procedures to reduce the amount of the original deposit 
+ 
+To reduce the amount of the original deposit, the CBSA or IRCC officer:  
+ 
+ 
+completes a Requisition for Refund / Forfeiture of Security Deposit form [IMM 0709B] to request a 
+partial refund of the original deposit; 
+ 
+ 
+provides reasons for the decreased amount of the deposit in NCMS; 
+ 
+ 
+for the CBSA, forwards copies 1 and 2 of the IMM 0709B and documentation showing the current 
+address and the proper full name of the depositor (copies of identity documents; proof of address, 
+etc.) to CBSA Revenue Accounting and Reporting Division, 355 North River Road, 18th Floor, 
+Ottawa, ON K1A 0L8; and 
+ 
+For IRCC, forwards copies 1 and 2 of the IMM 0709B to Accounting Operations, Revenue Unit, NHQ, 70 
+Crémazie Street, Gatineau, QC, K1A 1L1. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 22 =====
+ENF 8 Deposits and Guarantees 
+2020-10-07 
+ 
+ 
+22 
+8.11 Guarantees - General 
+ 
+A guarantee is a written enforceable undertaking by a third party that the person who is the subject of the 
+guarantee (the person concerned) will abide by the conditions imposed by a CBSA or IRCC officer or by 
+the ID and to forfeit or pay a sum of money to the Crown if the person concerned breaches any 
+conditions. The guarantor and the person concerned must both agree to the conditions.  
+A guarantor is not required to provide the sum of money, unless the subject of the guarantee does not 
+comply with the conditions, hence, a guarantee is also referred to as a conditional bond.  
+Officers must ensure that prospective guarantors: 
+ 
+o 
+are Canadian citizens or permanent residents; 
+ 
+o 
+are physically present;  
+ 
+o 
+reside in Canada; 
+ 
+o 
+have not signed or co-signed another guarantee that is in default; 
+ 
+o 
+have capacity to contract in the province where the guarantee is posted, i.e. be of legal age 
+and capable of understanding the guarantee and its possible consequences; 
+ 
+o 
+be able to ensure that the person concerned will comply with the conditions imposed; and  
+ 
+o 
+present evidence of their ability to fulfil the obligation arising from the guarantee, i.e. pay the 
+debt if the guarantee is forfeited. This is the determination of solvency. 
+ 
+When multiple guarantors are required, all must be present and all must qualify as guarantors.  Failure of 
+one to qualify will result in the rejection of the guarantee. 
+ 
+Role of the Hearings Officer relating to guarantees 
+ 
+The Hearings Officer will generally recommend to the member of the ID that a minimum set of conditions 
+be imposed on the person concerned, including the following:  
+ 
+ 
+that the person concerned shall present themselves at the time and place that an officer, the 
+Immigration Division, the Minister or the Federal Court requires them to appear to comply with any 
+obligation imposed on them under the IRPA; 
+ 
+that the person concerned shall  inform the Canada Border Services Agency (CBSA) and/or 
+Immigration Refugees and Citizenship Canada (IRCC) in writing of their address and, in advance, of 
+any change in that address; 
+ 
+that the person concerned shall not commit an offence under an Act of Parliament or an offence that, 
+if committed in Canada, would constitute an offence under an Act of Parliament. 
+ 
+The Hearings Officer provides detailed reasons in the file notes for the recommendation that a 
+guarantee be imposed. 
+ 
+8.12 Ability to ensure the person concerned will comply with conditions 
+of guarantee 
+ 
+When exercising their authority to impose a guarantee, officers shall assess whether a proposed 
+guarantor is able to ensure that the person concerned complies with conditions imposed [R47(2)(b)]. To 
+
+
+===== PAGE 23 =====
+ENF 8 Deposits and Guarantees 
+2020-10-07 
+ 
+ 
+23 
+clarify, where the matter is before the ID, the ID member will be responsible for conducting this 
+assessment during the detention review. 
+ 
+R47(4) lists the prescribed factors that must be considered in assessing whether the person who posts 
+a guarantee has the ability to ensure that the person or group of persons in respect of whom the 
+guarantee is required will comply with the conditions imposed.  These are to be considered in addition to 
+existing regulatory requirements under R47(1) and (2): 
+ 
+a) their relationship to the person or group of persons in respect of whom the guarantee is 
+required; 
+b) their financial situation; 
+c) any previous history posting a guarantee; 
+d) their criminal record; and 
+e) any other relevant factor in determining their ability to ensure that the person or group of 
+persons in respect of whom the guarantee is required will comply with the conditions imposed. 
+ 
+The application of these prescribed factors under R47(4) will turn on the facts of each case.  
+ 
+The following is a non-exhaustive list of specific considerations that may assist an officer who is 
+considering imposing a guarantee, in considering whether a guarantor has the ability to ensure 
+compliance pursuant to the requirement under R47(2)(b) and the prescribed factors under R47(4): 
+ 
+ 
+Nature and duration of relationship to the person concerned and the strength of that relationship; 
+ 
+Whether proposed guarantor was aware of the person’s status in Canada; 
+ 
+Whether proposed guarantor was aware that the person was coming to Canada; 
+ 
+When was the last time the guarantor had contact with or spoke to the person concerned;  
+ 
+Current employment of guarantor and number of years with that employer; 
+ 
+Annual income of guarantor based on last notice of assessment; 
+ 
+Whether guarantor owns a home or other property and value of that property; 
+ 
+Whether guarantor is the sole owner of that property; 
+ 
+Whether the guarantor supports any dependents; 
+ 
+Whether the guarantor has ever posted an immigration bond before and, if so, the outcome; 
+ 
+Whether the guarantor has any criminal record in Canada or elsewhere and, if so, whether the 
+nature of any criminal conviction(s) would cast doubt on their ability to ensure compliance with 
+conditions (e.g. breach of a court order). 
+ 
+Other potential relevant considerations (non-exhaustive) relating to R47(4)(e): 
+ 
+ 
+Whether the person concerned will reside with the guarantor if a guarantee is signed on their 
+behalf and, if not, whether the guarantor will be living in physical proximity to the person for whom 
+they are signing a guarantee; 
+ 
+Whether the guarantor ever posted bail in relation to a criminal matter in Canada and, if so, the 
+outcome; 
+ 
+Whether the bondsperson ever employed the person concerned illegally while in Canada;   
+ 
+What arrangements would be in place for the guarantor to be able to exercise control and 
+influence over the actions of the person concerned; and 
+ 
+Whether the proposed guarantor had knowledge of, or harboured the person concerned while 
+that person was illegally in Canada 
+ 
+Where necessary, officers may conduct checks in the Global Case Management System (GCMS), 
+National Case Management System (NCMS) and other relevant databases regarding the potential 
+guarantor(s) and make appropriate and reasonable enquiries as deemed necessary and appropriate as 
+long as it is for the purpose of assessing the prescribed factors under R47(4) for determining the ability of 
+a proposed guarantor to ensure compliance. 
+ 
+
+
+===== PAGE 24 =====
+ENF 8 Deposits and Guarantees 
+2020-10-07 
+ 
+ 
+24 
+Officers should keep in mind that the factors under R47(4) are considerations, but are not in and of 
+themselves determinative of whether the guarantor has the ability to ensure compliance with a guarantee. 
+For example, if it is discovered that the guarantor has a criminal record, it does not automatically 
+disqualify the person from acting as a guarantor, but may lead the officer to question the person’s 
+suitability as a guarantor and determine that, in the circumstances of the case, the criminal conviction 
+would cast doubt on the person’s ability to ensure compliance with conditions (e,g., conviction for breach 
+of a court order). 
+ 
+If the officer considering whether to impose a guarantee determines that the proposed guarantor is 
+unlikely to be able to ensure compliance with the conditions, the officer may refuse the guarantor (see 
+Part 8.17 below for procedures on rejecting a guarantee). Officers may then consider other potential 
+guarantors  in these cases, unless the release was ordered by the ID, if others are available and willing to 
+post the guarantee. Officers shall fully document this decision and the reasons in the case file. In cases 
+where there has been an arrest under A55, this decision will be reflected in their consideration of 
+alternatives to detention.  For further details regarding the assessment of risk and evaluating alternatives 
+to detention, officers should refer to ENF 20 Detentions and 34 Alternatives to detention. 
+ 
+The prescribed factors under R47(4) are also applicable to decisions of the ID at detention reviews. 
+CBSA Hearings Officers are to monitor the application of these provisions by ID Members at detention 
+reviews and make submissions where necessary. Failure by the ID Members to assess a potential 
+guarantor by applying the prescribed factors under R47(4) would constitute an error in law reviewable at 
+the Federal Court.  
+ 
+While CBSA officers (including Inland Enforcement Officers, Hearings Officers and Hearings Advisors) 
+are free to conduct appropriate system checks as deemed necessary for the purpose of detention reviews 
+and the assessment of the guarantor’s solvency when processing an ID order for release, such checks 
+should not be conducted upon request of the IRB. The CBSA is not the enforcement arm of the IRB.  
+ 
+Officers are reminded that, once the ID has made a decision to release on specified conditions, an officer 
+has no legal authority to change the conditions at the time of processing the bond and may not reject the 
+bond based on R47(2)(b). If, during bond processing, concerns arise regarding the bondsperson named 
+by the ID (e.g. it is discovered through system checks following the issuance of the ID release order that 
+the named guarantor provided false information to the ID regarding one of the R47(4) considerations), the 
+officer should communicate their concerns without delay to the Hearings Officer who can address them, 
+as appropriate, with the ID. In such situations, it remains the case that officers may not reject the 
+guarantee based on factors other than the requirements under R47(1), R47(2)(a), the solvency 
+assessment under R47(2)(c) or the application of R47(3).   
+ 
+ 
+8.13 Establish identity of guarantor 
+ 
+Guarantors must provide the IRCC or CBSA officer taking the guarantee with the following original, 
+genuine documentation to prove their identity, age, status and residence: 
+ 
+ government-issued photo identification (e.g. driver’s license, passport, permanent resident card) 
+showing the image of the guarantor, their name, and age or date of birth; 
+ 
+ proof of status in Canada (e.g. passport; birth certificate, citizenship certificate, certificate of Indian 
+status, permanent resident card); and 
+ 
+ a document showing the guarantor’s current residential address (e.g. driver’s license, utility bill, bank 
+statement, pay stub).  
+ 
+ copies of the original identity documentation will be placed on file. 
+ 
+
+
+===== PAGE 25 =====
+ENF 8 Deposits and Guarantees 
+2020-10-07 
+ 
+ 
+25 
+ failure to provide identity, status and residency documents will result in the rejection of the application 
+to post a guarantee or a direction to the proposed guarantor to return at a later time with the required 
+documentation. 
+ 
+8.14 Determining solvency for guarantors 
+ 
+The requirement that a guarantor be solvent, i.e. have sufficient liquid funds to pay the guarantee if it is 
+enforced, is intended to ensure that the Government is able to collect on the debt should the guarantor go 
+into default upon non-compliance by the person concerned with conditions.  
+ 
+The following principles should guide the determination of solvency: 
+ 
+ 
+the guarantor’s annual income should be assessed first. The annual income minus liabilities on 
+income should be three (3) times the total of the guarantee. For example, a requirement of a 
+guarantee in the amount of $5,000 would require net income of at least $15,000 (3 x $5,000). A 
+person with annual income of $50,000 and annual liabilities totalling $20,000 leaving $30,000 net 
+income would qualify to post the guarantee. If the guarantor’s annual net income is insufficient, then 
+the guarantor’s assets shall be assessed. 
+ 
+ 
+when assessing income alone, the liabilities to take into account are the total of the annual liabilities, 
+not the total liability. For example, a loan of $15,000 payable monthly in the amount of $200 would 
+constitute a $2,400 annual liability for the guarantor. A rent or mortgage payment of $1000 per month 
+would constitute a $12,000 annual liability.  
+ 
+ 
+assets alone without any income are a strong indication that the individual is likely not solvent, 
+however, officers may consider individual circumstances of the case before making a decision.  
+ 
+ 
+when the amount of the guarantee is too high for the guarantor to qualify on annual income alone, 
+both income and assets are assessed; the guarantor’s solvency is calculated by totalling the 
+guarantor’s annual income and current assets minus existing total liabilities.  
+ 
+ 
+officers should ask for income and assets in an amount approximately three times the total amount 
+of the guarantee to be posted.   
+ 
+ 
+existing liabilities should be subtracted from the total of the guarantor’s combined income and assets 
+for the calculation of solvency. For example, if the guarantor’s annual income is $65,000 and they 
+own a house valued at $300,000, and they have no other qualifying assets, their total income and 
+assets would be $365,000. If the guarantor’s mortgage on the house is $280,000, their car loan 
+balance is $20,000, their student loan balance is $25,000 and they have a line of credit balance in 
+the amount of $15,000, then their total liabilities are $340,000. They have the net amount of $25,000 
+($365,000 - $340,000) available for a guarantee, however, if the guarantee required was $10,000, 
+they would be deemed insolvent as a $10,000 guarantee requires $30,000 in available income and 
+assets. 
+ 
+ 
+liabilities or debts include mortgage balances; outstanding loan balances; student loan balances; 
+credit card balances; line of credit balances; annual rent obligations; and the average yearly cost of 
+monthly utility payments (e.g. phone, internet, cable, hydro, water, gas/oil).  
+ 
+ original documentation of source of funds must be provided, and if accepted towards the 
+determination of solvency, copies shall be taken and placed on file.  
+ 
+ 
+where reasonable in the circumstances, to assist in the determination of solvency, officers may 
+request proposed guarantors to provide a recent credit report.  
+ 
+
+
+===== PAGE 26 =====
+ENF 8 Deposits and Guarantees 
+2020-10-07 
+ 
+ 
+26 
+Assessing income 
+ 
+Income which is not eligible for solvency determination:  
+ 
+ 
+welfare, social assistance, family allowances, child tax benefits, child support payments, medical 
+disability, and worker’s compensation should not be considered in the solvency determination given 
+that these payments are made in the public interest and it is unlikely that the Crown would seek to 
+recover the amount of the guarantee from these payments to pay the debt on default; 
+ 
+Income which is eligible for solvency determination includes:  
+ 
+ 
+employment income, proven by the three most recent Canada Revenue Agency (CRA) Notices of 
+Assessment, pay stubs; 
+  
+ 
+Employment Insurance benefits, including maternity leave benefits and parental leave benefits, 
+proven by EI statements, or the T4E;  
+ 
+ 
+Canada Pension Plan payments / Quebec Pension Plan payments, proven by pension statements or 
+financial institution statements showing these deposits; 
+ 
+ 
+Old Age Security payments, proven by OAS statements or financial institution statements showing 
+these deposits;  
+ 
+ 
+other pension payments, proven by pension statements or financial institution statements showing 
+these deposits; 
+ 
+ 
+investment income such as dividends or interest, proven by the T5 Statement of Investment Income; 
+ 
+ 
+trust income, proven by T3 Statement of Trust Income; 
+ 
+ 
+rental income, proven by recent income tax forms submitted to the CRA, or financial institution 
+statements showing these payments as deposits combined with proof of title to the rental property 
+and rental agreements; 
+ 
+ 
+earnings on a life insurance policy, proven by statements from the life insurance company; 
+ 
+ 
+spousal support (alimony) payments, proven by most recent income tax form filed, or by financial 
+institution statements showing the deposits combined with the agreement/court order showing the 
+amount to be paid; 
+ 
+ 
+business income, proven by the most recent tax filings, or by financial institution professional 
+business account statements.  
+ 
+Regularly documented cash deposits into a guarantor’s accounts may be proof of income; however 
+officers should require credible evidence of the origin of these deposits and their continuing nature, as 
+well as reasonably satisfying themselves that they are not illegally obtained. 
+ 
+In cases where officers deem it reasonably appropriate in the circumstances, they may accept alternative 
+documentary proof of income or require additional corroborating proof.  
+ 
+Assessing assets: 
+ 
+ assets acceptable for a guarantee should be capable for easy liquidation by the Crown. 
+ 
+ equity in property is acceptable as long as the property is in Canada. 
+
+
+===== PAGE 27 =====
+ENF 8 Deposits and Guarantees 
+2020-10-07 
+ 
+ 
+27 
+ 
+ where the guarantor owns an asset with another person or persons, only the percentage of equity 
+owned by the guarantor will be considered for proof of solvency;  
+ 
+ letters of credit, credit limits on credit cards, and unused or available lines of credit are not considered 
+assets;  
+ 
+Assets which should not be accepted for solvency determination: 
+ 
+ 
+assets held in foreign locations (e.g. offshore accounts) due to the difficulty of seizing these assets 
+upon forfeiture; 
+ 
+ 
+assets held in forms of ownership so complicated that enforcing the debt would be overly time 
+consuming and difficult, for example, a commercial building held by a number of owners; 
+ 
+ 
+Registered Retirement Savings Plans (RRSP); 
+ 
+ 
+Registered Educational Savings Plans (RESP); 
+ 
+ 
+value of pension plans, including personal locked-in or prescribed plans such as Locked In 
+Retirement Accounts (LIRA), Life Income Funds (LIF), Life Registered Income Funds (LRIF), etc. 
+(Note: all provinces provide unconditional protection against creditors for money held in a pension plan or when 
+transferred out to a personal locked or prescribed plan such as a LIRA, LIF, LRIF) 
+ 
+ 
+Canada savings bonds and bonds issued by entities other than the Government of Canada; 
+ 
+ 
+vehicles of any type; 
+ 
+ 
+tools; 
+ 
+ 
+machinery; 
+ 
+ 
+personal property such as furniture, antiques, collectibles, jewelry, artwork, clothing, and other 
+personal effects. 
+ 
+Eligible assets for solvency determinations include: 
+ 
+ 
+savings, proven by the previous 12 month period of financial institution statements; 
+ 
+ 
+Guaranteed Investment Certificates (GICs), proven by financial institution statements; 
+ 
+ 
+Treasury bills, proven by financial institution statements; 
+ 
+ 
+bonds issued by the Government of Canada which are transferrable (Canada Savings Bonds are not 
+acceptable because they are not transferable), proven by bond certificates; 
+ 
+ 
+stocks, proven by stock certificates, where the principle investment is at least 12 months old; 
+ 
+ 
+equity in real estate, proven by the registered title or deed to the property, the mortgage balance 
+statement or mortgage discharge, where applicable, and the most recent municipal property tax 
+assessment or property evaluation done by the bank or other reputable institution;  
+ 
+Officers may accept other documentary proof of assets, or require additional corroborating proof in cases 
+where they deem it appropriate in the circumstances.  
+ 
+
+
+===== PAGE 28 =====
+ENF 8 Deposits and Guarantees 
+2020-10-07 
+ 
+ 
+28 
+8.15 Taking a guarantee  
+ 
+To take a guarantee, the IRCC or CBSA officer shall: 
+ 
+ 
+ensure that information showing that the guarantor meets regulatory requirements is recorded 
+and placed on file; 
+ 
+ 
+photocopy all documents produced to prove income and assets as well as identification 
+documents, and place on file; 
+ 
+ 
+complete the Solemn Declaration of Solvency by Guarantor form [BSF564]; 
+ 
+ 
+complete the Guarantee form IMM1230E;  
+ 
+ 
+complete the Guarantee (where there are Co-signers) Bond, where applicable [BSF 507]; 
+ 
+ 
+complete the Guarantee Log form to maintain control of guarantees issued and for statistical 
+purposes [IMM 5073B]; 
+ 
+ 
+complete the Acknowledgement of Conditions form [BSF821] which shall be written in a clear and 
+precise manner in order to render the guarantee enforceable;  
+ 
+explain the conditions and the consequences of non-compliance to the person concerned and the 
+guarantor, ensuring that the guarantor understands their responsibilities and the consequences 
+should the person concerned not respect any of the conditions imposed;  
+ 
+ 
+ensure that the person concerned and a witness sign the Acknowledgement of Conditions form 
+[BSF821]. (Under R49(1), the guarantor must acknowledge in writing that they have been 
+informed of the conditions imposed and that non-compliance with any of the conditions will result 
+in forfeiture of the deposit or enforcement of the guarantee); 
+ 
+ 
+provide a copy of the guarantee, the Declaration of Solvency, and the Acknowledgement of 
+Conditions form to the guarantor; and a copy of the Acknowledgement of Conditions to the person 
+concerned; 
+ 
+ 
+place the original guarantee and Declaration of Solvency, and a copy of all other signed forms on 
+file; 
+ 
+ 
+provide detailed reasons in the file notes for the recommendation that a guarantee be imposed; 
+and 
+ 
+ 
+update GCMS and NCMS, as applicable. 
+ 
+8.16 Altering or amending a guarantee 
+ 
+Any unilateral attempt to alter or amend the conditions upon which a guarantee was posted shall not be 
+enforceable. The original guarantee will remain valid and enforceable. 
+ 
+The conditions of a guarantee cannot be altered without the consent of all parties, e.g., an IRCC or 
+CBSA officer or a member of the ID, signatory to the guarantee as well as the guarantor. 
+ 
+An amended guarantee is required if any of the conditions of the original guarantee have been altered 
+or amended. 
+ 
+
+
+===== PAGE 29 =====
+ENF 8 Deposits and Guarantees 
+2020-10-07 
+ 
+ 
+29 
+When the person concerned makes a request to the CBSA, IRCC or the ID to have any reporting 
+conditions modified and the request is granted, the guarantor must be made aware of the new 
+conditions imposed on the person concerned; and the guarantor is required to appear at the CBSA or 
+IRCC office as applicable and sign the Amendment to Guarantee for Compliance Issued form 
+[IMM 5071B] outlining the amended conditions. The person concerned is also required to sign the form. 
+ 
+The original office involved in the taking of the original guarantee must be advised of any alterations, 
+amendments, and extensions. 
+ 
+ 
+Procedures to increase the amount of the original guarantee: 
+ 
+To increase the amount of the original guarantee, a CBSA or IRCC officer shall: 
+ 
+ 
+advise the guarantor that the change in conditions means that the guarantee amount is being 
+increased; 
+ 
+ 
+reassess the solvency of the guarantor for the increased amount, following the process outlined in 
+8.14 above, complete the Solemn Declaration of Solvency by Guarantor form [BSF564] and the 
+Guarantee Log [IMM 5073B];  
+ 
+ 
+complete the Amendment to Guarantee for Compliance form [IMM 5071B], explain amended 
+conditions to the guarantor and ensure that the guarantor and a CBSA or IRCC witness sign the 
+form;  
+ 
+ 
+provide a copy of the form IMM 5017B to the guarantor and place the original on file; and 
+ 
+ 
+update GCMS and NCMS, as applicable. 
+ 
+Procedures to reduce the amount of the original guarantee: 
+ 
+To reduce the amount of the original guarantee, the CBSA or IRCC officer shall:  
+ 
+ complete the Amendment to Guarantee for Compliance form [IMM 5071B], explain the amended 
+conditions to the guarantor and ensure that the guarantor and a CBSA or IRCC witness sign the 
+form;  
+ 
+ provide a copy of the form [IMM 5071B] to the guarantor and place the original on file; and 
+ 
+ update GCMS and NCMS, as applicable. 
+ 
+ 
+8.17 Rejecting a deposit or guarantee 
+ 
+If the bondsperson fails to provide personal documentation to prove identity, status, residency and their 
+current address, or fails to provide evidence of their ability to ensure that the person concerned will 
+comply with the conditions imposed, the officer will advise them to return with more documentation or to 
+request a change of conditions. Officers will document this action and the reasons on the file as the 
+person concerned will continue to be detained in the meantime. 
+ 
+For guarantees, if income and assets presented are insufficient to post a guarantee, the officer will advise 
+the guarantor to return with more documentation or to request a change of conditions. Officers will 
+document this action and the reasons on the file as the person concerned will continue to be detained in 
+the meantime. 
+ 
+
+
+===== PAGE 30 =====
+ENF 8 Deposits and Guarantees 
+2020-10-07 
+ 
+ 
+30 
+Delegated officers may make a decision to reject a deposit or guarantee except in cases where the ID 
+has imposed the guarantee and named the bondsperson. In these cases, officers shall not assess the 
+suitability of the bondsperson and may not reject the bond or guarantee on the basis of R47(2)(b) 
+considerations.  Officers can only consider solvency issues if the assessment was not completed by the 
+Hearings Officer or one of the exceptions listed in 7.2.2 applies. If justified, the officer may then reject the 
+deposit or guarantee and will document this action and the reasons on file.  Since the person will remain 
+in detention, the officer must inform the Hearings Officer who will then present this information to the ID, 
+client and their counsel. 
+ 
+Once the ID has made a decision to release and specified conditions, an officer has no legal authority to 
+reject or change the conditions; however if they have concerns regarding the bondsperson named by the 
+ID, they should communicate their concerns to the Hearings Officer who can address them, if appropriate, 
+with the ID.  
+ 
+This continues to be the case with respect to the prescribed factors under R47(4): an officer has no legal 
+authority to change the conditions at the time of processing the bond and may not reject the bond unless 
+it is based on the requirements under R47(1), R47(2)(a), the solvency assessment under R47(2)(c) or the 
+application of R47(3). If, during bond processing, concerns arise regarding the bondsperson named by 
+the ID (e.g., it is discovered through system checks following the issuance of the ID release order that the 
+named guarantor provided false information to the ID regarding one of the R47(4) considerations), the 
+officer should follow the procedure for communicating their concerns without delay to the Hearings Officer 
+who can address them, as appropriate, with the ID.  
+ 
+For the CBSA, Inland Enforcement Assistants may review the documentation received and prepare the 
+file for officer review, but may not make the decision on whether a proposed bondsperson meets the 
+requirements and is suitable to post a bond.  
+ 
+Officers shall fully document decisions to reject a bond and their reasons in the case file and NCMS or 
+GCMS, as applicable. 
+ 
+8.18 Stay of removal order 
+ 
+Deposits: A stay of removal by the Immigration Appeal Division has the effect of cancelling a deposit 
+[A68(2)(b)]. Deposits are to be refunded unless the conditions were breached before the stay was 
+ordered. 
+ 
+Guarantees: A stay of removal by the Immigration Appeal Division has the effect of rendering the 
+guarantee null and void. A guarantee should be left on file and, apart from the requirement to update 
+NCMS/GCMS systems in order to register the effect of the stay on the guarantee, no further action is to 
+be taken unless the conditions were breached before the stay was ordered.  
+ 
+8.19 Withdrawal, refund and forfeiture of a deposit or enforcement of a 
+guarantee  
+ 
+Withdrawal: 
+ 
+ 
+if the bondsperson wishes to replace or be relieved of the deposit or a guarantee, another deposit 
+or guarantee must be signed or the bondsperson must make arrangements with the CBSA to 
+deliver the person into CBSA custody.  
+ 
+ 
+the onus is on the bondsperson to arrange to deliver the person concerned into CBSA custody. 
+CBSA officers will not locate and arrest the person concerned so that a bondsperson may be 
+relieved of the obligation of the deposit or guarantee. 
+ 
+
+
+===== PAGE 31 =====
+ENF 8 Deposits and Guarantees 
+2020-10-07 
+ 
+ 
+31 
+ 
+the death of a bondsperson does not render the deposit or guarantee unenforceable. The rights 
+and liabilities flowing from security deposits and guarantees are passed on to the executors or 
+administrators of the estate of the depositor or guarantor. 
+ 
+ 
+officers’ decisions on compliance and forfeiture are subject to a judicial review application to the 
+Federal Court of Canada. 
+ 
+ 
+procedures must be in place in each office to review deposits for refund or forfeiture at the 
+conclusion of the case before the file is sent to archives. 
+  
+ 
+a bondsperson, including a co-signer, may request to be released from the obligation of the deposit 
+or guarantee.  
+ 
+ 
+a bondsperson, including a co-signer, cannot be relieved of their obligation by simply stating the 
+desire to be relieved, or by simply requesting it. 
+ 
+ 
+the bondsperson must apply to a CBSA or IRCC officer, depending on which officer imposed the 
+deposit or guarantee, or to a member of the ID if a member of the ID imposed the deposit or 
+guarantee. Before relieving the bondsperson of the bond, and if the bond was posted as an offer of 
+release by the ID, an application must be made to the ID and the ID must approve the change. If a 
+suitable new bondsperson is not available, the existing bondsperson must surrender the person 
+into CBSA custody as the person no longer meets the conditions of release. 
+ 
+Refund of a deposit: 
+ 
+When the person concerned subject to a deposit has complied with the conditions of the deposit, as set 
+out on the Security Deposit form [BSF579], the deposit will be refunded to the depositor. 
+ 
+The IRPA does not provide specific authority for refunds, but R49(3) provides the authority to return funds 
+held in the Consolidated Revenue Fund to the depositor. 
+ 
+Officers shall review the file to determine if the deposit should be refunded. 
+ 
+If the deposit should be refunded, the officer shall cancel the deposit and arrange for the return of the 
+money deposited. 
+ 
+The officer shall complete a Requisition for Refund/Forfeiture of Security Deposit form [IMM 0709B] and 
+forward it to the authorized manager/supervisor for signature. 
+ 
+When completing the IMM 0709B form, officers shall: 
+ 
+ 
+confirm the latest address for the depositor and insert it in the “Current mailing address of the 
+depositor- Addresse postale actuelle du déposant” field; 
+ 
+ 
+insert the security deposit number into the “Receipt No. – Reçu no” field in the IMM 0709B. The 
+FIN 0007B or the K21 form number is not to be inserted into this field; 
+ 
+ 
+print the name of the authorizing officer (signing authority) in the “Name of authorizing officer – 
+Nom du fondé de pouvoir” field. Initials are unacceptable; and 
+ 
+ 
+print out authorizing (signing) officer’s title in the “Title as per delegation instrument – Titre 
+conformément au document officiel de delegation de pouvoir” field.  
+ 
+Only a manager/supervisor with delegated authority for section 34 of the Financial Administration Act is 
+delegated to sign the IMM 0709B, as per the procedures set out in Chapter 2 - Financial Signing 
+
+
+===== PAGE 32 =====
+ENF 8 Deposits and Guarantees 
+2020-10-07 
+ 
+ 
+32 
+Authorities of the Comptrollership Manual, Finance Volume. 
+ 
+The manager/supervisor will return to the officer the signed IMM 0709B 
+.  
+Page 3 (pink copy) is placed on file.  
+ 
+For the CBSA, the regional Financial Administration officer and/or Administrative officers, depending on 
+regional processes, shall forward the following documentation to CBSA Revenue Accounting and 
+Reporting Division, 355 North River Road, 18th Floor, Ottawa, ON K1A 0L8: 
+ 
+ 
+page 1 (white copy) and page 2 (yellow copy) of the a Requisition for Refund/Forfeiture of Security 
+Deposit [IMM 0709B];  
+ 
+copy of the Security Deposit form [BSF579]; 
+ 
+copy of any form completed by officers recording the depositor’s information – sometimes referred 
+to as the bondsperson’s information sheet or the personal information sheet (full name; date of 
+birth; address; phone numbers; driver’s license number; status; name, address and phone number 
+of employer; relationship to person concerned, etc.); 
+ 
+copy of any form or request submitted by the depositor or the person concerned requesting a 
+refund of the deposit (this is valuable as it would most likely have a more current address for the 
+depositor than the original Security Deposit form);  
+ 
+copies or scans of the identification documents provided by the depositor when the deposit was 
+taken (needed to ensure correct spelling of the name for the refund cheque and also to perform a 
+name query in GCMS in an attempt to verify the bondsperson’s current address); and 
+ 
+copy of the proof of address when the deposit was taken. 
+ 
+ 
+IRCC officers shall forward the documentation for action to: Accounting Operations, Revenue Unit, 
+NHQ, 70 Crémazie Street, Gatineau, QC, K1A 1L1. 
+ 
+ 
+once the documentation has been sent as noted above, written notification shall be sent to the 
+depositor that the deposit has been forwarded to CBSA Revenue Accounting and Reporting 
+Division in Ottawa; or if IRCC, to Accounting Operations, Revenue Unit, NHQ for refund and that 
+they should allow ten to twelve weeks for cheque processing. 
+ 
+If information becomes available to cause a CBSA or IRCC officer to recommend that the deposit be 
+refunded, rather than forfeited, after a forfeiture has been processed, the refund procedures described 
+above shall be followed, detailing the reasons for the reversal in the Remarks section of the IMM 0709B. 
+ 
+Once the bond refund decision has been made and in addition to the completion of required forms, 
+written notification may also be sent to the bondsperson at the discretion of officers/managers (see 
+Appendix A:   Sample letter— Notification to Bondsperson re: Refund of Security Deposit). Such 
+written notification may serve to provide confirmation of the end of the bondsperson’s obligations pending 
+receipt of the official refund from CBSA Revenue Accounting and Reporting Division in Ottawa, especially 
+where the bondsperson has requested such confirmation from CBSA.  Where the bondsperson is also 
+being relieved of a guarantee posted for the same client, the notification can include both bonds (see 
+Appendix B:   Sample letter— Notification to Bondsperson re: Refund of Security deposit and 
+cancellation of performance bond). In correspondence with a bondsperson, it is important that CBSA 
+officials do not disclose case details/status due to privacy concerns. 
+ 
+Powers of Attorney:  
+ 
+A depositor may give power of attorney to another person to act as the depositor’s agent with respect to 
+all or part of the depositor’s finances and property. In order to refund a deposit to an individual who is not 
+the depositor, a validly executed Power of Attorney document must be provided by the depositor;  
+ 
+
+
+===== PAGE 33 =====
+ENF 8 Deposits and Guarantees 
+2020-10-07 
+ 
+ 
+33 
+For the CBSA, the original copy of the Power of Attorney or Consent document, not a photocopy, must be 
+forwarded to CBSA Revenue Accounting and Reporting Division, 355 North River Road, 18th Floor, 
+Ottawa, ON K1A 0L8, before a deposit can be refunded to an attorney. 
+ 
+For IRCC, the original copy of the Power of Attorney or Consent document, not a photocopy, must be 
+forwarded to Accounting Operations, Revenue Unit, NHQ, 70 Crémazie Street, Gatineau, QC, K1A 1L1. 
+ 
+Cancellation of a guarantee/performance bond: 
+ 
+Where a guarantee is no longer required as it has been determined that the bond has been complied 
+with, it may be appropriate for CBSA officials to advise the guarantor in writing that the conditions of the 
+performance bond have been complied with. Without disclosing further case details, the letter will serve to 
+notify the guarantor that their obligations specified in the performance bond are null and void and confirm 
+the fulfillment of their obligations. Such written confirmation is most likely to be requested by the 
+guarantor in cases where the guarantee was not signed in conjunction with a security deposit (see 
+Appendix C:   Sample letter— Notification to Guarantor re: Cancellation of Performance Bond). 
+ 
+Assignment of deposit or guarantee: 
+ 
+A deposit or guarantee, is not assignable to a third party.  
+ 
+If a bondsperson wants to “assign” the deposit or guarantee to a third party willing to assume the deposit 
+or guarantee obligation, the original deposit must be refunded and the original guarantee must be 
+cancelled/considered null and void and then a new deposit or guarantee must be issued, following the 
+procedures for the taking of deposits or guarantees.  
+ 
+Forfeiture of a deposit or enforcement of a guarantee: 
+ 
+The CBSA generally makes the decisions on forfeitures of deposits and enforcement of guarantees.  
+ 
+Forfeiture of a deposit is to the Receiver General for Canada. 
+ 
+If the person concerned for whom a deposit has been paid or a guarantee posted breaches any condition, 
+a CBSA or an IRCC officer will review the circumstances of the breach.  
+ 
+Although R49(4) does not provide for officer discretion in determining if a breach of condition has 
+occurred, jurisprudence (Hamid v. Canada, 2015 FC 1208) indicates that officers have a limited discretion 
+to decide whether a breach of conditions is severe enough to warrant the forfeiture of the deposit or 
+enforcement of the guarantee. 
+ 
+Recommendations that the deposit be forfeited or the guarantee enforced will be directed to the officer’s 
+manager with delegated authority for section 34 of the Finance Administration Act.  
+ 
+The manager, on receiving the officer’s recommendation for forfeiture of the deposit or enforcement of the 
+guarantee, shall determine whether the breach is sufficient in the circumstances of the case to warrant 
+forfeiture of the deposit or enforcement of the guarantee. 
+ 
+The Regulations do not provide express authority for officers to reduce or otherwise alter the amount of 
+the deposit or guarantee. In the absence of express authority, it is CBSA’s position that if an officer 
+decides to forfeit the deposit or guarantee, the bondsperson will be held accountable for the entire 
+amount of the deposit or guarantee. 
+ 
+The rules of procedural fairness apply when a deposit or guarantor is under consideration for forfeiture or 
+enforcement due to a breach by the person concerned of a condition imposed. Bondspersons will be 
+provided with notification of the breach of conditions and offered an opportunity to provide written 
+
+
+===== PAGE 34 =====
+ENF 8 Deposits and Guarantees 
+2020-10-07 
+ 
+ 
+34 
+representations with respect to whether there was, in fact, a breach of condition and whether the breach 
+was so minor as to not warrant forfeiture.  
+ 
+If forfeiture or enforcement is warranted, the manager shall have written notification of the specifics of the 
+breach and possible forfeiture or enforcement action sent to the bondsperson by registered mail, 
+providing them with an opportunity to make a written representations as noted above within 30 days of 
+receipt concerning the decision to be made; 
+ 
+All written representations or submissions from the bondsperson shall be considered by the manager in 
+reaching the decision; 
+ 
+If the bondsperson has not responded within 37 days of the written notification, they will be sent written 
+notification of the decision and reasons by registered mail; 
+ 
+Guarantors are notified of the decision to enforce the guarantee via the Guarantee of Compliance 
+Enforcement Notice form [IMM 5072B]. 
+   
+If the decision is to forfeit the deposit or enforce the guarantee, the manager will direct an officer to 
+complete a Requisition for Refund/Forfeiture of Security Deposit form [IMM 0709B] for a deposit forfeiture 
+and the Requisition for Enforcement of Guarantee [IMM 5345B] for a guarantee enforcement. 
+ 
+The officer shall complete a Requisition for Refund/Forfeiture of Security Deposit form [IMM 0709B] for a 
+deposit, or a Requisition for Enforcement of a Guarantee form [IMM 5345B] and forward it to the 
+authorized manager/supervisor for signature. 
+ 
+Only a manager/supervisor with delegated authority for section 34 of the Financial Administration Act is 
+delegated to sign the IMM 0709B and the IMM 5345B as per procedures set out in Chapter 2 - Financial 
+Signing Authorities of the Comptrollership Manual, Finance Volume. 
+ 
+The manager/supervisor will return to the officer the signed IMM 0709B or IMM 5345B forms.  
+ 
+For deposits, the CBSA regional Financial Administration office and/or officers, depending on regional 
+processes, shall forward the following documentation to CBSA Revenue Accounting and Reporting 
+Division, 355 North River Road, 18th Floor, Ottawa, ON K1A 0L8: 
+ 
+ 
+page 1 (white copy) and page 2 (yellow copy) of the IMM 0709B;  
+ 
+copy of the Security Deposit form [BSF579]; and 
+ 
+copy of the decision letter to the depositor. 
+ 
+IRCC officers shall forward the IMM 0709B for action to:  Accounting Operations, Revenue Unit, NHQ, 70 
+Crémazie Street, Gatineau, QC, K1A 1L1. 
+ 
+Page 3 (pink copy) of the IMM 0709B is placed on file.  
+ 
+For guarantees, the officer or regional financial administration office, according to regional processes, will 
+send the guarantor, by registered mail, the original signed Requisition for Enforcement of a Guarantee 
+form [IMM 5345B], and place a copy on file.  
+ 
+Following document shall be sent to CBSA Revenue Accounting and Reporting Division, 355 North River 
+Road, 18th Floor, Ottawa, ON, K1A 0L8: 
+ 
+ copies of the Requisition for Enforcement of a Guarantee form [IMM 5345B],  
+ the Declaration of Solvency [BSF564; IMM 1416B],  
+ a copy of the Guarantee/Performance Bond [IMM 1230E],  
+
+
+===== PAGE 35 =====
+ENF 8 Deposits and Guarantees 
+2020-10-07 
+ 
+ 
+35 
+ a copy of the letter of decision sent to the guarantor / the Guarantee of Compliance Enforcement 
+Notice form [IMM 5072B] sent to the guarantor, and  
+ copies or scans of the guarantor’s identification documents taken at the time of posting the 
+guarantee. 
+   
+For IRCC, the documentation shall be sent to Accounting Operations, Revenue Unit, NHQ, 70 Crémazie 
+Street, Gatineau, QC, K1A 1L1. 
+ 
+The officer shall update the file as well as GCMS and NCMS. Officers should refer to the NCMS and 
+GCMS user guides for further details. 
+ 
+ 
+8.20 Requests for information  
+ 
+ 
+Regional offices should not refer requests from the person concerned or depositors and guarantors for 
+information about forfeiture or refunds directly to National Headquarters.  
+ 
+A CBSA regional office may contact CBSA Revenue Accounting and Reporting Division, on behalf of the 
+person concerned, and the bondsperson.  
+ 
+An IRCC regional office may contact IRCC Accounting Operations, Revenue Unit, NHQ, on behalf of the 
+person concerned and the bondsperson. 
+ 
+For any financial coding or financial system transactional issues, the IRCC or CBSA officers should 
+contact their regional headquarters.  
+ 
+ 
+ 
+
+
+===== PAGE 36 =====
+ENF 8 Deposits and Guarantees 
+2020-10-07 
+ 
+ 
+36 
+Appendix A:   Sample letter— Notification to Bondsperson re: Refund of Security 
+Deposit 
+ 
+ 
+ 
+Client ID: xx-xxxx-xxxx 
+ 
+ 
+(Name of Guarantor 
+Address) 
+ 
+ 
+(Date)  
+ 
+ 
+ 
+Dear Mr/ Ms.XXXXXX: 
+ 
+RE: (Name of client) - Security Deposit XXXXX (Bond #) 
+ 
+ 
+This is to notify you that (Name of client for whom cash bond posted) has complied with the  
+conditions of Security deposit (bond #) in the amount of $XXX (amount of bond) signed  
+by you on XXX (date). 
+ 
+A requisition for refund for the Cash Bond has been forwarded to Revenue Accounting section 
+in Ottawa.  Please allow eight to ten (8–10) weeks for processing. 
+ 
+ 
+Yours truly, 
+ 
+ 
+ 
+Name and signature of designated CBSA official  
+Canada Border Services Agency 
+ 
+ 
+ 
+ 
+Note: This is a sample letter with suggested wording. Preference as to final wording, or the use of pre-
+printed as opposed to micro-produced “originals” is left to the discretion of local managers provided the 
+content remains consistent with the intent. 
+ 
+ 
+
+
+===== PAGE 37 =====
+ENF 8 Deposits and Guarantees 
+2020-10-07 
+ 
+ 
+37 
+Appendix B:   Sample letter— Notification to Bondsperson re: Refund of Security 
+deposit and cancellation of performance bond 
+ 
+ 
+ 
+ 
+Client ID: xx-xxxx-xxxx 
+ 
+ 
+(Name of bondsperson 
+Address) 
+ 
+ 
+(Date) 
+ 
+ 
+Dear Mr./Ms. XXXXXX: 
+ 
+RE:  Name of client - Security deposit XXX (Bond #) and Performance Bond XXX (Bond #) 
+ 
+This is to notify you that the $XXX(amount of bond) Security deposit XXX (bond #) 
+and Performance Bond XXX (bond #) in the amount of $XXX (amount of bond)   
+both signed by you on XXX (date) are no longer required. 
+ 
+A requisition for refund for the Cash Bond has been forwarded to Revenue Accounting section 
+in Ottawa.  Please allow eight to ten (8–10) weeks for processing. 
+ 
+Furthermore, your obligations specified in the Performance Bond in the amount of $XXX  
+(amount of bond) are now null and void. 
+ 
+Yours truly, 
+ 
+ 
+Name and signature of designated CBSA official  
+Canada Border Services Agency 
+ 
+ 
+ 
+ 
+ 
+Note: This is a sample letter with suggested wording. Preference as to final wording, or the use of pre-
+printed as opposed to micro-produced “originals” is left to the discretion of local managers provided the 
+content remains consistent with the intent. 
+ 
+
+
+===== PAGE 38 =====
+ENF 8 Deposits and Guarantees 
+2020-10-07 
+ 
+ 
+38 
+Appendix C:   Sample letter— Notification to Guarantor re: Cancellation of 
+Performance Bond 
+ 
+ 
+ 
+Client ID: xx-xxxx-xxxx 
+ 
+ 
+(Name of Guarantor) 
+(Address) 
+ 
+ 
+(Date)  
+ 
+ 
+ 
+Dear Mr/ Ms.XXXXXX: 
+ 
+RE: (Name of client) - Performance Bond XXXXX (Bond #) 
+ 
+ 
+This is to notify you that (Name of client for whom guarantee posted) has complied with the  
+conditions of  Performance Bond (bond #) in the amount of $XXX (amount of bond) signed  
+by you on XXX (date). 
+ 
+Further, your obligations specified in the Performance Bond are now null and void. 
+ 
+ 
+Yours truly, 
+ 
+ 
+ 
+Name and signature of designated CBSA official  
+Canada Border Services Agency 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note: This is a sample letter with suggested wording. Preference as to final wording, or the use of pre-
+printed as opposed to micro-produced “originals” is left to the discretion of local managers provided the 
+content remains consistent with the intent. 

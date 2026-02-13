@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_bc52a582bd0c",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/unique-situations/interns-international-organizations-recognized-under-foreign-missions-international-organizations-act.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/unique-situations/interns-international-organizations-recognized-under-foreign-missions-international-organizations-act.html",
+  "title": "Interns with international organizations and foreign missions recognized under the Foreign Missions and International Organizations Act: Significant benefit (LMIA exemption code C10)",
+  "language": "en",
+  "manual": "Interns with international organizations and foreign missions recognized under the Foreign Missions and International Organizations Act: Significant benefit (LMIA exemption code C10)",
+  "chapter": null,
+  "heading_path": [
+    "Interns with international organizations and foreign missions recognized under the Foreign Missions and International Organizations Act: Significant benefit (LMIA exemption code C10)"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "4d83141eb25adb03c59b72e456e4cb63062c8f6a580e3a1cddf35dec2e55b617",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/interns-international-organizations-recognized-under-foreign-missions-international-organizations-act-bc52a582bd.md",
+  "text": "Interns with international organizations and foreign missions recognized under the Foreign Missions and International Organizations Act: Significant benefit (LMIA exemption code C10)",
+  "sections": [
+    {
+      "heading": "Interns with international organizations and foreign missions recognized under the Foreign Missions and International Organizations Act: Significant benefit (LMIA exemption code C10)",
+      "heading_path": [
+        "Interns with international organizations and foreign missions recognized under the Foreign Missions and International Organizations Act: Significant benefit (LMIA exemption code C10)"
+      ],
+      "anchor": "#interns-with-international-organizations-and-foreign-missions-recognized-under-the-foreign-missions-and-international-organizations-act-significant-benefit-lmia-exemption-code-c10",
+      "text": "Interns with international organizations and foreign missions recognized under the Foreign Missions and International Organizations Act: Significant benefit (LMIA exemption code C10)"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

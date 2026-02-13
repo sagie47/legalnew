@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_3b81938c297d",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/public-list-employers-who-have-been-non-compliant.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/public-list-employers-who-have-been-non-compliant.html",
+  "title": "Public list of Employers who have been non-compliant",
+  "language": "en",
+  "manual": "Public list of Employers who have been non",
+  "chapter": "compliant",
+  "heading_path": [
+    "Public list of Employers who have been non-compliant"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "efc8e8f9291bd25f217806d5966017ab0ef69fa0aa1addb5ee05ceb3067dc72e",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/public-list-employers-who-have-been-non-compliant-3b81938c29.md",
+  "text": "Public list of Employers who have been non-compliant",
+  "sections": [
+    {
+      "heading": "Public list of Employers who have been non-compliant",
+      "heading_path": [
+        "Public list of Employers who have been non-compliant"
+      ],
+      "anchor": "#public-list-of-employers-who-have-been-non-compliant",
+      "text": "Public list of Employers who have been non-compliant"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

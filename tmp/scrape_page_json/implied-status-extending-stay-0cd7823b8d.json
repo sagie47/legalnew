@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_0cd7823b8dad",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/implied-status-extending-stay.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/implied-status-extending-stay.html",
+  "title": "Temporary residents: Maintained status during processing (previously called implied status)",
+  "language": "en",
+  "manual": "Temporary residents: Maintained status during processing (previously called implied status)",
+  "chapter": null,
+  "heading_path": [
+    "Temporary residents: Maintained status during processing (previously called implied status)"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "6342be45bf16d6838d26f35f1233a1025ed17c32aa53ebe69afbf02327cb4973",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/implied-status-extending-stay-0cd7823b8d.md",
+  "text": "Temporary residents: Maintained status during processing (previously called implied status)",
+  "sections": [
+    {
+      "heading": "Temporary residents: Maintained status during processing (previously called implied status)",
+      "heading_path": [
+        "Temporary residents: Maintained status during processing (previously called implied status)"
+      ],
+      "anchor": "#temporary-residents-maintained-status-during-processing-previously-called-implied-status",
+      "text": "Temporary residents: Maintained status during processing (previously called implied status)"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

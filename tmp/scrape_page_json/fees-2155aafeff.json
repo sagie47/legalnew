@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_2155aafeff56",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/fees.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/fees.html",
+  "title": "Fees collection",
+  "language": "en",
+  "manual": "Fees collection",
+  "chapter": null,
+  "heading_path": [
+    "Fees collection"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "c28c184fd443350a7ad6b26257ffab723ede27fb5f3c850f650f6227996cc3c6",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/fees-2155aafeff.md",
+  "text": "Fees collection",
+  "sections": [
+    {
+      "heading": "Fees collection",
+      "heading_path": [
+        "Fees collection"
+      ],
+      "anchor": "#fees-collection",
+      "text": "Fees collection"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

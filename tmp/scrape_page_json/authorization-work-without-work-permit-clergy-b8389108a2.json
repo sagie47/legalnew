@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_b8389108a231",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/authorization-work-without-work-permit-clergy.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/authorization-work-without-work-permit-clergy.html",
+  "title": "Religious leaders who are work permit exempt under paragraph R186(l)",
+  "language": "en",
+  "manual": "Religious leaders who are work permit exempt under paragraph R186(l)",
+  "chapter": null,
+  "heading_path": [
+    "Religious leaders who are work permit exempt under paragraph R186(l)"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "d415d64004d2cdda8e684e10297a62360e3b88b4d42509ebaa31f6b59550cbcb",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/authorization-work-without-work-permit-clergy-b8389108a2.md",
+  "text": "Religious leaders who are work permit exempt under paragraph R186(l)",
+  "sections": [
+    {
+      "heading": "Religious leaders who are work permit exempt under paragraph R186(l)",
+      "heading_path": [
+        "Religious leaders who are work permit exempt under paragraph R186(l)"
+      ],
+      "anchor": "#religious-leaders-who-are-work-permit-exempt-under-paragraph-r186-l",
+      "text": "Religious leaders who are work permit exempt under paragraph R186(l)"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

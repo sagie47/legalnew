@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_40fafb27b29b",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/designated-learning-institutions.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/designated-learning-institutions.html",
+  "title": "Study permits: Designated learning institutions (DLIs)",
+  "language": "en",
+  "manual": "Study permits: Designated learning institutions (DLIs)",
+  "chapter": null,
+  "heading_path": [
+    "Study permits: Designated learning institutions (DLIs)"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "e056a17f1651bf475516ac642e361271cb7cd75d57096a3cc1d9a620ba96f857",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/designated-learning-institutions-40fafb27b2.md",
+  "text": "Study permits: Designated learning institutions (DLIs)",
+  "sections": [
+    {
+      "heading": "Study permits: Designated learning institutions (DLIs)",
+      "heading_path": [
+        "Study permits: Designated learning institutions (DLIs)"
+      ],
+      "anchor": "#study-permits-designated-learning-institutions-dlis",
+      "text": "Study permits: Designated learning institutions (DLIs)"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

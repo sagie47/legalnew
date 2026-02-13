@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_4e5c2e9cbd77",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/authorization-work-without-work-permit-assessing-farm-work.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/authorization-work-without-work-permit-assessing-farm-work.html",
+  "title": "International Mobility Program: Authorization to work without a work permit – Assessing farm work",
+  "language": "en",
+  "manual": "International Mobility Program: Authorization to work without a work permit – Assessing farm work",
+  "chapter": null,
+  "heading_path": [
+    "International Mobility Program: Authorization to work without a work permit – Assessing farm work"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "c618780747e4acc8bcded4760f01b6241e1ba932af04d1c5c050f0cb3a68a712",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/authorization-work-without-work-permit-assessing-farm-work-4e5c2e9cbd.md",
+  "text": "International Mobility Program: Authorization to work without a work permit – Assessing farm work",
+  "sections": [
+    {
+      "heading": "International Mobility Program: Authorization to work without a work permit – Assessing farm work",
+      "heading_path": [
+        "International Mobility Program: Authorization to work without a work permit – Assessing farm work"
+      ],
+      "anchor": "#international-mobility-program-authorization-to-work-without-a-work-permit-assessing-farm-work",
+      "text": "International Mobility Program: Authorization to work without a work permit – Assessing farm work"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

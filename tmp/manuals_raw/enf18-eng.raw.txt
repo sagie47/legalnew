@@ -1,0 +1,1940 @@
+
+
+===== PAGE 1 =====
+ENF 18 Human or international rights violations 
+2020-06-03 
+ 
+1 
+Contents 
+1 
+What this chapter is about ..................................................................................................................... 3 
+2 
+Canada’s Crimes Against Humanity and War Crimes Program objectives .......................................... 3 
+2.1 Remedies ........................................................................................................................................ 3 
+3 
+Related Legislation ................................................................................................................................ 4 
+3.1 The Crimes Against Humanity and War Crimes Act ...................................................................... 4 
+3.2 The Extradition Act ......................................................................................................................... 4 
+3.3 The Immigration and Refugee Protection Act ................................................................................ 5 
+3.4 The Citizenship Act ......................................................................................................................... 6 
+4 
+Forms .................................................................................................................................................... 6 
+5 
+Instruments and delegations ................................................................................................................. 6 
+6 
+Definitions .............................................................................................................................................. 7 
+ 
+6.1  Differences between genocide and a crime against humanity..……………………………………..8 
+6.2 Differences between a war crime and a crime against humanity ................................................... 8 
+6.3 Differences between a crime against humanity, war crime and a terrorist act: .............................. 9 
+7 
+Program Objectives – CBSA ................................................................................................................. 9 
+8 
+Procedure: Establishing inadmissibility under A35(1)(a) of the Immigration and Refugee Protection 
+Act or exclusion under 1F(a) of the United Nations Refugee Agency’s Convention and Protocol 
+relating to the status of refugees. ........................................................................................................ 10 
+8.1 Establishing complicity.................................................................................................................. 10 
+8.2 The contribution-based test .......................................................................................................... 10 
+8.3 6 Factors – Contribution-based test for establishing complicity: .................................................. 11 
+8.4 Establishing complicity—brutal (limited purpose) organizations .................................................. 12 
+8.5 Other forms of complicity .............................................................................................................. 12 
+8.6 Defences ....................................................................................................................................... 13 
+8.7 Cases involving prior exclusion by the Refugee Protection Division (RPD) ................................. 16 
+9 
+ Procedure: Establishing inadmissibility under A35(1)(b) ................................................................... 16 
+9.1 Designation of regimes ................................................................................................................. 17 
+9.2 Designated regimes pursuant to Section A35(1)(b) ..................................................................... 17 
+9.3 Requirements to establish inadmissibility ..................................................................................... 17 
+9.4 Opportunity for person to be heard ............................................................................................... 19 
+9.5 Consultation with CBSA HQ ......................................................................................................... 19 
+10 Procedure: How to assess A35 or 1F(a) cases ................................................................................... 19 
+10.1 Determining the general profile ................................................................................................... 19 
+10.2 Security vetting of Temporary and Permanent Resident visa applicants.................................... 20 
+11 Inadmissibility under paragraphs A35(1)(c), A35(1)(d) and A35(1)(e) ................................................ 20 
+11.1 A35(1)(c) Restricted entry / Imposed sanctions on a country ..................................................... 20 
+11.2 Inadmissibility under paragraphs A35(1)(d) and A35(1)(e) ......................................................... 20 
+12 Roles and responsibilities .................................................................................................................... 22 
+12.1 National Security Screening Division (NSSD) ............................................................................. 22 
+12.2 Intelligence Collection, Analysis and Production (ICAP) ............................................................. 22 
+12.3 Immigration Enforcement Division ............................................................................................... 23 
+12.4 Case Review Unit (CRU) ............................................................................................................. 23 
+Appendix A - War crimes amendments to the Immigration Act and Regulations ....................................... 24 
+Appendix B – Crimes Against Humanity an War Crimes Act ...................................................................... 25 
+Appendix C - Rome Statute of the International Criminal Court ................................................................. 26 
+(a) 
+Article 6—Genocide .................................................................................................................. 26 
+(b) 
+Article 7—Crimes against humanity .......................................................................................... 26 
+(c) 
+Article 8—War crimes ............................................................................................................... 27 
+ 
+ 
+ 
+
+
+===== PAGE 2 =====
+ENF 18 Human or international rights violations 
+2020-06-03 
+ 
+2 
+Updates to chapter 
+ 
+ 
+Listing by date: 
+ 
+Date: 2020-06-03 
+ 
+Title change of manual chapter: previous title of “War crimes and crimes against humanity” changed to 
+“Human or international rights violations” 
+ 
+List of designated regimes in section 9.2 amended to specify end-date for the interim government in 
+Rwanda as July 18, 1994 in order to reflect the change in regime which took place on July 19th, 1994. 
+ 
+Changes made to section 8.6 to reflect Minister’s policy position on defence of duress.  
+ 
+Section 11:  content added to reflect legislative changes and addition of new inadmissibilities under 
+paragraphs 35(1)(c), 35(1)(d) and 35(1)(e) of the IRPA. 
+ 
+Title of Canada’s War Crimes Program amended to Canada’s Crimes Against Humanity and War Crimes 
+Program (CAHWC). 
+ 
+Date: 2016-12-01 
+ 
+Changes were made to ENF 18 to reflect the contribution test for complicity  
+Substantive and minor changes as well as clarifications have been provided throughout the chapter  
+ 
+Date:  2005-12-15 
+ 
+Changes were made to ENF 18 to reflect the IRCC and CBSA policy and service delivery roles. 
+ 
+Appendix E has been removed and a web site address has been given to direct the reader to the list of 
+designated regimes online. Appendix F was renamed accordingly.  
+ 
+Date:  2004-01-23 
+ 
+A bullet was added to Appendix E of chapter ENF 18 and now reads as follows: 
+ 
+designated November 21, 2003, the government of Ethiopia under Mengistu Haile Mariam for the period 
+of September 12, 1974 to May 21, 1991. 
+
+
+===== PAGE 3 =====
+ENF 18 Human or international rights violations 
+2020-06-03 
+ 
+3 
+1 
+What this chapter is about 
+ 
+This Chapter describes Canada’s Crimes Against Humanity and War Crimes (CAHWC) Program and the 
+CBSA’s role in the Program.  The chapter further outlines the inadmissibility provisions under section 35 
+of the Immigration and Refugee Protection Act (IRPA) for human or international rights violations and 
+provides guidance on how to determine if persons are inadmissible to Canada for alleged involvement in 
+war crimes, crimes against humanity and/or genocide.  
+ 
+ 
+2 
+Canada’s Crimes Against Humanity and War Crimes Program objectives 
+ 
+The goal of Canada’s CAHWC Program is to deny safe haven in Canada to war criminals and persons 
+believed to have committed or been complicit in these crimes. 
+ 
+The Program is delivered as a partnership between the Canada Border Services Agency (CBSA), 
+Immigration, Refugees and Citizenship Canada (IRCC), Department of Justice (Justice) and the Royal 
+Canadian Mounted Police (RCMP).   
+ 
+The CBSA administers and enforces the IRPA and the Immigration and Refugee Protection Regulations 
+(IRPR) in denying inadmissible persons access to Canada at ports of entry, excluding claimants from 
+refugee protection, and removing inadmissible and excluded persons from Canada. 
+ 
+IRCC applies the IRPA and IRPR when determining the admissibility of temporary and permanent 
+residents to Canada. IRCC also conducts the initial screening as part of the visa assessment process to 
+determine if there are reasonable grounds to believe that the applicant has committed or was complicit in 
+the commission of war crimes, crimes against humanity and/or genocide.  IRCC, in coordination with 
+Justice are responsible for citizenship revocation of individuals who have committed or were complicit in 
+war crimes, crimes against humanity and/or genocide.   
+ 
+Under the Extradition Act legislation, Justice leads on cases involving extradition to foreign states or 
+surrender to international tribunals.  Justice also works with the Public Prosecution Service of Canada 
+(PPSC) in criminal proceedings led by the PPSC.  Criminal proceedings are, in turn, based on 
+investigations conducted by the RCMP under the Crimes Against Humanity and War Crimes Act . 
+ 
+2.1 Remedies 
+ 
+Canada’s CAHWC Program has several remedies available to deal with alleged war criminals and 
+individuals suspected of involvement in crimes against humanity and/or genocide: 
+ 
+ designation of governments and regimes considered to have engaged in gross human rights 
+violations under A35(1)(b) of the Immigration and Refugee Protection Act; 
+ 
+ denial of visas to persons outside of Canada under the Immigration and Refugee Protection Act; 
+ 
+ exclusion from refugee protection of the 1951 United Nations Convention Relating to the Status of 
+Refugees; 
+ 
+ admissibility hearing and removal from Canada under the Immigration and Refugee Protection Act; 
+ 
+ prosecution in Canada under the Crimes Against Humanity and War Crimes Act;  
+ 
+ revocation of citizenship under the Citizenship Act;  
+ 
+ extradition upon request of a foreign government under Canada's Extradition Act; and,  
+
+
+===== PAGE 4 =====
+ENF 18 Human or international rights violations 
+2020-06-03 
+ 
+4 
+ 
+ surrender to an international tribunal (upon request) under Canada's Extradition Act.  
+ 
+These remedies are available to the Government of Canada through its various bodies and not 
+specifically the CBSA.  Each department or agency is mandated under different legislation further 
+described below. 
+ 
+ 
+3 
+Related Legislation 
+ 
+The following is the list of applicable legislation and government of Canada departments mandated with 
+the enforcement against individuals who have committed or were complicit in the commission of war 
+crimes, crimes against humanity and/or genocide.  A description of the relevant provisions is also 
+included.  
+ 
+3.1 The Crimes Against Humanity and War Crimes Act  
+ 
+Mandate:  Justice and the RCMP 
+ 
+This Act:  
+ 
+provides for the prosecution of any individual present in Canada for any offence stated in the Act 
+regardless of where the offence occurred;  
+ 
+ organizes offences of genocide, crimes against humanity, war crimes, and breach of responsibility by 
+military commanders and civilian superiors;  
+ 
+ creates offences to protect the administration of justice at the International Criminal Court (ICC) 
+including the safety of judges and witnesses; 
+ 
+ recognizes the need to provide restitution to victims of offences; and 
+ 
+ provides a mechanism to do so.  
+ 
+ 
+3.2 The Extradition Act  
+ 
+Mandate:  Justice and the RCMP 
+ 
+This Act: 
+ 
+ provides Canada with the legal basis on which to extradite persons located in Canada, who are 
+sought for extradition by one of Canada's "extradition partners".  
+ 
+Extradition partners are: 
+ 
+ countries with which Canada has an extradition agreement (bilateral treaties or multilateral 
+conventions); 
+ 
+ countries with which Canada has entered into a case-specific agreement; or 
+ 
+ countries or international courts whose names appear in the schedule to the Extradition Act. 
+ 
+
+
+===== PAGE 5 =====
+ENF 18 Human or international rights violations 
+2020-06-03 
+ 
+5 
+Justice handles all of the extradition cases under their mandate.  The extradition process is 
+provided for reference only; this is not an avenue for the CBSA to pursue. 
+ 
+3.3 The Immigration and Refugee Protection Act  
+ 
+Mandate:  CBSA and IRCC  
+ 
+This Act: 
+ 
+ provides for refusal of visas and Temporary and Permanent Resident status of persons found 
+inadmissible abroad, including those inadmissible for war crimes, crimes against humanity and/or 
+genocide; 
+  
+ provides for the legal authority to investigate an allegation, review and report the allegation and issue 
+a removal order when the allegation is founded against individuals seeking entry or already in 
+Canada.  Provides the opportunity for the Minister to grant relief for those found inadmissible under 
+A35(1)(b); 
+ 
+ provides for the exclusion from the refugee determination process of persons who are inadmissible 
+under A35, including those involved in war crimes, crimes against humanity and/or genocide; 
+ 
+ provides for the designation of regimes considered to have engaged in gross human rights 
+violations, war crimes or crimes against humanity and/or genocide; and, 
+ 
+ limits appeal rights of persons involved in war crimes, crimes against humanity and/or genocide.   
+ 
+ allows for the removal of A35 inadmissible persons to countries, even when there is a temporary stay 
+of removal (TSR) and allows Canada to remove to a third country willing to take the individual even 
+when it is not their former country of permanent residence/citizenship or a country from which the 
+entered Canada.  
+ 
+ 
+Table:  Sections of the IRPA and the IRPR applying to human or international rights violations 
+ 
+Provision 
+Act and Regulations 
+Human or international rights violations 
+A35 
+Committing an act outside Canada that constitutes 
+a Crime Against Humanity or War Crimes Act; 
+A35(1)(a) 
+Prescribed senior official 
+A35(1)(b) 
+Restricted entry/imposed sanctions on a country 
+A35(1)(c) 
+Subject of order under Special Economic Measures 
+Act (SEMA) 
+A35(1)(d) 
+Listed under Justice for Victims of Corrupt Foreign 
+Officials Act (Sergei Magnitsky Law) 
+A35(1)(e) 
+Ministerial relief 
+A42.1 
+Exception to non-refoulement 
+A115(2)(b) 
+Prescribed conclusive findings of fact for 
+determining inadmissibility under A35(1)(a) 
+R15 
+Prescribed conclusive findings of fact for 
+determining inadmissibility under A35(1)(b) 
+R16 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 6 =====
+ENF 18 Human or international rights violations 
+2020-06-03 
+ 
+6 
+Exclusion from the Principle of Non-refoulement (A115(2)b)) 
+ 
+In most cases Convention refugees in Canada are protected from removal pursuant to 115(2)(a) of the 
+IRPA.  An exception may, however, be made when a Convention refugee has been found inadmissible to 
+Canada for the commission of human rights violations and a Minister’s Delegate at IRCC is of the opinion 
+that either the danger the person presents to the security of Canada or the nature and severity of their 
+actions is greater than the risk they would face upon removal. 
+ 
+If an officer identifies a case where they feel it may be appropriate to seek an opinion under A115(2)(b), 
+they should consult the manual ENF 28 and contact the CBSA’s Danger Assessment Section.  
+ 
+ 
+3.4 The Citizenship Act   
+ 
+Mandate:  IRCC and the RCMP 
+ 
+This Act: 
+ 
+ provides for the not granting of citizenship for security or criminality cases and also allows for the 
+revocation of citizenship obtained by fraud or misrepresentation for a number of reasons including 
+misrepresentation concerning war crimes, crimes against humanity and/or genocide. 
+ 
+ provides that citizenship shall not be granted while the person is under investigation by the Minister 
+of Justice, the RCMP or the Canadian Security Intelligence Service (CSIS) for, or is charged with, on 
+trial for, subject to or a party to an appeal relating to, an offence under any of sections 4 to 7 of the 
+Crimes Against Humanity and War Crimes Act. 
+ 
+  
+4 
+Forms 
+ 
+Nil. 
+ 
+ 
+5 
+Instruments and delegations 
+ 
+A4 sets out which Minister is responsible for the administration of the IRPA. The Minister of Citizenship 
+and Immigration [also known as Immigration, Refugees and Citizenship Canada (IRCC)] and the Minister 
+of Public Safety and Emergency Preparedness (PS) are jointly responsible for the administration and 
+enforcement of the IRPA, however there are some differences. The IRCC Minister is responsible for the 
+overall administration of the IRPA, unless otherwise specified. The Minister of PS has the primary 
+responsibility for the administration of the IRPA as it relates to the following:  
+ 
+port of entry examinations; 
+ 
+enforcement of the IRPA including arrest, detention and removal; 
+ 
+establishment of policies respecting the enforcement of the IRPA and inadmissibility under 
+A34/35/37; and 
+ 
+declarations referred to under A42.1 (Ministerial Relief provision) 
+ 
+Pursuant to A6(1), the responsible Minister has the authority to designate any persons or classes of 
+persons as officers to carry out any purpose of any provision of the IRPA, and to specify the powers and 
+duties of the officers so designated. This is referred to as the designation of authority.  In addition, 
+A6(2) authorizes that anything that may be done by the Minister under the Act may be done by a person 
+that the Minister authorizes in writing. This is referred to as delegation of authority.  
+
+
+===== PAGE 7 =====
+ENF 18 Human or international rights violations 
+2020-06-03 
+ 
+7 
+Each Minister who has responsibilities under the IRPA has written an instrument of delegation and 
+designation that is periodically updated. The Delegation of Authority and Designations of Officers (D & D) 
+instruments stipulate who has the authority to perform specific immigration-related functions. CBSA and 
+IRCC personnel are designated by position to perform all delegated or designated authorities.  It is to be 
+noted that the IRPA D & D instruments have a hierarchical link which means only the lowest level of 
+authority is included in the D & D instruments as every position above this one (with a direct hierarchical 
+link) has the same authority to perform specific immigration-related functions. 
+ 
+CBSA and IRCC officers should always review both the CBSA and the IRCC D & D instruments as they 
+have authorities delegated and designated under both instruments, which can be found on the IL 3-  
+Designation of Officers and Delegation of Authority.  
+ 
+It is important to note that while IRCC officers have been designated the authority to deny an application 
+made under the IRPA based on inadmissibility under A34 (security), A35 (violating human or international 
+rights) and A37 (organized criminality), only CBSA officers may prepare and review A44(1) reports for 
+these inadmissibilities.  
+ 
+A35(1)(b) of the IRPA stipulates that the Minister (Public Safety) may designate a regime.  This authority 
+is not delegated to any other person. 
+ 
+ 
+6 
+Definitions 
+ 
+As defined in the Crimes Against Humanity and War Crimes Act: 
+ 
+War Crime 
+An act or omission committed during an armed conflict that, at the time and 
+in the place of its commission, constitutes a war crime according to 
+customary international law or conventional international law applicable to 
+armed conflicts, whether or not it constitutes a contravention of the law in 
+force at the time and in the place of its commission.    
+ 
+Crimes against 
+humanity 
+Means murder, extermination, enslavement, deportation, imprisonment, 
+torture, sexual violence, persecution or any other inhumane act or 
+omission that is committed against any civilian population or any 
+identifiable group and that, at the time and in the place of its commission, 
+constitutes a crime against humanity according to customary international 
+law or conventional international law or by virtue of its being criminal 
+according to the general principles of law recognized by the community of 
+nations, whether or not it constitutes a contravention of the law in force at 
+the time and in the place of its commission. 
+Genocide 
+Means an act or omission committed with intent to destroy, in whole or in 
+part, an identifiable group of persons, as such, that, at the time and in the 
+place of its commission, constitutes genocide according to customary 
+international law or conventional international law or by virtue of its being 
+criminal according to the general principles of law recognized by the 
+community of nations, whether or not it constitutes a contravention of the 
+law in force at the time and in the place of its commission. 
+
+
+===== PAGE 8 =====
+ENF 18 Human or international rights violations 
+2020-06-03 
+ 
+8 
+6.1 Differences between genocide and a crime against humanity 
+ 
+ 
+Genocide 
+ 
+Crime against humanity 
+ 
+ 
+An act committed to destroy a group. 
+ 
+An act committed as part of a widespread or 
+systematic attack. 
+ 
+ 
+The perpertrator intended to destroy a group. 
+ 
+The perpertrator was aware of the widespread or 
+sytematic attack and intended to commit the 
+criminal conduct. 
+ 
+ 
+The circle of victims, as defined by the Rome 
+Statute, is relatively small and includes the 
+following groups defined by:  nationality, 
+ethnicity, race and religion.  In addition, the 
+following distinction was added in 
+Canada:  any other identifiable group. 
+ 
+ 
+The circle of victims, as defined by the Rome 
+Statute, is relatively small and includes the 
+following groups defined by:  nationality, ethnicity, 
+race and religion.  In addition, the following 
+distinction was added in Canada:  any other 
+identifiable group. 
+ 
+ 
+Genocide always falls within the broader 
+category of crimes against humanity. 
+ 
+ 
+ 
+6.2 Differences between a war crime and a crime against humanity  
+ 
+ 
+War Crime 
+ 
+Crime against humanity 
+ 
+ 
+Can be limited to a single criminal act. 
+ 
+A single criminal act can only be considered 
+a crime against humanity if it is shown that 
+this one act was the result of the 
+implementation of a widespread or 
+systematic policy (Rome Statute of the 
+International Criminal Court art. 7). 
+ 
+Can only occur when a certain threshold of 
+intensity is reached between parties in the conflict 
+(Rome Statute of the International Criminal Court 
+art. 8, 2(d)).   
+ 
+For example,  police officers conducting 
+themselves in a violent manner during riots would 
+not necessarily constitue a war crime, but could 
+be a crime against humanity. 
+ 
+ 
+Can occur in any setting: during international 
+war, civil war, and in times of peace.   
+ 
+ 
+For example,  a particular atrocity such as 
+the killing of a civilian during a civil war can 
+be both a war crime and a crime against 
+humanity. 
+ 
+Can be a crime against property. 
+ 
+ 
+
+
+===== PAGE 9 =====
+ENF 18 Human or international rights violations 
+2020-06-03 
+ 
+9 
+6.3 Differences between a crime against humanity, war crime and a terrorist act: 
+ 
+A terrorist act generally has a wider application than a war crime, a crime against humanity and/or 
+genocide because:  
+ 
+ it is different than a crime against humanity in that it can be committed against both persons and 
+property; 
+ 
+ it can be an isolated incident — it does not have to be committed in a widespread or systematic 
+manner; 
+ 
+ it can be committed both in times of war and peace; 
+ 
+Criminal conduct pertaining to terrorist acts tends to be limited to very serious acts against persons and 
+property (see section 83.01(1)(b)(ii) of the Criminal Code Criminal Code).  Terrorist acts also have been 
+committed to achieve a particular purpose and with a specific intention (see section 83.01(1)(b)(i) and 
+83.01(1)(b)(ii) of the Criminal Code of Canada).  
+ 
+This wider application is also reflected in section 34 of the IRPA, which makes any person who is or was 
+a member of a terrorist organization inadmissible.  
+ 
+An officer may have an applicant who fits the description of all three crimes.  An example scenario would 
+be: 
+  
+ that a person was found to be a member of a group;   
+ that the group the person belonged to conducted a bombing campaign;  
+ that the incident occurred during a civil war.  
+ 
+In this scenario it would be preferable to find such a person described in A34(1)(f) rather than in 
+A35(1)(a).  The concept of membership to apply A35(1)(a) would not be sufficient as a result of the 
+decision by the Supreme Court of Canada in Rachidi Ekanza Ezokola v Minister of Citizenship and 
+Immigration (2013) SCC40 (i.e. it would need to be proven that the person made a voluntary, knowing 
+and significant contribution to the organization’s crime or criminal purpose) further described in Section 8 
+of this chapter.  
+ 
+Note:  Refer to Appendix C which lists articles 6, 7 and 8 of the Rome Statute of the International Criminal 
+Court. These articles provide further clarification and examples of what constitutes war crimes, crimes 
+against humanity and/or genocide. 
+ 
+ 
+7 
+Program Objectives – CBSA 
+ 
+Persons who have committed or including those who are complicit in the commission of a war crime, a 
+crime against humanity, genocide or any other reprehensible act, regardless of when or where these 
+crimes occurred, are not welcome in Canada. 
+ 
+A four-pronged approach is taken when dealing with modern-day war criminals: 
+ 
+ refusing their overseas applications as permanent residents, refugees, or temporary residents; 
+ denying their entry to Canada at ports of entry; 
+ excluding them from the refugee determination process in Canada; and, 
+ finding them inadmissible and removing them from Canada 
+ 
+ 
+
+
+===== PAGE 10 =====
+ENF 18 Human or international rights violations 
+2020-06-03 
+ 
+10 
+8 
+Procedure: Establishing inadmissibility under A35(1)(a) of the Immigration 
+and Refugee Protection Act or exclusion under 1F(a) of the United Nations 
+Refugee Agency’s Convention and Protocol relating to the status of refugees. 
+ 
+A35(1)(a) under the Immigration and Refugee Protection Act reads as follows:  
+ 
+35. (1)  A permanent resident or a foreign national is inadmissible on grounds of violating human rights or 
+international rights for: 
+ 
+(a) committing an act outside Canada that constitutes an offence referred to in sections 4 to 7 of 
+the Crimes Against Humanity and War Crimes Act; 
+ 
+Article 1F(a) of the United Nations Refugee Agency’s Convention and Protocol relating to the 
+status of refugees reads as follows: 
+ 
+1F The provisions of this Convention shall not apply to any person with respect to whom there are serious 
+reasons for considering that: 
+ 
+(a) he has committed a crime against peace, a war crime, or a crime against humanity as defined 
+in the international instruments drawn up to make provision in respect of such crimes 
+ 
+This includes the following:  
+ 
+ individuals who personally commit an offence;  
+ 
+ individuals who attempt to commit an offence;  
+ 
+ individuals who aid and abet, encourage, or are involved in the planning of an offence; 
+ 
+ individuals who occupy a position of command or superior responsibility with regards to those who 
+committed the offense; 
+ 
+ 
+individuals who are complicit when an offence is committed.  
+ 
+ 
+8.1 Establishing complicity  
+ 
+The Supreme Court of Canada (SCC) decision in the matter of Rachidi Ekanza Ezokola v Minister of 
+Citizenship and Immigration (2013) changed how complicity in war crimes, crimes against humanity 
+and/or genocide is to be assessed.  The court introduced the contribution-based test as the applicable 
+legal test to be applied by the Immigration Refugee Board (IRB) or immigration officers in-Canada or 
+overseas. Eliminated components of the United Nations Refugee Agency’s Convention and Protocol 
+relating to the status of refugees 1F(a) jurisprudence, which are also applicable to IRPA A35(1)(a) 
+analysis, are: 
+ 
+ the elimination of complicity by mere association; and, 
+ 
+ the elimination of the presumption that mere membership in an organization with a limited brutal 
+purpose is sufficient for an individual to be excluded from refugee protection or found inadmissible 
+under A35(1)(a). 
+ 
+ 
+8.2 The contribution-based test 
+ 
+The key components of the contribution-based test jurisprudence are: 
+
+
+===== PAGE 11 =====
+ENF 18 Human or international rights violations 
+2020-06-03 
+ 
+11 
+ 
+ Voluntary contribution to the group’s crime or criminal purpose: 
+ 
+Decision makers are to consider the method of recruitment by the organization and any safe and early 
+opportunity the person has had to dissassociate from the organization.  The voluntariness requirement 
+captures the defense of duress.  The contribution to the crime or criminal purpose must be voluntarily 
+made; it cannot be made under duress. 
+ 
+ Significant contribution to the group’s crime or criminal purpose: 
+ 
+The mere association factor has now been replaced with a culpable complicity factor when a person 
+makes a significant contribution to the crime or criminal purpose of a group.  The degree of contribution 
+must be carefully assessed to prevent an unreasonable extension of criminal participation in international 
+criminal law.   
+ 
+ Knowing contribution to the group’s crime or criminal purpose: 
+ 
+The person must be aware of the group’s crime or criminal purpose and aware that his or her conduct will 
+assist in the furtherance of the crime or criminal purpose. 
+ 
+8.3 6 Factors – Contribution-based test for establishing complicity: 
+ 
+To determine whether a person’s conduct meets the test for complicity, the following 6 factors should be 
+considered in the decision maker’s analysis: 
+ 
+ The size and nature of the organization, including whether the organization was one with a brutal, 
+limited purpose; 
+ 
+ The part of the organization with which the person was most directly concerned: 
+ 
+Decision makers should be aware that persons may not have been affiliated with all parts of the 
+organization and could have been excluded from affiliating with the part that was involved in the crime or 
+criminal purpose.  The decision maker should drill down as far as possible in the organization so as to 
+more properly define the group to which the person is said to belong, especially with organizations that 
+are hybrid or multi-faceted. 
+ 
+ The person’s duties and activities within the organization: 
+ 
+This factor is significant because it goes to the heart of a person’s day-to-day participation.  The decision 
+maker should look at the person’s day-to-day participation in regards to the duties and activities and 
+consider the link between these and the crimes and criminal purpose of the organization. 
+ 
+ The person’s position or rank in the organization; 
+ 
+ The length of time the person was in the organization, particularly after acquiring knowledge of the 
+group’s crime or criminal purpose; and,  
+ 
+ The method by which the personwas recruited and the person’s opportunity to leave the 
+organization, 
+ 
+These factors are not exhaustive and are not given the same weight in all cases.  The focus must remain 
+on the person’s contribution to the crime or criminal purpose and the analysis.  The weight of each factor 
+will depend on the facts and context of each case. 
+ 
+
+
+===== PAGE 12 =====
+ENF 18 Human or international rights violations 
+2020-06-03 
+ 
+12 
+8.4 Establishing complicity—brutal (limited purpose) organizations  
+ 
+In the decision of Rachidi Ekanza Ezokola v Minister of Citizenship and Immigration (2013) SCC40, the 
+Supreme Court of Canada has stated that when looking at establishing complicity, the contribution-based 
+test should be applied.   
+ 
+A first step is to look at the size and nature of the organization. If the main purpose of the organization is 
+the involvement in war crimes, crimes against humanity and/or genocide, the factor with respect to such 
+an organization may weigh more heavily than some of the other factors set out above.  A characterization 
+of an organization as brutal only has an effect in relation to the other factors in the contribution-based test 
+but by itself can never lead to complicity.  The Supreme Court stated in the Ezokola decision of that “In 
+contrast, where the group is identified as one with a limited and brutal purpose it will be easier to establish 
+complicity.  In such circumstances, a decision maker may more readily infer that the accused had 
+knowledge of the group’s criminal purpose and that his conduct contributed to that purpose.” 
+ 
+  
+8.5 Other forms of complicity   
+ 
+While the new contribution-based test for complicity set out in Ezokola replaces the former “personal and 
+knowing participation test”, it also allows for the continued and direct application of international criminal 
+law including modes of partial liability for the commission of international crimes, such as aiding and 
+abetting based on article 25 of the Rome Statute, and also command or superior responsibility based on 
+article 28 of the Rome Statute. 
+ 
+The Canadian courts have determined that the following activities constitute aiding and abetting (as 1    
+form  of complicity):    
+ 
+ handing over people to organizations (brutal or non-brutal) with the knowledge that these people 
+would come to harm; 
+  
+ providing information to organizations on individuals which result in harm to these individuals; 
+ 
+ providing support functions, such an being an intelligence officer, a driver or a bodyguard to 
+members of the organization;  
+ 
+ assisting in increasing the effectiveness of a limited brutal purpose organization, for example, by 
+being a policeman in charge of political prisoners at a military hospital or being in charge of legal 
+training with a police force.  
+ 
+If the above examples of aiding and abetting do not fit the situation at hand, international criminal law can 
+be helpful in this regard. The aider and abettor carries out acts specifically directed to assist, encourage 
+or lend moral support to the perpetration of a certain specific crime (murder, extermination, rape, torture, 
+wanton destruction of civilian property, etc.), and this support has a substantial effect upon the 
+perpetration of the crime. (Tadić (IT-94-1-A), Appeals Chamber, 15 July 1999 at para. 229.) 
+ 
+ While the concepts of command responsibility and superior responsibility have been introduced into 
+Canadian criminal law and are now part of the Crimes Against Humanity and War Crimes Act (which is in 
+turn based on article 28 of the Rome Statute) there has been no jurisprudence in Canada as of yet.  
+Command responsibility applies to military hierarchies and superior responsibility applies to civilian 
+organizations. 
+ 
+However, international criminal law has been instrumental in providing clarifications for its various 
+elements.  For example, a superior will be subject to individual criminal liability if the following elements 
+can be demonstrated: a superior-subordinate relationship; the superior knew or had reason to know 
+
+
+===== PAGE 13 =====
+ENF 18 Human or international rights violations 
+2020-06-03 
+ 
+13 
+that a criminal act was about to be, was being or had been committed (the requisite mens rea); and a 
+failure to take necessary and reasonable measures to prevent or punish the conduct in question. 
+ 
+8.6 Defences 
+ 
+The burden of proof with respect to defences lies with the person concerned, i.e. it has to be raised and 
+proven by that person.  Two common defences in immigration/refugee law are superior orders and 
+duress. 
+ 
+Superior Orders:    
+ 
+A common defence of a person who committed a war crime, genocide, or a crime against humanity is 
+based on the concept of superior orders; i.e., the position held required the individual to follow orders 
+from the government or a superior officer.  Although this defence may be used in arguing for a lighter 
+sentence in a criminal prosecution, it is not relevant for the purposes of the IRPA and cannot overcome 
+inadmissibility under A35(1)(a) or 1F(a) exclusion, except if the person concerned can show that the order 
+followed was not manifestly unlawful; a difficult test to meet.   
+ 
+ 
+Duress:  
+ 
+The Ministers' policy position regarding the appropriate test for the defence of duress, when it is raised in 
+the context of assessments under A35(1)(a) or 1F(a) exclusion under A98, is one which adopts a 
+harmonized approach based on Canadian criminal law, Canadian immigration law and international 
+criminal law. 
+1. When assessing the defence of duress for inadmissibility under paragraph 35(1)(a) of the IRPA or 
+for a 1F(a) exclusion under section 98 of the IRPA, we must rely on international criminal law. 
+This was articulated by the Federal Court of Appeal in Ramirez v. Canada (Minister of 
+Employment and Immigration), 1992 CanLII 8540 (FCA) 
+2. However, the defence of duress under international criminal law has changed since Ramirez was 
+rendered. The current state of the test is codified in article 31(1)(d) of the Rome Statute of the 
+International Criminal Court . The test for duress set out in article 31(1)(d) of the Rome Statute 
+therefore applies. 
+3. The Canadian criminal law test for the defence of duress set out by the Supreme Court of 
+Canada in in R v. Ryan, 2013 SCC 3 should only be relied upon as an interpretive aid (see “For 
+cross-reference purposes only: Test under Ryan” below). 
+The following is a summary of the elements of the test to be applied: 
+1. There must be a threat of imminent death or of continuing or imminent serious bodily harm; 
+2. Such threat is required to be made by other persons or constituted by other circumstances 
+beyond the control of the person concerned; 
+3. The threat must be directed against the person concerned or some other person; 
+4. The person concerned must act necessarily and reasonably to avoid this threat; 
+5. In so acting the person concerned does not intend to cause a greater harm than the one sought to 
+be avoided. 
+ 
+Details of Minister's harmonized interpretation: 
+The Minister's position is that the elements of the international criminal law test for the defence of 
+duress are in harmony with the elements found in the domestic criminal law test. 
+
+
+===== PAGE 14 =====
+ENF 18 Human or international rights violations 
+2020-06-03 
+ 
+14 
+In accordance with the Minister's interpretation, both tests recognize that responsibility for the commission 
+of a crime disappears when: 
+ 
+the "accused person" (the person who is alleged to have committed the crime) committed the 
+crime in circumstances which removed the "accused's" ability to exercise free will (i.e., the act was 
+no longer voluntary / the "accused" was compelled to act), because of  
+o 
+a threat of death or serious bodily harm to the "accused" or another person which 
+outweighed the harm which the "accused" was being forced to inflict. 
+Both tests consist of stringent elements which must be met in order for the defence to apply. Those 
+elements are harmonized as follows: 
+1. There must have been a "threat of death or serious bodily harm";  
+i. 
+the threat must have been made by other persons or constituted by other circumstances 
+beyond the control of the "accused"; 
+ii. 
+a merely abstract danger or simply an elevated probability that a dangerous situation 
+might occur will not suffice; 
+iii. 
+the threat must have been objectively present and not merely exist in the perpetrator's 
+mind (the "accused" must reasonably have believed that the threat would be realized); 
+iv. 
+the threat must have been directed against the "accused" or some other person. 
+2. There must have been a "close temporal connection" between the threat and the harm 
+threatened;  
+i. 
+a "close temporal connection" is sufficient to show that the threat was not too far removed 
+in time or too vague in terms of its timing; 
+ii. 
+a "close temporal connection" supports a finding that it is reasonable to believe that the 
+degree of pressure placed on the "accused" was sufficient for the "accused" to lose the 
+ability to act freely (the "accused" therefore acted in an involuntary manner); 
+iii. 
+"close temporal connection" does not require that the harm threatened occurred 
+immediately (threats of future harm may be considered). Future harm is evaluated in the 
+context of whether there still remained a sufficiently close temporal connection to the 
+threat; 
+iv. 
+"imminent" under the Rome Statute is understood to mean "close temporal connection" as 
+this phrase is used by the SCC in Ryan. 
+3. There must have been a "close temporal connection" between the threat and the act of the 
+"accused" in order to determine whether there was any legal way of averting the act;  
+i. 
+a "close temporal connection" is sufficient to show that the threat was not too far removed 
+in time or too vague in terms of its timing; 
+ii. 
+a "close temporal connection" supports a finding that it is reasonable to believe that the 
+degree of pressure placed on the "accused" was sufficient for the "accused" to lose the 
+ability to act freely (to have acted in an involuntary manner); 
+iii. 
+"imminent" under the Rome Statute is understood to mean "close temporal connection" as 
+this phrase is used by the SCC in Ryan. 
+4. There must have been no legal way of averting the act based on a modified objective standard 
+(this reflects both the position in Ryan and the Rome Statute's requirement to have acted 
+necessarily and reasonably to avoid the threat)  
+i. 
+a threat results in duress only if it is not otherwise avoidable (i.e., if a reasonable person 
+in comparable circumstances would not have submitted and would not have been 
+driven to the relevant criminal conduct; no other available alternative course of evasive 
+action that could reasonably have been expected to be taken; could not have fairly 
+been expected to withstand or assume the risk); 
+ii. 
+acting necessarily and reasonably to avoid a threat does not require special valour, 
+prowess or heroism which, by definition, go beyond the call of a reasonable person; 
+iii. 
+part of this analysis includes an evaluation of whether there was a safe avenue of 
+escape; 
+
+
+===== PAGE 15 =====
+ENF 18 Human or international rights violations 
+2020-06-03 
+ 
+15 
+iv. 
+part of this analysis includes an evaluation of whether the predicament in which the 
+"accused" finds himself or herself was of his or her own making or consistent with his or 
+her own will (e.g., where the "accused" becomes (or remains) a party to an association 
+in which he or she knowingly accepted a risk that, as a result of such association, he or 
+she could be compelled to commit such a crime). Voluntarily associating oneself 
+(joining or remaining associated) with such knowledge would not meet the requirement 
+to act necessarily and reasonably; 
+v. 
+the "modified objective standard" refers to assessing how a reasonable person in the 
+same situation as the "accused" and with the same personal circumstances and 
+experiences as the "accused" would have acted (e.g., concluding whether or not there 
+was no legal way of averting the act, such as a safe avenue of escape). 
+5. There must have been a measure of proportionality between the harm threatened and the harm 
+which the "accused" inflicted on the victim(s). The harm threatened must outweigh the harm 
+inflicted. This should be based on a modified objective standard;  
+i. 
+part of this analysis includes an evaluation of the severity of the bodily harm that was 
+threatened; 
+ii. 
+the "modified objective standard" refers to assessing how a reasonable person in the 
+same situation as the "accused" and with the same personal circumstances and 
+experiences as the "accused" would have acted (e.g., concluding whether or not the 
+harm being threatened outweighed the harm inflicted on the victim(s)). 
+ 
+For cross-reference purposes only: Test under Ryan 
+The Supreme Court of Canada in R. v Ryan, 2013 SCC 3 (CanLII), at paragraph 55, set out the test for 
+the defence of duress in Canadian criminal law as follows: 
+1. an explicit or implicit threat of death or bodily harm proffered against the "accused" or a third 
+person. The threat may be of future harm. Although, traditionally, the degree of bodily harm was 
+characterized as "grievous", the issue of severity is better dealt with at the proportionality stage, 
+which acts as the threshold for the appropriate degree of bodily harm; 
+2. the "accused" reasonably believed that the threat would be carried out; 
+3. the non-existence of a safe avenue of escape, evaluated on a modified objective standard; 
+4. a close temporal connection between the threat and the harm threatened; 
+5. proportionality between the harm threatened and the harm inflicted by the "accused". This is also 
+evaluated on a modified objective standard; 
+6. the "accused" is not a party to a conspiracy or association whereby the "accused" is subject to 
+compulsion and actually knew that threats and coercion to commit an offence were a possible 
+result of this criminal activity, conspiracy or association. 
+ 
+Application of the defence of duress: 
+ 
+When an allegation under A35(1)(a) or 1F(a) of the Refugee Convention is made before the 
+Immigration and Refugee Board of Canada (IRB), and the person concerned has raised the issue 
+of duress, it will be an IRB member who decides whether the defence has been sufficiently 
+established. 
+ 
+When the defence of duress is raised, CBSA Hearings Officers, who represent the relevant 
+Minister before the IRB (either for an allegation under A35(1)(a) or an allegation under 1F(a) of 
+the Refugee Convention), should argue whether the defence of duress has been sufficiently 
+established based on the facts of the case and the Minister's position on the applicable test for 
+the defence of duress. 
+
+
+===== PAGE 16 =====
+ENF 18 Human or international rights violations 
+2020-06-03 
+ 
+16 
+ 
+In the context of considering writing a report under A44(1) or referring a report under A44(2) for 
+inadmissibility under A35(1)(a), or in the context of a claim being made for refugee protection 
+where article 1F(a) of the Refugee Convention is a possible issue, and when the defence of 
+duress is raised, the officer should record and document any evidence of duress that has been 
+raised. In these circumstances, officers/ Minister’s Delegates  are not to make a decision on 
+whether the defence of duress has been made out. 
+ 
+ 
+In the context of considering an application for permanent residence from inside Canada, Senior 
+Immigration Officers, when deciding whether the person concerned has or has not satisfied the 
+officer that the person concerned is not inadmissible to Canada under A35(1)(a), should record 
+and document any evidence of duress. 
+ 
+When A35(1)(a) is at issue during the processing of a visa application, and the person concerned 
+has raised the defence of duress, it will be an IRCC Migration Officer who decides whether the 
+defence has been sufficiently established. IRCC Migration Officers should record and document 
+any evidence of duress that has been raised. 
+IRCC Migration Officers should consider the policy position on the appropriate test for the 
+defence of duress as articulated in this manual chapter. 
+ 
+8.7 Cases involving prior exclusion by the Refugee Protection Division (RPD)  
+ 
+Section R15(b) of the Immigration and Refugee Protection Regulations (IRPR) has established that the 
+findings of fact pursuant to section F of Article 1 of the United Nations Refugee Agency’s Convention and 
+Protocol relating to the status of refugees [1F(a)] are conclusive during an IRPA A35(1)(a) assessment.  
+ 
+An example would be where the person has previously been in Canada and the officer has evidence that 
+the Refugee Protection Division has excluded the person from refugee determination under 1F(a).  In 
+most instances there would be no need to conduct any further investigation to establish further facts 
+under A35(1)(a), as long as the decision maker can demonstrate that these facts would stand up using 
+the new contribution-based test. In most cases, RPD decisions made before the Ezokola decisions can 
+be utilized without having to apply the new complicity test. 
+ 
+There will be situations where the person provides the officer with additional information that was not 
+available at the time of the Refugee Protection Division exclusion. The decision maker must take into 
+account any new and credible evidence regarding the inadmissibility.  Any such additional information 
+must be accepted and has to be assessed to demonstrate the contribution-based test.  
+ 
+Both submissions by the applicant as well as the CBSA can be found to be new evidence, provided that 
+they were not before the Refugee Protection Division.  Where relevant and credible evidence is brought 
+forward that requires consultation with CBSA HQ, officers may contact the Case Review Unit. 
+ 
+R15 also considers a decision by any international criminal tribunals established by resolution of the 
+Security Council of the United Nations or by the ICC as a conclusive finding of fact for the purposes of 
+inadmissibility under A35(1)(a), as well as a decision by a Canadian court pursuant to the Criminal Code 
+of Canada or the Crimes against Humanity and War Crimes Act.   
+ 
+For case law on complicity, refer to ENF24 Appendix H. 
+ 
+ 
+9 
+ Procedure: Establishing inadmissibility under A35(1)(b)  
+ 
+ 
+
+
+===== PAGE 17 =====
+ENF 18 Human or international rights violations 
+2020-06-03 
+ 
+17 
+9.1 Designation of regimes  
+ 
+A person cannot be described in A35(1)(b) unless the government concerned has been designated by the 
+Minister of Public Safety as a regime that has been involved in terrorism, systematic or gross human 
+rights violations, a war crime, crime against humanity or genocide within the meaning of subsections 6(3) 
+to (5) of the Crimes Against Humanity and War Crimes Act.  
+ 
+9.2 Designated regimes pursuant to Section A35(1)(b) 
+ 
+Designated June 16, 1993, extended on August 15, 1997: the Bosnian Serb regime between March 27, 
+1992 and October 10, 1996. 
+ 
+Designated October 12, 1993: the Siad Barré regime in Somalia between 1969 and 1991. 
+ 
+Designated April 8, 1994: the former military governments in Haiti between 1971 and 1986, and between 
+1991 and 1994, except the period August to December 1993. 
+ 
+Designated October 21, 1994: the former Marxist regimes of Afghanistan between 1978 and 1992. 
+ 
+Designated September 3, 1996, amended September 9, 2004: the governments of Ahmed Hassan Al–
+Bakr and Saddam Hussein in power in Iraq between 1968 and May 22, 2003. 
+ 
+Designated April 27, 1998: the Government of Rwanda under President Habyarimana between October 
+1990 and April 1994, as well as the interim government in power between April 1994 and July 18, 1994. 
+ 
+Designated June 30, 1999, amended March 14, 2001: the governments of the Federal Republic of 
+Yugoslavia and the Republic of Serbia (Milosevic) between February 28,1998, and October 7, 2000. 
+ 
+Designated March 14, 2001, amended September 9, 2004: the Taliban regime in Afghanistan between 
+September 27, 1996 and December 22, 2001. 
+ 
+Designated November 21, 2003: the Government of Ethiopia under Mengistu Haile Mariam between 
+September 12, 1974 and May 21, 1991. 
+ 
+The CBSA, in consultation with Immigration, Refugee, Citizenship Canada’s (IRCC) International Region 
+and Global Affairs Canada (GAC), provides a recommendation to the Ministers that a particular 
+government should be designated. The following are among the factors that will be considered in deciding 
+whether a regime should be designated:  
+ 
+ condemnation by other countries and organizations;  
+ 
+ the overall position of the Canadian government, including whether accepting a refugee claim by a 
+senior member of the government would undermine Canada's strong position on human rights;  
+ 
+ the nature of the human rights violations; and 
+ 
+ immigration concerns such as the number of persons coming from that specific country and whether 
+there might be a concern for the protection of Canadian society. 
+ 
+ 
+ 
+9.3 Requirements to establish inadmissibility  
+ 
+ 
+
+
+===== PAGE 18 =====
+ENF 18 Human or international rights violations 
+2020-06-03 
+ 
+18 
+Persons who are described in A35(1)(b) may be broken down into three categories, each with its own 
+evidentiary requirements, as set out in the following table:  
+ 
+ 
+Category 
+ 
+Evidence required 
+Notes 
+1. Persons described 
+in R16(a), R16(b), 
+R16(f) 
+(ambassadors only), 
+and R16(g) 
+Designation of regime  
+ 
+Proof of position  
+A person in this group is presumed to be or to have 
+been able to exert significant influence on the 
+exercise of that government's power. This is a non-
+rebuttable presumption which has been upheld by the 
+Federal Court of Appeal. In other words, the fact that 
+a person is or was an official in this category is 
+determinative of the allegation. Aside from the 
+designation and proof that the person holds or held 
+such a position, no further evidence is required to 
+establish inadmissibility. 
+ 
+2. Persons described 
+in R16(c), R16(d), 
+R16(e), and R16(f) 
+(senior diplomatic 
+officials only)  
+Designation of regime  
+ 
+Proof of position held 
+ 
+Proof that position is 
+senior (see the note 
+following this table) 
+In addition to the evidence required, it must be 
+established that the position the person holds or held 
+is a senior one. In order to establish that the person's 
+position was senior, the position should be related to 
+the hierarchy in which the functionary operates. 
+Copies of organization charts can be located from the 
+Europa World Year Book, Encyclopedia of the Third 
+World, Country Reports on Human Rights Practices 
+(U.S. Department of State). If it can be demonstrated 
+that the position is in the top half of the organization, 
+the position can be considered senior. This can be 
+further established by evidence of the responsibilities 
+attached to the position and the type of work actually 
+done or the types of decisions made (if not by the 
+applicant then by holders of similar positions). 
+ 
+3. Persons not 
+described in R16 
+ 
+Designation of 
+regime 
+ 
+Proof that the person 
+could exercise 
+significant influence or 
+was able to benefit 
+from the position 
+ 
+In addition to the designation of the regime, it must be 
+established that the person, although not holding a 
+formal position, is or was able to exercise significant 
+influence on the actions or policies of the regime or 
+was able to benefit from the position. 
+A person who assists in either promoting or sustaining 
+a government designated by the Minister can be 
+characterized as having significant influence over its 
+policies or actions.  
+ 
+The concept of significant influence is not limited to 
+persons who made final decisions on behalf of the 
+regime; it also applies to persons who assisted in the 
+formulation of these policies, e.g., by providing advice, 
+as well as persons responsible for carrying them out, 
+as long as the influence or benefit occurred at a high 
+level and not an average situation applicable to large 
+categories of people. If a person conducts activities 
+which directly or indirectly allow the regime to 
+
+
+===== PAGE 19 =====
+ENF 18 Human or international rights violations 
+2020-06-03 
+ 
+19 
+implement its policies, the test for significant influence 
+is met. The phrase "government power" in R16 is not 
+limited to powers exercised by central agencies or 
+departments but can also refer to entities that 
+exercise power at the local level.  
+Once it is established that the person exerted 
+significant influence or benefited, the extent or degree 
+of this influence or benefit is not relevant to the finding 
+of inadmissibility; however, they are factors that could 
+be considered by the Minister when deciding whether 
+a declaration of relief under A42.1 would not be 
+contrary to the national interest. 
+ 
+ 
+There is no definition of "senior official" in the IRPA but the Federal Court has held on a number of 
+occasions that ‘senior’ applies to the top 50% of an organization. 
+ 
+9.4 Opportunity for person to be heard  
+ 
+If an officer is reporting the person for an allegation under A35(1)(b), the applicant must be given an 
+opportunity to demonstrate that their position is not senior as described in R16 (category 2) or that they 
+did not or could not exert significant influence on their government's actions, decisions, or policies and did 
+not benefit from their position (category 3). This can be done by mail or by personal interview. In either 
+case, the officer should provide the applicant with copies of all unclassified documents that will be 
+considered in assessing admissibility.    
+ 
+9.5 Consultation with CBSA HQ 
+ 
+Officers should be aware of the sensitive nature of A35(1)(b) and the need for careful and thorough 
+consideration of all relevant information. It is not intended that officers should cast the net so widely that 
+all employees of a designated regime are considered inadmissible.  
+ 
+ 
+Before considering the refusal of an applicant whose position is not listed in R16 or writing an A44 for 
+an allegation of inadmissibility, officers are requested to consult with CBSA Case Management (HQ). 
+ 
+For Port of Entry and in-Canada cases 
+10 Procedure: How to assess A35 or 1F(a) cases  
+ 
+ 
+10.1 Determining the general profile 
+ 
+When reviewing an application for entry into Canada or investigating an allegation of inadmissibility for 
+persons in Canada, applicants who are from countries where there is/was war, internal turmoil, genocide, 
+or where human rights abuses are/were widespread and who are one of the following qualify for more in-
+depth investigation:  
+ 
+ senior government officials, diplomats or employees of the government; 
+ 
+ current and former military, para-military, security, intelligence and police personnel or individuals 
+employed in technical or scientific backgrounds related to chemical or biological weapons; 
+ 
+ close family relatives of heads of government/state;  
+ 
+
+
+===== PAGE 20 =====
+ENF 18 Human or international rights violations 
+2020-06-03 
+ 
+20 
+ persons suspected of being members of an organization that is involved in terrorism or crimes 
+against humanity; or  
+ 
+ members of guerrilla groups.  
+ 
+10.2 Security vetting of Temporary and Permanent Resident visa applicants 
+ 
+IRCC visa officers processing temporary and permanent resident visa applications should be aware that 
+an Immigration Control (IC) manual outlines procedures for security screening.   
+ 
+ 
+ 
+11 Inadmissibility under paragraphs A35(1)(c), A35(1)(d) and A35(1)(e)  
+ 
+11.1 A35(1)(c) Restricted entry / Imposed sanctions on a country 
+ 
+A person is inadmissible on grounds of violating human or international rights for: 
+ 
+ 
+A35(1)(c) Being a person, other than a permanent resident, whose entry into or stay in Canada is 
+restricted pursuant to a decision, or, resolution, or measure of an international organization of states 
+of which Canada is a member that imposes sanctions on a country against which Canada has 
+imposed or has agreed to impose sanctions in concert with that organization or association. 
+ 
+The officer may obtain evidence for A35(1)(c) by collecting: 
+ 
+ 
+Proof that the person concerned is a citizen of a country against which Canada has imposed or has 
+agreed to impose sanctions;  
+ 
+Proof of the international organization of states or association of states valid decision, resolution or 
+measure (see also ENF 2, Evaluating Inadmissibility); and 
+ 
+Other documentary evidence including, but not limited to, media articles, scholarly journals, expert 
+evidence (i.e. evidence from a person who is a specialist in a subject and who may present an 
+“expert” opinion). 
+ 
+The following considerations apply to inadmissibility under A35(1)(c): 
+ 
+ 
+35(1)(c) only applies to foreign nationals (it does not apply to permanent residents). 
+ 
+35(1)(c) may be used to deny entry to foreign nationals who are listed by an organization or 
+association of states. 
+ 
+Canada must be a member of that organization or association of states. 
+ 
+The restricted entry must be pursuant to sanctions imposed “on a country”.  
+ 
+Canada must have agreed to impose sanctions in concert with that organization or association of 
+states. There is no requirement of complicity, intent or purpose. 
+ 
+11.2 Inadmissibility under paragraphs A35(1)(d) and A35(1)(e) 
+ 
+ 
+A person is inadmissible on grounds of violating human or international rights for: 
+ 
+ 
+A35(1)(d) Being a person, other than a permanent resident, who is currently the subject of an 
+order or regulation made under section 4 of the Special Economic Measures Act on the grounds 
+that any of the circumstances described in paragraph 4(1.1)(c) or (d) of that Act has occurred. 
+
+
+===== PAGE 21 =====
+ENF 18 Human or international rights violations 
+2020-06-03 
+ 
+21 
+ 
+ 
+A35(1)(e) Being a person, other than a permanent resident, who is currently the subject of an 
+order or regulation made under section 4 of the Justice for Victims of Corrupt Foreign Officials Act 
+(Sergei Magnitsky Law). 
+ 
+Bill S-226, created the Justice for Victims of Corrupt Foreign Officials Act (Sergei Magnitsky Law) and 
+made related amendments to the Special Economic Measures Act (SEMA) and the IRPA. The bill was 
+passed and received Royal Assent on October 18, 2017. 
+Pursuant to Bill S-226, sanctions may be made against foreign nationals who have committed gross 
+violations of internationally recognized human rights or who have committed significant corruption. As 
+such, the Government of Canada will publish, update and maintain comprehensive lists of foreign 
+nationals who are responsible for, or complicit in gross violations of human rights or significant corruption. 
+The names on these lists include foreign nationals who are subject to an order or regulation under the 
+Justice for Victims of Corrupt Foreign Officials Act (Sergei Magnitsky Law) or SEMA. 
+ 
+ 
+Justice for Victims of Corrupt Foreign Officials Act (Sergei Magnitsky Law) 
+ 
+The Justice for Victims of Corrupt Foreign Officials Act (Sergei Magnitsky Law) enables the Governor in 
+Council to issue an order or regulation restricting or prohibiting certain activities in relation to a foreign 
+national who is responsible for, or complicit in gross violations of human rights. An order or regulation 
+under this Act may also be made in respect of foreign public officials who are responsible for, or complicit 
+in, acts of significant corruption. The comprehensive list is accessible through the Justice Canada website 
+(https://laws.justice.gc.ca/eng/regulations/SOR-2017-233/page-2.html#docCont). 
+ 
+ 
+Special Economic Measures Act 
+ 
+The Special Economic Measures Act (SEMA) came into force in 1992 to permit Canada to impose 
+sanctions against foreign states and their nationals. The Justice for Victims of Corrupt Foreign Officials 
+Act (Sergei Magnitsky Law) amends SEMA by expanding the grounds upon which the Governor in 
+Council may cause to be seized, frozen or sequestrated any property in Canada that is held by or on 
+behalf of a foreign state, any person in that foreign state, or a national of that foreign state who does not 
+ordinarily reside in Canada. When sanctions are imposed under the Act, the names of listed persons are 
+published in a schedule to the relevant regulations.  
+ 
+Procedures for A35(1)(d) and A35(1)(e): 
+ 
+In cases where an individual is listed under the Justice for Victims of Corrupt Foreign Officials (Sergei 
+Magnitsky Law) or the SEMA, a lookout will be created in the Integrated Customs Enforcement System 
+(ICES) and a Secure Tracking System (STS) case will be created by the National Security Screening 
+Division (NSSD). Officers will need to confirm biographic details of the foreign national. Foreign nationals 
+who are confirmed to be positive matches to the list meet the reasonable grounds to believe standards for 
+inadmissibility under A35(1)(d) or A35(1)(e).  
+ 
+Before proceeding with an inadmissibility report or a visa refusal, officers must determine whether:  
+ 
+ 
+the individual is a foreign national; and  
+ 
+the individual is currently the subject of an order or regulation under section 4 of the SEMA on the 
+grounds described in paragraph 4(1.1)(c) or (d); or under section 4 of the Justice for Victims of 
+Corrupt Foreign Officials Act (Serguei Magnitski Law). 
+ 
+
+
+===== PAGE 22 =====
+ENF 18 Human or international rights violations 
+2020-06-03 
+ 
+22 
+In the event of a suspected name match, other biographic details (i.e. full name, date of birth, place of 
+birth, and/or citizenship, etc. where available) shall be confirmed against the CBSA master sanctions list. 
+ 
+ 
+At ports of entry, officers may contact the Border Operations Centre (BOC) to assist in 
+determining whether the foreign national is, in fact, a positive match to the CBSA master 
+sanctions list.  
+ 
+ 
+At inland or overseas offices, when encountering a suspected match, officers may send an email 
+during business hours (8am to 4pm EST) to the NSSD’s Security Screening Intelligence Unit’s 
+(SSIU) mailbox at CBSA HQ to initiate the verification process. After business hours, officers are 
+to contact the CBSA’s Border Operations Centre. 
+ 
+Note:  Pursuant to A35(2), there is a temporal aspect to inadmissibility under A35(1)(d) and A35(1)(e). 
+Despite section 33 of the IRPA, a person who ceases being the subject of an order or regulation referred 
+to in A35(1)(d) or (e) is no longer inadmissible under that paragraph. In other words, an individual is only 
+inadmissible as long as they are currently listed. 
+ 
+ 
+The details supporting why an individual is, or was, listed are not relevant for determining 
+inadmissibility under A35(1)(d) or A35(1)(e). 
+ 
+ 
+The details for listing the foreign national are not in the possession of the CBSA and therefore the 
+CBSA is not under an obligation to disclose. With respect to determining inadmissibility under 
+A35(1)(d) or A35(1)(e) of the IRPA, the position of CBSA is that the only relevant information is that 
+related to the foreign national’s identity.  
+ 
+ 
+While Ministerial relief under A42.1 is available for inadmissibility under A35(1)(c), it is not available 
+for inadmissibility under A35(1)(d) and/or A35(1)(e). 
+ 
+ 
+Should a delisted foreign national be encountered, the officer must evaluate other inadmissibility 
+grounds under IRPA as outlined in ENF 1 and ENF 2. 
+ 
+ 
+ 
+12 Roles and responsibilities 
+ 
+ 
+ 
+12.1 National Security Screening Division (NSSD) 
+ 
+The NSSD is located within the Intelligence and Enforcement Branch at CBSA HQ and is responsible for 
+screening temporary and permanent resident applicants as well as refugee claimants for involvement in 
+organized crime, crimes against humanity, genocide, terrorism, espionage and subversion. The NSSD 
+also develops assessments and provides recommendations on security screening referrals to IRCC 
+offices (both domestically and internationally) and CBSA offices. 
+ 
+12.2  Intelligence Collection, Analysis and Production (ICAP) 
+ 
+The Intelligence Collection, Analysis and Production Division of the Intelligence and Enforcement Branch 
+at CBSA collects, analyses and disseminates actionable intelligence on individuals, organizations and 
+events of security concern.  The division conducts trend analyses and produces threat assessments and 
+screening aids on current issues and/or groups including those related to foreign interference, espionage, 
+war crimes, crimes against humanity and genocide.  
+  
+
+
+===== PAGE 23 =====
+ENF 18 Human or international rights violations 
+2020-06-03 
+ 
+23 
+12.3 Immigration Enforcement Division  
+ 
+The Immigration Enforcement Division  of the Intelligence and Enforcement Branch at CBSA HQ, is 
+responsible for: 
+ 
+ coordination of the CBSA program input into Canada’s CAHWC Program administration documents 
+and agreements including the annual reports, performance measurements, evaluations, etc. 
+ 
+ shared responsibility for governance of the program by representing  the CBSA at the Program 
+Coordination Operations Committee (PCOC) along with the CBSA’s Case Review section.  The unit 
+represents the CBSA and works closely with program partners in Justice, the RCMP and IRCC in 
+policy development and program administration, setting of program priorities, and accountability for 
+program performance including annual reporting, implementation of performance measurements and 
+evaluations. 
+  
+ updates of the ENF 18 manual relating to Human or international rights violations. 
+ 
+ providing functional direction and program policy development related to assessment of 
+inadmissbility under A35, including Canada’s CAHWC Program. 
+ 
+ 
+ 
+ 
+12.4 Case Review Unit (CRU) 
+ 
+The Case Review Unit is located within the Case Management Directorate as part of the Intelligence and 
+Enforcement Branch at CBSA HQ and is responsible for providing advice to the regions concerning case 
+specific enforcement options.  The unit is also responsible for managing, tracking and reporting on high 
+profile cases in consultation with program areas, IRCC and the regions.  It works closely with IRCC to 
+resolve inadmissibility issues and responds to information requests on immigration cases from senior 
+management, the Minister’s Office, IRCC and stakeholders.  The CBSA’s Case Review Unit is 
+responsible for producing case chronologies; a weekly report on high-profile immigration cases; and 
+management of the “Wanted by the CBSA” program. 
+ 
+ 
+
+
+===== PAGE 24 =====
+ENF 18 Human or international rights violations 
+2020-06-03 
+ 
+24 
+Appendix A - War crimes amendments to the Immigration Act and Regulations 
+ 
+April 10, 1978 – The Immigration Act 1976 came into force. The Act marked a significant shift in 
+Canadian immigration policy in limiting the wide discretionary powers of the Minister of Manpower and 
+Immigration. 
+ 
+October 30, 1987 - Bill C-71 created 19(1)(j), a new ground of inadmissibility pertaining specifically to war 
+crimes and crimes against humanity.  
+ 
+January 1, 1989 - Bill C-55 added to the Immigration Act the exclusionary clauses of the 1951 
+Convention Relating to the Status of Refugees. Article 1F(a) of the Convention excludes protection under 
+the Convention to persons who have committed or are complicit in war crimes or crimes against 
+humanity.  
+ 
+February 1, 1993 - Bill C-86 created 19(1)(l), a new ground of inadmissibility pertaining to individuals who 
+are or were senior members of regimes designated by the Minister as having committed gross human 
+rights violations or war crimes.  
+ 
+July 10, 1995 - Bill C-44 enabled senior immigration officers to render ineligible decisions at any stage of 
+the refugee determination process. This included the authority to declare a positive refugee decision null 
+and void if it was determined that the original decision on eligibility was based on misrepresentation.  
+ 
+May 1, 1997 - Amendments to the Post Determination Refugee Claimants in Canada Class (PDRCC) and 
+Deferred Removal Orders Class (DROC) Regulations restricted persons excluded under Article 1F(a) of 
+the Convention from accessing these reviews.  
+ 
+June 17, 1999 - Bill C-40 introduced changes to the Immigration Act concurrent with the proclamation of 
+the new Extradition Act. These included three new provisions 69.1(12), (14), and (15) designed to 
+harmonize the extradition and refugee determination processes.  
+ 
+October 23, 2000 - Bill C-19 modified the description of 19(1)(j) and (l) concurrent with the proclamation 
+of the Crimes Against Humanity and War Crimes Act. The grounds of inadmissibility are now based on 
+the definitions of war crimes, crimes against humanity, and genocide contained in the new Act. 
+ 
+June 28, 2002 - Immigration and Refugee Protection Act came into force.  The Act provides two specific 
+grounds of inadmissibility for persons involved in war crimes, crimes against humanity and/or genocide, 
+reporting of those inadmissible and issuance of removal orders.  It also provides for the exclusion from 
+the refugee determination process of persons involved in war crimes, crimes against humanity and/or 
+genocide; and it limits appeal rights of persons involved in war crimes, crimes against humanity and/or 
+genocide. 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 25 =====
+ENF 18 Human or international rights violations 
+2020-06-03 
+ 
+25 
+Appendix B – Crimes Against Humanity an War Crimes Act 
+ 
+The Crimes Against Humanity and War Crimes Act is a statute of the Parliament of Canada.  The Act 
+implements Canada’s obligations under the Rome Statute of the International Criminal Court and 
+incorporates several grounds of jurisdiction: 
+ 
+Ensures Canada holds jurisdiction over crimes committed on Canadian territory and by Canadians 
+anywhere in the world;  
+Gives Canada jurisdiction over crimes committed against Canadian nationals; and, 
+Allows Canada to prosecute any individual present in Canada for crimes listed in the Crimes Against 
+Humanity War Crimes Act, regardless of that individual’s nationality or where the crimes were committed. 
+ 
+ 
+Section 4 of the Crimes Against Humanity and War Crimes Act  
+ 
+4 (1) Every person is guilty of an indictable offence who commits  
+(a) genocide; 
+(b) a crime against humanity; or 
+(c) a war crime. 
+ 
+(1.1) Every person who conspires or attempts to commit, is an accessory after the fact in relation to, or 
+counsels in relation to, an offence referred to in subsection (1) is guilty of an indictable offence. 
+ 
+(2) Every person who commits an offence under subsection (1) or (1.1)  
+(a) shall be sentenced to imprisonment for life, if an intentional killing forms the basis of the offence; 
+and 
+(b) is liable to imprisonment for life, in any other case. 
+ 
+(3) The definitions in this subsection apply in this section: 
+ 
+"crime against humanity" means murder, extermination, enslavement, deportation, imprisonment, 
+torture, sexual violence, persecution or any other inhumane act or omission that is committed against 
+any civilian population or any identifiable group and that, at the time and in the place of its 
+commission, constitutes a crime against humanity according to customary international law or 
+conventional international law or by virtue of its being criminal according to the general principles of 
+law recognized by the community of nations, whether or not it constitutes a contravention of the law 
+in force at the time and in the place of its commission. 
+ 
+"genocide" means an act or omission committed with intent to destroy, in whole or in part, an 
+identifiable group of persons, as such, that, at the time and in the place of its commission, constitutes 
+genocide according to customary international law or conventional international law or by virtue of its 
+being criminal according to the general principles of law recognized by the community of nations, 
+whether or not it constitutes a contravention of the law in force at the time and in the place of its 
+commission. 
+ 
+"war crime" means an act or omission committed during an armed conflict that, at the time and in the 
+place of its commission, constitutes a war crime according to customary international law or 
+conventional international law applicable to armed conflicts, whether or not it constitutes a 
+contravention of the law in force at the time and in the place of its commission. 
+ 
+(4) For greater certainty, crimes described in Articles 6 and 7 and paragraph 2 of Article 8 of the Rome 
+Statute of the International Criminal Court are, as of July 17, 1998, crimes according to customary 
+international law. This does not limit or prejudice in any way the application of existing or developing 
+rules of international law.  
+ 
+ 
+
+
+===== PAGE 26 =====
+ENF 18 Human or international rights violations 
+2020-06-03 
+ 
+26 
+Appendix C - Rome Statute of the International Criminal Court 
+https://www.icc-cpi.int/nr/rdonlyres/ea9aeff7-5752-4f84-be94-0a655eb30e16/0/rome_statute_english.pdf 
+ 
+The Rome Statute of the International Criminal Court is the treaty that established the International 
+Criminal Court (ICC).  It was adopted as a diplomatic conference in Rome on July 17, 1998 and it entered 
+into force on July 1, 2002.  As of 2015, 123 countries are party to the statute.  The Rome Statute 
+established 4 core international crimes:  genocide, crimes against humanity, war crimes and crimes of 
+aggression. 
+ 
+Articles 6, 7 and 8 pertain to definitions and scenarios of genocide (article 6), crimes against humanity 
+(article 7) and war crimes (article 8)  
+ 
+Articles 6, 7 and 8  
+ 
+(a) Article 6—Genocide  
+ 
+For the purpose of this Statute, "genocide" means any of the following acts committed with intent to 
+destroy, in whole or in part, a national, ethnical, racial or religious group, as such:  
+ 
+(a) Killing members of the group; 
+ 
+(b) Causing serious bodily or mental harm to members of the group; 
+ 
+(c) Deliberately inflicting on the group conditions of life calculated to bring about its physical destruction 
+in whole or in part; 
+ 
+(d) Imposing measures intended to prevent births within the group; 
+ 
+(e) Forcibly transferring children of the group to another group.  
+ 
+(b) Article 7—Crimes against humanity  
+ 
+ 
+1. For the purpose of this Statute, "crime against humanity" means any of the following acts when 
+committed as part of a widespread or systematic attack directed against any civilian population, with 
+knowledge of the attack:  
+ 
+(a) Murder; 
+ 
+(b) Extermination; 
+ 
+(c) Enslavement; 
+ 
+(d) Deportation or forcible transfer of population; 
+ 
+(e) Imprisonment or other severe deprivation of physical liberty in violation of fundamental rules of 
+international law; 
+ 
+(f) Torture; 
+ 
+(g) Rape, sexual slavery, enforced prostitution, forced pregnancy, enforced sterilization, or any other 
+form of sexual violence of comparable gravity; 
+ 
+(h) Persecution against any identifiable group or collectivity on political, racial, national, ethnic, cultural, 
+religious, gender as defined in paragraph 3, or other grounds that are universally recognized as 
+impermissible under international law, in connection with any act referred to in this paragraph or any 
+crime within the jurisdiction of the Court; 
+
+
+===== PAGE 27 =====
+ENF 18 Human or international rights violations 
+2020-06-03 
+ 
+27 
+ 
+(i) Enforced disappearance of persons; 
+ 
+(j) The crime of apartheid; 
+ 
+(k) Other inhumane acts of a similar character intentionally causing great suffering, or serious injury to 
+body or to mental or physical health. 
+ 
+2. For the purpose of paragraph 1:  
+ 
+(a) "Attack directed against any civilian population" means a course of conduct involving the multiple 
+commission of acts referred to in paragraph 1 against any civilian population, pursuant to or in 
+furtherance of a state or organizational policy to commit such attack; 
+ 
+(b) "Extermination" includes the intentional infliction of conditions of life, inter alia the deprivation of 
+access to food and medicine, calculated to bring about the destruction of part of a population; 
+ 
+(c) "Enslavement" means the exercise of any of all of the powers attaching to the right of ownership over 
+a person and includes the exercise of such power in the course of trafficking in persons, in particular 
+women and children; 
+ 
+(d) "Deportation or forcible transfer of population" means forced displacement of the persons concerned 
+by expulsion or other coercive acts from the area in which they are lawfully present, without grounds 
+permitted under international law; 
+ 
+(e) "Torture" means the intentional infliction of severe pain or suffering, whether physical or mental, 
+upon a person in the custody or under the control of the accused; except that torture shall not include 
+pain or suffering arising only from, inherent in or incidental to, lawful sanctions; 
+ 
+(f) "Forced pregnancy" means the unlawful confinement of a woman forcibly made pregnant, with the 
+intent of affecting the ethnic composition of any population or carrying out other grave violations of 
+international law. This definition shall not in any way be interpreted as affecting national laws relating 
+to pregnancy; 
+ 
+(g) "Persecution" means the intentional and severe deprivation of fundamental rights contrary to 
+international law by reason of the identity of the group or collectivity; 
+ 
+(h) "The crime of apartheid" means inhumane acts of a character similar to those referred to in 
+paragraph 1, committed in the context of an institutionalized regime of systematic oppression and 
+domination by one racial group over any other racial group or groups and committed with the 
+intention of maintaining that regime; 
+ 
+(i) "Enforced disappearance of persons" means the arrest, detention or abduction of persons by, or with 
+the authorization, support or acquiescence of, a state or a political organization, followed by a refusal 
+to acknowledge that deprivation of freedom or to give information on the fate or whereabouts of 
+those persons, with the intention of removing them from the protection of the law for a prolonged 
+period of time. 
+ 
+3, For the purpose of this Statute, it is understood that the term “gender” refers to the two sexes, male 
+and female, within the context of society. The term “gender” does not indicate any meaning different 
+from the above. 
+ 
+(c) Article 8—War crimes  
+ 
+1. The Court shall have jurisdiction in respect of war crimes in particular when committed as a part of a 
+plan or policy or as part of a large-scale commission of such crimes.  
+
+
+===== PAGE 28 =====
+ENF 18 Human or international rights violations 
+2020-06-03 
+ 
+28 
+ 
+2. For the purpose of this Statute, "war crimes" means:  
+ 
+(a) Grave breaches of the Geneva Conventions of 12 August 1949, namely, any of the following acts 
+against persons or property protected under the provisions of the relevant Geneva Convention: 
+ 
+(i) 
+Wilful killing;  
+ 
+(ii) Torture or inhuman treatment, including biological experiments;  
+ 
+(iii) Wilfully causing great suffering, or serious injury to body or health; 
+  
+(iv) Extensive destruction and appropriation of property, not justified by military necessity and 
+carried out unlawfully and wantonly; 
+  
+(v) Compelling a prisoner of war or other protected person to serve in the forces of a hostile Power;  
+ 
+(vi) Wilfully depriving a prisoner of war or other protected person of the rights of fair and regular trial;  
+ 
+(vii) Unlawful deportation or transfer or unlawful confinement;  
+ 
+(viii) Taking of hostages.  
+ 
+(b) Other serious violations of the laws and customs applicable in international armed conflict, within the 
+established framework of international law, namely, any of the following acts: 
+ 
+(i) 
+Intentionally directing attacks against the civilian population as such or against individual 
+civilians not taking direct part in hostilities;  
+ 
+(ii)   Intentionally directing attacks against civilian objects, that is, objects which are not military 
+objectives;  
+ 
+(iii) Intentionally directing attacks against personnel, installations, material, units or vehicles 
+involved in a humanitarian assistance or peacekeeping mission in accordance with the Charter 
+of the United Nations, as long as they are entitled to the protection given to civilians or civilian 
+objects under the international law of armed conflict;  
+ 
+(iv) Intentionally launching an attack in the knowledge that such attack will cause incidental loss of 
+life or injury to civilians or damage to civilian objects or widespread, long-term and severe 
+damage to the natural environment which would be clearly excessive in relation to the concrete 
+and direct overall military advantage anticipated;  
+ 
+
+
+===== PAGE 29 =====
+ENF 18 Human or international rights violations 
+2020-06-03 
+ 
+29 
+(v) Attacking or bombarding, by whatever means, towns, villages, dwellings or buildings which are 
+undefined and which are not military objectives;  
+ 
+(vi) Killing or wounding a combatant who, having laid down his arms or having no longer means of 
+defence, has surrendered at discretion;  
+ 
+(vii) Making improper use of a flag of truce, of the flag or of the military insignia and uniform of the 
+enemy or of the United Nations, as well as of the distinctive emblems of the Geneva 
+Conventions, resulting in death or serious personal injury;  
+ 
+(viii) The transfer, directly or indirectly, by the Occupying Power of parts of its own civilian population 
+into the territory it occupies, or the deportation or transfer of all or parts of the population of the 
+occupied territory within or outside this territory;  
+ 
+(ix) Intentionally directing attacks against buildings dedicated to religion, education, art, science or 
+charitable purposes, historic monuments, hospitals and places where the sick and wounded are 
+collected, provided they are not military objectives;  
+ 
+(x) Subjecting persons who are in the power of an adverse party to physical mutilation or to medical 
+or scientific experiments of any kind which are neither justified by the medical, dental or hospital 
+treatment of the person concerned nor carried out in his or her interest, and which cause death 
+to or seriously endanger the health of such person or persons;  
+ 
+(xi) Killing or wounding treacherously individuals belonging to the hostile nation or army;  
+ 
+(xii) Declaring that no quarter will be given;  
+ 
+(xiii)Destroying or seizing the enemy's property unless such destruction or seizure be imperatively 
+demanded by the necessities of war;  
+ 
+(xiii) Declaring abolished, suspended or inadmissible in a court of law the rights and actions of the 
+nationals of the hostile party;  
+ 
+(xiv) Compelling the nationals of the hostile party to take part in the operations of war directed 
+against their own country, even if they were in the belligerent's service before the 
+commencement of the war;  
+ 
+(xvi)Pillaging a town or place, even when taken by assault;  
+ 
+(xv) Employing poison or poisoned weapons;  
+ 
+(xvi) Employing asphyxiating, poisonous or other gases, and all analogous liquids, materials or 
+devices;  
+ 
+(xix) Employing bullets which expand or flatten easily in the human body, such as bullets with a hard 
+envelope which does not entirely cover the core or is pierced with incisions;  
+ 
+(xx) Employing weapons, projectiles and material and methods of warfare which are of a nature to 
+cause superfluous injury or unnecessary suffering or which are inherently indiscriminate in 
+violation of the international law of armed conflict, provided that such weapons, projectiles and 
+material and methods of warfare are the subject of a comprehensive prohibition and are 
+included in an annex to this Statute, by an amendment in accordance with the relevant 
+provisions set forth in articles 121 and 123;  
+ 
+(xxi) Committing outrages upon personal dignity, in particular humiliating and degrading treatment;  
+ 
+
+
+===== PAGE 30 =====
+ENF 18 Human or international rights violations 
+2020-06-03 
+ 
+30 
+(xxii) Committing rape, sexual slavery, enforced prostitution, forced pregnancy, as defined in article 
+7, paragraph 2 (f), enforced sterilization, or any other form of sexual violence also constituting a 
+grave breach of the Geneva Conventions;  
+ 
+(xxiii) Utilizing the presence of a civilian or other protected person to render certain points, areas or 
+military forces immune from military operations;  
+ 
+(xxiv) intentionally directing attacks against buildings, material, medical units and transport, and 
+personnel using the distinctive emblems of Geneva Conventions in conformity with international 
+law; 
+ 
+(xxv) Intentionally using starvation of civilians as a method of warfare by depriving them of objects 
+indispensable to their survival, including wilfully impeding relief supplies as provided for under 
+the Geneva Conventions; 
+ 
+(xxvi) Conscripting or enlisting children under the age of fifteen years into the national armed forces 
+or using them to participate actively in hostilities. 
+  
+(c) In the case of an armed conflict not of an international character, serious violations of article 3 
+common to the four Geneva Conventions of 12 August 1949, namely, any of the following acts 
+committed against persons taking no active part in the hostilities, including members of armed forces 
+who have laid down their arms and those placed hors de combat by sickness, wounds, detention or 
+any other cause: 
+ 
+(i) 
+Violence to life and person, in particular murder of all kinds, mutilation, cruel treatment and 
+torture;  
+ 
+(ii) Committing outrages upon personal dignity, in particular humiliating and degrading treatment;  
+ 
+(iii) Taking of hostages;  
+ 
+(iv) The passing of sentences and the carrying out of executions without previous judgement 
+pronounced by a regularly constituted court, affording all judicial guarantees which are generally 
+recognized as indispensable.  
+ 
+(d) Paragraph 2(c) applies to armed conflicts not of an international character and thus does not apply to 
+situations of internal disturbances and tensions, such as riots, isolated and sporadic acts of violence 
+or other acts of a similar nature. 
+ 
+(e) Other serious violations of the laws and customs applicable in armed conflicts not of an international 
+character, within the established framework of international law, namely, any of the following acts: 
+ 
+(i) 
+Intentionally directing attacks against the civilian population as such or against individual 
+civilians not taking direct part in hostilities;  
+ 
+(ii) Intentionally directing attacks against buildings, material, medical units and transport, and 
+personnel using the distinctive emblems of the Geneva Conventions in conformity with 
+international law;  
+ 
+(iii)  Intentionally directing attacks against personnel, installations, material, units or vehicles 
+involved in a humanitarian assistance or peacekeeping mission in accordance with the Charter 
+of the United Nations, as long as they are entitled to the protection given objects under the law 
+of armed conflict;  
+ 
+(iv) Intentionally directing attacks against buildings dedicated to religion, education, art, science or 
+charitable purposes, historic monuments, hospitals and places where the sick and wounded are 
+
+
+===== PAGE 31 =====
+ENF 18 Human or international rights violations 
+2020-06-03 
+ 
+31 
+collected, provided they are not military objectives;  
+ 
+(v) Pillaging a town or place, even when taken by assault;  
+ 
+(vi) Committing rape, sexual slavery, enforced prostitution, forced pregnancy, as defined in article 7, 
+paragraph 2(f), enforced sterilization, and any other form of sexual violence also constituting a 
+serious violation of article 3 common to the four Geneva Conventions;  
+ 
+(vii) Conscripting or enlisting children under the age of fifteen years into armed forces or groups or 
+using them to participate actively in hostilities;  
+ 
+(viii) Ordering the displacement of the civilian population for reasons related to the conflict, unless 
+the security of the civilians involved or imperative military reasons so demand;  
+ 
+(ix) Killing or wounding treacherously a combatant adversary;  
+ 
+(x) Declaring that no quarter will be given;  
+ 
+(xi) Subjecting persons who are in the power of another party to the conflict to physical mutilation or 
+to medical or scientific experiments of any kind which are neither justified by the medical, dental 
+or hospital treatment of the person concerned nor carried out in his or her interest, and which 
+cause death to or seriously endanger the health of such person or persons;  
+ 
+(xii) Destroying or seizing the property of an adversary unless such destruction or seizure be 
+imperatively demanded by the necessities of the conflict.  
+ 
+(f) 
+Paragraph 2(e) applies to armed conflicts not of an international character and thus does not 
+apply to situations of internal disturbances and tensions, such as riots, isolated and sporadic 
+acts of violence or other acts of a similar nature. It applies to armed conflicts that take place in 
+the territory of a state when there is protracted armed conflict between governmental authorities 
+and organized armed groups or between such groups. 
+ 
+ 

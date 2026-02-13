@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_395ae540e935",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/assessing-temporary-foreign-worker-eligibility-work-alberta-compulsory-certification-trade-position.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/assessing-temporary-foreign-worker-eligibility-work-alberta-compulsory-certification-trade-position.html",
+  "title": "Foreign workers: assessing a temporary foreign worker’s eligibility to work in Alberta in a compulsory certification trade position",
+  "language": "en",
+  "manual": "Foreign workers: assessing a temporary foreign worker’s eligibility to work in Alberta in a compulsory certification trade position",
+  "chapter": null,
+  "heading_path": [
+    "Foreign workers: assessing a temporary foreign worker’s eligibility to work in Alberta in a compulsory certification trade position"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "cec005411e15bc719208fe0a738e53f11bb14fcb56efbc949517757f81d66a08",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/assessing-temporary-foreign-worker-eligibility-work-alberta-compulsory-certification-trade-position-395ae540e9.md",
+  "text": "Foreign workers: assessing a temporary foreign worker’s eligibility to work in Alberta in a compulsory certification trade position",
+  "sections": [
+    {
+      "heading": "Foreign workers: assessing a temporary foreign worker’s eligibility to work in Alberta in a compulsory certification trade position",
+      "heading_path": [
+        "Foreign workers: assessing a temporary foreign worker’s eligibility to work in Alberta in a compulsory certification trade position"
+      ],
+      "anchor": "#foreign-workers-assessing-a-temporary-foreign-worker-s-eligibility-to-work-in-alberta-in-a-compulsory-certification-trade-position",
+      "text": "Foreign workers: assessing a temporary foreign worker’s eligibility to work in Alberta in a compulsory certification trade position"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

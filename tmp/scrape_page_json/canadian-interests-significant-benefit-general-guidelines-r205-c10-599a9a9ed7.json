@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_599a9a9ed7c9",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/canadian-interests-significant-benefit-general-guidelines-r205-c10.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/canadian-interests-significant-benefit-general-guidelines-r205-c10.html",
+  "title": "Significant benefit to Canada [R205(a) – C10] – Canadian interests – International Mobility Program",
+  "language": "en",
+  "manual": "Significant benefit to Canada [R205(a) – C10] – Canadian interests – International Mobility Program",
+  "chapter": null,
+  "heading_path": [
+    "Significant benefit to Canada [R205(a) – C10] – Canadian interests – International Mobility Program"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "7ae0227ec8b46e8e2dd4984f1421d5b42233bd373904c306748f664565a951c9",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/canadian-interests-significant-benefit-general-guidelines-r205-c10-599a9a9ed7.md",
+  "text": "Significant benefit to Canada [R205(a) – C10] – Canadian interests – International Mobility Program",
+  "sections": [
+    {
+      "heading": "Significant benefit to Canada [R205(a) – C10] – Canadian interests – International Mobility Program",
+      "heading_path": [
+        "Significant benefit to Canada [R205(a) – C10] – Canadian interests – International Mobility Program"
+      ],
+      "anchor": "#significant-benefit-to-canada-r205-a-c10-canadian-interests-international-mobility-program",
+      "text": "Significant benefit to Canada [R205(a) – C10] – Canadian interests – International Mobility Program"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

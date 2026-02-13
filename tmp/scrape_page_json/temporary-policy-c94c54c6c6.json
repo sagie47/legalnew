@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_c94c54c6c6ff",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/post-graduation-work-permit-program/temporary-policy.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/post-graduation-work-permit-program/temporary-policy.html",
+  "title": "Public policy to facilitate the issuance of an open work permit to former or current holders of post-graduation work permits (PGWPs) – June 13 to December 31, 2022",
+  "language": "en",
+  "manual": "Public policy to facilitate the issuance of an open work permit to former or current holders of post",
+  "chapter": "graduation work permits (PGWPs) – June 13 to December 31, 2022",
+  "heading_path": [
+    "Public policy to facilitate the issuance of an open work permit to former or current holders of post-graduation work permits (PGWPs) – June 13 to December 31, 2022"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "17fd7344752f636624ff2a3d24798e5b47af36ece91d495e6f53e515db9ed094",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/temporary-policy-c94c54c6c6.md",
+  "text": "Public policy to facilitate the issuance of an open work permit to former or current holders of post-graduation work permits (PGWPs) – June 13 to December 31, 2022",
+  "sections": [
+    {
+      "heading": "Public policy to facilitate the issuance of an open work permit to former or current holders of post-graduation work permits (PGWPs) – June 13 to December 31, 2022",
+      "heading_path": [
+        "Public policy to facilitate the issuance of an open work permit to former or current holders of post-graduation work permits (PGWPs) – June 13 to December 31, 2022"
+      ],
+      "anchor": "#public-policy-to-facilitate-the-issuance-of-an-open-work-permit-to-former-or-current-holders-of-post-graduation-work-permits-pgwps-june-13-to-december-31-2022",
+      "text": "Public policy to facilitate the issuance of an open work permit to former or current holders of post-graduation work permits (PGWPs) – June 13 to December 31, 2022"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

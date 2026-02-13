@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_a472b6ce56f5",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/permits/when-to-consider-issuing.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/permits/when-to-consider-issuing.html",
+  "title": "Temporary resident permits (TRPs): When to consider issuing a TRP",
+  "language": "en",
+  "manual": "Temporary resident permits (TRPs): When to consider issuing a TRP",
+  "chapter": null,
+  "heading_path": [
+    "Temporary resident permits (TRPs): When to consider issuing a TRP"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "db74dc2fb601c4128ea9fd65d9b0188c38984f6aa76c92f4d508e740f00679f0",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/when-to-consider-issuing-a472b6ce56.md",
+  "text": "Temporary resident permits (TRPs): When to consider issuing a TRP",
+  "sections": [
+    {
+      "heading": "Temporary resident permits (TRPs): When to consider issuing a TRP",
+      "heading_path": [
+        "Temporary resident permits (TRPs): When to consider issuing a TRP"
+      ],
+      "anchor": "#temporary-resident-permits-trps-when-to-consider-issuing-a-trp",
+      "text": "Temporary resident permits (TRPs): When to consider issuing a TRP"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

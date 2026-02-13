@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_7c7198f57178",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/assessing-individuals-subject-immigration-warrants.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/assessing-individuals-subject-immigration-warrants.html",
+  "title": "Foreign workers: Assessing individuals subject to immigration warrants",
+  "language": "en",
+  "manual": "Foreign workers: Assessing individuals subject to immigration warrants",
+  "chapter": null,
+  "heading_path": [
+    "Foreign workers: Assessing individuals subject to immigration warrants"
+  ],
+  "last_updated": "2017-11-03",
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "bd5fd67a7083b4ced09fe6169f532952bb31d3ce3a3d7ab8ca82fc59a5ebe577",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/assessing-individuals-subject-immigration-warrants-7c7198f571.md",
+  "text": "Published Time: Thu, 12 Feb 2026 00:36:06 GMT\n\nForeign workers: Assessing individuals subject to immigration warrants\n======================================================================\n\nThis section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.\n\nWhen an inadmissible individual fails to comply with a CBSA officer's request to appear at an enforcement office for reasons such as receipt of a PRRA determination or to enforce their removal from Canada at a port of entry the officer may issue a warrant for the arrest and detention of the individual. After a full investigation, if the individual cannot be located, a Canada-wide warrant for their arrest is entered on the Canadian Police Information Centre (CPIC) system, which is accessible to all law enforcement agencies and ultimately gives them the authority to arrest on the CBSA's behalf. This process is in place to ensure that individuals with active warrants for removal are apprehended as soon as possible and removed from Canada to maintain the integrity of the immigration program.\n\nPage details\n------------\n\n 2017-11-03",
+  "sections": [
+    {
+      "heading": "Foreign workers: Assessing individuals subject to immigration warrants",
+      "heading_path": [
+        "Foreign workers: Assessing individuals subject to immigration warrants"
+      ],
+      "anchor": "#foreign-workers-assessing-individuals-subject-to-immigration-warrants",
+      "text": "Published Time: Thu, 12 Feb 2026 00:36:06 GMT\n\nForeign workers: Assessing individuals subject to immigration warrants\n======================================================================\n\nThis section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.\n\nWhen an inadmissible individual fails to comply with a CBSA officer's request to appear at an enforcement office for reasons such as receipt of a PRRA determination or to enforce their removal from Canada at a port of entry the officer may issue a warrant for the arrest and detention of the individual. After a full investigation, if the individual cannot be located, a Canada-wide warrant for their arrest is entered on the Canadian Police Information Centre (CPIC) system, which is accessible to all law enforcement agencies and ultimately gives them the authority to arrest on the CBSA's behalf. This process is in place to ensure that individuals with active warrants for removal are apprehended as soon as possible and removed from Canada to maintain the integrity of the immigration program.\n\nPage details\n------------\n\n 2017-11-03"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": false,
+    "notes": []
+  }
+}

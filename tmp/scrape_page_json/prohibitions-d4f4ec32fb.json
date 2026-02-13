@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_d4f4ec32fb20",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/prohibitions.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/prohibitions.html",
+  "title": "Work permit issuance prohibitions",
+  "language": "en",
+  "manual": "Work permit issuance prohibitions",
+  "chapter": null,
+  "heading_path": [
+    "Work permit issuance prohibitions"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "24d184b20a1608e1d86a10476f5b1eacc2a753390320b2d03042d3f52e64d420",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/prohibitions-d4f4ec32fb.md",
+  "text": "Work permit issuance prohibitions",
+  "sections": [
+    {
+      "heading": "Work permit issuance prohibitions",
+      "heading_path": [
+        "Work permit issuance prohibitions"
+      ],
+      "anchor": "#work-permit-issuance-prohibitions",
+      "text": "Work permit issuance prohibitions"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "source_id": "pdi_7efdfc00885c",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/requirements-minors.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/requirements-minors.html",
+  "title": "Temporary residents: Requirements for minors",
+  "language": "en",
+  "manual": "Temporary residents: Requirements for minors",
+  "chapter": null,
+  "heading_path": [
+    "Temporary residents: Requirements for minors"
+  ],
+  "last_updated": "2017-11-06",
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "1c5da5ba25c4220cdc614c24c7fbc3fd2566ca99ffb0785a02d327c6b9b7ae64",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/requirements-minors-7efdfc0088.md",
+  "text": "Published Time: Thu, 12 Feb 2026 00:33:11 GMT\n\nTemporary residents: Requirements for minors\n============================================\n\nThis section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.\n\nMinors traveling alone require a letter from both parents authorizing them to travel. Minors travelling with one parent require a letter of authorization from the non-accompanying parent.\n\nWhen travelling alone, minors must be in possession of a passport or travel document issued in their own name. They cannot travel with the passport or travel document of a parent (on which they are listed) unless the holder of the document (parent) accompanies them.\n\nPersons seeking entry at the POE with a child will be asked to produce the above-mentioned documentation. If they are not in possession of such documents, they may be required to provide the telephone numbers for the child's parent(s) and/or other documentation to satisfy an officer of the child's safety and well-being.\n\n**Note:** It is strongly recommended that children carry a consent letter each time they seek admission into Canada. Although anyone can witness/sign these letters, it is advisable to have them certified, stamped or sealed by an official who has the authority to administer an oath or solemn declaration (ex: a commissioner of oaths, notary public, lawyer, etc.) so that the validity of the letter will not be questioned.\n\nIf the minor is not traveling with both parents\n-----------------------------------------------\n\nIt is the mandate of Citizenship and Immigration Canada, in conjunction with the federal [Our Missing Children program](http://www.rcmp-grc.gc.ca/omc-ned/index-accueil-eng.htm), to ensure that the child is in the custody of an approved parent or guardian.\n\nIf a guardian is traveling with the minor\n-----------------------------------------\n\nThe guardian should present a statement from the parent(s), which:\n\n* authorizes the child to travel with someone else;\n* provides the name and telephone of the guardian; and\n* indicates the destination and the period of time the child will be in Canada.\n\n**Note:** The child should have original identity documents. However, if the officer is not satisfied with the letter's authenticity, a faxed version of a parent's consent letter would be acceptable. The final decision rests with the POE officer. If minor children entering as students have the proper identity documents, they should not have any problems entering Canada.\n\nIf the minor is the subject of a custody order or is in a single-parent family\n------------------------------------------------------------------------------\n\n* a copy of the custody order is required; or\n* proof of custody and/or the other parent's written consent for the trip.\n\nPage details\n------------\n\n 2017-11-06",
+  "sections": [
+    {
+      "heading": "Temporary residents: Requirements for minors",
+      "heading_path": [
+        "Temporary residents: Requirements for minors"
+      ],
+      "anchor": "#temporary-residents-requirements-for-minors",
+      "text": "Published Time: Thu, 12 Feb 2026 00:33:11 GMT\n\nTemporary residents: Requirements for minors\n============================================\n\nThis section contains policy, procedures and guidance used by IRCC staff. It is posted on the department’s website as a courtesy to stakeholders.\n\nMinors traveling alone require a letter from both parents authorizing them to travel. Minors travelling with one parent require a letter of authorization from the non-accompanying parent.\n\nWhen travelling alone, minors must be in possession of a passport or travel document issued in their own name. They cannot travel with the passport or travel document of a parent (on which they are listed) unless the holder of the document (parent) accompanies them.\n\nPersons seeking entry at the POE with a child will be asked to produce the above-mentioned documentation. If they are not in possession of such documents, they may be required to provide the telephone numbers for the child's parent(s) and/or other documentation to satisfy an officer of the child's safety and well-being.\n\n**Note:** It is strongly recommended that children carry a consent letter each time they seek admission into Canada. Although anyone can witness/sign these letters, it is advisable to have them certified, stamped or sealed by an official who has the authority to administer an oath or solemn declaration (ex: a commissioner of oaths, notary public, lawyer, etc.) so that the validity of the letter will not be questioned.\n\nIf the minor is not traveling with both parents\n-----------------------------------------------\n\nIt is the mandate of Citizenship and Immigration Canada, in conjunction with the federal [Our Missing Children program](http://www.rcmp-grc.gc.ca/omc-ned/index-accueil-eng.htm), to ensure that the child is in the custody of an approved parent or guardian.\n\nIf a guardian is traveling with the minor\n-----------------------------------------\n\nThe guardian should present a statement from the parent(s), which:\n\n* authorizes the child to travel with someone else;\n* provides the name and telephone of the guardian; and\n* indicates the destination and the period of time the child will be in Canada.\n\n**Note:** The child should have original identity documents. However, if the officer is not satisfied with the letter's authenticity, a faxed version of a parent's consent letter would be acceptable. The final decision rests with the POE officer. If minor children entering as students have the proper identity documents, they should not have any problems entering Canada.\n\nIf the minor is the subject of a custody order or is in a single-parent family\n------------------------------------------------------------------------------\n\n* a copy of the custody order is required; or\n* proof of custody and/or the other parent's written consent for the trip.\n\nPage details\n------------\n\n 2017-11-06"
+    }
+  ],
+  "links": {
+    "outbound": [
+      "http://www.rcmp-grc.gc.ca/omc-ned/index-accueil-eng.htm"
+    ],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": false,
+    "notes": []
+  }
+}

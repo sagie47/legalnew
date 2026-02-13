@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_2ac92c837767",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/assessing-event-strike-situation.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/assessing-event-strike-situation.html",
+  "title": "Foreign workers: Assessing in the event of a strike situation",
+  "language": "en",
+  "manual": "Foreign workers: Assessing in the event of a strike situation",
+  "chapter": null,
+  "heading_path": [
+    "Foreign workers: Assessing in the event of a strike situation"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "93bc8a80e8308c4f84859f8ab1cfbed1826feb7ce6b41df11897c1b4a1a36fff",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/assessing-event-strike-situation-2ac92c8377.md",
+  "text": "Foreign workers: Assessing in the event of a strike situation",
+  "sections": [
+    {
+      "heading": "Foreign workers: Assessing in the event of a strike situation",
+      "heading_path": [
+        "Foreign workers: Assessing in the event of a strike situation"
+      ],
+      "anchor": "#foreign-workers-assessing-in-the-event-of-a-strike-situation",
+      "text": "Foreign workers: Assessing in the event of a strike situation"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

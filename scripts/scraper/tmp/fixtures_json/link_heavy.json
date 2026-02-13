@@ -1,0 +1,131 @@
+{
+  "source_id": "pdi_ee989df977cd",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/related-links.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/related-links.html",
+  "title": "Related Links - Immigration Resources",
+  "language": "en",
+  "manual": "Related Links",
+  "chapter": "Immigration Resources",
+  "heading_path": [
+    "Related Links - Immigration Resources"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-13T00:22:39.924994+00:00",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "89d02c7459ca7065be05c2ba7b000d8fe60f952953ce8b9dedc7d4c7a676708a",
+  "raw_html_path": null,
+  "markdown_path": "fixtures/link_heavy.md",
+  "text": "# Related Links\n\n## Government of Canada\n\n- [Immigration, Refugees and Citizenship Canada](https://www.canada.ca/en/immigration-refugees-citizenship.html)\n- [Canada Border Services Agency](https://www.cbsa-asfc.gc.ca/)\n- [Immigration and Refugee Board of Canada](https://irb-cisr.gc.ca/)\n- [Shared Services Canada](https://www.ssc-spc.gc.ca/)\n\n## Provincial Immigration Programs\n\n- [Ontario Immigrant Nominee Program](https://www.ontario.ca/page/ontario-immigrant-nominee-program-oinp)\n- [British Columbia Provincial Nominee Program](https://www.welcomebc.ca/Immigrate-to-B-C/About-the-BC-PNP)\n- [Alberta Advantage Immigration Program](https://www.alberta.ca/aaip-overview)\n- [Quebec Immigration](https://www.quebec.ca/en/immigration)\n- [Manitoba Provincial Nominee Program](https://www.immigratemanitoba.com/)\n- [Saskatchewan Immigrant Nominee Program](https://www.saskatchewan.ca/immigrate-to-saskatchewan)\n- [Nova Scotia Nominee Program](https://novascotiaimmigration.com/)\n- [New Brunswick Provincial Nominee Program](https://www.welcomenb.ca/)\n- [Prince Edward Island Provincial Nominee Program](https://www.princeedwardisland.ca/en/immigration)\n- [Newfoundland and Labrador Provincial Nominee Program](https://www.gov.nl.ca/immigration/)\n- [Northwest Territories Nominee Program](https://www.gov.nt.ca/immigration/)\n- [Yukon Nominee Program](https://yukon.ca/en/nominee-program)\n- [Nunavut Nominee Program](https://www.gov.nu.ca/family-services/information/nunavut-nominee-program)\n\n## International Organizations\n\n- [United Nations High Commissioner for Refugees](https://www.unhcr.org/)\n- [International Organization for Migration](https://www.iom.int/)\n- [World Immigration Organization](https://www.wio.org/)\n\n## Legal Resources\n\n- [Immigration Lawyers Canada](https://www.icba.org/)\n- [Canadian Association of Professional Immigration Consultants](https://www.capic-aipac.org/)\n- [Law Society of Ontario](https://lso.ca/)\n- [Barreau du Québec](https://www.barreau.qc.ca/)\n\n## Educational Resources\n\n- [Study in Canada](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada.html)\n- [Designated Learning Institutions List](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/educational-institutions.html)\n- [Language Testing Information](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigration-citizenship/language-testing.html)\n\n## Employment Resources\n\n- [Job Bank - Canada](https://www.jobbank.gc.ca/)\n- [National Occupational Classification](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/find-national-occupation-code.html)\n- [Foreign Credentials Recognition](https://www.canada.ca/en/immigration-refugees-citizenship/services/foreign-credentials-recognition.html)\n\n## Additional Resources\n\n- [Find a Immigration Representative](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigration-citizenship-representation.html)\n- [IRCC Web Forms](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-status.html)\n- [IRCC Call Centre](https://www.canada.ca/en/immigration-refugees-citizenship/services/contact-ircc.html)",
+  "sections": [
+    {
+      "heading": "Government of Canada",
+      "heading_path": [
+        "Related Links",
+        "Government of Canada"
+      ],
+      "anchor": "#government-of-canada",
+      "text": "- [Immigration, Refugees and Citizenship Canada](https://www.canada.ca/en/immigration-refugees-citizenship.html)\n- [Canada Border Services Agency](https://www.cbsa-asfc.gc.ca/)\n- [Immigration and Refugee Board of Canada](https://irb-cisr.gc.ca/)\n- [Shared Services Canada](https://www.ssc-spc.gc.ca/)"
+    },
+    {
+      "heading": "Provincial Immigration Programs",
+      "heading_path": [
+        "Related Links",
+        "Provincial Immigration Programs"
+      ],
+      "anchor": "#provincial-immigration-programs",
+      "text": "- [Ontario Immigrant Nominee Program](https://www.ontario.ca/page/ontario-immigrant-nominee-program-oinp)\n- [British Columbia Provincial Nominee Program](https://www.welcomebc.ca/Immigrate-to-B-C/About-the-BC-PNP)\n- [Alberta Advantage Immigration Program](https://www.alberta.ca/aaip-overview)\n- [Quebec Immigration](https://www.quebec.ca/en/immigration)\n- [Manitoba Provincial Nominee Program](https://www.immigratemanitoba.com/)\n- [Saskatchewan Immigrant Nominee Program](https://www.saskatchewan.ca/immigrate-to-saskatchewan)\n- [Nova Scotia Nominee Program](https://novascotiaimmigration.com/)\n- [New Brunswick Provincial Nominee Program](https://www.welcomenb.ca/)\n- [Prince Edward Island Provincial Nominee Program](https://www.princeedwardisland.ca/en/immigration)\n- [Newfoundland and Labrador Provincial Nominee Program](https://www.gov.nl.ca/immigration/)\n- [Northwest Territories Nominee Program](https://www.gov.nt.ca/immigration/)\n- [Yukon Nominee Program](https://yukon.ca/en/nominee-program)\n- [Nunavut Nominee Program](https://www.gov.nu.ca/family-services/information/nunavut-nominee-program)"
+    },
+    {
+      "heading": "International Organizations",
+      "heading_path": [
+        "Related Links",
+        "International Organizations"
+      ],
+      "anchor": "#international-organizations",
+      "text": "- [United Nations High Commissioner for Refugees](https://www.unhcr.org/)\n- [International Organization for Migration](https://www.iom.int/)\n- [World Immigration Organization](https://www.wio.org/)"
+    },
+    {
+      "heading": "Legal Resources",
+      "heading_path": [
+        "Related Links",
+        "Legal Resources"
+      ],
+      "anchor": "#legal-resources",
+      "text": "- [Immigration Lawyers Canada](https://www.icba.org/)\n- [Canadian Association of Professional Immigration Consultants](https://www.capic-aipac.org/)\n- [Law Society of Ontario](https://lso.ca/)\n- [Barreau du Québec](https://www.barreau.qc.ca/)"
+    },
+    {
+      "heading": "Educational Resources",
+      "heading_path": [
+        "Related Links",
+        "Educational Resources"
+      ],
+      "anchor": "#educational-resources",
+      "text": "- [Study in Canada](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada.html)\n- [Designated Learning Institutions List](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/educational-institutions.html)\n- [Language Testing Information](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigration-citizenship/language-testing.html)"
+    },
+    {
+      "heading": "Employment Resources",
+      "heading_path": [
+        "Related Links",
+        "Employment Resources"
+      ],
+      "anchor": "#employment-resources",
+      "text": "- [Job Bank - Canada](https://www.jobbank.gc.ca/)\n- [National Occupational Classification](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/find-national-occupation-code.html)\n- [Foreign Credentials Recognition](https://www.canada.ca/en/immigration-refugees-citizenship/services/foreign-credentials-recognition.html)"
+    },
+    {
+      "heading": "Additional Resources",
+      "heading_path": [
+        "Related Links",
+        "Additional Resources"
+      ],
+      "anchor": "#additional-resources",
+      "text": "- [Find a Immigration Representative](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigration-citizenship-representation.html)\n- [IRCC Web Forms](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-status.html)\n- [IRCC Call Centre](https://www.canada.ca/en/immigration-refugees-citizenship/services/contact-ircc.html)"
+    }
+  ],
+  "links": {
+    "outbound": [
+      "https://www.canada.ca/en/immigration-refugees-citizenship.html",
+      "https://www.cbsa-asfc.gc.ca/",
+      "https://irb-cisr.gc.ca/",
+      "https://www.ssc-spc.gc.ca/",
+      "https://www.ontario.ca/page/ontario-immigrant-nominee-program-oinp",
+      "https://www.welcomebc.ca/Immigrate-to-B-C/About-the-BC-PNP",
+      "https://www.alberta.ca/aaip-overview",
+      "https://www.quebec.ca/en/immigration",
+      "https://www.immigratemanitoba.com/",
+      "https://www.saskatchewan.ca/immigrate-to-saskatchewan",
+      "https://novascotiaimmigration.com/",
+      "https://www.welcomenb.ca/",
+      "https://www.princeedwardisland.ca/en/immigration",
+      "https://www.gov.nl.ca/immigration",
+      "https://www.gov.nt.ca/immigration",
+      "https://yukon.ca/en/nominee-program",
+      "https://www.gov.nu.ca/family-services/information/nunavut-nominee-program",
+      "https://www.unhcr.org/",
+      "https://www.iom.int/",
+      "https://www.wio.org/",
+      "https://www.icba.org/",
+      "https://www.capic-aipac.org/",
+      "https://lso.ca/",
+      "https://www.barreau.qc.ca/",
+      "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada.html",
+      "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/educational-institutions.html",
+      "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigration-citizenship/language-testing.html",
+      "https://www.jobbank.gc.ca/",
+      "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/find-national-occupation-code.html",
+      "https://www.canada.ca/en/immigration-refugees-citizenship/services/foreign-credentials-recognition.html",
+      "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigration-citizenship-representation.html",
+      "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-status.html",
+      "https://www.canada.ca/en/immigration-refugees-citizenship/services/contact-ircc.html"
+    ],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": false,
+    "notes": []
+  }
+}

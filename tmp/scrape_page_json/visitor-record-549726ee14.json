@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_549726ee14e6",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/visitor-record.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/visitors/visitor-record.html",
+  "title": "Temporary residents: Visitor record",
+  "language": "en",
+  "manual": "Temporary residents: Visitor record",
+  "chapter": null,
+  "heading_path": [
+    "Temporary residents: Visitor record"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "0f9ac3a9cbbfde16ddd1974dab42302741da75a15fd7e168af61570d61995e51",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/visitor-record-549726ee14.md",
+  "text": "Temporary residents: Visitor record",
+  "sections": [
+    {
+      "heading": "Temporary residents: Visitor record",
+      "heading_path": [
+        "Temporary residents: Visitor record"
+      ],
+      "anchor": "#temporary-residents-visitor-record",
+      "text": "Temporary residents: Visitor record"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

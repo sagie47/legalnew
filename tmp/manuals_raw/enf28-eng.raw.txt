@@ -1,0 +1,1370 @@
+
+
+===== PAGE 1 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ENF 28 
+Ministerial opinions on danger to the 
+public, nature and severity of the acts 
+committed and danger to the security 
+of Canada 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 2 =====
+ENF 28 Ministerial opinions on danger to the public, nature and severity of the acts committed and 
+danger to the security of Canada 
+2017-11-21 
+ 
+2 
+Table of contents 
+Updates to chapter ................................................................................................................. 4 
+Listing by date .................................................................................................................... 4 
+1 What this chapter is about ..................................................................................................... 6 
+2 Program objectives............................................................................................................... 6 
+3 The Act and Regulations ....................................................................................................... 6 
+3.1 Forms .......................................................................................................................... 9 
+4 Instruments and delegations .................................................................................................10 
+4.1 Authorities ...................................................................................................................10 
+4.2 Guidance.....................................................................................................................10 
+5 Departmental policy.............................................................................................................11 
+5.1 Danger opinion provisions ..............................................................................................11 
+5.2. Removal of Convention refugees or protected persons [A115] ............................................11 
+6 Definitions..........................................................................................................................12 
+7 Procedure: issuing ministerial opinions ...................................................................................13 
+7.1 Identification by a CBSA officer of danger opinion cases .....................................................13 
+7.2 When to request the Minister’s opinion .............................................................................13 
+7.3 Determinant factors.......................................................................................................14 
+7.4 Factors .......................................................................................................................15 
+7.5 Procedural fairness .......................................................................................................16 
+7.6 Notification letter: intent to seek the Minister’s opinion ........................................................17 
+7.7 Danger opinion package ................................................................................................18 
+7.8 Documentation .............................................................................................................19 
+7.9 Urgent consideration .....................................................................................................20 
+7.10 Humanitarian and compassionate considerations.............................................................21 
+7.11 The Youth Criminal Justice Act (YCJA)...........................................................................21 
+7.12 Disclosure..................................................................................................................22 
+7.13 Extension requests for submissions ...............................................................................22 
+7.14 Following receipt of submissions ...................................................................................23 
+7.15 After the Minister’s delegate’s danger opinion decision .....................................................23 
+7.16 Reconsideration of danger opinion.................................................................................23 
+7.17 Info-alert ....................................................................................................................24 
+Appendix A Letter advising the client that the CBSA will seek the Minister’s opinion on the basis of 
+paragraph A115(2)(a) .............................................................................................................25 
+Appendix B Letter advising the client that the CBSA will seek the Minister’s opinion on the basis of 
+paragraph A115(2)(b) .............................................................................................................27 
+
+
+===== PAGE 3 =====
+ENF 28 Ministerial opinions on danger to the public, nature and severity of the acts committed and 
+danger to the security of Canada 
+2017-11-21 
+ 
+3 
+Appendix C Letter advising the client that the CBSA will seek the Minister’s opinion on the basis of 
+paragraphs A115(2)(a) and (b) ................................................................................................29 
+Appendix D Danger Opinion Narrative Report form for use in paragraph A115(2)(b) cases and hybrid 
+cases involving paragraphs A115(2)(a) and (b) ..........................................................................31 
+ 
+ 
+
+
+===== PAGE 4 =====
+ENF 28 Ministerial opinions on danger to the public, nature and severity of the acts committed and 
+danger to the security of Canada 
+2017-11-21 
+ 
+4 
+Updates to chapter 
+Listing by date 
+2017-11-21 
+Section 7.16 has been updated to include guidance for officers reconsidering danger opinions pursuant to 
+section 115(2)(a) of the Immigration and Refugee Protection Act (IRPA).  
+2016-09-16 
+Most sections of this chapter have been updated to include more information regarding the processing of 
+cases involving paragraph 115(2)(b) of the IRPA and to reflect respective responsibilities of Immigration, 
+Refugees and Citizenship Canada (IRCC) and the Canada Border Services Agency (CBSA). 
+2005-11-07 
+The chapter has been updated to reflect respective responsibilities of Citizenship and Immigration 
+Canada (CIC) and the Canada Border Services Agency (CBSA). 
+Section 4: Clarification added to indicate that “the Minister” refers to the Minister of Citizenship and 
+Immigration.  
+Section 4.1: Removed list of delegated authority. 
+Added a reference to the chapter IL 3, Designation of Officers and Delegation of Authority, for information 
+on delegated authority to form an opinion pursuant to paragraphs A101(2)(b) and A115(2)(a) that a 
+person is a danger to the public in Canada, and pursuant to paragraph A115(2)(b) that a person is a 
+danger to the security of Canada, or should not be allowed to remain in Canada on the basis of the nature 
+and severity of acts committed.  
+Added instruction to indicate that all requests for danger opinion pursuant to A115(2)(b), as well as 
+complete documentation, must be sent to the Manager, National Security Coordination Section, Canada 
+Border Services Agency, Jean Edmonds Tower North, 300 Slater Street, 6th floor, Ottawa ON K1A 0L8. 
+Section 4.2: Corrections to indicate the responsible Divisions within the National Security Division (NSD) 
+of the CBSA for Organized Crime Division, Modern War Crimes Division and Security Review Division. 
+
+
+===== PAGE 5 =====
+ENF 28 Ministerial opinions on danger to the public, nature and severity of the acts committed and 
+danger to the security of Canada 
+2017-11-21 
+ 
+5 
+Section 7.2: Addition to indicate that officers should consult with the National Security Division (NSD), the 
+CBSA for guidance, before initiating a request for danger opinion pursuant to paragraph A115(2)(b).  
+Section 7.10: Added instruction with respect to requests for danger opinions pursuant to 
+paragraphs A101(2)(b) and A115(2)(a), to send the completed IMM 5367B, including all documentation 
+and submissions to the Director, Case Review Division, Case Management Branch, NHQ; and with 
+respect to request for danger opinion pursuant to paragraph A115(2)(b), to send the completed 
+IMM 5367B, including all documentation and submissions to the Manager, National Security Coordination 
+Section, Canada Border Services Agency, NHQ.  
+Section 7.11: Added information to indicate that the documents should be returned to the Director, Case 
+Review Division, Case Management Branch, NHQ, under “After Disclosure”, which provides information 
+on the type documents that should be returned to NHQ. This relates to documents and submissions with 
+respect to requests for danger opinion pursuant to paragraphs A101(2)(b), A115(2)(a), as well as 
+A115(2)(b). 
+Section 7.16: Correction to indicate that an EII is entered in FOSS rather than an NCB, regarding the 
+decision of the Minister’s delegate concerning a request for a danger opinion or a request for 
+reconsideration.  
+Appendix A: Removed references inviting the client to provide submissions addressing the extent to 
+which his life or freedoms are threatened by removal from Canada. This relates to the letter to client with 
+respect to paragraph A101(2)(b). 
+ 
+ 
+
+
+===== PAGE 6 =====
+ENF 28 Ministerial opinions on danger to the public, nature and severity of the acts committed and 
+danger to the security of Canada 
+2017-11-21 
+ 
+6 
+1 What this chapter is about 
+The purpose of this chapter is to define the policies and procedures with respect to ministerial danger 
+opinion reports. 
+This chapter aims to provide functional guidance and direction to officers, managers and others at 
+Immigration, Refugees and Citizenship Canada (IRCC) and the Canada Border Services Agency (CBSA) 
+who are involved in the decision-making process and the issuance of danger opinions.  
+2 Program objectives 
+The program objectives for the issuance of danger opinions with respect to protected persons are to 
+• 
+protect the health and safety of Canadians and to maintain the security of Canadian society; and  
+• 
+promote international justice and security by denying access to Canadian territory to protected 
+persons who were found inadmissible under section 34, section 35, subsection 36(1) or 
+section 37 of the Immigration and Refugee Protection Act (IRPA) on grounds of security, violation 
+of human or international rights, serious criminality or organized criminality. 
+The IRPA is to be construed and applied in a manner that 
+• 
+furthers the domestic and international interests of Canada; and  
+• 
+complies with international human rights instruments to which Canada is a signatory.  
+3 The Act and Regulations 
+Reference should be made to the IRPA and the Immigration and Refugee Protection Regulations (IRPR) 
+for the full and complete wording of the texts. 
+Provision 
+IRPA and IRPR 
+A permanent resident or a foreign national is inadmissible on security 
+grounds for 
+A34(1) 
+• 
+engaging in an act of espionage that is against Canada or that is 
+contrary to Canada’s interests;  
+A34(1)(a) 
+
+
+===== PAGE 7 =====
+ENF 28 Ministerial opinions on danger to the public, nature and severity of the acts committed and 
+danger to the security of Canada 
+2017-11-21 
+ 
+7 
+• 
+engaging in or instigating the subversion by force of any 
+government; 
+A34(1)(b) 
+• 
+engaging in an act of subversion against a democratic 
+government, institution or process as they are understood in 
+Canada; 
+A34(1)(b.1) 
+• 
+engaging in terrorism; 
+A34(1)(c) 
+• 
+being a danger to the security of Canada; 
+A34(1)(d) 
+• 
+engaging in acts of violence that would or might endanger the 
+lives or safety of persons in Canada; or  
+A34(1)(e) 
+• 
+being a member of an organization that there are reasonable 
+grounds to believe engages, has engaged or will engage in acts 
+referred to in paragraph (a), (b), (b.1) or (c).  
+A34(1)(f) 
+A permanent resident or a foreign national is inadmissible on grounds of 
+violating human or international rights for  
+A35(1) 
+• 
+committing an act outside Canada that constitutes an offence 
+referred to in sections 4 to 7 of the Crimes Against Humanity and 
+War Crimes Act; 
+A35(1)(a) 
+• 
+being a prescribed senior official in the service of a government 
+that, in the opinion of the Minister, engages or has engaged in 
+terrorism, systematic or gross human rights violations, or 
+genocide, a war crime or a crime against humanity within the 
+meaning of subsections 6(3) to (5) of the Crimes Against 
+Humanity and War Crimes Act; or  
+A35(1)(b) 
+• 
+being a person, other than a permanent resident, whose entry 
+into or stay in Canada is restricted pursuant to a decision, 
+resolution or measure of an international organization of states or 
+A35(1)(c) 
+
+
+===== PAGE 8 =====
+ENF 28 Ministerial opinions on danger to the public, nature and severity of the acts committed and 
+danger to the security of Canada 
+2017-11-21 
+ 
+8 
+association of states, of which Canada is a member, that 
+imposes sanctions on a country against which Canada has 
+imposed or has agreed to impose sanctions in concert with that 
+organization or association.  
+A permanent resident or a foreign national is inadmissible on grounds of 
+serious criminality for  
+A36(1) 
+• 
+having been convicted in Canada of an offence under an Act of 
+Parliament punishable by a maximum term of imprisonment of at 
+least 10 years, or of an offence under an Act of Parliament for 
+which a term of imprisonment of more than six months has been 
+imposed; 
+A36(1)(a) 
+• 
+having been convicted of an offence outside Canada that, if 
+committed in Canada, would constitute an offence under an Act 
+of Parliament punishable by a maximum term of imprisonment of 
+at least 10 years; or  
+A36(1)(b) 
+• 
+committing an act outside Canada that is an offence in the place 
+where it was committed and that, if committed in Canada, would 
+constitute an offence under an Act of Parliament punishable by a 
+maximum term of imprisonment of at least 10 years.  
+A36(1)(c) 
+A permanent resident or a foreign national is inadmissible on grounds of 
+organized criminality for  
+A37(1) 
+• 
+being a member of an organization that is believed on 
+reasonable grounds to be or to have been engaged in activity 
+that is part of a pattern of criminal activity planned and organized 
+by a number of persons acting in concert in furtherance of the 
+commission of an offence punishable under an Act of Parliament 
+by way of indictment, or in furtherance of the commission of an 
+offence outside Canada that, if committed in Canada, would 
+constitute such an offence, or engaging in activity that is part of 
+such a pattern; or  
+A37(1)(a) 
+
+
+===== PAGE 9 =====
+ENF 28 Ministerial opinions on danger to the public, nature and severity of the acts committed and 
+danger to the security of Canada 
+2017-11-21 
+ 
+9 
+• 
+engaging, in the context of transnational crime, in activities such 
+as people smuggling, trafficking in persons or money laundering.  
+A37(1)(b) 
+A protected person or a person who is recognized as a Convention 
+refugee by another country to which the person may be returned shall not 
+be removed from Canada to a country where they would be at risk of 
+persecution for reasons of race, religion, nationality, membership in a 
+particular social group or political opinion or at risk of torture or cruel and 
+unusual treatment or punishment.  
+A115(1) 
+Subsection (1) does not apply in the case of a person  
+• 
+who is inadmissible on grounds of serious criminality and who 
+constitutes, in the opinion of the Minister, a danger to the public 
+in Canada; or  
+A115(2)(a) 
+• 
+who is inadmissible on grounds of security, violating human or 
+international rights or organized criminality if, in the opinion of the 
+Minister, the person should not be allowed to remain in Canada 
+on the basis of the nature and severity of acts committed or of 
+danger to the security of Canada.  
+A115(2)(b) 
+3.1 Forms 
+The forms required for requests for danger opinions pursuant to paragraphs A115(2)(a) and (b) are as 
+follows: 
+Form title  
+Form number  
+Danger Opinion Narrative Report (for paragraph 115(2)(b) and hybrid 
+cases only) 
+See Appendix D 
+Danger to the Public – Ministerial Opinion Report (for 
+paragraph 115(2)(a) cases only) 
+IMM 5367B 
+
+
+===== PAGE 10 =====
+ENF 28 Ministerial opinions on danger to the public, nature and severity of the acts committed and 
+danger to the security of Canada 
+2017-11-21 
+ 
+10 
+4 Instruments and delegations 
+Pursuant to subsections A6(1) and (2), the Minister of IRCC has delegated persons or a class of persons 
+as officers to carry out any purpose of any provision, legislative or regulatory, and has specified the 
+powers and duties of the officers so delegated. These delegations may be found in chapter IL 3, 
+Designation of officers and delegation of authority. 
+4.1 Authorities 
+The IRPA authorizes the Minister of IRCC to form an opinion that a person is a danger to the public in 
+Canada or to the security of Canada or should not be allowed to remain in Canada on the basis of the 
+nature and severity of acts committed. 
+Refer to chapter IL 3, Designation of officers and delegation of authority, for information on delegated 
+authority to form an opinion, pursuant to paragraph A115(2)(a), that a person is a danger to the public in 
+Canada and, pursuant to paragraph A115(2)(b), that a person is a danger to the security of Canada or 
+that a person should not be allowed to remain in Canada on the basis of the nature and severity of acts 
+committed. 
+All requests for danger opinions pursuant to paragraphs A115(2)(a) and (b), as well as complete 
+documentation, must be sent to the CBSA’s Danger Assessments Section (DAS), which acts as the 
+centralized point of contact, at the following address:  
+Manager  
+Danger Assessments Section 
+Inland Enforcement Operations and Case Management Division 
+Canada Border Services Agency 
+191 Laurier Avenue West, 13th floor 
+Ottawa, ON 
+K1A 0L8 
+4.2 Guidance 
+The Operational Management and Coordination Branch, IRCC, National Headquarters (NHQ), may be 
+contacted at the following email address for guidance on policy issues regarding opinions on danger to 
+the public in Canada: OMC-GOC-Immigration@cic.gc.ca. 
+
+
+===== PAGE 11 =====
+ENF 28 Ministerial opinions on danger to the public, nature and severity of the acts committed and 
+danger to the security of Canada 
+2017-11-21 
+ 
+11 
+The DAS, CBSA, NHQ, may be contacted at the following email address for guidance regarding danger 
+to the security of Canada or nature and severity cases under paragraph A115(2)(b) as well as on specific 
+cases regarding danger opinions under paragraph A115(2)(a): CBSA-ASFC_Danger_Assessments-
+Evaluations_De_Danger@cbsa-asfc.gc.ca. 
+5 Departmental policy 
+5.1 Danger opinion provisions 
+The IRPA allows for a danger opinion to be issued in the following situation:  
+Exception to non-refoulement (removal) 
+A protected person or a person who is recognized as a Convention refugee by another country to which 
+the person may be returned should not be removed from Canada to a country where they would be at risk 
+of persecution, torture or cruel and unusual treatment or punishment, except for a person who is 
+inadmissible on grounds of 
+• 
+serious criminality and who constitutes, in the opinion of the Minister of IRCC, a danger to the 
+public in Canada [A115(2)(a)]; or 
+• 
+security, violating human or international rights or organized criminality if, in the opinion of the 
+Minister of IRCC, the person should not be allowed to remain in Canada on the basis of the 
+nature and severity of acts committed or of danger to the security of Canada [A115(2)(b)].  
+5.2. Removal of Convention refugees or protected persons [A115] 
+Under the principle of non-refoulement, a protected person or a person who is recognized as a 
+Convention refugee by another country to which the person may be returned should not be removed from 
+Canada to a country where they would be at risk of 
+• 
+persecution for the following reasons:  
+o race, 
+o religion, 
+o nationality, 
+o membership in a particular social group, 
+o political opinion; 
+• 
+torture or cruel and unusual treatment or punishment. 
+
+
+===== PAGE 12 =====
+ENF 28 Ministerial opinions on danger to the public, nature and severity of the acts committed and 
+danger to the security of Canada 
+2017-11-21 
+ 
+12 
+A protected person or a person who is recognized as a Convention refugee by another country to which 
+the person may be returned should not be removed from Canada and returned to their country of alleged 
+persecution, except in the following circumstances:  
+• 
+it has been determined that the person concerned is described under section A34, section A35, 
+subsection A36(1) or section A37; 
+• 
+a removal order was issued; 
+• 
+the Minister of IRCC has issued an opinion that the person concerned is a danger to the public in 
+Canada [A115(2)(a)], that the person should not be allowed to remain in Canada on the basis of 
+the nature and severity of the acts committed or that the person concerned is a danger to the 
+security of Canada [A115(2)(b)]. 
+6 Definitions 
+Act of 
+Parliament  
+Legislative act or statutory law: A bill that has been created or arrived at through 
+the will of the electorate and their elected officials and that has been enacted by 
+federal legislature into law  
+Convention 
+refugee  
+A person who, by reason of a well-founded fear of persecution for reasons of race, 
+religion, nationality, membership in a particular social group or political opinion, is 
+outside each of their countries of nationality and is unable or, by reason of that fear, 
+unwilling to avail themselves of the protection of each of those countries or, not 
+having a country of nationality, is outside the country of their former habitual 
+residence and is unable or, by reason of that fear, unwilling to return to that country 
+IAD  
+Immigration Appeal Division  
+ID  
+Immigration Division  
+IRB  
+Immigration and Refugee Board  
+Person in 
+need of 
+protection 
+A person in Canada whose removal to their country or countries of nationality, or, if 
+they do not have a country of nationality, their country of former habitual residence 
+would subject them personally to a danger, believed on substantial grounds to 
+exist, of torture within the meaning of Article 1 of the Convention against Torture or 
+to a risk to their life or to a risk of cruel and unusual treatment or punishment if the 
+person is unable or, because of that risk, unwilling to avail themselves of the 
+protection of that country; the risk would be faced by the person in every part of that 
+country and is not faced generally by other individuals in or from that country, is not 
+inherent or incidental to lawful sanctions, unless imposed in disregard of accepted 
+
+
+===== PAGE 13 =====
+ENF 28 Ministerial opinions on danger to the public, nature and severity of the acts committed and 
+danger to the security of Canada 
+2017-11-21 
+ 
+13 
+international standards, and is not caused by the inability of that country to provide 
+adequate health or medical care 
+Protected 
+person  
+A person on whom refugee protection is conferred and whose claim or application 
+has not subsequently been deemed to be rejected 
+RAD  
+Refugee Appeal Division  
+Recidivism  A tendency to relapse into a habit of criminal activity or behaviour 
+RPD  
+Refugee Protection Division  
+7 Procedure: issuing ministerial opinions  
+7.1 Identification by a CBSA officer of danger opinion cases 
+Officers are responsible for identifying persons who may be recommended for a Minister’s opinion on 
+danger to the public of Canada, on danger to the security of Canada or on the basis of the nature and 
+severity of acts committed. This occurs when a protected person has been found inadmissible under 
+section A34, section A35, subsection A36(1) or section A37 and is the subject of a removal order that is in 
+force. The officer must obtain their manager’s approval before submitting a case to the DAS, CBSA, 
+NHQ. 
+7.2 When to request the Minister’s opinion 
+After removal order [A115(2)(a)] 
+The officer may initiate a request for the Minister’s opinion when 
+• 
+a protected person or a person who is recognized as a Convention refugee is found inadmissible 
+on grounds of serious criminality; and  
+• 
+that person constitutes, in the opinion of the officer, a danger to the public in Canada.  
+After removal order [A115(2)(b)] 
+The officer may initiate a request for the Minister’s opinion when 
+• 
+a protected person or a person who is recognized as a Convention refugee is inadmissible on 
+grounds of security, violating human or international rights or organized criminality; and 
+
+
+===== PAGE 14 =====
+ENF 28 Ministerial opinions on danger to the public, nature and severity of the acts committed and 
+danger to the security of Canada 
+2017-11-21 
+ 
+14 
+• 
+the person concerned is a person who, in the opinion of the officer, should not be allowed to 
+remain in Canada on the basis of the nature and severity of acts committed or of danger to the 
+security of Canada. 
+Officers must consult with the DAS of the CBSA for guidance before initiating a request for a danger 
+opinion pursuant to paragraph A115(2)(b). 
+After removal order [A115(2)(a) and (b)] 
+In hybrid cases, the officer should initiate a request for the Minister’s opinion when 
+• 
+a protected person or a person who is recognized as a Convention refugee is inadmissible on 
+grounds of security, violating human or international rights, or organized criminality as well as on 
+grounds of serious criminality; and 
+• 
+the person concerned is a person who, in the opinion of the officer, constitutes a danger to the 
+public and is a danger to the security of Canada or should not be allowed to remain in Canada on 
+the basis of the nature and severity of acts committed. 
+Detained cases 
+In the case of a person who is detained for serious criminality, the officer who initiates a request for the 
+Minister’s opinion should do so at least one year prior to the date of the person’s earliest anticipated date 
+of release. 
+7.3 Determinant factors  
+In determining whether to seek the Minister’s opinion on danger to the public, the officer must examine 
+the seriousness and nature of the offence to ensure that they support the officer’s decision that the 
+person represents an unacceptable risk to the public and is likely to commit offences in the future.  
+The officer must not only consider the conviction and sentence, but also 
+• 
+include an analysis of the person’s past and current offences and activities in the 
+recommendation; and 
+• 
+indicate that, if the person is considered to be a danger to the public, a request for the Minister’s 
+opinion may be initiated.  
+
+
+===== PAGE 15 =====
+ENF 28 Ministerial opinions on danger to the public, nature and severity of the acts committed and 
+danger to the security of Canada 
+2017-11-21 
+ 
+15 
+In determining whether to seek the Minister’s opinion on danger to the security of Canada or on the basis 
+of the nature and severity of the acts committed, the officer must examine the seriousness and nature of 
+the person’s actions or the actions of the organization of which the person was a member if it is 
+determined that the person made a contribution to the nefarious activities of the organization. 
+In cases of danger to the security of Canada, the officer will also consider what activities there are 
+reasonable grounds to believe the individual may engage in in the future. 
+For all requests pursuant to paragraph A115(2)(b) cases, the officer will submit a request for guidance 
+from the DAS of the CBSA prior to providing notification to the person concerned that a danger opinion 
+will be sought in their case. Upon receipt of such a request, the DAS will review the information provided 
+and complete a pre-assessment to determine if the CBSA should move forward in seeking the Minister’s 
+opinion. 
+Note: All available and the most up-to-date documentation relevant to the case must be included with the 
+request for a danger opinion. 
+7.4 Factors 
+Criminal factors 
+The following factors must be considered in the preparation of a danger opinion submission for serious 
+criminality as well as for organized criminality: 
+• 
+criminal history and established patterns of violent criminal behaviour or threats of violent 
+behaviour that suggest present and future danger to the public, and evidence to support the 
+person’s pattern of behaviour; 
+• 
+convictions for serious offences involving but not limited to violence, weapons, drug trafficking, 
+human smuggling and trafficking, sexual offences and economic crimes; 
+• 
+documents illustrating an escalation of violence or of gravity in the convictions; 
+• 
+convictions for actions by the person that caused or might reasonably be expected to have 
+caused death, serious physical or psychological harm or significant property damage; 
+• 
+evidence to substantiate the link between the criminal conviction, the likelihood that the person 
+will re-offend and a pattern of increasingly serious criminal activity; 
+• 
+police, correctional services or other credible source information indicating that the person 
+continues to pose a danger to the public; 
+• 
+the circumstances of the offence(s) in order to provide insight into the level of risk the person may 
+present to the public; 
+
+
+===== PAGE 16 =====
+ENF 28 Ministerial opinions on danger to the public, nature and severity of the acts committed and 
+danger to the security of Canada 
+2017-11-21 
+ 
+16 
+• 
+evidence of rehabilitation on the part of the individual (education or training certificates, 
+psychological reports, reports from the parole officer, evidence of employment, etc.); 
+• 
+multiple convictions, including serious offences, that could form the basis for a danger opinion; 
+• 
+a single conviction that may sustain a finding of danger to the public if it is clearly demonstrated 
+that the person poses a present or future risk of danger to the public, as evidenced by the nature 
+and circumstances of the offence. The jurisprudence indicates that it is possible to base a danger 
+opinion on a single serious conviction when sufficient evidence exists.  
+Danger to the security of Canada and the nature and severity of the acts 
+committed: factors 
+The following are some of the factors that must be considered in the preparation of a danger opinion 
+based on danger to the security of Canada or on the nature and severity of the acts committed: 
+• 
+acts committed by the individual or the group, if applicable; 
+• 
+activities undertaken by the person in the furtherance of the group’s objectives; 
+• 
+the level of involvement of the person in the acts committed by the organization; and 
+• 
+the level of threat either direct or indirect that the person presents to the security of Canada. 
+7.5 Procedural fairness  
+The decision-making process for a Minister’s opinion must adhere to the principles of procedural fairness. 
+The person concerned must be fully informed of the case and be given a reasonable opportunity to 
+respond to any information the decision maker will use to arrive at a decision. A copy of all 
+documentation that will be put before the decision maker must be provided to the person concerned. 
+Exceptionally, information may be used that cannot be disclosed to the person concerned where the 
+disclosure of this information would be injurious to national security or would endanger the safety of any 
+person. In such circumstances, all efforts should be made to provide as much information as possible to 
+the person concerned and to limit the amount of undisclosed information to be considered. Consultation 
+with the DAS, CBSA, is required in such circumstances. 
+
+
+===== PAGE 17 =====
+ENF 28 Ministerial opinions on danger to the public, nature and severity of the acts committed and 
+danger to the security of Canada 
+2017-11-21 
+ 
+17 
+7.6 Notification letter: intent to seek the Minister’s opinion 
+Notification letter 
+As soon as a CBSA manager or supervisor agrees with the officer to seek a Minister’s opinion, the person 
+concerned must be notified by letter. In paragraph A115(2)(b) cases, this happens only after consultation 
+with the DAS at the CBSA, NHQ. The notification letter must be accurate and make reference to the 
+appropriate section(s) of the IRPA and should 
+• 
+explain the effect of the Minister’s opinion on the person’s ability to remain in Canada; 
+• 
+advise the person concerned of the opportunity to make representations or submit any other 
+evidence regarding danger, nature and severity of the acts committed, risks upon removal, and 
+humanitarian and compassionate considerations, including written statements from others; 
+• 
+confirm that the deadline for the submissions is 15 calendar days from the day that the notice is 
+received by the person (the 15 days do not include the day on which the letter was issued but do 
+include the fifteenth day, unless it falls on a holiday or weekend, in which case the deadline is the 
+next working day); 
+• 
+include a list and attached copies of some of the material that is expected to form the record that 
+may be forwarded to the Minister’s delegate for making the decision; 
+• 
+not include evidence in the danger opinion package that could prejudice a third party, unless the 
+source has authorized disclosure for this purpose (if disclosure has not been authorized, the 
+information cannot be disclosed to the person concerned); 
+• 
+be signed by the CBSA manager or supervisor; and 
+• 
+be dated when served or sent to the person concerned.  
+Samples of notification letters 
+• 
+Appendix A Letter advising the client that the CBSA will seek the Minister’s opinion on the basis 
+of paragraph A115(2)(a) 
+• 
+Appendix B Letter advising the client that the CBSA will seek the Minister’s opinion on the basis 
+of paragraph A115(2)(b) 
+• 
+Appendix C Letter advising the client that the CBSA will seek the Minister’s opinion on the basis 
+of paragraphs A115(2)(a) and (b)  
+
+
+===== PAGE 18 =====
+ENF 28 Ministerial opinions on danger to the public, nature and severity of the acts committed and 
+danger to the security of Canada 
+2017-11-21 
+ 
+18 
+Service of notification letter 
+The notification letter must be served, and an acknowledgment of receipt should be obtained from the 
+person concerned. Service can be either in person or by any mail service that provides acknowledgment 
+of receipt (for instance, double registered mail). A copy of the letter should be sent to the person’s 
+counsel, if known. 
+If the person concerned is incarcerated, arrangements must be made for a CBSA officer to serve the 
+notification letter in person and to obtain an acknowledgment of receipt.  
+When the person concerned does not understand either English or French and requires the services of 
+an interpreter at an admissibility hearing, a translation of the notification letter must be provided either 
+orally or in writing. 
+If the person refuses to sign the acknowledgment of receipt, a note to that effect will be added to the 
+departmental copy of the notification letter, signed and dated by the serving officer, to establish service. 
+Note: When service is by mail but the post office is unable to confirm receipt by the person concerned, 
+the request for a danger opinion cannot proceed. A warrant for the person’s arrest for removal should be 
+obtained, and the process of obtaining a danger opinion can recommence when the person is arrested. 
+7.7 Danger opinion package 
+For paragraph A115(2)(a) and (b) requests, if no extension has been granted at the expiration of the 
+period for receiving submissions, the CBSA regional office should review all danger opinion material to 
+determine that the package is complete before forwarding it to the CBSA, NHQ.  
+The officer or manager should not summarize or comment on the documents submitted by the person 
+concerned when completing the documentation. 
+The officer should forward copies of all documentation and submissions to the DAS at the CBSA, NHQ 
+(see section 4.1). The following is to be included in the danger opinion package: 
+• 
+notice to the person concerned and their counsel, if known; 
+• 
+acknowledgement of service to the client; 
+• 
+all documentation provided to the person concerned; and 
+• 
+submissions made by the person concerned or their counsel, if any. 
+
+
+===== PAGE 19 =====
+ENF 28 Ministerial opinions on danger to the public, nature and severity of the acts committed and 
+danger to the security of Canada 
+2017-11-21 
+ 
+19 
+In cases where the person concerned is detained, it is imperative that the regional officer clearly identify 
+this information on the cover letter when referring the case to NHQ and that any future changes in 
+detention status be forwarded without delay. 
+In hybrid cases involving both paragraphs A115(2)(a) and (b), the DAS at the CBSA, NHQ, will coordinate 
+the preparation and disclosure of both assessments with IRCC Case Management so that they can be 
+done simultaneously. 
+After preparing the assessment of the danger to the security of Canada and/or of the nature and severity, 
+the DAS will contact IRCC Case Management at NHQ for them to prepare the assessment of the risks 
+associated with removal and of humanitarian and compassionate considerations prior to disclosure. Once 
+both assessments have been completed, the DAS will provide the package for disclosure to the regional 
+office concerned. See section 7.12. 
+Note: A copy of the danger opinion package should be kept in the responsible originating office file. 
+7.8 Documentation 
+When possible, when third parties are involved, certified copies should be made by the issuing authority 
+of the original document. Authority to disclose third-party information should be sought where required. 
+Copies of original documentation that must be provided to NHQ within the danger opinion package 
+include 
+• 
+the Danger to the Public – Ministerial Opinion Report form [IMM 5367B] in hybrid and 
+paragraph 115(2)(a) cases only;  
+• 
+the Danger Opinion Narrative Report form, found in Appendix D, in hybrid and 
+paragraph 115(2)(b) cases; 
+• 
+a section A44 report highlights form [IMM 5051B or IMM 5084B], which details the person’s 
+inadmissibility and personal history (employment, family, community involvement, associations, 
+etc.) in Canada; 
+• 
+the person’s Basis of Claim form (BOC) or Personal Information Form (PIF), if applicable; 
+• 
+relevant interview notes; 
+• 
+decisions from the Immigration Refugee Board (IRB), including available transcripts, exhibits and 
+removal orders or detention reviews; 
+• 
+any permanent residence, citizenship, sponsorship or overseas immigration applications; 
+• 
+for each offence, police occurrence or observance reports linking the person to criminal activity or 
+known associates, organizations or accomplices, if releasable; 
+
+
+===== PAGE 20 =====
+ENF 28 Ministerial opinions on danger to the public, nature and severity of the acts committed and 
+danger to the security of Canada 
+2017-11-21 
+ 
+20 
+• 
+court decisions, pre-sentence reports or the judge’s sentencing remarks, which should determine 
+that the level of risk is consistent with the officer’s recommendation; 
+• 
+probation and parole services and Correctional Service Canada documentation addressing 
+rehabilitation issues; 
+• 
+Correctional Service Canada reports that include information about the crime; 
+• 
+an RCMP Summary of Police Information form [C480], which must be obtained by forwarding the 
+person’s fingerprints to the RCMP (after an RCMP Summary of Police Information form is 
+obtained, conviction certificates for each conviction are not required); 
+• 
+only credible and reliable evidence underlying criminal charges, and not the charges in and of 
+themselves, which can be used in the absence of a criminal conviction, when they indicate a 
+pattern of negative behaviour; 
+• 
+all evidence, whether it be positive or negative to the person concerned; 
+• 
+evidence of rehabilitation; information concerning the person’s behaviour during immigration 
+proceedings, criminal proceedings and detention;  
+• 
+media reports regarding the person, the organization and the offences committed (keeping in 
+mind that while media accounts may not be completely accurate, they are of use in demonstrating 
+the impact of the crimes on the community); 
+• 
+any other document on file that could be relevant to assessing the danger the person represents 
+to the public or to the security of Canada or the nature and severity of the acts committed. 
+The following documentation should not be included: 
+• 
+statements that are speculative in nature; 
+• 
+information that cannot be sourced; and 
+• 
+information relating to charges under the Youth Criminal Justice Act (YCJA) that have been 
+withdrawn or stayed. Absolute or conditional discharges must be blocked out (refer to 
+section 7.11 below). 
+7.9 Urgent consideration 
+The officer must clearly indicate the reasons for urgency on the danger package. NHQ will try to ensure 
+that the request is processed as quickly as possible.  
+The officer must provide the following: 
+• 
+justification for the request; 
+• 
+the date of release from criminal incarceration, if applicable; 
+• 
+where and by whom the person is being detained; and 
+
+
+===== PAGE 21 =====
+ENF 28 Ministerial opinions on danger to the public, nature and severity of the acts committed and 
+danger to the security of Canada 
+2017-11-21 
+ 
+21 
+• 
+the date on which the person was released by a member of the Immigration Division, if 
+applicable. 
+7.10 Humanitarian and compassionate considerations 
+Any humanitarian and compassionate considerations submitted by the person concerned or their counsel 
+must be considered by the decision maker in subsection A115(2) cases. 
+Further information on humanitarian and compassionate considerations is available in the program 
+delivery instructions on permanent residents. 
+7.11 The Youth Criminal Justice Act (YCJA) 
+Any material references to a person’s record under the YCJA, such as correctional reports and 
+sentencing remarks, may be put before the decision maker when forming a danger opinion in the 
+following circumstance:  
+Paragraph 119(2)(i) and subsection 119(9) of the YCJA allow for crimes committed by a young offender 
+to be considered if the individual is convicted as an adult three years after the completion of the YCJA 
+sentence for summary convictions and five years after the completion of the YCJA sentence for indictable 
+offences. 
+For information that does not make up the individual’s criminal record, such as charges that have been 
+withdrawn or stayed, absolute or conditional discharges under the YCJA and convictions that do not fall 
+within the three- or five-year exception, the officer preparing the danger opinion submission should 
+• 
+make a note to file; 
+• 
+legibly sign and date the form to indicate that this information was blocked out in order to remove 
+any references to material that is non-releasable; and 
+• 
+indicate in the letter attached to the package that the information blocked out cannot be provided 
+to the decision maker. 
+In the case of a judicial review, the officer may explain in an affidavit why sections were blocked out in 
+order to confirm that the material was not put before the decision maker.  
+The person concerned must be provided with a copy of the package that is presented to the Minister’s 
+delegate, including the sections that have been blocked out.  
+
+
+===== PAGE 22 =====
+ENF 28 Ministerial opinions on danger to the public, nature and severity of the acts committed and 
+danger to the security of Canada 
+2017-11-21 
+ 
+22 
+Note: If officers consider any evidence pertaining to a record under the YCJA to be relevant, they should 
+follow the appropriate procedures pertaining to procedural fairness for including this information. 
+7.12 Disclosure 
+Disclosure prior to ministerial review 
+The CBSA regional office discloses the assessments of the danger to the public, danger to the security of 
+Canada or nature and severity of the acts and the risks and humanitarian and compassionate 
+considerations received from NHQ to the subject and their counsel for written submissions. 
+Upon receipt of the disclosure package, the CBSA regional office must 
+• 
+advise the DAS when the package is received by them from NHQ; 
+• 
+advise the DAS when the package is disclosed to the subject and counsel; 
+• 
+provide the DAS with an electronic copy of the disclosure letter that has been signed by the 
+person concerned acknowledging receipt of the disclosure package or with the refusal to sign or 
+acknowledge, if applicable; 
+• 
+provide the date by which submissions by the subject must be received (15 days); and 
+• 
+advise the DAS when they receive submissions (or fail to receive them). 
+7.13 Extension requests for submissions  
+Should the person or counsel retained by the person request an extension of the 15-day period, the 
+CBSA regional office will 
+• 
+consider the reasons for the request and consult with the DAS, CBSA, NHQ; 
+• 
+grant the extension, if it is allowed, for a short period only; 
+• 
+acknowledge the request in writing and include it in the danger opinion package; and 
+• 
+advise the appropriate section at NHQ of the granted extension request and of the new date 
+submissions are due. 
+If the request was made after submissions were due and the danger package has already been provided 
+to the Minister for decision, advise the client or their counsel that, even though a late submission cannot 
+be refused, there is no guarantee that the submission will be considered, as it may reach the decision 
+maker after a decision has already been made. The DAS, CBSA, NHQ, must be made aware of such 
+requests and will inform the IRCC decision maker, who must always be made aware of such requests. 
+
+
+===== PAGE 23 =====
+ENF 28 Ministerial opinions on danger to the public, nature and severity of the acts committed and 
+danger to the security of Canada 
+2017-11-21 
+ 
+23 
+All submissions must be accepted by the local responsible office and referred to the appropriate section 
+at NHQ, regardless of whether an extension was granted.  
+7.14 Following receipt of submissions 
+Upon receipt of a submission, the CBSA regional office will forward the following documentation to the 
+DAS, CBSA: 
+• 
+any submissions made by the subject or their counsel (depending on the size of the material, this 
+can be done electronically or via mail); 
+• 
+a copy of the signed disclosure letter sent to the client; and 
+• 
+any additional evidence being introduced by the local responsible office that has been disclosed 
+to the client.  
+7.15 After the Minister’s delegate’s danger opinion decision 
+After the Minister’s delegate issues an opinion under paragraphs A115(2)(a) and/or (b), a copy of the 
+decision will be sent by IRCC’s Case Management Branch, NHQ, to the DAS, CBSA, NHQ, who will then 
+forward the decision to the originating CBSA office for further action. 
+The manager of the originating CBSA office is responsible for notifying the person concerned 
+immediately, in writing, of the decision. Notice should also be provided to the person’s counsel when one 
+is on file. 
+If the person is to be removed, the process will require coordination with the local Removals Screening 
+Unit. 
+7.16 Reconsideration of danger opinion 
+Note 1: Requests for reconsideration will not stay the processing of a case, including removal. The 
+removals officer is responsible for deciding whether a deferral of removal is appropriate in each case. 
+Note 2: Where the subject of a danger opinion pursuant to section A115(2)(a) has obtained a record 
+suspension for the underlying serious criminality conviction(s), please request advice from the CBSA 
+Danger Assessments Section (DAS) (CBSA-ASFC_Danger_Assessments-
+Evaluations_De_Danger@cbsa-asfc.gc.ca), who will consult with the IRCC Case Management Branch. 
+Upon receipt of a request for reconsideration of a danger opinion, the local CBSA office will forward the 
+request to the CBSA DAS. A decision maker at the IRCC Case Management Branch will then be 
+assigned to make a decision on the request. 
+
+
+===== PAGE 24 =====
+ENF 28 Ministerial opinions on danger to the public, nature and severity of the acts committed and 
+danger to the security of Canada 
+2017-11-21 
+ 
+24 
+A decision maker will review the request and determine whether to reopen the original danger decision 
+based on whether the request (along with any accompanying submissions) demonstrates one of the 
+following: 
+o New evidence has been submitted that meets all of the following criteria:  
+a) Reliable: Is the evidence reliable, considering its source and the circumstances 
+in which it came into existence?  
+b) Relevance: Is the evidence relevant to the decision type, in the sense that it is 
+capable of proving or disproving a fact that is relevant to the proceeding? 
+c) Materiality: Is the evidence material, in the sense that the decision maker may 
+have come to a different conclusion if it had been known?  
+d) Newness: Is the evidence new in the sense that it is capable of 
+i. 
+proving the current state of affairs in the country of removal; 
+ii. 
+proving a fact that was unknown at the time of the original decision; 
+iii. 
+contradicting a finding of fact made by the original decision maker? 
+o 
+A principle of natural justice was violated by the original decision maker. 
+Reopening and reconsidering 
+Where the decision maker decides that a reopening of the original danger opinion is required based on either 
+or both of the 2 above assessments, it becomes as though the initial decision was never finalized, and a 
+new decision must therefore be made. This second decision is termed the reconsideration decision. 
+Before the new decision is rendered, the subject of the danger opinion and/or their counsel should be 
+informed of the decision to reconsider, and a further opportunity for submissions should be provided. 
+Refusal to reopen and reconsider 
+Alternatively, after reviewing the request to reconsider and any new submissions made in support of the 
+request, the decision maker may deny the request. The decision maker must explain the reasons for 
+refusing to reopen the original decision with regard to the applicant’s submissions and the policy 
+guidelines. This may be done in letter format. 
+7.17 Info-alert 
+The Immigration Cases Division, Case Management Branch will enter an info-alert in the Global Case 
+Management System (GCMS) regarding the decision of the Minister’s delegate concerning a request for 
+a danger opinion or a request for reconsideration. 
+ 
+ 
+
+
+===== PAGE 25 =====
+ENF 28 Ministerial opinions on danger to the public, nature and severity of the acts committed and 
+danger to the security of Canada 
+2017-11-21 
+ 
+25 
+Appendix A Letter advising the client that the CBSA will seek 
+the Minister’s opinion on the basis of paragraph A115(2)(a) 
+Subject: Notice of intention to seek the opinion of the Minister, pursuant to paragraph 115(2)(a) of the 
+Immigration and Refugee Protection Act, that you are a danger to the public in Canada 
+[Person’s name]: 
+You are hereby advised that the Canada Border Services Agency (CBSA) possesses information 
+suggesting you are a person in Canada who is a danger to the public. The CBSA intends to request an 
+opinion, pursuant to paragraph 115(2)(a) of the Immigration and Refugee Protection Act (IRPA), from the 
+Minister of Immigration, Refugees and Citizenship Canada (IRCC), which, if given, will have serious 
+consequences for you. 
+If the Minister is of the opinion that you are a danger to the public in Canada, you may be removed from 
+Canada to [list the country or countries here].  
+An assessment will be made of the threat that you pose to the public in Canada. In addition, an 
+assessment will be made of the possibility of risk you may face should you be removed from Canada to 
+the country from which you have been determined to be a protected person, the country from which you 
+came to Canada, the country of your permanent residence, the country of your nationality or the country 
+of your birth as well as of any humanitarian and compassionate considerations. These assessments will 
+be disclosed to you before they are presented to the Minister for decision. The following is a list of some 
+of the materials that will be presented to the Minister for consideration, copies of which are included with 
+this letter: 
+• 
+[List all pertinent documentary evidence that will be forwarded to the Case Management Branch, 
+IRCC, NHQ] 
+The Minister may refer to your refugee claim material, where applicable, and to the most recent and 
+current country information available at the Immigration and Refugee Board Documentation Centre. This 
+information may include the Human Rights Package, the Contextual Package, the Indexed Media Review 
+and the Weekly Media Review, which cover the country or countries to which you may be removed. The 
+Minister may also use other annually published and publicly available material.  
+You may make any written representations or arguments that you deem necessary and submit any 
+documentary evidence that you believe to be relevant. All representations, arguments or evidence—
+which should address whether you are a danger to the public, the risks you may face if removed from 
+
+
+===== PAGE 26 =====
+ENF 28 Ministerial opinions on danger to the public, nature and severity of the acts committed and 
+danger to the security of Canada 
+2017-11-21 
+ 
+26 
+Canada and any humanitarian and compassionate factors—that are to be considered by the Minister 
+must be received by the CBSA at the address noted above on or before the expiration of 15 days from 
+the date you receive this letter. All material must be submitted in either of Canada’s official languages. 
+Prior to being presented to the Minister’s delegate for decision, you and/or your counsel will be provided 
+with the assessment of the danger you may pose to the public, the risks you may face upon removal, and 
+humanitarian and compassionate factors in your case as well as all supporting documentation considered 
+in the assessment that has not already been disclosed to you or your counsel. Following receipt of this 
+information, you will be invited to make further written submissions within a certain time frame. Your 
+submissions, along with the documents disclosed to you, will be presented to the Minister’s delegate for 
+decision. 
+Once a determination is rendered, pursuant to paragraph 115(2)(a) of the IRPA, you will be informed in 
+writing of the decision of the Minister. 
+Yours truly, 
+[Name of manager or supervisor], CBSA 
+Encl.: ___________________________________ 
+Receipt acknowledged ______________ 
+[Date] 
+ 
+ 
+
+
+===== PAGE 27 =====
+ENF 28 Ministerial opinions on danger to the public, nature and severity of the acts committed and 
+danger to the security of Canada 
+2017-11-21 
+ 
+27 
+Appendix B Letter advising the client that the CBSA will seek 
+the Minister’s opinion on the basis of paragraph A115(2)(b) 
+Subject: Notice of intention to seek the opinion of the Minister pursuant to paragraph 115(2)(b) of the 
+Immigration and Refugee Protection Act 
+[Person’s name]: 
+You are hereby advised that the Canada Border Services Agency (CBSA) possesses information 
+suggesting you are a person who should not be allowed to remain in Canada on the basis of the nature 
+and severity of acts committed or the danger to the security of Canada. The CBSA intends to request an 
+opinion, pursuant to paragraph 115(2)(b) of the Immigration and Refugee Protection Act (IRPA), from the 
+Minister of Immigration, Refugees and Citizenship Canada (IRCC), which, if given, will have serious 
+consequences for you. 
+If the Minister is of the opinion that you are a person who should not be allowed to remain in Canada on 
+the basis of the nature and severity of acts committed or of the danger to the security of Canada, you may 
+be removed from Canada to [list the country or countries here]. 
+An assessment of the nature and severity of acts committed or of the danger to the security of Canada 
+will be made by the CBSA. In addition, an assessment will be made by IRCC of the possibility of risk you 
+may face should you be removed from Canada to the country from which you have been determined to 
+be a protected person, the country from which you came to Canada, the country of your permanent 
+residence, the country of your nationality or the country of your birth as well as of any humanitarian and 
+compassionate considerations. These assessments will be disclosed to you before they are presented to 
+the Minister for decision. 
+The following is a list of some of the materials that will be presented to the Minister for consideration, 
+copies of which are included with this letter: 
+• 
+[List all documentary evidence pertinent to danger considerations that will be forwarded to the 
+Case Management Branch, IRCC, NHQ] 
+The Minister may refer to your refugee claim material, where applicable, and to the most recent and 
+current country information available at the Immigration and Refugee Board Documentation Centre. This 
+information may include the Human Rights Package, the Contextual Package, the Indexed Media Review 
+and the Weekly Media Review, which cover the country or countries to which you may be removed. The 
+Minister may also use other annually published and publicly available material. 
+
+
+===== PAGE 28 =====
+ENF 28 Ministerial opinions on danger to the public, nature and severity of the acts committed and 
+danger to the security of Canada 
+2017-11-21 
+ 
+28 
+You may make any written representations or arguments that you deem necessary and submit any 
+documentary evidence that you believe to be relevant. All representations, arguments or evidence—
+which should address whether you are a person who should not be allowed to remain in Canada on the 
+basis of the nature and severity of acts committed or the danger to the security of Canada, the risks you 
+may face if removed from Canada and any humanitarian and compassionate factors—that are to be 
+considered by the Minister must be received by the CBSA at the address noted above on or before the 
+expiration of 15 days from the date you receive this letter. All material must be submitted in either of 
+Canada’s official languages. 
+Prior to being presented to the Minister’s delegate for decision, you and/or your counsel will be provided 
+with the assessment of the danger it is believed you pose to the security of Canada, the nature and 
+severity of the acts committed, the risks you may face upon removal and humanitarian and 
+compassionate factors in your case as well as all supporting documentation considered in the 
+assessment that has not already been disclosed to you or your counsel. Following receipt of this 
+information, you will be invited to make further written submissions within a certain time frame. Your 
+submissions, along with the documents disclosed to you, will be presented to the Minister’s delegate for 
+decision. 
+Once a determination is rendered pursuant to paragraph 115(2)(b) of the IRPA, you will be informed in 
+writing of the decision of the Minister. 
+Yours truly, 
+[Name of manager or supervisor], CBSA 
+Encl.: ___________________________________ 
+Receipt acknowledged ______________ 
+[Date] 
+ 
+ 
+
+
+===== PAGE 29 =====
+ENF 28 Ministerial opinions on danger to the public, nature and severity of the acts committed and 
+danger to the security of Canada 
+2017-11-21 
+ 
+29 
+Appendix C Letter advising the client that the CBSA will seek 
+the Minister’s opinion on the basis of paragraphs A115(2)(a) and 
+(b) 
+Subject: Notice of intention to seek the opinion of the Minister pursuant to paragraphs 115(2)(a) and (b) of 
+the Immigration and Refugee Protection Act 
+[Person’s name]: 
+You are hereby advised that the Canada Border Services Agency (CBSA) possesses information 
+suggesting you are a person in Canada who should not be allowed to remain in Canada on the basis of 
+the nature and severity of acts committed, the danger to the security of Canada or the danger to the 
+public. The CBSA intends to request an opinion, pursuant to paragraphs 115(2)(a) and (b) of the 
+Immigration and Refugee Protection Act (IRPA), from the Minister of Immigration, Refugees and 
+Citizenship Canada (IRCC), which, if given, will have serious consequences for you. 
+If the Minister is of the opinion that you are a person who should not be allowed to remain in Canada on 
+the basis of the nature and severity of acts committed, the danger to the security of Canada or the danger 
+to the public, you may be removed from Canada to [list the country or countries here]. 
+An assessment of the nature and severity of acts committed or the danger to the security of Canada will 
+be prepared by the CBSA. An assessment of the danger to the public, the possibility of risk you may face 
+should you be removed from Canada to the country from which you have been determined to be a 
+protected person, the country from which you came to Canada, the country of your permanent residence, 
+the country of your nationality or the country of your birth as well as of any humanitarian and 
+compassionate considerations will be prepared by IRCC. These assessments will be disclosed to you 
+before they are presented to the Minister for decision. The following is a list of some of the materials that 
+will be presented to the Minister for consideration, copies of which are included with this letter: 
+• 
+[List all documentary evidence pertinent to danger considerations that will be forwarded to the 
+Case Management Branch, IRCC, NHQ] 
+The Minister may refer to your refugee claim material, where applicable, and to the most recent and 
+current country information available at the Immigration and Refugee Board Documentation Centre. This 
+information may include the Human Rights Package, the Contextual Package, the Indexed Media Review 
+and the Weekly Media Review, which cover the country or countries to which you may be removed. The 
+Minister may also use other annually published and publicly available material. 
+
+
+===== PAGE 30 =====
+ENF 28 Ministerial opinions on danger to the public, nature and severity of the acts committed and 
+danger to the security of Canada 
+2017-11-21 
+ 
+30 
+You may make any written representations or arguments that you deem necessary and submit any 
+documentary evidence that you believe to be relevant. All representations, arguments or evidence—
+which should address whether you are a person who should not be allowed to remain in Canada on the 
+basis of the nature and severity of acts committed, the danger to the security of Canada or the danger to 
+the public and the risks you may face if removed from Canada, and any humanitarian and compassionate 
+factors—that are to be considered by the Minister must be received by the CBSA at the address noted 
+above on or before the expiration of 15 days from the date you received this letter. All material must be 
+submitted in either of Canada’s official languages. 
+Prior to being presented to the Minister’s delegate for decision, you and/or your counsel will be provided 
+with the assessment of the danger it is believed you pose to the security of Canada and the nature and 
+severity of the acts committed as well as the assessment of the danger you may pose to the public, the 
+risks you may face upon removal and humanitarian and compassionate factors in your case as well as all 
+supporting documentation considered in the assessments that has not already been disclosed to you or 
+your counsel. Following receipt of this information, you will be invited to make further written submissions 
+within a certain time frame. Your submissions, along with the documents disclosed to you, will be 
+presented to the Minister’s delegate for decision. 
+Once a determination is rendered, pursuant to paragraphs 115(2)(a) and (b) of the IRPA, you will be 
+informed in writing of the decision of the Minister. 
+Yours truly, 
+[Name of manager or supervisor], CBSA 
+Encl.: ___________________________________ 
+Receipt acknowledged ______________ 
+[Date] 
+ 
+ 
+
+
+===== PAGE 31 =====
+ENF 28 Ministerial opinions on danger to the public, nature and severity of the acts committed and 
+danger to the security of Canada 
+2017-11-21 
+ 
+31 
+Appendix D Danger Opinion Narrative Report form for use in 
+paragraph A115(2)(b) cases and hybrid cases involving 
+paragraphs A115(2)(a) and (b) 
+ DANGER OPINION NARRATIVE REPORT  
+To:  
+      
+From:  
+      
+Date:       
+File #:       
+UCI/FOSS ID #:        
+FPS #:       
+Inadmissibility findings:       
+Danger opinion sought pursuant to 
+115(2)(a) 
+115(2)(b) [danger guidance request] 
+115(2)(a) and (b) [danger guidance request] 
+DETENTION STATUS 
+ Not detained 
+ Detained          Detained since:       
+      
+ IRPA          Next detention review:        
+      
+ Criminal    *fill out section 9 
+SECTION 1 BACKGROUND INFORMATION 
+Surname:       
+Given names:       
+Date of birth:       
+Alias(es) or former name(s):  
+      
+Place of birth:       
+Citizenship:       
+Date of arrival in Canada:       
+Date of CR status:       
+Date of PR status:        
+Marital status:       
+Number of children:       
+SECTION 2A RELATIVES IN CANADA 
+List all relatives including spouse, common law  spouse, children, parents, siblings, etc. 
+Name 
+Relationship 
+1.       
+2.       
+… 
+1.       
+2.       
+… 
+SECTION 2B RELATIVES OUTSIDE OF CANADA 
+List relatives including spouse, common law  spouse, children, parents, siblings, etc. 
+Name 
+Relationship 
+1.       
+2.       
+… 
+1.       
+2.       
+… 
+
+
+===== PAGE 32 =====
+ENF 28 Ministerial opinions on danger to the public, nature and severity of the acts committed and 
+danger to the security of Canada 
+2017-11-21 
+ 
+32 
+SECTION 3 CRIMINAL HISTORY 
+List all offences, disposition and sentence 
+Date 
+Charges  
+Disposition (withdrawn, 
+convicted, not guilty, 
+etc.) 
+Sentence 
+1.       
+2.       
+… 
+1.       
+2.       
+… 
+1.       
+2.       
+… 
+1.       
+2.       
+… 
+SECTION 4 CIRCUMSTANCES OF INADMISSIBILITY 
+List all occurrences with police, role and activities on behalf of the organization, etc. 
+      
+ 
+SECTION 5 DEGREE OF ESTABLISHMENT 
+Provide a brief description of subject’s current and past employment and/or studies, of the assets and liabilities, the 
+level of education, any trade/skills training, official languages ability, recent or past receipt of social 
+assistance/unemployment insurance, of residence, of community involvement/ties, etc. 
+      
+ 
+SECTION 6 HUMANITARIAN, COMPASSIONATE AND RISK  CONSIDERATIONS 
+Provide any information on spouse, children, parents, siblings, etc. and the relationship w ith the subject including 
+anyone dependent on the subject for financial or emotional support. Is the subject part of a nuclear family relationship? 
+If there is a child, does the subject play a strong parental role? Is there any indication of drug/alcohol abuse or 
+dependence? What hardship, if any, w ould the subject experience if removed to his/her home country? If removed, 
+w hat hardship, if any, w ould anyone in Canada experience as a result of the removal? Has the subject been issued a 
+w arning letter in the past? If an interview  was not conducted, w hat attempts w ere made to contact the subject? 
+      
+ 
+SECTION 7 POTENTIAL FOR REHABILITATION 
+Provide any information as to w hether the subject has admitted their guilt or participation in the activities during the 
+interview , the testimony or by a guilty plea at trial. Is there an appeal of the conviction or sentence? Is the subject still 
+in contact w ith any co-accused or members of the organization? Has the subject attempted to improve their life (i.e., 
+entering a rehabilitation program, upgrading skills/education)? Does the subject have stable/supportive family 
+members or others w ho are w illing and able to assist in the rehabilitation efforts? Is the subject w orking or is there an 
+offer of employment upon release? Has the subject reintegrated or made a plan to reintegrate into the community? 
+Has the subject expressed remorse for their actions? Has the subject indicated a desire or need to rehabilitate? Does 
+the offence or do activities seem isolated? Are there outstanding charges? What w as the subject’s attitude or level of 
+co-operation w hile detained or at the interview ? Etc. 
+      
+ 
+SECTION 8 RECOMMENDATION AND DANGER RATIONALE 
+Provide information on w hether the offence/activities involved violence. Were there any criminal proceedings or 
+convictions? If so, w hat w as the sentence? Is there a pattern of criminal behaviour and if so, is it escalating? What 
+w as the impact of the activities on the victim(s), public and society? Has the subject expressed remorse or 
+renounced their activities? Is the subject still involved w ith the organization or its members? What is the likelihood 
+of the subject becoming a contributing and law  abiding member of society? Are there any removal impediments? 
+Etc. 
+      
+ 
+
+
+===== PAGE 33 =====
+ENF 28 Ministerial opinions on danger to the public, nature and severity of the acts committed and 
+danger to the security of Canada 
+2017-11-21 
+ 
+33 
+SECTION 9 CORRECTIONAL INSTITUTION INFORMATION 
+Case management officer and phone 
+number:       
+Place of detention:       
+FPS number:       
+Day parole eligibility date:       
+Full parole eligibility date:       
+Statutory release date:       
+Warrant expiry date:       
+SECTION 10 LIST OF ATTACHMENTS 
+Please provide any and all document pertinent to assessing risks, danger to the public, danger to the security of 
+Canada and/or nature and severity of the acts committed, such as the PIF, POE notes, CBSA/IRCC interview  notes, 
+A44 reports, any IRB decisions, transcripts, court decisions, police/correctional services/parole board reports, 
+intelligence reports, etc. 
+Information  
+ Personal Information Form (PIF) / Basis of Claim form (BOC) 
+ Refugee Protection Division (RPD) / Convention Refugee Determination Division (CRDD) 
+decision(s) 
+ A44 report(s) 
+ Deportation order(s) 
+ Immigration Division (ID) – Inadmissibility decision(s) 
+ Immigration Division (ID) – Inadmissibility transcript (if on file) 
+ Immigration Division (ID) – Detention review decision(s) 
+ Court decision(s) 
+ Interview notes (specify date and organization responsible):       
+ 
+List all other documents being provided:       
+         
+SECTION 11 PUBLIC POLICY CONSIDERATIONS 
+Please list any public policy considerations.  
+      
+SECTION 12 LITIGATION 
+Please list any ongoing litigation for the subject.  
+      
+ 
+Name of reporting officer:       
+Signature  
+ 
+ 
+Date:       
+ 
+**THIS DOCUMENT IS FOR CBSA PURPOSES ONLY. 
+TO REQUEST AUTHORIZATION TO SHARE THIS DOCUMENT, PLEASE 
+CONTACT THE MANAGER OF THE CBSA DANGER ASSESSMENTS SECTION.** 

@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_951be5dbd590",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/permits/background-purpose.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/permits/background-purpose.html",
+  "title": "Temporary Resident Permits (TRPs): Background and purpose",
+  "language": "en",
+  "manual": "Temporary Resident Permits (TRPs): Background and purpose",
+  "chapter": null,
+  "heading_path": [
+    "Temporary Resident Permits (TRPs): Background and purpose"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "bc7022550b9844bc7dfca9dd488565751964e5a7c65ea0d37f3dd83424b83f5e",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/background-purpose-951be5dbd5.md",
+  "text": "Temporary Resident Permits (TRPs): Background and purpose",
+  "sections": [
+    {
+      "heading": "Temporary Resident Permits (TRPs): Background and purpose",
+      "heading_path": [
+        "Temporary Resident Permits (TRPs): Background and purpose"
+      ],
+      "anchor": "#temporary-resident-permits-trps-background-and-purpose",
+      "text": "Temporary Resident Permits (TRPs): Background and purpose"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

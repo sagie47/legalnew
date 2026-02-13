@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_752294aad69a",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/assessing-language-requirements.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/assessing-language-requirements.html",
+  "title": "Foreign workers: Assessing language requirements",
+  "language": "en",
+  "manual": "Foreign workers: Assessing language requirements",
+  "chapter": null,
+  "heading_path": [
+    "Foreign workers: Assessing language requirements"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "02221b8819a714eac3ad546a683baf913e3c2f9e106e2327d5e55a284ccffc91",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/assessing-language-requirements-752294aad6.md",
+  "text": "Foreign workers: Assessing language requirements",
+  "sections": [
+    {
+      "heading": "Foreign workers: Assessing language requirements",
+      "heading_path": [
+        "Foreign workers: Assessing language requirements"
+      ],
+      "anchor": "#foreign-workers-assessing-language-requirements",
+      "text": "Foreign workers: Assessing language requirements"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}

@@ -1,0 +1,3462 @@
+
+
+===== PAGE 1 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+1 
+Contents 
+1. 
+What this chapter is about ................................................................................................................ 8 
+2. 
+Program objectives ........................................................................................................................... 8 
+3. 
+The Act, Regulations and Designation & Delegation of Authority ....................................................... 8 
+3.1. 
+Forms ..................................................................................................................................... 10 
+4. 
+Departmental policy ........................................................................................................................ 11 
+5. Legislative provisions ......................................................................................................................... 11 
+5.1  
+Charter rights respecting search or seizure ............................................................................. 11 
+5.2  
+Protection against unreasonable search or seizure ................................................................. 11 
+5.3  
+Right not to be arbitrarily detained or imprisoned ..................................................................... 11 
+5.4  
+Right to counsel when search constitutes detention ................................................................ 12 
+5.5   
+Solicitor-client privilege: Lavallee Supreme Court Decision ...................................................... 12 
+6. Procedure: Searches ......................................................................................................................... 13 
+6.1  
+Authority and Reasonable Grounds to Search ......................................................................... 13 
+6.2 
+Types of search pursuant to 139(1) of the IRPA ...................................................................... 13 
+6.3 
+Minor Children ........................................................................................................................ 15 
+6.4 
+Search related to an offence under IRPA ................................................................................ 15 
+6.5  
+Officer safety in conducting searches ...................................................................................... 16 
+6.6  
+General search procedures ..................................................................................................... 16 
+6.7  
+Conducting Preliminary and Full Examination Searches at Ports of Entry ................................ 17 
+6.8  
+Conducting a search of carry-on luggage ................................................................................ 18 
+6.9  
+Conducting personal searches ................................................................................................ 18 
+6.10 
+ Conducting frisk searches involving physical contact .............................................................. 20 
+6.11.  
+Conducting disrobement searches .......................................................................................... 21 
+6.12.  
+Conducting a search of a means of transportation ................................................................... 21 
+6.13  
+Removal of the contents of a means of transportation ............................................................. 22 
+6.14 
+Completing the Search form BSF899 ...................................................................................... 22 
+6.15 
+Examination of Digital Devices at the Port of Entry and in the Inland Enforcement context ....... 23 
+7. Additional Types of Search ................................................................................................................ 24 
+7.1  
+Search incidental to arrest ...................................................................................................... 24 
+7.2 
+ Conducting a Frisk Search Incidental to Arrest ....................................................................... 24 
+7.3  
+Search warrants...................................................................................................................... 25 
+8. Procedure: Seizures .......................................................................................................................... 25 
+8.1  
+Authority and grounds for seizure ............................................................................................ 25 
+8.2  
+Seizing documents ................................................................................................................. 26 
+8.3 
+ Seizing documents from refugee claimants ............................................................................ 30 
+8.4  
+Seizing documents abroad ...................................................................................................... 30 
+8.5 
+ Documenting and tracking document seizures ....................................................................... 31 
+8.6 
+ Document seizure and referral under section 23.2 of the Citizenship Act and sections 28 and 30 
+of the Citizenship Regulations ................................................................................................................ 33 
+8.7  
+Sending documents for analysis.............................................................................................. 34 
+8.8  
+Seizing ankle monitors and other GPS enabled devices .......................................................... 35 
+8.9  
+Seizing vehicles ...................................................................................................................... 35 
+8.10  
+Seizure of commercial vehicles ............................................................................................... 36 
+8.11  
+Notice of seizure ..................................................................................................................... 36 
+8.12  
+Reporting the seizure of a vehicle ........................................................................................... 37 
+8.13  
+Release of information ............................................................................................................ 38 
+9. Procedure: Mail and courier search and seizures under IRPA ............................................................ 38 
+9.1  
+CBSA inspection procedures for international mail .................................................................. 38 
+9.2  
+CBSA inspection procedures for shipments in the Courier Low Value Shipment Program ........ 38 
+9.3  
+How mail seizures work .......................................................................................................... 39 
+9.4  
+Responsibilities of CBSA officers with respect to mail seizures ................................................ 39 
+
+
+===== PAGE 2 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+2 
+9.5  
+Documenting and tracking seizures......................................................................................... 39 
+9.6  
+Security, storage, and labeling of items seized ........................................................................ 40 
+9.7  
+Split seizures .......................................................................................................................... 40 
+9.8  
+Partial seizures ....................................................................................................................... 41 
+9.9  
+Notification of owner ............................................................................................................... 41 
+9.10  
+Returning items to the customs process .................................................................................. 41 
+10. Procedure: Custody and Liability of Seized Things ........................................................................... 41 
+10.1 
+ Custody of seized items ......................................................................................................... 41 
+10.2  
+Protecting evidence ................................................................................................................ 42 
+10.3  
+Liability for damage to property ............................................................................................... 43 
+10.4  
+CBSA liability for damage to a vehicle ..................................................................................... 43 
+11. Procedure: Disposition and return of seized things ........................................................................... 43 
+11.1 
+Return of seized things ........................................................................................................... 43 
+11.2  
+Sale or destruction of seized things other than documents ...................................................... 45 
+11.3  
+Notice of decision ................................................................................................................... 46 
+11.4  
+Decision by the Minister not to return a seized thing ................................................................ 46 
+11.5  
+Suspension of sale ................................................................................................................. 46 
+11.6  
+Return of documents............................................................................................................... 46 
+11.7 
+ Disposing of fraudulent documents ........................................................................................ 46 
+12. Procedure: Fingerprinting and the Collection of Biometric Information .............................................. 47 
+12.1  
+Authority to collect biometric information ................................................................................. 47 
+12.2  
+Biometrics Expansion ............................................................................................................. 49 
+12.3  
+Taking fingerprints .................................................................................................................. 49 
+12.4  
+Obtaining access to LiveScan/CardScanner ............................................................................ 49 
+12.5  
+LiveScan kiosk workflows ....................................................................................................... 50 
+12.6  
+CardScanner .......................................................................................................................... 51 
+12.7  
+Fingerprinting (ink and roll method) ......................................................................................... 51 
+12.8  
+Fingerprinting the person (ink and roll) .................................................................................... 52 
+12.9  
+Fingerprint search under the Migration Five High Value Data Sharing Protocol........................ 54 
+13. Procedure: Photographing ............................................................................................................... 54 
+13.1 
+ Authority to photograph .......................................................................................................... 54 
+13.2  
+Taking photographs ................................................................................................................ 55 
+13.3  
+Photographing minors ............................................................................................................. 56 
+13.4  
+Photographing Tattoos ............................................................................................................ 56 
+Appendix A: Sample of a summary/report for a seized vehicle ........................................................ 57 
+Appendix B: Sample memorandum to DG for decision on an application for the return of a seized 
+vehicle .................................................................................................................................................. 58 
+Appendix C: Sample of a decision to return a seized vehicle ........................................................... 60 
+Appendix D: Sample – Notice of decision and reasons - Return of a seized vehicle ....................... 61 
+ 
+ 
+
+
+===== PAGE 3 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+3 
+Updates to chapter 
+Listing by date: 
+Date: 2022-11-18 
+ 
+Substantive and minor changes, as well as clarifications, have been provided throughout the 
+chapter. 
+ 
+Changes have been made throughout the chapter to provide officers with additional guidelines 
+when dealing with minors and other vulnerable persons. 
+ 
+Updates have been made to reflect the use of the BSF899: Search under Section 139 of the 
+IRPA which replaces the BSF 667 form. 
+ 
+Updates have been made to reflect the changes made to the BSF698: Notice of Seizure of (a) 
+Travel and/or Identity Documents and/or Other Thing(s) to reflect the incorporation of the forms 
+IMM5079: Notice of Mail Seizure Under Subsection 140(1) of the Immigration and Refugee 
+Protection Act and IMM5265: Notice of Seizure. 
+ 
+Sections 3 and 8 include changes to reflect the amendments to Part 16 – Seizure of the 
+Immigration and Refugee Protection Regulations. 
+ 
+Section 4 has been rewritten to better explain the departmental policy on searches, seizures, 
+fingerprinting and photographing. 
+ 
+Section 6 has been modified to clarify the types of searches pursuant to subsection 139(1) of the 
+Immigration and Refugee Protection Act. 
+ 
+Section 6.12 has been amended to provide details on an officer’s authority under subsection 
+15(3) of the IRPA. 
+ 
+Section 6.15 has been modified to clarify the examination of digital devices in the Inland 
+Enforcement context. 
+ 
+Section 8.1 has been amended to provide additional information on seizing means of 
+transportation. 
+ 
+Section 8.2 has been amended to provide guidance with respect to Enhanced Driver’s Licenses 
+(EDLs). 
+ 
+
+
+===== PAGE 4 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+4 
+References to the Support System for Intelligence (SSI) have been removed in section 8.5 since 
+SSI will be decommissioned. 
+ 
+Section 8.7 has been modified to reflect the updated procedures when sending documents for 
+analysis. 
+ 
+Section 8.8 now refers to the seizure of ankle monitors and other similar devices issued by the 
+American authorities. 
+ 
+Section 9 has been amended to reflect updated procedures for mail seizures under IRPA. 
+ 
+Section 11 has been rewritten to reflect the new regulatory changes in Part 16 of the IRPR. 
+ 
+Section 12 has been amended and updated. Some sections have been moved for greater clarity. 
+ 
+Section 13.4 has been updated to provide additional guidance on photographing tattoos. 
+The appendices have been rewritten to provide general sample letters that may be adapted to 
+various situations. 
+Date: 2021-02-09 
+Substantive and minor changes, as well as clarifications, have been provided throughout the 
+chapter. Updates have been made to reflect an amended BSF 667: Search under Section 139 of 
+the IRPA form. 
+ 
+Section 8.2 has been amended to provide guidance with respect to Enhanced Driver’s Licenses 
+(EDLs). 
+ 
+Updated guidance has been provided in Section 8.7 with respect to sending documents to the 
+National Document Centre, the Forensic Document Examination Centre, as well as respective 
+document analysis units. 
+ 
+An amended Privacy Notice can be found in Section 12.1 of the chapter (“Authority to collect 
+biometric notice”) 
+Date: 2013-04-01 
+3.1 The new CBSA forms BSF 698: Notice of Seizure for seizures of all travel and/or identity 
+document(s) and BSF 699: Application for the Return of seized identity document(s) were added 
+to the list of forms 
+9. This section was amended to reflect use of new CBSA form BSF 698: Notice of Seizure for 
+seizures of all travel and/or identity documents under subsection 140(1) of IRPA.  The section 
+now also includes instructions for use of new CBSA form BSF 699 Application for the Return of 
+seized identity document(s).   
+Additional changes were made to improve the flow of the section. 
+11. This section was amended to reflect use of new CBSA forms BSF 698 and BSF 699 when 
+returning seized documents.  Contact information for the document centre was also updated. 
+
+
+===== PAGE 5 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+5 
+ 
+Date: 2009-03-16 
+ 
+7.1 The section has been amended to better reflect the fact that searches pursuant to A139 relate 
+to persons seeking to come into Canada.  
+ 
+7.2 A subsection on searches incidental to arrest has been added. 
+ 
+7.3 The section now includes a link to the Customs Enforcement Manual (EN) for additional 
+information. 
+ 
+7.5 The table for search levels previously found at 7.6 has been modified. The reference to the 
+Minister’s Delegate has been replaced by supervisor to reflect policy. 
+ 
+7.6 Contains the information previously found at 7.7, Search incidental to arrest. Additional 
+information has been included concerning searches beyond Level 1 and the Search form (IMM 
+5242). 
+ 
+7.7 Includes information previously found at 7.5. References to CBSA – customs and CBSA – 
+immigration have been eliminated. 
+ 
+7.8 A link to the CBSA Use of Force/Officer Safety policy has been incorporated. 
+ 
+7.10 References to Level 2 searches and searches incidental to arrest have been integrated. 
+ 
+7.11 The reference to CBSA – customs has been removed. 
+ 
+7.13 A reference to the Customs Act has been added. 
+ 
+8. References to CBSA immigration officers have been replaced throughout the section. 
+ 
+9.1 The description of the authorities has been modified to reflect CIC and CBSA instruments of 
+delegations. 
+ 
+11.14 The address where seized documents should be sent to be disposed of has been changed. 
+ 
+11.15 Sending documents for analysis has been moved from point 11.14 to 11.15. A link has 
+been added to the correct address for each region. Precisions have been added on the 
+information to join to a request for analysis. 
+ 
+12.7 Typographical errors have been corrected. 
+ 
+Other minor changes have been made throughout the chapter. 
+ 
+2006-01-25 
+Numerous changes have been made throughout this chapter and any previous version of it 
+should be discarded. Of particular note, amendments have been made to reflect the new 
+designation of officers and delegation of authority resulting from the Citizenship and Immigration 
+Canada (CIC) transfer of port of entry (POE) and enforcement functions to the Canada Border 
+Services Agency (CBSA). Resulting changes to CIC’s and the CBSA’s responsibilities with 
+respect to search, seizure, fingerprinting and photographing have been incorporated throughout 
+the chapter. 
+ 
+
+
+===== PAGE 6 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+6 
+2004-05-18 
+ 
+Requirement to input FPS numbers in FOSS: 
+ 
+In order to further streamline the administration of fingerprints, all cases where a person has been 
+previously fingerprinted for immigration purposes and a Fingerprint (FPS) number exists, the FPS 
+number must be entered in FOSS. The FPS number must be included in any subsequent request 
+to the RCMP for additional checks or for follow-up information.   
+Quoting the FPS number is the certified means to identify an individual.  Referencing the 
+Fingerprint (FPS) number enhances a fingerprint query, facilitates turnaround times and reduces 
+the need to duplicate fingerprinting.   
+ 
+2003-09-26 
+ENF 12 – Search, Seizure, Fingerprinting and Photographing – has been updated to reflect the 
+authorities and procedures that govern how and when an immigration officer may seize 
+documents and vehicles, conduct searches and take fingerprints and photographs of persons. 
+Major changes to this chapter includes: 
+Section 3 describes all relevant sections of the Immigration and Refugee Protection Act (IRPA), 
+and Regulations, A140(2), which states that a document or a thing that is detained or seized 
+under the Customs Act is no longer considered in the course of post. 
+Hyperlinks: Section 3 provides hyperlinks to other pertinent Sections of Law, including Section 99 
+and 101 of the Customs Act, which describes a Customs inspectors’ powers to examine the mail 
+and detain goods, the importation of which is prohibited, controlled, or regulated by an Act of 
+Parliament. Section 108 of the Customs Act describes disclosures of information by CCRA to CIC 
+for the purposes of enforcing IRPA. Section 3 provides Charter protection against unreasonable 
+search and seizure 8(2)(3) of the Privacy Act. 
+Section 4 describes the instruments and delegations of authorities as they stem from sections 
+A6(1) and (2) of IRPA. 
+Section 7 details what constitutes lawful search and seizure while providing Charter protections. 
+Section 7.2, Section 7.3, Section 7.4, and Section 7.5 describe reasonable grounds to search; 
+when searching in detention; right to counsel when a search constitutes detention, and the 
+authority under A139(1)(b) to search any person seeking to enter Canada, including Canadian 
+Citizens. 
+Section 7.6 describes the three types of Search: Level 1, Preliminary search; Level 2, Frisk 
+search, and Level 3, Disrobement search, and the required consent from a Supervisor. 
+Section 7.7, Section 7.8, Section 7.9 and Section 7.10 describe searches incidental to an arrest; 
+officer safety in conducting searches; general search procedures, and completing Search form 
+(IMM 5242B). 
+Section 7.11, Section 7.12, Section 7.13, Section 7.14 , Section 7.15 and Section 7.16 describe 
+specific instructions pertaining to conducting preliminary and full examination searches at Ports of 
+Entry; searching luggage; conducting personal searches (including frisk searches and 
+disrobement searches). Section 7.16 describes information pertaining to search and seizure of a 
+vehicle. 
+Section 8 describes Search Warrant procedures including Charter considerations; when and how 
+to apply for a Search Warrant; information required to obtain a Search Warrant, and procedures 
+pertaining to the execution of a Search Warrant. Specific instructions pertaining to proper protocol 
+when conducting searches; protection of evidence, and reports required following the execution of 
+a search warrant is described in Section 8.8, Section 8.9, and Section 8.10. Section 9 updates 
+
+
+===== PAGE 7 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+7 
+Seizure Authority relating to Solicitor-client privilege. Caution should be taken to avoid conflict of 
+confidentiality of solicitor-client privilege when seizing documents. 
+Section 9.4, Section 9.5, Section 9.6, Section 9.7, Section 9.8, Section 9.9, Section 9.10, Section 
+9.11 describe seizing documents both domestically and internationally; seizing documents from 
+refugee claimants; seizing vehicles, and procedures for the notice and reporting of seized 
+vehicles. 
+Section 10.1, Section 10.2, and Section 10.3 describe mail search and seizures including 
+Customs procedures for international mail; and courier shipments. 
+Section 10.4, Section 10.5, Section 10.6, Section 10.7 and Section 10.8 describe the 
+responsibilities of Immigration  officers pertaining to mail seizures, documenting and tracking 
+seizures; security, storage and labelling seized items; split seizures, and partial seizures. 
+Section 10.9, Section 10.10, and Section 10.11 describe notification of the owner in event of full 
+or partial mail seizures; returning items to the Customs process, and release of information in 
+accordance to section 108 of the Customs Act. 
+Section 11 describes the disposition of seized objects as per the custody and protection of 
+evidence, liability for damage of seized property, and return of seized objects as per R253. 
+Section 11.6, and Section 11.7 describe application procedures for the return of items in 
+exchange for security as per R245 R245, and R254. This includes information on estimating 
+market value of a seized vehicle or object. Section 11.7 provides application information by a 
+lawful owner for the return of seized items. 
+Section 11.8, Section 11.9, Section 11.10, Section 11.11, and Section 11.12 describe conditions 
+under which a seized vehicle may be returned or disposed of, and the forfeiture of security under 
+R254(2)(b). 
+Section 11.13 and Section 11.14 describe conditions under which fraudulent documents can be 
+disposed of. 
+Section 12 describes the Authority to Fingerprint. This section also describes the three (3) 
+fingerprint forms used by immigration officers; the C-216, C-216C, and the introduction of the C- 
+216R (refugee fingerprint form). Section 12 also describes the procedures for taking “ink roll” 
+paper prints, and introduces procedures for the LiveScan automated fingerprint system that 
+transmits fingerprint data electronically to RCMP/AFIS. The LiveScan User Guide and Standard 
+Operating Procedures will be posted on the Web. 
+ 
+
+
+===== PAGE 8 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+8 
+1. 
+What this chapter is about 
+This chapter provides functional direction and guidance to Canada Border Services Agency 
+(CBSA) and Immigration, Refugees and Citizenship Canada (IRCC) officials when applying the 
+search, seizure, fingerprinting and photographing provisions of the Immigration and Refugee 
+Protection Act (IRPA) and Regulations (IRPR). 
+The content and guidance found in this chapter is specfic to IRPA authorities. Officers (e.g. 
+Border Services Officers) with mandates to enforce more than one Act of Parliament at the same 
+time (e.g. during a POE examination) must ensure that they clearly know and understand which 
+Act they are administering and/or enforcing as well as which authority they are relying upon.  
+2. 
+Program objectives 
+The objectives of Canada’s immigration program concerning search, seizure, fingerprinting and 
+photographing are: 
+ 
+To protect public health and safety and to maintain the security of Canadian society; 
+ 
+To promote international justice and security by denying access to Canadian territory to 
+persons who are criminals or security risks; and 
+ 
+To facilitate the entry of visitors, students and temporary workers for processes such as 
+trade, commerce, tourism, international understanding and cultural, educational and 
+scientific activities. 
+The authorities to search, seize, fingerprint and photograph permit officers to: 
+ 
+confirm the identity of persons seeking entry to Canada;  
+ 
+ensure compliance with the Act and Regulations; 
+ 
+seize and hold any means of transportation, document, or other thing that may be used 
+for enforcing the Act and the Regulations, including evidence for prosecutions; 
+ 
+prevent the misuse of documents that were fraudulently or improperly obtained; 
+ 
+return and disposing of seized things; 
+ 
+collect biometric information from a foreign national. 
+3. 
+The Act, Regulations and Designation & Delegation of Authority 
+The following legislative authorities for an officer to search, seize, take fingerprints and 
+photographs  are found in the IRPA and IRPR. Authorities may vary between POE and Inland and 
+also between CBSA and IRCC officials. 
+These provisions represent general enabling authorities. As such, officers must ensure that they 
+are applied in the proper circumstances and by the appropriate individuals. Both the CBSA and 
+IRCC IRPA Designation and Delegation Instruments should be consulted in order to determine 
+that an officer is granted the authority to exercise the provisions in question.  
+Pursuant to subsection 6(1) of the IRPA, both the Minister of Public Safety and Emergency 
+Preparedness (PS) and the Minister of Immigration, Refugees and Citizenship Canada have the 
+authority to designate any persons or class of persons to carry out any purpose of any provision 
+
+
+===== PAGE 9 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+9 
+of IRPA and have specified the powers and duties of the officers so designated. In addition, 
+subsection 6(2) provides that anything that may be done by the Minister under the Act and 
+Regulations may be done by a person that the Ministrer authorizes in writing. This is referred to 
+as delegation of authority. 
+The Designation of Officers and Delegation of Authority instrument stipulates who has the 
+authority to perform specific immigration related functions. There are two Designation and 
+Delegation Instruments (D&D). One is made by IRCC and the other by CBSA. In each Instrument, 
+IRCC and CBSA designate and delegate authorities to their own officials based on listed job title, 
+as well as to officials in the other departments. This is referred to as cross-designations and 
+cross-delegations. Therefore, it is important that officials read both documents to know all IRPA 
+authorities linked to their positions. 
+The Instruments can be found on the CBSA Atlas page as well as the IRCC Connexion under 
+Operational Manuals – IL3 Designation of Officers and Delegation of Authority. 
+ 
+Provision: 
+Refer to: 
+A person who makes a claim, application or request under this Act must follow the 
+procedures set out in the regulations for the collection and verification of biometric 
+information, including procedures for the collection of further biometric information 
+for verification purposes after a person’s claim, application or request is allowed or 
+accepted. 
+A10.01 
+For the purposes of an examination, authority for an officer to conduct an 
+inspection, including the following: 
+ 
+board and inspect any means of transportation bringing persons to Canada; 
+ 
+examine any person carried by that means of transportation and any record or 
+document respecting that person; 
+ 
+seize and remove any record or document to obtain copies or extracts; and 
+ 
+hold the means of transportation until the inspection and examination are 
+completed. 
+A15(3) 
+Authority for an officer to require or obtain from a permanent resident or a foreign 
+national who is arrested, detained or subject to an examination or subject to a 
+removal order any evidence, including photographic, fingerprint or otherwise, that 
+may be used to establish their identity or compliance with the Act. 
+A16(3) 
+Authority to search any person seeking to come into Canada, including their 
+luggage and personal effects, and the means of transportation that conveyed the 
+person to Canada, if the officer believes on reasonable grounds, that the person: 
+ 
+has not revealed their identity or has hidden on or about their person 
+documents that are relevant to their admissibility; or 
+ 
+has committed or possesses documents that may be used in the 
+commission of an offence in relation to smuggling and trafficking in 
+persons or other contraventions of the Act in relation to documents. 
+A139(1) 
+Requirement that a search of a person be conducted by a person of the same sex. A139(2) 
+Authority for an officer to seize and hold any means of transportation, document or 
+other thing if the officer believes, on reasonable grounds:  
+ 
+that it was fraudulently or improperly obtained or used;  
+ 
+that seizure is necessary to prevent its fraudulent or improper use; or  
+ 
+to carry out the purposes of this Act. 
+A140(1) 
+
+
+===== PAGE 10 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+10 
+A document or a thing that is detained or seized under the Customs Act is no 
+longer considered in the course of post for the purposes of the Canada Post 
+Corporation Act. 
+A140(2) 
+Authority for the detention, seizure or forfeiture of security provided by a 
+transporter and any vehicle or other prescribed good if the transporter fails to 
+comply with an obligation under this Act. 
+A148(2)  
+The collection and verification of biometric information as authorized under section 
+10.01 of the IRPA is only applicable to the claims, applications and requests as 
+stipulated in this section of the IRPR. 
+R12.1 
+Exemptions from the requirement to provide biometric information 
+R12.2 
+The procedure for the collection of biometric information. 
+R12.3 
+Secondary disclosure by the RCMP of biometric information to other law-
+enforcement agencies 
+R13.11 
+Requirement for an officer who seizes a thing under A140(1) to place it without 
+delay in the custody of the CBSA or IRCC. 
+R252 
+Requirement for an officer following a seizure of a thing under A140(1) to provide 
+written notice to the person from whom it was seized, including the grounds of the 
+seizure.  
+R253(1) 
+Requirement for an officer following a seizure of a thing under A140(1) to make 
+reasonable efforts to identify the lawful owner and give them a written notice of, 
+and the grounds for, the seizure. 
+R253(2) 
+Instructions and timelines for the return of seized items from the person from whom 
+it was seized, including prevention of improper or fraudulent use. 
+R254(1) to R254(4) 
+Instructions and timelines for the return of seized items from the lawful owner, 
+including prevention of improper or fraudulent use. 
+R255(1) to R255(4) 
+Obligation to process the lawful owner’s application for return before the 
+application for return from the person from whom the thing was seized in case of 
+concurrent applications. 
+R256 
+Requirement to provide in writing the decision and reasons following an application 
+made under section R254 or R255 as soon as feasible. 
+R257 
+Returning a seized thing if it is no longer necessary to carry out the purposes of the 
+Act or if it was seized in error. 
+R257.1(1) and 
+R257.1(2) 
+Conditional return of a seized thing 
+R257.2 
+Guidelines for the sale or destruction of a seized thing 
+R258(1) and R258(2) 
+Guidelines for the return or disposal of seized documents 
+R258(3) 
+Authority for a transporter to hold prescribed passenger documentation where 
+there are reasonable grounds to believe that the documents may not be available 
+for examination by an officer at a port of entry.  
+R260(1) 
+Authority to continue to detain a prescribed good seized under A148(2) until a 
+transporter complies with its obligations or has its obligations discharged.  
+R285 
+Requirement to give notice of seizure with respect to the object seized under 
+A148(2). 
+R286(1)  
+Authority to return or dispose of a thing seized under A148(2) 
+R286(2) 
+ 
+3.1. Forms 
+Forms required for search, seizure, fingerprinting and photographing are listed below and are 
+accessible on IRCC’s Connexion under Forms, or on CBSA Atlas under Forms and Templates. 
+ 
+Form title 
+Number 
+Notice of Seizure of (a) Travel and/or Identity Document(s) and/or Other Thing(s) 
+BSF 698E 
+
+
+===== PAGE 11 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+11 
+Application for the Return of (a) Seized Travel and/or Identity Document(s) and/or 
+Other Thing(s) (Form accessible to the public, available on the CBSA’s public 
+website) 
+BSF 699E 
+Search under Section 139 of the IRPA 
+BSF 899 
+Record of Examination/Seizure of Documents from International Mail and Courier 
+Services  
+BSF 573 
+Fingerprint Form (Criminal Fingerprint Form) 
+C-216 (brown) 
+Fingerprint Form (Civil Fingerprint Form) 
+C-216C (green) 
+Fingerprint Form (Refugee Fingerprint Form) 
+C-216R (blue) 
+4. 
+Departmental policy 
+The CBSA is responsible for providing integrated border services that support national security 
+and public safety and ensures the security and prosperity of Canada by managing the access of 
+people and goods to and from Canada. The CBSA facilitates the entry of genuine travellers who 
+comply with the legislation while restricting the access of travellers who are in non-compliance or 
+have not satisfactorily established their identity. 
+To achieve program objectives, the CBSA may search persons seeking entry into Canada in 
+order to confirm their identity and ensure compliance with the Act. Officials may also seize 
+documents or other things in order to prevent their fraudulent or improper use or to carry out the 
+purposes of the Act.  
+Furthermore, fingerprints and photographs may be taken to ensure effective identity management 
+and risk assessment, which are critical in combating fraud, managing the movement of people 
+and protecting Canada’s security interests. 
+Officers are to support the objectives of the IRPA while ensuring that all decisions taken under the 
+Act are consistent with the Canadian Charter of Rights and Freedom (Charter). 
+ 
+5. Legislative provisions 
+5.1 Charter rights respecting search or seizure 
+The Canadian Charter of Rights and Freedoms (Charter) protects the basic rights of all persons in 
+Canada, including foreign nationals. Sections 8 through 10 of the Charter govern an officer’s 
+authority to conduct searches and seizure. 
+5.2 Protection against unreasonable search or seizure 
+Section 8 of the Charter provides that everyone has the right to be secure against unreasonable 
+search or seizure.  As such, officers can only search and seize in the course of their duties in a 
+manner that meets this obligation under the Charter. Therefore, before conducting a search under 
+the IRPA, an officer must establish that there are reasonable grounds to believe that a person 
+seeking entry to Canada has not revealed their identity, has hidden documents relevant to their 
+admissibility, or has concealed documents that may be used in the commission of an offence of 
+smuggling or trafficking persons or for contraventions under the Act and Regulations. 
+ 
+5.3 Right not to be arbitrarily detained or imprisoned 
+Section 9 of the Charter provides that everyone has the right not to be arbitrarily detained or 
+imprisoned.  When an involuntary personal search is being conducted, the person is considered 
+to be detained because they cannot refuse to submit to the search and are not free to leave. 
+
+
+===== PAGE 12 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+12 
+When an officer believes on reasonable grounds that a search and seizure is appropriate, this 
+also means that detention for the purpose of that search and seizure is appropriate as well. 
+ 
+Search of the baggage of a person seeking entry to Canada is not considered to be a detention; 
+however, a full body search of a person (disrobement) is considered to be a detention. It is not 
+excepted that a disrobement search should often be required in the context of s. 139 IRPA 
+search. 
+5.4 Right to counsel when search constitutes detention 
+Section 10 of the Charter requires that all persons being arrested or detained (including persons 
+who are submitting to any type of involuntary personal search) be advised of the reason for the 
+detention and of their right to retain and instruct counsel without delay. 
+Officers must ensure that the person understands why a search is being conducted and 
+necessary. Officers must take reasonable steps to provide an interpreter or other suitable person 
+capable of speaking the language of the person when a language barrier is identified. Officers 
+must also be mindful that the person appreciates the nature of what is taking place when dealing 
+with vulnerable persons which include but are not limited to individuals with health, mental health 
+or addiction issues, the elderly, minors and victims of trafficking.  
+A personal (disrobement) search effectively places a person under detention. As such, the person 
+must be advised of their rights and given an opportunity to contact counsel. Officers should 
+provide a reasonable amount of time for the person to talk to a lawyer to obtain legal advice about 
+their situation and must provide them with information on what legal aid services are available in 
+the area. 
+5.5  Solicitor-client privilege: Lavallee1 Supreme Court Decision 
+The Supreme Court of Canada ruled in Lavallee that the confidentiality of communication 
+between a lawyer and their client(s), in the context of search and seizure, is protected. On the 
+rare occasion when an officer is faced with a solicitor-client privilege scenario, where the officer is 
+in possession of a document that may give rise to solicitor-client privilege, an officer will need to  
+refrain from infringing on that right.  
+In order for solicitor-client privilege to apply, the following conditions must be met:  
+1. there must be a communication between a client (or their agent) and a legal advisor; 
+2. this communication entails the seeking or giving of legal advice; and 
+3. this communication is intended by the parties to be confidential. 
+There is an exception to solicitor-client privilege, namely when the client seeks guidance from a 
+lawyer in order to facilitate the commission of fraud or crime. An exception also exists where 
+communication is not intended to be confidential. Nevertheless, caution should be exercised 
+before examining or seizing documents that could be subject to solicitor-client privilege. Officers 
+should consult with their manager first, then seek further assistance from CBSA Case 
+Management HQ, if needed. 
+The officer should evaluate whether the examination of the document is necessary for the 
+purposes of the IRPA and remain cognizant of the possibility that the documents may be subject 
+to solicitor-client privilege. For example, if enough evidence exists to support an inadmissibility 
+allegation or there are sufficient identity and travel documents to effect removal, then search and 
+seizure of the document in question may not be necessary. Furthermore, if subject to solicitor-
+client privilege, officers will need to ensure not to infringe upon that right. It is not expected that 
+officers will have to deal with a large volume of documents that could be subject to solicitor-client 
+privilege. Moreover, in the mail examination context, procedures put in place to protect any 
+                                                        
+1 Lavallee, Rackel & Heintz v. Canada (Attorney General); White,Ottenheimer & Baker v. Canada (Attorney General); 
+R. V Fink, [2002] 3 S.C.R. 209, 2002 SCC 61. 
+
+
+===== PAGE 13 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+13 
+potential solicitor-client privilege should be invoked as soon as an officer views documents to 
+which solicitor-client privilege is attached and before a seizure is made under the IRPA.   
+ 
+6. Procedure: Searches 
+6.1 Authority and Reasonable Grounds to Search 
+The authority to conduct a search of a person and their luggage, personal effects and the means 
+of transportation that conveyed the person to Canada at a port of entry (POE) comes from  
+A139(1), which requires that an officer must believe on reasonable grounds that the person 
+seeking to come into Canada:  
+ 
+has not revealed their identity;  
+ 
+has hidden on or about their person documents that are relevant to their admissibility; or  
+ 
+has concealed documents that may be or have been used for the purpose of smuggling or 
+trafficking of persons into Canada or for other contraventions under the Act and Regulations.   
+Case law has established that “reasonable grounds” is greater than mere suspicion or conjecture 
+but less than the balance of probabilities. Reasonable grounds are grounds that, due to certain 
+elements, facts, circumstances or available information, would lead an informed and experienced 
+officer to believe that a violation of the IRPA or its Regulations may have occurred, are occurring 
+or may occur.  
+For example, an officer may believe that an undocumented refugee claimant, who is under 
+examination, had a travel document when boarding the aircraft, as it would have been required by 
+the airline. This circumstance may constitute reasonable grounds to do a baggage search and a 
+personal (frisk) search. However, an officer who suspects that a foreign national, seeking entry to 
+Canada as a temporary resident, intends to work without authorization – even though the foreign 
+national has given consistent answers to the officer's questions – does not have reasonable 
+grounds to conduct a baggage or personal search. In this instance, mere suspicion does not 
+constitute reasonable grounds. The officer would require other grounds to support a search, such 
+as a past history of untruthfulness or working without authorization and some indication that an 
+immigration violation will occur. Officers must always document what led them to believe that a 
+search was necessary.  
+NOTE: A139(1) only applies when an individual is seeking to come into Canada. Therefore, 
+it does not authorize officers to conduct searches in Canada in the absence of evidence 
+the person is seeking entry (e.g. inland). This includes refugee claimants who were 
+authorized to proceed in Canada for further examination pursuant to A23. Please refer to 
+section 6.7 for additional details. 
+6.2 Types of search pursuant to 139(1) of the IRPA 
+CBSA officers are authorized to search any person seeking to come into Canada (POE) as per  
+subsection 139(1) of the IRPA. The purpose of this provision is to ensure that officers are able to 
+conduct a search when they have reasonable grounds to believe that the person seeking entry 
+may not be providing their genuine identity, has hidden documents relevant to their admissibility, 
+has committed a contravention of the IRPA, or possesses documents that may be used in the 
+commission of any contravention of the IRPA.  
+There are two types of search that an officer may pursue: a Preliminary Search and a Personal 
+Search. 
+
+
+===== PAGE 14 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+14 
+A preliminary search at the POE involves the examination of all belongings that are with the 
+person in the examination area, including digital devices, purses, briefcases, baggage, personal 
+effects and any vehicle. This examination is for the purpose of detecting documents or evidence 
+that relate to identity, admissibility and offences under the Act. For the examination of digital 
+devices, please refer to section 6.15 – Examination of Digital Devices at the Port of Entry and in 
+the Inland Enforcement Context. 
+An officer may ask the individual undergoing a preliminary search to empty their pockets and to 
+remove a coat or jacket for examination. This type of search does not involve physical contact 
+with the individual. 
+ 
+Type of 
+search 
+Explanation 
+Preliminary 
+Search 
+Preliminary 
+Search  
+An officer who has reasonable grounds to believe that a person is 
+seeking to enter Canada and may have documents relevant to identity 
+or to admissibility hidden on them, in their luggage and/or conveyance 
+or that were or may be used in the commission of an offence, may 
+conduct a preliminary search. A preliminary search is conducted on a 
+person’s luggage and personal belongings. This search may extend to 
+the traveller’s means of transportation or checked baggage.  
+Preliminary searches may also involve the search of the outer layers 
+of clothing of a person. When searching the outer layers of clothing, 
+officers may ask the person to empty their pockets and may search 
+the outermost layer of clothing to ensure that the pockets are empty 
+and that no additional pockets exist. Officers may also ask the person 
+to remove the outer layer of clothing. Outer layers of clothing include 
+items that when removed, could not reasonably be expected to 
+expose the person in a manner considered inappropriate.These 
+searches are part of a routine processing and do not raise any 
+Charter concerns 
+Please note that a search of the outer layers of clothing and a 
+frisk search done for officer safety are not the same and they 
+each have their own purpose and legal authorizations. 
+No concurrence from a supervisor is required unless the search 
+involves a minor child (see section immediately following this table). 
+Personal 
+Search 
+Frisk Search 
+involving 
+physical 
+contact 
+A frisk search involving physical contact with the person in order to 
+find documents hidden on or around their body is considered to be 
+part of a personal search and therefore the person must be under 
+arrest or detention. 
+Please note that this is different from a frisk search done for 
+officer safety. 
+Approval from a supervisor is required for a frisk search to be 
+conducted under 139(1) of the IRPA.  
+Disrobement 
+search 
+A disrobement search involves the full or partial disrobement of a 
+person to detect or obtain documents or other evidence that the 
+person has concealed on their person. A disrobement search is 
+considered a detention. A disrobement search should be a rare 
+occurrence and must be performed by a person of the same sex as 
+
+
+===== PAGE 15 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+15 
+the person being searched. If an officer of the same sex is not 
+available, any suitable person of the same sex may be authorized by 
+an officer to perform the search. This search requires the approval 
+from a supervisor, in all cases. 
+ 
+6.3 Minor Children  
+Special consideration must be applied when dealing with minors, particularly in the case of 
+unaccompanied minors. An officer does not require approval from a supervisor to conduct a 
+preliminary search unless the search involves a minor child. An officer conducting a search 
+involving a minor child must demonstrate particular sensitivity for the emotional well-being of the 
+child. The parent or adult accompanying the child should be present during the search. An officer 
+must ensure that another officer is present throughout the duration of the search as the witness 
+and the activity should be well documented. 
+ 
+Note: If, when conducting a search, officers suspect that there may be a risk to the welfare of a 
+minor child, whether the child is unaccompanied or not, provincial child protection authorities 
+should be contacted. If a local child protection agency declines to become involved, officers 
+should request this be put in writing and sent to them. All interactions with the child protection 
+agency should be recorded in the officer notebook. Officers should also be alert to situations 
+where it is possible that a child has been trafficked, smuggled or abducted.If they encounter 
+such situations, officers should consult ENF 21 Recovering Missing, Abducted and Exploited 
+Children, CBSA Enforcement (EN) manual, Part 2, Chapter 15 Trafficking in Persons as well 
+as IRCC’s Program Delivery Instructions for victims of trafficking in persons. 
+ 
+6.4 Search related to an offence under IRPA 
+Pursuant to A139(1)(b), a CBSA officer may search any person seeking to enter Canada, 
+including Canadian citizens, if the officer has reasonable grounds to believe the person has 
+committed, or possesses documents that may be used in the commission of, an offence referred 
+to in sections A117, A118 or A122. Since criminal charges may follow, officers should contact 
+CBSA Criminal Investigations from the outset. 
+ 
+Before searching or questioning any person about possible violations of the IRPA where charges 
+may be laid, the officer must inform the person of their rights under section 10 of the Charter. If 
+the officer questions the person concerning immigration offences (sections 117 to 137 of IRPA), 
+any information obtained before the person is informed of their Charter rights may be inadmissible 
+as evidence in subsequent prosecutions against the person. 
+ 
+However, Canadian citizens, permanent residents, and persons registered as Indians under the 
+Indian Act have the right to enter Canada if following an examination on their entry an officer is 
+satisfied that the person is a citizen, permanent resident,or person registered as an Indian.  
+Therefore, once an officer establishes that a person is Canadian, permanent resident or a person 
+registered as an Indian, the officer must end the examination and authorize the person to enter 
+Canada.   
+ 
+In the case of Canadian citizens, permanent residents or persons registered as Indians, any delay 
+in authorizing entry to Canada, including a personal search in the form of a disrobement search, 
+conducted for immigration purposes, may constitute detention and the person would have to be 
+advised of their right to counsel.  
+ 
+In the case where a group is travelling together and travellers have different immigration status 
+(e.g. Foreign National, Permanent Resident, Canadian Citizen), and an officer has determined 
+
+
+===== PAGE 16 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+16 
+that any or all members of the group will be searched, the officer must ensure that reasonable 
+grounds exist for each individual person who undergoes a search. Concerns related to one 
+member of the group do not authorize the search of other members of the group in order to 
+search for evidence related to first traveller in question. 
+ 
+6.5 Officer safety in conducting searches 
+An officer should never assume that a person, including one that is detained, has been searched. 
+Officer and public safety requires that search procedures be carefully observed and that 
+appropriate documentation be completed in full. When custody of a detained person is being 
+transferred from one officer or agency to another, search guidelines and clear communication are 
+of critical importance. However, officers should be cognizant that the authority to search does not 
+impose a duty to search. If an officer believes that they can conduct their work safely without 
+conducting another search, for instance in cases where the custody of a person is transferred and 
+the officer is satisfied that the person has been searched and the search has been documented, 
+they may decide that no further search is necessary. 
+The safety of the general public, as well as the officer’s own personal safety, are of the utmost 
+importance and caution should be exercised at all times when conducting a search.  
+6.6 General search procedures 
+It is imperative that officers make notes of all details of any examination that leads to a 
+preliminary or personal search, as well as the items found during the search. Officers may be 
+called on to testify in court as to the reasonable grounds for the search. A second officer should 
+witness the search and both officers should initial each evidence bag or container in which the 
+seized items are held. This practice will assist in ensuring officer safety, as well as providing a 
+witness in the event that allegations of impropriety are made against the officer. It may also assist 
+in establishing the continuity of evidence.  
+Any information relevant to conducting a search must be recorded in the officer’s notebook [BSF 
+556] and in the client's file. Officers are required to keep a written record of each personal search 
+conducted. All relevant information, including anything out of the ordinary that occurs and any 
+comments made by the client, should be noted.  More information about note-taking procedures 
+may be found in ENF 7 Immigration Investigations and IRPA s.55 Arrests/Detention. 
+Officers conducting a search must maintain a professional demeanour and refrain from 
+responding to profanity or abuse. Profane or abusive language directed at an officer is not a 
+ground for arrest but may constitute a ground for an obstruction charge. Prior to arresting for 
+obstruction (criminal offence), an officer should consult with Criminal Investigations.    
+In addition, the following guidelines must be observed in every search situation:  
+ 
+The person being searched shall not be left alone until the search is completed; 
+ 
+The person’s belongings, particularly money and other valuables, should not be left 
+unattended until the search is completed and the belongings have been secured; 
+ 
+The person being searched shall first be asked to identify their goods or baggage and to 
+confirm ownership. This will enable an officer to establish possession, should they find 
+documents; 
+ 
+The search of an individual's personal effects shall be conducted in a closed office or other 
+area out of sight of the general public, but in the presence of the individual;  
+
+
+===== PAGE 17 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+17 
+ 
+Respect for the dignity of the person concerned must be demonstrated throughout the 
+conduct of a search. This will help to alleviate some of the person’s anxiety and help to 
+prevent the heightening of tension or escalation of uncooperative or violent behaviour;  
+ 
+Unnecessary conversation, personal remarks and humour are to be carefully avoided by 
+officers conducting the search. Officers should be considerate of the fact that this is a serious 
+matter and stressful for the person who is being searched; 
+ 
+A Search form (BSF899) must be completed in all cases at a POE and should be scanned 
+and uploaded to GCMS to the ‘Clients’ screen at the following path: Clients>Documents>ID 
+Supporting documents sub tab. Then select type: CDN Immigration Doc, sub-type: Client 
+Submission and document #: (BSF899).  
+6.7 Conducting Preliminary and Full Examination Searches at Ports of Entry 
+Pursuant to A139(1), officers may search any person seeking to come into Canada. However, 
+officers should be aware that there are different circumstances in which a person is considered to 
+be seeking entry. Subsection 27(2) of the IRPR states that “a person who seeks to enter Canada 
+at a place other than a port of entry must appear without delay for examination at the port of entry 
+that is nearest to that place.”  
+Therefore, in order to rely on POE examination provisions and related authorities, such as 
+A139(1), officers will need to articulate that there is a geographic and temporal proximity to the 
+border if, for example, a person crosses the border between ports of entry but is intercepted 
+within a geographic and temporal proximity of the border and brought to a POE for an 
+examination. This should be reflected in officer notes in GCMS and in the client’s file. 
+Searches pursuant to subsection A139(1) are linked to the fact that the person crossed 
+international borders, and as such they have a lower expectation of privacy. The BSO conducting 
+the initial examination, before deciding if authorizing entry under A23 is warranted, may perform a 
+search if they feel it is necessary. However, once a person has been authorized to enter Canada 
+under A23 and presents themselves at a CBSA office, the officer cannot be reasonably certain 
+that the person will have in their possession the same documents to support a determination of 
+admissibility or eligibility, personal digital devices, or other items they had with them upon entry. 
+The person is still under examination and the officer may ask or require certain information 
+pursuant to section A16, however this does not equate to a search under A139. 
+All searches are to be conducted in a courteous and professional manner in accordance with the 
+CBSA Code of Conduct. 
+When conducting a preliminary or full examination search at a POE, an officer should:  
+ 
+take measures to ensure their own health and safety as well as that of fellow officers and the 
+public; 
+ 
+complete the applicable section of the Search form [BSF899];  
+ 
+explain to the person why their baggage or vehicle is being searched;  
+ 
+arrange an interview if the person requests permission to speak to a supervisor; 
+ 
+make detailed notes in their notebook of any articles relating to immigration that are found; 
+ 
+confirm ownership of all baggage by asking the following questions: 
+ Is this your bag?  
+
+
+===== PAGE 18 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+18 
+ Did you pack it yourself?  
+ Are you aware of the contents?  
+ Did you, at any time after packing your bag, leave it unattended? 
+6.8 Conducting a search of carry-on luggage  
+While officers have the authority to search at the port of entry as per A139(1), it is imperative that 
+the grounds to perform the search exist. Therefore,it is not enough that the luggage is at the POE.  
+A139(1) only authorizes officers to conduct a search under IRPA, not for Customs Act or other 
+reasons. 
+Officers will find it easier to search carry-on luggage if they develop a systematic approach. 
+Officers should wear kevlar or other protective gloves for personal safety.  
+Once a search has begun, the person whose belongings are being searched must never be left 
+alone. 
+6.9 Conducting personal searches  
+Personal searches include frisk and disrobement searches. Because these searches involve 
+physical contact, they are of a more sensitive nature. When searching persons under IRPA, 
+officers will encounter cases requiring sensitivity and careful considerations, such as when they 
+are dealing with vulnerable persons. 
+ 
+Searching vulnerable persons 
+When conducting personal searches pursuant to subsection 139(1) of IRPA, it is important for 
+officers to identify vulnerable persons at the earliest opportunity in order to ensure that 
+appropriate considerations are factored into decisions and/or any actions taken during the search. 
+The following are some examples of persons who may be identified as vulnerable: 
+ 
+minors (under the age of 18)/ unaccompanied minors; 
+ 
+elderly persons; 
+ 
+individuals with severe medical conditions or physical disabilities; 
+ 
+pregnant persons and nursing mothers; 
+ 
+persons with a suspected or known mental illness (includes suicidal persons and persons 
+who self-harm); 
+ 
+victims/suspected victims of human trafficking or family related violence. 
+Other persons may display less obvious symptoms of a vulnerability, which may not become 
+apparent until the person is searched: 
+ 
+victims of gender-based violence may become distressed during a personal search. They 
+may also show signs of distress at the prospect of being searched by an officer of a 
+different gender; 
+ 
+victims of trauma may have difficulty coping with the search because it is performed by 
+persons in uniform or because they are confined in a closed room with officers. 
+ 
+Personal searches 
+
+
+===== PAGE 19 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+19 
+The first step in any personal search is to seek the person's co-operation by explaining to the 
+person what is involved in a search.  
+If a person does not comply with being frisk-searched, it may be necessary for an officer to 
+determine whether detention is necessary in order for the examination to be completed. If an 
+officer makes the decision to detain, the officer must inform the person that they are detained and 
+immediately advise them of their right to retain and instruct counsel without delay. The grounds 
+for the detention should be explained to the person.  
+Prior to an officer conducting a personal search that involves disrobement, an officer is required 
+to read the following to the person being searched: 
+ 
+“I have reasonable grounds to believe that you [have hidden documents on or about your 
+person that are relevant to your admissibility/have not revealed your identity/have 
+committed an offence related to human smuggling or trafficking/documents] and I am 
+detaining you for the purposes of a search of your person as authorized by section 139 of 
+the Immigration and Refugee Protection Act. Do you understand? 
+ 
+You have the right to retain and instruct counsel of your choice, in private and without 
+delay. You have the right to free and immediate legal advice from duty counsel. Duty 
+counsel is available at _____: during the following hours: _____ . You have the right to 
+apply for legal assistance without charge through the Provincial Legal Aid program. The 
+Legal Aid telephone number in this area is: _____. Their office is located at: _____ and 
+office hours are from ______. Do you understand? Do you wish to call a lawyer now? 
+ 
+You need not say anything. You have nothing to hope from any promise or favour, or 
+nothing to fear from any threat, whether or not you do say anything. Anything you do say 
+may be used in evidence. Do you understand?” 
+ 
+A139(2) requires that a search of a person seeking to come into Canada be performed by a 
+person of the same sex as the person being searched. If an officer of the same sex is not 
+available, any suitable person of the same sex may be authorized by an officer to perform the 
+search. Officers should be aware that other considerations may arise, specifically in the context of 
+gender diversity, which includes all transgender, gender-fluid, non-binary, two-spirit, cisgender, 
+and other gender identities. Please consult the Internationally recognized sexual orientation or 
+gender identity of expression (SOGIE) definitions for additional information. 
+Should a situation arise where a personal search is required on a person who self identifies as 
+gender diverse, the CBSA must provide the individual with a choice of the sex of the officer who 
+will conduct the personal search. The options that will be available to the individual are: 
+A. Male officers only; 
+B. Female officers only; or 
+C. A split search. 
+Although these options are specific to a person seeking entry into Canada, and mandated by 
+IRPA, they are principles that should be applied in the Inland context (search incidental to arrest) 
+whenever possible.  
+A split search is conducted by two sets of officers, the first set completes the search of the upper 
+body while leaving the lower body clothed. The individual is then permitted to fully dress, and is 
+turned over to a second set of officers of the opposite sex to conduct the search of the lower 
+body, while the upper body remains clothed. The individual being searched will be fully observed 
+at all times during the turnover from the first set of officers to the second set of officers to ensure 
+that continuity of any potential evidence is maintained throughout the search process. 
+
+
+===== PAGE 20 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+20 
+Once the individual has chosen the sex of the officers conducting the personal search, the choice 
+will be recorded in the notebooks of all officers involved.   
+If not previously known that the person being searched is a gender diverse person, but it 
+becomes evident at any point during the personal search that this is the case, officers will 
+immediately stop the personal search and offer the individual the choice of the sex of the officers 
+who will continue the personal search. 
+Officers must follow all relevant guidelines and procedures related to handling cases concerning 
+sexual orientation and gender identity and expression during IRPA searches. This includes being 
+sensitive to gender-related issues when speaking to the person, and being careful to use gender 
+terms that reflect the person’s gender identification or gender-neutral terms when referring to the 
+person in documents/notes or completing IRPA forms. 
+An officer should commence a personal search by: 
+ 
+explaining the reason for the search to the person concerned; 
+ 
+explaining, if challenged, the legal authority under A139(1) for the officer to conduct the 
+search; and 
+ 
+making arrangements, where the person is detained and wishes to exercise their rights under 
+the Charter, for access to a telephone and to a telephone directory. An officer may observe 
+the person but may not listen to their conversation with counsel. However, the officer should 
+be prepared to intervene if the person is observed in attempting to destroy or conceal 
+evidence.  
+6.10 Conducting frisk searches involving physical contact 
+An officer conducting a frisk search involving physical contact should: 
+ 
+obtain supervisor’s approval to conduct a frisk search; 
+ 
+arrest and/or detain the person; 
+ 
+explain the reason for the search to the person concerned; 
+ 
+explain, if challenged, the legal authority under A139(1) for the officer to conduct the search;  
+ 
+recognizing that it may not always be possible, a person’s privacy should be protected by 
+conducting the search out of the view of the public whenever possible; 
+ 
+ask, prior to the commencement of the search, if the person has anything on them that could 
+harm them or the officer conducting the search, and if so, to surrender it; 
+ 
+conduct a search for weapons using a metal detector wand, where available. Before using the 
+wand, persons must be asked if they are wearing a pacemaker or other similar heart 
+device.Those who identify as wearing one should only be frisked manually;  
+ 
+ask the person to remove any outer garments such as a jacket, coat or sweater and all 
+objects from their pockets;  
+ 
+should circumstances require that the person being searched needs to be separated from 
+their personal belongings, account for the personal items and ensure they are returned to the 
+person at the end of the search, unless the items are being seized; 
+
+
+===== PAGE 21 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+21 
+ 
+record in the BSO’s notebook [BSF556] all information pertaining to the search; charges may 
+result and an officer may be required to testify in court. (More information on using the 
+notebook is available in ENF 7 Immigration Investigations and IRPA s.55 Arrests/Detention.) 
+ 
+seize and hold any documents or evidence that relates to identity or to the commission of an 
+offence under the Immigration and Refugee Protection Act; 
+ 
+in cases where the search was resultant and required a BSF899 form to be filled out before 
+the person who was searched leaves the room, ensure that they sign part E of the BSF899 
+and that they are satisfied that they have received all their property, unless it has been 
+seized. This will help prevent claims of theft. If the person claims to be missing items, the 
+officer should review the search form with the person to determine what is missing and 
+attempt to resolve the situation; and 
+ 
+in cases where an officer discovers illicit contraband, such as weapons or drugs, they will 
+immediately arrest, advise and caution the person. For more information related to the 
+discovery of illicit contraband at the POE, refer to CBSA Enforcement Manual – Part 6. 
+6.11. Conducting disrobement searches  
+Conducting a disrobement search while officers are enforcing the IRPA would only occur under 
+exceptional circumstances. An officer must obtain a supervisor’s approval prior to conducting a 
+disrobement search. The purpose of a search under IRPA is to locate documents; consequently, 
+it will be extremely rare that a person will hide documentary evidence in a location that would 
+require disrobement. 
+There may be a situation where, as a result of the frisk search, it may be necessary to have the 
+person disrobe so that an officer can search for or remove evidence.  
+A disrobement search consitutes a detention. As such, prior to commencing the search, an officer 
+must advise the person of their rights under the Charter, specifically the right to retain and instruct 
+counsel, and must give the person a reasonable opportunity to exercise those rights. The grounds 
+for the detention should be fully explained to the person. Once the person has had an opportunity 
+to contact counsel, the search can proceed. It is not necessary to delay a search until the arrival 
+of counsel.  
+Immediately after an officer advises the person of their Charter rights, or as a simultaneous 
+action, but before the person enters the search room or has access to a telephone, the person 
+should be frisked for weapons. This frisk is a precaution to ensure the safety of the officer and all 
+persons in the inspection area and is not meant to discover evidence. An officer may use a metal-
+detector wand if one is available.  
+Officers must ensure that disrobement searches are properly documented, including notes to be 
+kept on file. Resultant disrobement searches will also require proper documentation of any 
+associated seizures.  
+6.12. Conducting a search of a means of transportation  
+Pursuant to A139(1), an officer may search a means of transportation that conveyed the person 
+to Canada. In order for an officer at the POE to conduct a lawful search of a conveyance, there 
+needs to be reasonable grounds to believe there are documents which reveal the person’s 
+identity, are relevant to their admissibility, or may be used in the commission of an offence, 
+namely human smuggling, trafficking or to otherwise contravene the IRPA. 
+Documents and papers that are in a vehicle or are in the occupants’ possession may offer clues 
+regarding other parties who have a legal interest in a means of transportation. Those documents 
+should be examined and if necessary, may be copied. In the event that a means of transportation 
+
+
+===== PAGE 22 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+22 
+is seized, these documents may assist an officer in satisfying the requirement of R253 to identify 
+any person who is a lawful owner of a thing seized under A140(1) and to provide that person with 
+written notice of, and reasons for, the seizure.  
+Under subsection A15(3), an officer has the authority to board and inspect any means of 
+transportation and to examine and record documents pertaining to persons carried by that means 
+of transportation. Although there is nothing in the wording of A15(3) limiting this authority to the 
+POE, however, in order to rely on this provision to conduct a search, there must be some 
+temporal and geographic connection to the POE. For example, if there is evidence that a 
+conveyance was used to bring individuals into Canada, such as law enforcement agency 
+observing this take place or it being captured on video, an officer with delegated authority under 
+A15(3) could inspect the conveyance in the context described above. However, even if it is 
+believed that a conveyance was used to transport persons into Canada, it may be difficult to 
+justify the use of this provision some distance from the border. 
+6.13  
+Removal of the contents of a means of transportation 
+An officer should ensure that any items of monetary or potentially sentimental value in a seized 
+means of transportation are removed and returned to the transporter. While a seized means of 
+transportation should not be stripped of all of its contents, officers should remove items to limit the 
+Agency’s liability. It may be prudent for the officer to allow the transporter to witness the search. If 
+that person is disruptive or unruly, the officer should have another officer nearby to witness any 
+items removed.  
+An officer should record or document items removed from the means of transportation and 
+returned to the transporter, and should get that individual’s signed acknowledgement that they 
+have received the items. This may alleviate possible allegations of impropriety on the part of the 
+officer. 
+6.14 
+Completing the Search form BSF899 
+The BSF899 is meant to ensure national consistency when documenting searches conducted 
+under subsection 139(1) of the IRPA. Officers must complete the appropriate section(s) of the 
+BSF899 in the following circumstances: 
+ 
+1. Preliminary searches and full examination searches that are resultant require that the BSF899 
+be completed. If a preliminary search and/or full examination is non-resultant, the BSF899 is not 
+required and a record of such a search in an officer’s notebook is sufficient.  
+2. Personal searches, whether a frisk search or disrobement require that the BSF899 be 
+completed in addition to any record in an officer’s notebook.  
+When completing the BSF899, it is important to ensure the following:  
+Fully complete the top portion of the form labelled “Traveller identification”.   
+Part A – Search: This section must be completed in all instances where the BSF899 is being 
+completed.  
+ 
+Note: In the case of non-resultant preliminary searches that do not require the completion 
+of the BSF899, officers must still ensure: 
+ 
+that the person being searched is informed of the authority to search found in 
+subsection 139(1) of the IRPA; 
+ 
+that the person being searched is informed of the reasonable grounds for the search; 
+ 
+the times that the search commenced and ended are documented in the officer’s 
+notes; and 
+
+
+===== PAGE 23 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+23 
+ 
+whether the search was resultant or non-resultant is documented in the officer’s 
+notes 
+Part B – Preliminary Search: must be completed when a preliminary search and/or full 
+examination is resultant and must include the results of the search and the location of where the 
+documents or evidence were found; 
+ 
+Part C – Personal Search: must be completed in all instances when a personal search is 
+conducted, whether a frisk involving physical contact or disrobement search. This must include 
+the names and signatures of the searching officer(s) and the witness of the search, as well as the 
+supervisor’s signature indicating whether or not the search was authorized. If the authorization 
+was provided by telephone, this information should be noted on the form. 
+ 
+Part D – Disrobement Search: must be completed in addition to Part C in all instances where a 
+disrobement search is conducted as it constitutes a detention and requires further documentation 
+specific to the right to counsel.   
+ 
+Part E – Return of Personal Effects: must be completed to ensure that if personal effects are 
+returned, save for those seized, the person signs for receipt of the items. 
+ 
+Part F – Interpreter declaration: must be completed in any instances where an interpreter was 
+required to conduct the search.  
+6.15 
+Examination of Digital Devices at the Port of Entry and in the Inland Enforcement 
+context 
+Ports of Entry 
+Digital devices, media, documents, software and stored electronic data are considered “goods” 
+under CBSA program legislation and are subject to examination by CBSA officers at ports of 
+entry. For procedures related to the examination of digital devices for the administration and 
+enforcement of the IRPA at a Port of Entry, please refer to the CBSA Policy on Port of Entry 
+Examinations of Travellers' Digital Devices (Enforcement Manual (EN) Part 4, Chapter 16) on 
+Atlas.  
+Inland Enforcement 
+Inland Enforcement Officers should not rely on A139(1) to examine digital devices since A139(1) 
+only allows for searches of persons seeking entry to Canada. 
+A16(3) of the IRPA allows an officer to require or obtain evidence from a permanent resident or a 
+foreign national who is arrested, detained, subject to an examination or subject to a removal 
+order, any evidence - photographic, fingerprint or otherwise - that may be used to establish their 
+identity or compliance with the Act. That said, A16(3) should not be relied upon as an authority to 
+conduct examinations of digital devices for inland investigative purposes. Furthermore, Inland 
+Enforcement Officers cannot rely on Criminal Code of Canada warrants to search digital devices 
+and gather evidence for inland investigations.  
+Officers may examine digital devices only if they obtain the person concerned’s written valid 
+consent (i.e. informed and voluntary). The person’s written consent must be obtained and 
+recorded on the BSF 835 form. Officers may, with the foreign national’s or permanent resident’s 
+valid consent, examine a digital device in support of the administration and enforcement of the 
+IRPA for Inland Enforcement purposes. For additional information on the examination of digital 
+devices in the Inland Enforcement context and valid consent, please refer to section 19.18 – 
+Searching an arrested person of ENF 7. 
+ 
+
+
+===== PAGE 24 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+24 
+7. Additional Types of Search  
+7.1 Search incidental to arrest 
+In common law, a peace officer may carry out a search of a person who has been lawfully 
+arrested. The existence of reasonable grounds is not a prerequisite to the existence of such a 
+power. 
+The courts have ruled that when conducting a search of an arrested person a peace officer is 
+authorized to remove from that person any of the following three types of items:  
+ 
+weapons or implements that might assist in the person's escape;  
+ 
+anything with which a person might injure themselves or others; or 
+ 
+anything that can be considered as evidence of the offence for which the person has been 
+arrested.  
+In the Supreme Court of Canada decisions Cloutier v. Langlois, [1990] 1 S.C.R. 158  and R. v. 
+Caslake, [1998] 1 S.C.R. 51, precedents for searches incidental to arrest were established. In 
+these decisions, the Supreme Court held that a search is constitutional if conducted without the 
+use of excessive force or constraint and for some valid purpose connected to the arrest, namely: 
+ 
+to ensure the safety of the arresting officers; or 
+ 
+to protect evidence from destruction at the hands of the person under arrest.  
+The authority to arrest and detain compels a detained person to comply with a search by an 
+officer exercising that authority. Search incidental to arrest applies only to things in the 
+possession or immediate surroundings of the person arrested. Immediate surroundings may be 
+searched for the purposes previously listed. Because the jurisprudence that establishes the 
+principle of search incidental to arrest is related to criminal cases and because arrests under A55 
+are not made in connection with a criminal offence, any searches of the location in which the 
+individual was arrested for the purpose of seeking evidence of an IRPA inadmissibility or a travel 
+document may be held unreasonable and not in compliance of section 8 of the Charter. 
+The power to search incidental to arrest is a discretionary one and need not be exercised where 
+the peace officer is satisfied that the law can be effectively and safely applied in its absence. 
+Note: Searches conducted in the inland enforcement context can only be conducted incidental to 
+arrest. The authority to search incidental to arrest is governed by common law. The authority to 
+search under A139(1) cannot be relied upon in the inland enforcement context to conduct 
+searches. 
+7.2 Conducting a Frisk Search Incidental to Arrest  
+When a designated CBSA officer has completed an IRPA arrest and detention of an individual, 
+which includes informing the individual of their Charter rights to speak with counsel, as well as 
+their rights under the Vienna Convention, the officer may conduct a frisk search of the person 
+incidental to the arrest.    
+ 
+A search applies to anything in possession or within the immediate surroundings of the arrested 
+person. Three conditions must be satisfied in order for the search of the person to be justifiable: 
+ 
+ 
+the arrest must be lawful; 
+ 
+
+
+===== PAGE 25 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+25 
+ 
+the search must be conducted as incidental to a lawful arrest; and 
+ 
+ 
+the search must be carried out in a reasonable manner. 
+ 
+If during the search, an officer discovers any means of transportation, document or other thing 
+that the officer believes on reasonable grounds to be fraudulently or improperly obtained or used, 
+or that the seizure is necessary to prevent its fraudulent or improper use, or to carry out the 
+purposes of the Act, the officer may seize and hold any of the aforementioned items as per 
+section 140(1) of the IRPA. The officer must provide written notice of any seizure and otherwise 
+follow the instructions as per section 8 of this chapter. 
+7.3 Search warrants 
+Outside of the authority to conduct searches incidental to arrest, inland enforcement officers are 
+not permitted to search for evidence of an offence. Although A138(1) provides that an officer has 
+the authority and powers of a peace officer – including those set out in sections 487 to 492.2 of 
+the Criminal Code (CC) to enforce the IRPA, the use of section 487 of the CC provisions is 
+limited, by its own wording, to situations where there are reasonable grounds to believe that there 
+is evidence in the specific place named in the warrant which would relate to an offence (i.e. 
+criminal offence). Unlike section 43 of the Customs Act, the IRPA does not contain any 
+provisions for compelling the production of records for administrative or non-criminal enforcement 
+purposes. 
+Inland Enforcement Officers cannot rely on CC search warrants or production orders without 
+reasonable grounds to believe that evidence of a criminal offence will be found in that place. So 
+while CC warrants can be used to investigate a criminal offence under IRPA, these warrants 
+cannot be obtained for purposes other than obtaining evidence of a criminal offence. Therefore, 
+officers cannot rely on CC search warrants to gather evidence in support of an inadmissibility 
+report under A44(1). 
+ 
+Where a CBSA inland enforcement officer suspects a criminal offence under IRPA has occurred 
+and evidence in the form of documents or information relating to the offence may be found in a 
+specific place, they should engage a CBSA criminal investigator. 
+Criminal investigators will assess the case specifics and, if a criminal investigation and search 
+warrant/production order are warranted, will discuss with the referring officer. 
+Where it can be reasonably demonstrated that an IRPA criminal offence (pursuant to Part 3 – 
+Enforcement of the IRPA) has occurred and that information at a specific place will afford 
+evidence of that offence (potentially including information that may be used to locate an individual 
+or a document), a search warrant or production order may be requested pursuant to s. 487 CC 
+and s. 487.012, respectively. These search warrants must be prepared and obtained by CBSA 
+Criminal Investigators, in the context of their investigation towards the laying of criminal charges. 
+ 
+8. Procedure: Seizures 
+8.1 Authority and grounds for seizure 
+A140 provides the legislative authority to seize any means of transportation, documents or other 
+thing if an officer believes on reasonable grounds that it was fraudulently or improperly obtained 
+or used or that the seizure is necessary to prevent its fraudulent or improper use or to carry out 
+the purposes of the Act. Both IRCC and the CBSA officials are designated with the authority to 
+seize documents and other things. However, only CBSA officers have been designated with the 
+authority to seize a means of transportation. 
+
+
+===== PAGE 26 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+26 
+A148(2) provides the legislative authority to detain, seize or forfeit all or part of any security 
+provided by a transporter as well as any vehicle or other prescribed good owned or operated by a 
+transporter if they fail to comply with an obligation under IRPA.  
+Although a seizure under A148(2) may occur without a vehicle being detained first, seizures 
+should be used as a last resort.  A vehicle that is detained remains in the possession of the 
+transporter, however, when the vehicle is seized, the CBSA takes possession of the vehicle and 
+becomes liable for the costs of handling, maintaining and disposing of it. The vehicle is seized as 
+soon as an officer delivers the notice of seizure. The delegated authority to seize a vehicle under 
+subsection A148(2) can be found in the Instruments of Designation and Delegation. For additional 
+information relating to seizures made under the authority of A148(2), refer to ENF 15.  
+In the case of persons seeking entry in to Canada, A15(3) provides the legislative authority for an 
+officer to board and inspect any means of transportation bringing persons to Canada, examine 
+any person carried by that means of transportation and any record or document respecting that 
+person, and to seize and remove the record or document to obtain copies or extracts and hold the 
+means of transportation until the inspection and examination are completed.  
+Limitation period for seizures 
+There is no limitation period for seizures of things on the grounds that they were fraudulently or 
+improperly obtained or used. These seizures may occur as necessary when lawful and 
+appropriate. 
+8.2 Seizing documents  
+While the authority to seize under the IRPA will primarily be applicable to situations involving 
+foreign nationals or permanent residents, this provision also applies to Canadian citizens if the 
+conditions of A140(1) are met. In all cases, officers are required to articulate the grounds for the 
+seizure.   
+IRCC officers who have reasonable grounds to believe that documents were fraudulently or 
+improperly obtained or used may seize those documents and if necessary, transfer custody to the 
+CBSA for further examination and/or investigation. This includes seizure of identity, travel and/or 
+other documents as evidence or to effect a removal, should an individual become subject to an 
+enforceable removal order. Although it is not a Charter right, if a person from whom a thing has 
+been seized wants to contact legal counsel, the officer should make every effort to facilitate this 
+request if is reasonable to do so. This may be as simple as providing the individual with 
+opportunity and means to make a telephone call. Officers should record in their notebook whether 
+the person contacted legal counsel. 
+Following a seizure made by an officer pursuant to A140(1), the officer is required by R253(1) to 
+make reasonable efforts: 
+(1) to identify the lawful owner of thing seized; and 
+(2) to give the lawful owner written notice of and reasons for the seizure 
+For travel documents, the notice of seizure given to the bearer should be sufficent to allow the 
+officers to fulfill their obligations under R253(1) without having to notify the issuing country. 
+Officers seizing travel and/or identity documents as well as other things (e.g. ticket stubs, 
+employment information, conveyances, etc.) must document the seizure on the  Notice of 
+Seizure of (a) Travel and/or Identity Document(s) and/or Other Thing(s) [BSF 698] and to 
+include the reasons for the seizure as well as information on how/where individuals may make an 
+Application for the Return of (a) Seized Travel and/or Identity Document(s) and/or Other 
+Thing(s) [BSF 699].   
+
+
+===== PAGE 27 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+27 
+Note: In keeping with CBSA policy, officers should, for each document seized, provide the 
+person from whom documents are seized with a copy of the seizure form, which will serve as 
+a Notice of Seizure receipt. 
+Individuals may require certified true copies of genuine documents, for instance when seeking 
+access to federal and provincial programs or services. In those cases, if the documents are 
+genuine and the individual from whom the document(s) is (are) seized is the rightful holder, 
+officers will make colour copies, certify them as true copies and provide the certified true copies to 
+the individual from whom the documents were seized. 
+Examples of document seizures to prevent fraudulent or improper use include but are not limited 
+to:  
+ 
+Document(s) (Confirmation of Permanent Residence, Permanent Resident Card, Study 
+Permit, Work Permit, Temporary Resident Permit, Temporary Resident Visa, travel 
+documents, etc.) issued to an individual other than the individual  who is in possession of the 
+document(s) where the individual does not have a valid explanation for being in possession of 
+the document(s) and the document(s) was/ were not used to enter or exit Canada or another 
+country; 
+ 
+Blank identity or travel documents, such as a blank passport or national identity card. 
+Examples of fraudulent documents, include, but are not limited to: 
+ 
+altered documents (e.g. photo-substitution and page substitution) and alterations of variable 
+mentions (such as date of birth and name) or erasures, and unauthorized additions such as 
+counterfeit entry and/or exit stamps and/or visas; 
+ 
+counterfeit documents; 
+ 
+improperly obtained or issued documents; 
+ 
+fantasy documents. 
+Examples of documents that may be seized to carry out the purposes of the Act include, but are 
+not limited to:  
+ 
+travel documents (e.g. passports, certificates of identity, laissez-passer or refugee travel 
+documents); 
+ 
+personal identification (e.g. U.S. social security cards, driver’s licences or any other form of 
+personal identification that may or may not include a photograph of the holder); 
+ 
+IRCC-issued documents (e.g. Permanent Resident Card, Confirmation of Permanent 
+Residence/IMM 1000, Citizenship card); 
+ 
+airline tickets; 
+ 
+itineraries; 
+ 
+work records; 
+ 
+inmate identification; 
+
+
+===== PAGE 28 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+28 
+ 
+criminal records documents (e.g. court transcripts, tickets, arrest reports); 
+ 
+medical history, charts, prescriptions, receipts, notes;  
+ 
+letters, pictures, video tapes; 
+ 
+phone and address books; and/or 
+ 
+purchase receipts. 
+There are different situations that may occur in which an officer will have grounds to seize and 
+hold a means of transportation, a document or other thing. Officers should consider each case 
+individually and assess if the seizure meets the grounds articulated in the IRPA. The following are 
+potential circumstances when a seizure of a travel document may be appropriate. 
+Scenario 1 
+A foreign national has been charged with a criminal offence in Canada but has been released on 
+recognizance to appear in a Canadian court. The foreign national left the country but is now 
+seeking entry to Canada to appear in a Canadian court.  An officer may decide to adjourn the 
+examination as per A23, and determine there are reasonable grounds to seize the foreign 
+national’s passport as per A140(1) to carry out the purposes of the Act, namely to ensure the 
+foreign national will appear to complete their examination as well as any other enforcement action 
+(e.g. removal), in the event that the foreign national is convicted. If this occurs, the passport will 
+be required to enforce the removal. The officer will complete and provide a BSF698: Notice of 
+Seizure of (a) Travel and/or Identity Document(s) and/or Other Thing(s).  
+Scenario 2 
+A foreign national is seeking entry to Canada at a POE and provides their travel document to an 
+officer for examination. During the course of the examination, the officer examines the document 
+and believes that there has been an alteration made to the photograph. If the officer believes that 
+there are reasonable grounds to believe that the document has been fraudulently obtained or 
+used, they may seize the travel document under A140(1). The officer should evaluate 
+inadmissibility and consider addtional enforcement options such as arrest and detention as 
+appropriate, if they are not satisfied of the foreign national’s identity. The officer should also 
+consult with Criminal Investigations Division as the use of a fraudulent document is an offence 
+under the IRPA. The officer will provide a BSF698: Notice of Seizure of (a) Travel and/or Identity 
+Document(s) and/or Other Thing(s) to the individual. Officers may also refer the document to 
+regional Document Analysis Units (DAUs) if appropriate. Please refer to section 8.7 for additional 
+details on sending documents for analysis. 
+Scenario 3 
+A Permanent Resident is convicted in Canada of a serious offence and is reported by an officer 
+pursuant to A44(1). The report is referred to the Immigration Division for an admissibility hearing. 
+The officer concludes that there are reasonable grounds to believe that the seizure of the 
+permanent resident’s passport is necessary to carry out the purposes of the Act as per A140(1).  
+If a removal order is issued and becomes enforceable, CBSA requires the passport to enforce the 
+removal order. The officer may provide a certified copy of the document in addition to the 
+BSF698: Notice of Seizure of (a) Travel and/or Identity Document(s) and/or Other Thing(s). If, 
+however, a referral for the admissibility hearing is later withdrawn or the PR is found not 
+described (i.e. no removal order is issued), officers must return the seized document. 
+
+
+===== PAGE 29 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+29 
+Note: Admissibility hearings for released cases may be subject to lenghty time periods before 
+being heard and Permanent Residents may reasonably require their passport to travel to and 
+from Canada. Given that they have not yet lost their status per A46(1), officers should 
+consider returning the travel document if requested. A good quality colour copy should be 
+retained on file should it be needed later for enforcement purposes such as removal from 
+Canada. 
+ 
+Scenario 4 
+A foreign national appears at the POE and makes a claim for refugee protection. They are in 
+possession of a genuine passport and birth certificate. As per A140(1) and refugee processing 
+policy, the officer will seize the passport and birth certificate in order to carry out the purposes of 
+the Act. The seizure is necessary to ensure compliance with conditions, including the appearance 
+of the refugee claimant for the hearing before the Refugee Protection Division, and for the 
+removal process if their claim is refused, withdrawn or abandoned. The officer will provide colour 
+certified copies to the claimant in addition to the BSF698: Notice of Seizure of (a) Travel and/or 
+Identity Document(s) and/or Other Thing(s).     
+Scenario 5 
+A foreign national comes to the attention of CBSA as a result of an encounter with a local police 
+service. During their investigation, the officer(s) learns that the foreign national has remained in 
+Canada beyond the period authorized and has neither applied for nor received any extensions to 
+their temporary resident status. During their interview with the foreign national, the officer(s) learn 
+that the foreign national is in possession of his genuine passport. The officer(s) conclude that 
+there are reasonable grounds to believe that the seizure of the foreign national’s passport is 
+necessary to carry out the purposes of the Act, as per A140(1). If a removal order is issued and 
+becomes enforceable, CBSA requires the passport to enforce the removal order. The officer(s) 
+will provide a certified copy of the passport in addition to the BSF698: Notice of Seizure of (a) 
+Travel and/or Identity Document(s) and/or Other Thing(s). If no removal order is issued, officers 
+must return the seized document.  
+Enhanced Driver’s Licence    
+An Enhanced Driver’s Licence (EDL) is a secure document which serves as both a licence to 
+drive as well as an identity and Canadian citizenship document. The EDL is only valid as a 
+Canadian citizenship document when travelling between Canada and the United States by land or 
+water. When an individual presents an EDL at a POE, it is read by a radio-frequency identification 
+(RFID) machine which then displays the status of the EDL. There is a possibility that the status 
+displayed by the RFID machine contradicts information on the card (e.g. card appears valid, 
+however RFID status states ‘cancelled’). It is also possible that an individual is travelling with an 
+EDL that they should be not be travelling with (e.g. ‘cancelled’). If this occurs, officers should 
+advise the individual(s) to attend the issuing authority of the EDL in order to resolve any 
+outstanding issues. If an officer has any further concerns with regards to the EDL and its status, 
+they should investigate as necessary, including contacting the issuing authority in order to 
+determine whether a seizure of the EDL is necessary and appropriate. If a seized EDL is not 
+required for the enforcement or administration of Canadian laws, an officer should return the 
+document to the issuing authority with a memorandum outlining how it came into the possession 
+of IRCC or the CBSA 
+ 
+Please note that not all provinces and territories have an EDL program. Some 
+provinces/territories have discontinued their EDL programs and others have announced a 
+
+
+===== PAGE 30 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+30 
+phasing out of their EDLs. As such, officers should confirm with the provincial or territorial 
+authorities’ website if they have any doubts whether the EDLs are still valid for land and water 
+travel between Canada and the U.S. 
+ 
+8.3 Seizing documents from refugee claimants 
+Although IRPA does not require that all documents in possesion of refugee claimants be seized, 
+IRCC and CBSA officers should always consider seizing all passports, pertinent identification and 
+travel documents carried by refugee claimants because the seizure may:  
+ 
+expedite the identification of the person; 
+ 
+assist in background checks; 
+ 
+assist in identifying immediate family members; 
+ 
+assist in verifying information provided in their Basis of Claim Form (BOC) 
+ 
+ensure compliance; 
+ 
+ensure that documents are not recycled; 
+ 
+assist in removal should the refugee claim be unsuccessful. 
+Where a genuine document is seized, certified true copies will be provided to these individuals as 
+they may be required when seeking to access federal and provincial programs and services.  
+Other documents, such as a driver’s license, may also be seized if it meets the criteria of A140(1).  
+Officers must make three copies of all documentation seized and provide a copy to the 
+Immigration Refugee Board. Officers must complete a BSF698 and provide a copy to the 
+claimant.  
+8.4 Seizing documents abroad 
+Officers overseas may, following the examination of travel, identity and/or other document(s), 
+have reasonable grounds to believe that the document(s) was/were fraudulently or improperly 
+obtained or used, or that the seizure is necessary to prevent a document’s fraudulent or improper 
+use or to carry out the purposes of the Act. 
+However, Canadian officers may only enforce IRPA abroad to the extent that the host country has 
+authorized it. 
+The Vienna Conventions on Consular and Diplomatic relations impose an obligation on diplomats 
+to respect the laws of the receiving state.  
+Therefore, CBSA officers may seize documents abroad only if the host country has agreed to 
+allow Canada to exercise its legislative authority under subsection 140(1) of the IRPA within the 
+host’s territory. 
+Where officers overseas have the authority to seize documents, they may also seize documents 
+that are not issued by a Canadian authority. The approach to the question of seizure of 
+documents will vary from location to location depending on the local environment in which the 
+CBSA Liaison Officers (LO) and IRCC migration officers work, and the type of partnership or 
+arrangements they have with the local enforcement agencies, airlines and other foreign-based 
+officials with whom they interact. 
+
+
+===== PAGE 31 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+31 
+Officers should be aware that depending on local laws, the type of document or the type of 
+arrangement with local agencies, officers may not have the authority to seize a document that 
+was fraudulently or improperly used or obtained.  
+Officers overseas must ensure that their actions are based on Canadian law and are not 
+prohibited under the foreign law of the host country. Canadian legislation is insufficient to 
+authorize a seizure where the actions are prohibited by the law of the host country. 
+For example, documents should not be seized from an individual if the seizure impedes a host 
+country’s ability to repatriate a third-country national. 
+In the event a seizure is authorized, officers are instructed to complete form BSF698: Notice of 
+Seizure of (a) Travel and/or Identity Documents(s) and/or Other Thing(s) for all travel and /or 
+identity documents and/or other items seized under subsection 140(1) of IRPA.   
+Note: CBSA Liaison Officers (LO) should contact International Operations Division via CBSA.INS-
+SRI.ASFC@cbsa-asfc.gc.ca, if they require additional guidance. 
+8.5 Documenting and tracking document seizures 
+All things seized under A140(1) (e.g. travel and/or identity documents, conveyances, ticket stubs, 
+employment information, etc.) must be recorded on the BSF698 Notice of Seizure of (a) Travel 
+and/or Identity Document(s) and/or Other Thing(s) form. 
+Officers must maintain a detailed record of any seizure action taken. This information may be 
+useful in the event of a complaint, litigation, prosecution or enforcement action. It may be used as 
+evidence in immigration proceedings, admissibility hearings, appeals and refugee hearings, or to 
+enforce removal orders. 
+The information concerning seizures must be maintained so that information can be retrieved 
+quickly. At a minimum, the information recorded in the case of a seizure should include the 
+following: 
+ 
+lawful owner (where it can be determined); 
+ 
+person from whom the document was seized; 
+ 
+description of all documents seized; 
+ 
+name and address of consignor (if applicable); 
+ 
+name and address of consignee (if applicable); 
+ 
+details of action taken as a result of seizure; 
+ 
+details of any representations received; and 
+ 
+final disposition of items seized. 
+Protecting Evidence 
+For information on maintaining the continuity of evidence for the purposes of prosecution under 
+IRPA, refer to section 10.2 of this manual. 
+
+
+===== PAGE 32 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+32 
+Global Case Management System (GCMS) 
+GCMS is designated as the CBSA’s primary system for the tracking of travel and identity 
+documents seized by the CBSA under A140(1). More specifically, seized documents must be 
+tracked in the GCMS “Documents” tab. 
+The record of seized documents in the GCMS “Documents” tab and supplemented by notes in the 
+“Notes” tab, if necessary, must include information such as the biographical details visible in a 
+document, document number, seizure date, reason for seizure, seizure status, held-at location, 
+return date and other relevant facts if deemed necessary by the officer. 
+A step-by-step guide can be accessed at the following wiki link: 
+https://cbsawikiasfc.omega.dce-eir.net/display/FRPC/Document+Seizures+-
++Saisir+un+document 
+Voiding a fraudulent Canadian visa 
+There are no authorities in IRPA or in the Regulations to cancel a visa. However, officers may 
+consider voiding a visa under certain circumstances, for instance if they encounter a fraudulent 
+visa. 
+A fraudulent Canadian visa may include a completely counterfeit document or an alteration of any 
+part of a genuine document. It may also include an improperly obtained or improperly issued 
+Canadian visa. 
+The proper handling of fraudulent Canadian visas intercepted in Canada or abroad is required to 
+prevent the fraudulent use of these documents, while preserving the passport or travel document 
+that they are attached to. Officers may encounter fraudulent Canadian visas in a number of 
+different situations, including but not limited to the following examples: 
+ 
+Foreign national making a refugee claim at a Port of Entry or Inland; 
+ 
+Foreign national seeking entry to Canada; 
+ 
+Foreign national is granted an Allowed to Leave; 
+ 
+Permanent resident or foreign national is arrested or detained under section A55; 
+ 
+Foreign national is intercepted internationally prior to entry to Canada. 
+Every effort must be made to preserve the travel document or passport that contains a fraudulent 
+Canadian visa in its original condition, for evidentiary purposes, whether that be for a criminal 
+investigation, an admissibility hearing or for removal purposes.  
+When possible and where A140 requirements are met, officers should always consider seizure of 
+the entire document first. If the seizure of the document containing the fraudulent Canadian visa 
+is not possible or if the travel document is required for the return of the person concerned to their 
+country of origin or to a third country, subject to local laws of the country (if intercepted abroad), 
+then officers may consider marking the fraudulent Canadian visa. Unless otherwise provided for 
+in the legislation of the issuing country, a standardized means of marking such document shall be 
+used, using the wording “VOID”.   
+Officers must record all events using GCMS and complete the BSF698. 
+If an Inland Enforcement Officer has reasonable grounds to believe that a document was 
+fraudulently or improperly obtained or used, the officer may exercise their authority pursuant to 
+A140(1) to seize the document, however, should never mark the document without first 
+pursuing proper analysis, as doing so may render the document invalid and/or prevent future 
+removal efforts. 
+
+
+===== PAGE 33 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+33 
+In cases where it is not possible to seize a document that may have been fraudulently obtained or 
+used, officers should, in consultation with the issuing authority (i.e. IRCC-Passport, the local 
+issuing authority, the officer who issued the temporary resident visa or the local IRCC office, etc.), 
+ensure that the document is cancelled promptly within the issuing system (i.e. GCMS).  
+Genuine expired (i.e. Temporary Resident and/or Permanent Resident) visas may be annotated 
+“Canceled without prejudice” in indelible black ink to deter re-use as raw material for fraudulent 
+purposes. 
+8.6 Document seizure and referral under section 23.2 of the Citizenship Act and sections 
+28 and 30 of the Citizenship Regulations 
+Under section 23.2 of the Citizenship Act (CA), IRCC officers may seize and detain documents if 
+it is believed they were fraudulently or improperly obtained or used, or that the measure is 
+necessary to prevent their fraudulent use. 
+ 
+Pursuant to section 28 of the Citizenship Regulations (CR), the Minister may disclose to the 
+CBSA information with respect to the seized document, including referral of the document itself to 
+the Agency, for the purpose of the administration and enforcement of the IRPA. The CBSA may 
+therefore retain the document for the period necessary to determine whether it is genuine or not. 
+ 
+Pursuant to section 30 of the CR, if the Minister determines that the document was improperly or 
+fraudulently obtained or used, the seized document must be detained for as long as is necessary 
+for the administration of the laws of Canada, after which it will be returned to the issuing authority 
+or disposed of in accordance with Canadian law. 
+CBSA officers who receive documents from IRCC under the authority of section 28 of the CR 
+should: 
+ 
+Ensure that there is an IRPA nexus to the seized document; 
+ 
+Transfer the documents to the appropriate area for further examination. Please refer to 
+the Document Examination Referral and Communication Tree [PDF, 463 KB] (OBO-2021-
+081) for more information. 
+ 
+Ensure proper handling of the documents as per National Directive – Controls for Seized 
+Travel and Identity Documents (PDF, 390 KB) and that chain of custody is maintained by 
+recording the seizure in the appropriate system(s). 
+In all cases and regardless of the outcome, the CBSA will return the document to the IRCC 
+originator along with copies of the document analyst report and/or forensic examination report. 
+They must also ensure a record of the transfer for continuity of evidence purposes is made and 
+record the event in the applicable database(s). 
+Under the authority of section 30 of the CR, if the examination indicates the document in question 
+is fraudulent (altered through photo-substitution, page substitution, alterations and/or erasure of 
+information, counterfeit, improperly obtained or issued or fantasy), the document must be 
+detained for as long as is necessary for the administration of the laws of Canada. The forensic 
+document examiner or document analyst will contact IRCC to inquire if further enforcement action 
+is required. 
+For clarity, there are a number of possible outcomes, as follows: 
+
+
+===== PAGE 34 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+34 
+ 
+Document is found to be fraudulent and document analyst or forensic document 
+examination report(s) prepared. The CBSA & IRCC to be advised accordingly. Document 
+is returned to IRCC for enforcement under the CA. The CBSA does not pursue IRPA 
+enforcement. 
+ 
+Document is found to be fraudulent and document analyst or forensic document 
+examination report(s) prepared. The CBSA & IRCC to be advised accordingly. Document 
+is returned to IRCC for enforcement under the CA. The CBSA pursues enforcement 
+action under the IRPA once IRCC has completed enforcement action under the CA, and 
+has released the document to the CBSA under S.30 of the CR. 
+ 
+Document is found not to be fraudulent and document analyst or forensic document 
+examination report(s) prepared. The CBSA & IRCC to be advised accordingly. Document 
+is returned to IRCC, no enforcement action occurs. 
+CBSA Seizures 
+Once IRCC no longer requires the seized document for enforcement actions under the CA, 
+authorized CBSA officials may then seize and detain the document if the provisions of 
+section 140 of IRPA are met. Officers are to provide the person who provided the document with 
+a copy of the seizure receipt BSF698 Notice of Seizure of (a)Travel and/or Identity Document(s) 
+and/or Other Thing(s). Officers must also ensure a record of the transfer for continuity of evidence 
+purposes is made, if applicable. 
+8.7 Sending documents for analysis 
+Document examination in the CBSA is a shared responsibility between the regional Document 
+Analysis Units (DAUs), the National Document Centre (NDC) and the Forensic Document 
+Examination (FDE) section. If officers require analysis of a physical travel or identity document for 
+a determination of admissibility, investigation or for any other purpose, they should refer to the 
+Document Examination Referral and Communication Tree found within Operational Bulletin 2021-
+081 Document Examinations and Referrals. For a list of  document analysts or examiners by 
+region, please refer to the Document Examination Contact List.  
+ 
+For referrals to the NDC (from liaison officers or officers located in the Northern Ontario Region), 
+a referral form is required and is available by contacting nat-intelligence-documents@cbsa-
+asfc.gc.ca 
+The referral form or the initial request for analysis to DAUs should contain the following 
+information: 
+•        the details about the document being sent; 
+•        the date when the document analysis report is required; 
+•        the purpose of analysis; 
+•        the reason for the return of the document; 
+•        the date, if known, for the return of the document; and 
+•        the return address. 
+If an officer requires that the original document be returned for a hearing or other purpose, the 
+initial request for analysis or referral form should clearly state the date for which the document(s) 
+is/are required. Physical documents requring analysis should always be sent through interoffice 
+mail (if appopriate) or in a tracked courier package only after communicating with the NDC or the 
+appropriate regional DAU. 
+
+
+===== PAGE 35 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+35 
+ 
+Upon completion of analysis, the document analyst will return the document analysis report  
+(BSF265) to the requesting officer. Documents that are determined to be fraudulent will be 
+retained by the NDC or regional DAU but if necessary may be made available to the officer who 
+filed the request for analysis. 
+ 
+8.8 Seizing ankle monitors and other GPS enabled devices 
+CBSA officers may encounter individuals in possession of an ankle monitor or other GPS enabled 
+devices used to monitor the individual’s whereabouts issued by the United States 
+authorities.Officers may seize the device only if the seizure can be justified under subsection 
+140(1) of the IRPA. If the device is seized, officers should fill out the BSF698 form to record and 
+document the seizure. 
+Devices that are abandoned or found by officers may be returned to the US authorities under the 
+Statement of Mutual Understanding guidelines only if the individual who had the device did 
+not make a claim for refugee status against the United States. In such cases, or for any other 
+cases where advising the United States would not be appropriate officers may hold the device on 
+a BSF 241 – Non-Monetary General Receipt form. 
+8.9 Seizing vehicles 
+The term “vehicle” is defined in the Regulations to include any means of transportation that may 
+be used for transportation by water, land or air. This can include cars, trucks, tractors, buses, 
+motorcycles, boats, airplanes and other modes of transportation. 
+While A140(1) provides officers with the authority to seize a means of transportation, certain 
+conditions must first be met.The officer must believe on reasonable grounds that the conveyance 
+was fraudulently or improperly used or that the seizure is necessary to prevent the fraudulent or 
+improper use or to carry out the purposes of the Act. For an officer to articulate the grounds to 
+seize a means of transportation, there must be a logical purpose that is directly correlated with 
+the IRPA, such as an A44(1) report alleging an inadmissibility, an admissibility hearing, a removal 
+or criminal charges. In other words, there needs to be an intention to pursue an enforcement 
+action. 
+Certain circumstances should occur for a seizure of a vehicle to be reasonable. In most cases a 
+seizure of a conveyance will arise at a port of entry while carrying out the purposes of the Act.  
+Officers should be aware that seizing a means of transportation in the inland enforcement context 
+will be rare and will typically happen when an offence has occurred that may lead to charges 
+under IRPA. Prior to the seizure of a vehicle in this situation, Criminal Investigations Division 
+should be consulted.         
+Where the vehicle has more than one component (e.g., a car pulling a trailer), each is treated as 
+a separate vehicle. If they are seized, separate notices (BSF698 and reports) are required for 
+each vehicle. In the following scenarios, it may be appropriate for a CBSA officer to consider 
+seizing  a vehicle: 
+ 
+Where a vehicle is used to drop an undocumented, or otherwise inadmissible, person on the 
+U.S. side of the border in order to assist the person in eluding examination, and/or picks up 
+the person on the Canadian side without the person appearing for examination. 
+ 
+Where the status of a person in the vehicle, who does not have a passport or a visa as 
+required, is withheld or purposely misrepresented at a Port of Entry to prevent a proper 
+examination. However, BSOs should remember that not all misrepresentation will lead to a 
+vehicle seizure. For instance, under section R22, persons who have claimed refugee 
+protection, if disposition of their claim is pending, and protected persons may be exempt from 
+
+
+===== PAGE 36 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+36 
+the application of the misrepresentation provision. A vehicle seizure in those cases might not 
+be warranted.  
+ 
+Where, during an examination, it is discovered that the driver of a vehicle allowed an 
+undocumented person to exit the vehicle before the point of examination and that person 
+walked to the POE to report separately for an examination; and where it is established that 
+the driver was seeking entry to Canada but knowingly withheld documents and any 
+connection with the arrival of the pedestrian who is inadmissible.  
+ 
+Where the driver or owner of a vehicle knowingly brings refugee claimants to the border and 
+receives remuneration for these services (lawyers, consultants, or others). 
+It may NOT be appropriate for a CBSA officer to seize a vehicle where the driver or owner 
+knowingly brings refugee claimants to the border without receiving any remuneration for these 
+services (family members, friends, NGOs). Officers should consider all of the relevant information 
+in each individual case and ultimately be mindful as to the purpose of any seizure and any 
+potential enforcement action along the immigration enforcement continuum.  
+Since a vehicle may be seized after the fact, officers should immediately take note of the vehicle’s 
+identity numbers and markings in case it leaves without permission or the seizure cannot take 
+place because of danger. This information can subsequently be used to link the vehicle to a 
+fraudulent or improper use if it is located at a later date. If the seizure cannot be completed, the 
+officer should report the incident to the CBSA Regional Office and to the CBSA Regional Director. 
+The matter should be turned over to the RCMP for investigation and appropriate action. 
+Note: Only the CBSA is designated to seize a means of transportation under A140. 
+8.10 Seizure of commercial vehicles 
+Subsection A148(2) provides CBSA officers with the authority to detain, seize or forfeit a vehicle 
+of a transporter that fails to comply with an obligation under IRPA. The delegated authority to 
+seize a commercial vehicle under A148(2) is identified in the Designation of Officers and 
+Delegation of Authority manual. 
+For additional information on the procedures relating to seizures of vehicles or assets of 
+commercial transporters pursuant to A148(2), refer to ENF 15, Obligations of Transporters.  
+8.11 Notice of seizure  
+The provisions related to the notice of seizure require that written notification be provided to the 
+person from whom the thing was seized, and if this person is not the lawful owner, reasonable 
+efforts must be made to identify and notify the lawful owner of the seizure. With regards to travel 
+and identity documents, notification to the bearer of the document will likely be considered as a 
+valid notice of seizure pursuant to subsection 253(1) of the IRPR, without the need to notify the 
+country of issuance. 
+If the person from whom a thing was seized is not the lawful owner, the officer should ask the 
+person from whom it was seized to identify the owner or owners and request that they complete a 
+declaration. An officer should document the steps taken to determine ownership and notify the 
+lawful owner and, where appropriate, may also consider completing a statutory declaration. 
+In the case of a seized means of transportation, the lawful owner could include:  
+ 
+the registered owner who is not the person from whom the means of transportation is seized; 
+ 
+the firm that owns the vehicle that has been leased or rented. 
+
+
+===== PAGE 37 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+37 
+An officer who seizes a thing is required to issue a BSF698 and to include the reasons for the 
+seizure as well as how/where to make an application for its return. 
+If a person from whom a thing has been seized desires to contact legal counsel, the officer should 
+make every effort to facilitate this. This may be as simple as providing the individual the 
+opportunity and means to make a phone call. Officers should record in their notebook whether the 
+person contacted legal counsel. 
+8.12 Reporting the seizure of a vehicle 
+Following the seizure of a vehicle, the officer will place the vehicle in CBSA’s custody, provide 
+notice of seizure pursuant to R253(1) and prepare a report. CBSA officers should provide the 
+following information in their report following the seizure of a vehicle: 
+ 
+the name and other relevant biographical data of the driver and passengers; 
+ 
+the role of all the persons involved in the case; 
+ 
+the vehicle information (i.e., plates, description); 
+ 
+information on the owner of the vehicle, including permission of use if the owner is not the 
+operator (the facts will support the evidence in the courts); 
+ 
+whether it is a rented vehicle (copy of the rental agreement); 
+ 
+the point of disembarkation and entry as well as the destination in Canada; 
+ 
+details about passengers disembarking immediately before arriving at the Canadian border; 
+ 
+presentation of passengers and intent (i.e., failure to report for examination); 
+ 
+misrepresentation, false or misleading information, deception, stealth; 
+ 
+details about passport, visa, travel documents and other relevant documents or the lack 
+thereof; 
+ 
+itinerary, plans or details of events; 
+ 
+specific destination or addresses; 
+ 
+estimate of the value of the vehicle or things seized. 
+The officer's report must be detailed and accurate as it may be used for evidence in courts. The 
+officer's report may also be used for recommendations to the Minister regarding the disposition of 
+the seized vehicle or to determine the value of the vehicle. The officer's notes should support the 
+decision to seize. Reports that are inaccurate or are incomplete may lead to a decision to return 
+the seized vehicle. 
+For information on note-taking, refer to ENF 7, Immigration Investigations and IRPA s.55 
+Arrests/Detention. 
+The officer who seizes a vehicle should immediately report the basic information by e-mail to their 
+Regional Director according to established regional produres. This will allow the Minister’s 
+delegate to respond quickly to inquiries made within a day or two following the seizure. A written 
+report and the documentary evidence that is available at the time should be sent by fax or 
+encrypted email to the officer’s Regional Director within three business days.  
+
+
+===== PAGE 38 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+38 
+8.13 Release of information 
+Under some circumstances, there may be authority for an officer to release information obtained 
+as a result of a seizure. IRCC and CBSA may release personal information obtained as a result of 
+a seizure to the RCMP for investigations under the Act and Regulations. Such release is 
+consistent with the purpose of subsection 8(2)(a) of the Privacy Act.  
+IRCC and the CBSA may also release personal information to an investigative body specified in 
+the Privacy Regulations for the purpose of enforcing any law of Canada or a province or carrying 
+out a lawful investigation. The investigative body must make a written request, which specifies the 
+purpose and describes the information to be disclosed pursuant to paragraph 8(2)(e) of the 
+Privacy Act.  
+There may be other situations where the release of information obtained as result of a seizure 
+may be authorized under the Access to Information Act and Privacy Act. The officer is 
+encouraged to seek the advice of their regional Access to Information and Privacy (ATIP) 
+coordinators before considering such options. 
+ 
+9. Procedure: Mail and courier search and seizures under IRPA  
+Subsection 42(1) of the Canada Post Corporation Act states that all mail arriving in Canada from 
+a place outside Canada that contains or is suspected to contain anything the importation of which 
+is prohibited, controlled or regulated under the Customs Act or any other Act of Parliament shall 
+be submitted to a customs officer. 
+The objective of mail searches and seizures is to take out of circulation counterfeit, altered and 
+improperly obtained travel and identity documents. Documents found in international mail may be 
+relevant to prosecutions or enforcement actions under the Immigration and Refugee Protection 
+Act.  
+Officers involved in examining, seizing and caring for items seized in mail and courier systems 
+should strive for minimal impairment of privacy and be mindful of the responsibilities inherent in 
+their authority. Officers should not examine or seize mail on behalf of any other agency or 
+department, unless legally authorized to do so. 
+9.1 CBSA inspection procedures for international mail 
+International mail arrives in Canada from other countries by marine, rail, highway, and air modes 
+of transportation. The mail is received at Canada Post processing facilities where it is sorted for 
+movement within Canada. International mail is then directed for CBSA processing to one of three 
+CBSA mail centres, all located within Canada Post facilities in Vancouver, Toronto, and Montreal.  
+The CBSA reviews all classes of mail received from Canada Post to identify and segregate items 
+that require further examination. The review includes priority post, first class, registered and 
+parcel mail.  
+For complete information on conducting a postal examination, see CBSA Enforcement Manual 
+Part 4 Chapter 12. 
+9.2 CBSA inspection procedures for shipments in the Courier Low Value Shipment 
+Program 
+Due to the high-volume, low-value nature of goods imported in the courier stream, the CBSA has 
+streamlined the reporting, release, and accounting procedures for certain courier shipments via 
+the Courier Low Value Shipments (CLVS) Program. According to these procedures, authorized 
+couriers are allowed to present a single Cargo Release List (CRL) documenting all low-value 
+
+
+===== PAGE 39 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+39 
+shipments (i.e., valued at $3,300 CAD or less) onboard a conveyance, instead of having to 
+present separate cargo control documents. The single report, the CRL, must be submitted to the 
+CBSA before the conveyance arrives in Canada within specified modal timeframes. 
+For further information pertaining to Courier Examinations, see CBSA Enforcement Manual Part 4 
+Chapter 13. 
+9.3 How mail seizures work 
+When a CBSA officer examines a parcel containing suspicious documents or other documents or 
+things that might be subject to seizure under A140(1), the CBSA officer will generally detain the 
+parcel until it can be examined further. When deciding whether there are reasonable grounds for 
+a seizure under A140(1), the officer must take into account the totality of the circumstances, 
+including the following: 
+ 
+Whether the information upon which the grounds for seizure are based is compelling? 
+ 
+Whether the information is credible? 
+ 
+Whether the information is corroborated? 
+9.4 Responsibilities of CBSA officers with respect to mail seizures 
+CBSA officers conducting mail seizures are responsible for the following: 
+ 
+treating every seized document and/or any other item seized as a potential piece of evidence. 
+The packaging itself may also constitute important evidence and is worthy of the same 
+consideration; 
+ 
+maintaining records of seizure, including officer notebooks, as they may ultimately be subject 
+to scrutiny in court and/or other enforcement proceedings; 
+ 
+justifying their actions in the examination and seizure of international mail in the event of a 
+prosecution, enforcement measure, complaint, audit, investigation, or other review; 
+ 
+notifying the lawful owner of seized documents and disposing of them in accordance with the 
+Immigration and Refugee Protection Act. 
+With respect to enforcement measures, the integrity of seizure procedures is paramount to 
+ensuring proper control, accounting and continuity of evidence. 
+9.5 Documenting and tracking seizures 
+Officers at CBSA mail centres should document seizures pursuant to A140 on the BSF698 form. 
+According to local procedures, the BSF698 and the seized items may be sent to the appropriate 
+inland enforcement office for further processing, such as entering the seizure information in 
+GCMS. Officers should forward the items seized and form to the inland enforcement office using 
+registered mail or Purolator. The tracking number and seizure information should be recorded 
+according to existing procedures. 
+It is imperative that officers maintain a detailed record of any seizure action taken. This 
+information may be useful in the event of a complaint, litigation, prosecution or enforcement 
+action. It may also be used as evidence in immigration proceedings, admissibility hearings, 
+appeals and refugee hearings, or to enforce removal orders. 
+Where the examination site does not have computer equipment available for use by the officer, 
+work sheets and seizure forms should be completed manually. Manually completed sheets and 
+
+
+===== PAGE 40 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+40 
+forms should be recorded according to local procedures at the first available opportunity. The 
+information concerning seizures must be maintained so that information can be retrieved quickly. 
+At a minimum, the information recorded in the case of a seizure should include the following: 
+ 
+lawful owner (where it can be determined); 
+ 
+person from whom the document was seized; 
+ 
+date and time the package was referred by the initial CBSA officer for further inspection; 
+ 
+the referral information (e.g., log numbers, courier company labels); 
+ 
+date, time, and place where examination of the package commenced; 
+ 
+date, time, and place where examination of the package was completed; 
+ 
+number of items in package; 
+ 
+description of all items seized; 
+ 
+name and address of consignor; 
+ 
+name and address of consignee; 
+ 
+whether full or partial seizure; 
+ 
+if a partial seizure, date/time/place package returned for customs processing; 
+ 
+details of action taken as a result of seizure; 
+ 
+details of any representations received; 
+ 
+final disposition of items seized; and 
+ 
+the seizure control number. 
+9.6 Security, storage, and labeling of items seized 
+Rigorous standards of control, including appropriate secure storage, labeling, and regular 
+monitoring of any seizure is mandatory. Seized items stored locally will be subject to normal file 
+control practices, including inventory, review and purging. Officers and support clerks should be 
+able, at any time, to determine the location and responsible officer for any seized item. 
+Appropriate receipts for transmittal of seized items must also be carefully maintained.  
+A copy of the BSF698 Notice of Seizure of (a) Travel and/or Identity Document(s) and/or Other 
+Thing(s) should be securely attached to the envelope used to store seized items and the seizure 
+should be recorded according to local procedures.  
+9.7 Split seizures 
+Splitting seizures for any reason should generally be avoided. If a seizure consists of several 
+items, they should all be kept together in the original seizure envelope until final disposition. 
+There may be exceptions to this, such as where multiple documents are seized relating to several 
+
+
+===== PAGE 41 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+41 
+different case files. In this instance, the seized documents would be individually forwarded to the 
+respective case files. 
+While seized items under IRPA should be documented on the BSF698 form, items seized 
+pursuant to the Customs Act should be recorded on the appropriate CBSA form. 
+9.8 Partial seizures 
+In a partial seizure, one or more document or other thing may be seized under IRPA while the 
+rest of the items in the parcel may be returned to the customs process. If one or more documents 
+or things are removed, the remaining goods should be re-sealed in the package and the officer 
+can return them to the customs process. On release by a CBSA officer, the package may then be 
+returned to the course of post. Where a partial seizure occurs, notification should be provided as 
+per the Regulations.  
+9.9 Notification of owner  
+The Immigration and Refugee Protection Regulations require that officers effecting a seizure, full 
+or partial, of items from international mail must provide notification to the rightful owner in all 
+cases.  
+In cases where ownership of seized goods cannot be readily established, for example where the 
+importer's or exporter's full name and address cannot be determined from the labels or other 
+information accompanying the seized goods, officers should make reasonable alternative efforts 
+to identify the owner. Efforts to locate the owner and the results at each stage should be recorded 
+in detail on the seizure file and local mail seizure administrative databases. Where an owner is 
+identified, written notification of mail seizures should be made using the BSF698. Brief grounds 
+for seizure specific to each item listed on the form should be included in the "Reason and/or 
+details" portion.  
+If the goods clearly constitute items such as blank identity documents or counterfeit passports, 
+the officer can conclude that there is no lawful owner. In some cases, state-issued documents 
+such as passports should be returned to the issuing authority. Officers should not notify an 
+issuing state in cases where a document was seized from a refugee claimant when such 
+notification would alert the country to the presence of the refugee claimant in Canada.  
+9.10 Returning items to the customs process 
+Where an officer does not establish reasonable grounds for seizure, the package should be 
+returned without delay to the customs inspection process. An imported package is considered to 
+be in the customs secondary process unless seized by a CBSA officer for immigration purposes.  
+There is no requirement to record reasons in support of a decision to return a package to the 
+customs process. A minimum of information should be recorded about released packages as may 
+be required for tracking the item, for measurement of workload or other legitimate administrative 
+purpose. No photocopies, images, transcriptions or other record of the contents of such packages 
+are to be retained. 
+10. Procedure: Custody and Liability of Seized Things 
+10.1 Custody of seized items 
+R252 requires an officer who seizes a thing under A140(1) to place it without delay in the custody 
+of the Department/Agency. IRCC and CBSA officers are designated to seize documents or other 
+things under A140 while only the CBSA is delegated to seize a means of transportation under 
+A140. It is sufficent for IRCC or CBSA officials to seize the items to consider them as being in the 
+
+
+===== PAGE 42 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+42 
+custody of the respective Department/Agency. Seized items should be stored in a protected 
+holding area with restricted access. If the RCMP seizes anything under the Immigration and 
+Refugee Protection Act, they are required to turn it over to a CBSA officer.   
+Storage of seized vehicles should be arranged locally in consultation with the regional CBSA 
+office when necessary. The storage area should afford reasonable protection against damages, 
+theft and accidents. 
+If a file transfer occurs between IRCC and the CBSA, custody of the seized document or other 
+thing will also change from one organization to the other. Means of transportation will always 
+remain in the custody of the CBSA. 
+10.2 Protecting evidence  
+An officer may be required to testify in court that a document or other item seized has remained 
+unchanged since it came into their possession: in other words, that the continuity of evidence has 
+been maintained. Whatever evidence comes into an officer's possession, the officer must note 
+the date, time and place on the case file and in a notebook.  
+To maintain the continuity of evidence for the purposes of prosecution under the Immigration and 
+Refugee Protection Act or the Criminal Code, officers must ensure that seized items are kept in a 
+secure area and handled by a minimum number of persons.  
+Every effort should be made to preserve documentary evidence in the same condition as it was 
+collected. It is also strongly advised to keep direct handling of orginal documents to an absolute 
+minimum (if they are to be repeatedly referred to they should be individually placed inside copy 
+safe sheet protectors or transparent sleeves.) 
+At no time should documentary evidence be placed beneath something on which writing can 
+occur, such as on a desk or attached to a clipboard, etc. This will add indented impressions to the 
+douments, which may not only impact the examination of the document(s) but risk leaving 
+indentations of sensitive Agency information. Evidence containers should be marked for 
+identification before the documentary evidence is placed inside to avoid the addition of indented 
+impressions. 
+The evidence shall not be folded, torn, stamped, hole-punched, stapled, marked or touched 
+unnecessarily. Avoid using staples, tweezers, binder clips and other such devices on the 
+documents. Furthermore, no additional writing should be added to the evidence for record 
+keeping purposes, the documents should not be fed through the automatic document feeder on a 
+photocopier. Copies should be made by manual placement of documents on the glass plate. 
+The officer should:  
+ 
+make a photocopy of the document and stamp “certified true copy” on each page and write 
+their initials, the time and the date;  
+ 
+write a description on the envelope of the contents, the name and file number of the person 
+concerned, the officer's initials and the time and date; and  
+ 
+seal the evidence in an envelope, write their initials across the envelope seal and secure it 
+with transparent tape. 
+If an authorized officer needs to remove and examine evidence from the envelope, the officer 
+must repeat the steps just described above when placing the evidence back in the envelope. If an 
+officer only needs to refer to a document, the officer should refer to the certified true copy on file.  
+If a peace officer requires possession of the document from the immigration file for prosecution, 
+generally, this would be done under a subpoena or a production order issued by the Court. An 
+
+
+===== PAGE 43 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+43 
+officer should verify the contents of the envelope with the peace officer against the certified true 
+copy on file. Officers may contact CBSA Case Management should assistance be required.  
+An officer should make a note of these procedures, place the note on file for future reference and 
+enter the information in the official notebook.  
+10.3 Liability for damage to property  
+If a search results in damage to the traveller's vehicle or baggage, an officer must prepare a 
+report indicating the extent of the damage and other relevant details of the examination. For 
+regulations and policy for handling damage claims against the Crown, see the Guidelines on 
+Claims and Ex Gratia Payments. When a search brings no results, and the search caused 
+damage to the person's belongings, it is policy to return the conveyance or item to its original 
+state. When it is apparent that items may be damaged during a search because of their state of 
+repair or fragility, the officer should take before and after photographs of the items, to avoid the 
+CBSA from having to pay for damages unrelated to the search.   
+10.4 CBSA liability for damage to a vehicle 
+CBSA officers who seize a vehicle should make a careful inventory of any damage that the 
+vehicle has and should ask the person from whom the vehicle was seized or the owner to give 
+written acknowledgement of the inventory, if they are present at the time. 
+A vehicle that is seized remains in the custody of the CBSA until all legislative requirements for its 
+return or disposal have been complied with. 
+The CBSA may be liable for any damage caused to a vehicle in its custody depending on the 
+factual circumstances of each case. Any damages caused to a vehicle while under seizure should 
+be reported to the Regional office and to the Regional Director for appropriate assessment. 
+Owners of a damaged seized vehicle may seek redress under a number of different laws.  
+11. Procedure: Disposition and return of seized things 
+11.1 
+Return of seized things 
+Sections 254 and 255 of the IRPR outline the requirements to determine when a seized thing can 
+be returned to its lawful owner or to a person from whom it was seized.  
+Both the lawful owner and the person from whom the thing was seized have 60 days to submit an 
+application for the return of the seized thing, and the timeline begins upon the notice of seizure 
+(and not the date of the seizure itself). If the notification is sent by mail, it is deemed to have been 
+provided seven days after the day on which the notice was mailed. Applications for the return of a 
+seized thing can be made by using the BSF699 form. 
+R256 states that should both the lawful owner and the person from whom the thing was seized 
+make concurrent applications, the lawful owner’s application will be processed first. If the 
+application of the lawful owner is granted, the application received from the person from whom 
+the thing was seized will not be processed. 
+The regulations require that an application for return must be made if the thing was seized on the 
+grounds of: 
+ 
+being improperly or fraudulently obtained; 
+ 
+being improperly or fraudulently used; and 
+ 
+to prevent improper or fraudulent use. 
+Seizures made on the grounds of being necessary to carry out the purposes of the Act are the 
+only types of seizure that cannot be returned upon application. A thing seized on the ground that 
+
+
+===== PAGE 44 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+44 
+it was necessary to carry out the purposes of the Act can only be returned if the seizure is no 
+longer necessary for those purposes. 
+Once an application for return has been submitted, the regulations require that a decision on the 
+application for return be provided in writing to the applicant as soon as feasible which is 
+understood as being something that must be done soon, taking circumstances into account. 
+The regulations provide that the things seized shall be returned to the person from whom they 
+were seized (R254) or their lawful owner (R255) as follows, provided an application for return has 
+been submitted: 
+Regulations 
+Explanation 
+R254(2)  Return – Improperly or fraudulently 
+obtained 
+Applicant must demonstrate that they were 
+entitled to have that thing in their possession 
+at the time of seizure and that they are still 
+entitled to it. 
+R254(3) Return – Improperly or fraudulently 
+used 
+Applicant must demonstrate that they did not 
+participate in the fraudulent or improper use of 
+the thing. They must also demonstrate that 
+they were entitled to have the thing in their 
+possession at the time of seizure and that 
+they are still entitled to it. 
+R254(4) Return – Prevention of improper or 
+fraudulent use 
+Applicant must demonstrate that the seizure is 
+no longer necessary to prevent its fraudulent 
+or improper use. They must also demonstrate 
+that they were entitled to have the thing in 
+their possession at the time of seizure and 
+that they are still entitled to it. 
+R255(2) Return – Improperly of fraudulenty 
+obtained 
+Applicant must demonstrate that at the time of 
+the seizure they were the lawful owner and 
+that they are still the lawful owner of the thing 
+seized. 
+R255(3) Return – Improperly or fraudulently 
+used 
+The applicant must demonstrate that they did 
+not participate in the fraudulent or improper 
+use of the thing, and that at the time of 
+seizure, they were the lawful owner and that 
+they are still the lawful owner of the thing 
+seized. They also need to demonstrate that 
+they exercised all reasonable care to satisfy 
+themselves that the person to whom they 
+gave possession of the thing was not likely to 
+fraudulently or improperly use it. 
+R255(4) Return – Prevention of improper or 
+fraudulent use 
+The applicant must demonstrate that the 
+seizure is no longer necessary to prevent the 
+fraudulent or improper use of the thing. They 
+must also demonstrate that they were the 
+lawful owner of the thing at the time of seizure 
+and that they are still the lawful owner. 
+ 
+ 
+
+
+===== PAGE 45 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+45 
+Note: Following a seizure made under IRPA, a CBSA inland office may hold travel or identity 
+documents of foreign nationals awaiting their permanent residency. Once the permanent 
+residence application has received stage 2 approval, IRCC will contact the CBSA office where 
+the documents are being held to request that the travel/identity documents be sent to the 
+nearest IRCC office responsible for the foreign national’s landing. After receiving this request, 
+the CBSA inland office will release the documents to IRCC following established procedures. 
+For additional information, please consult IRCC’s operational bulletin OB 553 – Obtaining 
+passports or travel documents for landing from the Canada Border Services Agency and 
+officer’s discretion to waive the passport requirement for landing purposes. 
+ 
+11.2 Sale or destruction of seized things other than documents 
+R258 sets out the conditions under which a thing that was seized under A140 may be disposed 
+of. The Instrument of Delegation and Designation (IL 3) describes the powers that have been 
+delegated and identifies the level of delegation. Things that are seized may be disposed of only 
+as provided in the Regulations and following the decision of an officer who has been delegated to 
+exercise that authority. 
+ 
+Sale or disposal of seized vehicles 
+Vehicles are to be processed as any other seized things and may be returned to the person from 
+whom they were seized or their lawful owner if the criteria set out in R254 or R255 are met.  
+Because vehicles often have a high market value, many of the delegations for the disposition of 
+seized vehicles are at the managerial level. Many situations will require advice from the CBSA’s 
+Legal Services. 
+Following the seizure of a vehicle, the officer will: 
+ 
+place it in the custody of the CBSA; 
+ 
+identify the owner; 
+ 
+give written notice and reasons; 
+ 
+prepare a report; and 
+ 
+review the case in light of R254 or R255. 
+If the vehicle is not returned, the full report on the vehicle seizure is forwarded to the Regional 
+Director of Enforcement, District Director or Regional Director General. Samples of reports, 
+memos and letters that may be used in these circumstances can be found in: 
+ 
+Appendix A:  Sample for a summary/report for a seized vehicle (from the owner, borrowed or 
+rented) 
+ 
+Appendix B: Sample memorandum to DG for decision on application for the return of a seized 
+vehicle. 
+ 
+Appendix C: Sample of a decision to return a seized vehicle 
+ 
+Appendix D: Sample of a notice of decision and reasons – return of a seized vehicle 
+
+
+===== PAGE 46 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+46 
+Sale or destruction of seized things other than a document 
+R258(1) provides for objects of monetary value (other than documents) to be sold. In cases 
+where an object has no monetary value or the costs of the sale would exceed the monetary value 
+of the object, the object is destroyed.  
+11.3 Notice of decision 
+An officer is required to notify the person in writing of the decision with respect to applications 
+made under R254 or R255 for the return of seized objects and provide reasons. 
+11.4 Decision by the Minister not to return a seized thing 
+If the decision following review of an application for return is not to return a seized thing, then it 
+remains in  IRCC or CBSA custody (depending on the nature of the seizure and the item seized) 
+or is disposed of in accordance with R258(1) for things other than documents, and R258(3) for 
+seized documents.  
+Examples of things that would not be returned are: 
+ 
+fraudulent documents (photo-substituted passports, travel documents); 
+ 
+lost or stolen items; 
+ 
+altered documents (passports with illegal alterations, pages missing); 
+ 
+counterfeit money; 
+ 
+iIlegally obtained driver’s licence, social security or credit cards. 
+11.5 Suspension of sale 
+R258(2) provides that an object should not be sold during the 15-day period following notification 
+that the object would not be returned, or before a final decision is made in any judicial proceeding 
+in Canada relating to its seizure or return.  
+11.6 Return of documents 
+When returning a document, an officer should record the details on the file and complete the  the  
+form BSF 699 Application for the Return of (a) Seized Travel and/or Identity Document(s) and/or 
+Other Thing(s) to show that the document has been returned. For example:  
+“Passport number 12345 issued in Norway was returned to the holder John Doe, date of birth, on 
+27 February 2002.” 
+Section R258(3) requires that if a seized document is not returned, it shall be retained for as long 
+as is necessary for the administration or enforcement of Canadian laws, after which it is governed 
+by the applicable laws relating to the disposal of public archives.  
+Before retiring a file, an officer should return other documents (such as driver’s licences) to the 
+issuing authority with a memorandum outlining how they came into the possession of  IRCC or 
+the CBSA. 
+11.7 Disposing of fraudulent documents 
+R258(3) prescribes that the seized document is retained as long as it is necessary for the 
+administration or enforcement of Canadian law. Therefore, an officer should not return the 
+following documents to the person from whom they were seized:  
+
+
+===== PAGE 47 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+47 
+ 
+altered documents (examples of alterations include photo-substitution and page substitution) 
+and alterations of variable mentions (such as date of birth or name) or erasures, and  
+unauthorized additions (counterfeit entry and/or exit stamps and/or visas); 
+ 
+counterfeit documents; 
+ 
+improperly obtained or issued documents; and 
+ 
+fantasy or fictitious documents. 
+Known or suspected fraudulent documents, including documents containing counterfeit visas or 
+stamps and all altered or fantasy documents, should be forwarded to a regional DAU via 
+interoffice mail or a tracked courier package. Officers in the Northern Ontario Region should send 
+the documents to the National Document Centre (NDC) by the same means. As for liaison 
+officers, they should send fraudulent documents to the NDC by diplomatic bags. Please ensure to 
+inform the DAU or the NDC by email that a package will be arriving and indicate whether or not 
+analysis is required (see section 8.7 of this manual for additional information on how to send 
+documents for analysis). 
+ 
+For further information about the National Document Centre including its published alerts, 
+bulletins and communiqués, please refer to the Atlas page: http://atlas/tb-dgv/about-sujet/tp-pv/to-
+ov/ndc_cnd_eng.asp  
+12. Procedure: Fingerprinting and the Collection of Biometric Information 
+12.1 Authority to collect biometric information  
+A10.01 and A16(2) provide the legal authority to collect biometric information of foreign nationals 
+making a claim, application or request under the IRPA, while section 12.001 of the IRPR indicates 
+where the collection of biometrics may be done. 
+The collection of biometric information includes, but is not limited to, foreign nationals who are 
+applying: 
+ 
+to enter Canada; 
+ 
+for visas or other documents at a visa office;  
+ 
+for permanent residence in Canada;  
+ 
+to vary or cancel conditions imposed; or 
+ 
+for refugee protection. 
+A16(3) provides authority to fingerprint a permanent resident or foreign national who is arrested, 
+detained, subject to an examination or a removal order to establish their identity or compliance 
+with the Act.  
+These sections provide the authority for an officer to collect fingerprints and place an obligation 
+on the individual to provide them; however, this does not provide the authority to use force to 
+compel an individual to meet this obligation. If necessary, an officer may use reasonable force to 
+effect an arrest or detention as described under A55(2) or A55(3) but this does not extend to the 
+collection of fingerprints. 
+
+
+===== PAGE 48 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+48 
+Although an officer cannot physically compel an individual to provide fingerprints, an officer may 
+pursue administrative options under IRPA that are appropriate to the circumstances. Before 
+pursuing these options, an officer should take steps to ensure the individual understands the legal 
+obligation to provide fingerprints and the potential consequences for failing to meet this obligation.  
+Should the individual continue to refuse to provide fingerprints, the administrative options 
+available include: 
+ 
+allowing the individual to withdraw their application to enter Canada at a POE as per R42 
+ 
+preparing an inadmissibility report based on the individual’s non-compliance and/or other 
+inadmissibilities  
+ 
+authorizing entry into Canada for the purpose of further examination as per A23 
+ 
+directing the person to leave Canada at a POE as per R40 
+The failure to provide fingerprints may constitute an offence under A124(1)(a) of the IRPA. If 
+appropriate, an officer should consult with CBSA’ Criminal Investigations Division (CID) regarding 
+the individual failing to comply with a condition or obligation imposed under the Act.  
+R12.1 specifies the claims, applications or requests requiring the collection of biometrics. 
+R12.3(b) provides for the biometric information that is to be collected; photograph and 
+fingerprints.   
+Biometric collection is mandatory for foreign nationals who are: 
+ 
+applying for a temporary resident visa, work permit, or study permit; 
+ 
+citizens of a country or territory on the prescribed country list; and 
+ 
+14 to 79 years of age. 
+Biometrics are collected from all applicants who are making an asylum claim in Canada and are 
+14 years of age and over. 
+Note: The Royal Canadian Mounted Police (RCMP) does not accept the fingerprints of any child 
+aged 12 years or younger.   
+ 
+Privacy notice  
+ 
+In accordance with Treasury Board Policy on Data Protection and Privacy, where a department 
+collects personal information directly from individuals, it is required to inform individuals of the 
+following:  
+ 
+1. the purpose of the collection;  
+2. whether the collection is voluntary or required by law;  
+3. any possible consequences of refusal to respond;  
+ 
+4. that the individual to whom the information pertains has rights to access and protection under 
+the Privacy Act; and  
+5. that the personal information is retained in a Personal Information Bank (PIB). 
+ 
+Accordingly, a Privacy Notice must be posted at all LiveScan automated fingerprint systems sites. 
+ 
+
+
+===== PAGE 49 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+49 
+12.2 Biometrics Expansion 
+The Biometrics Expansion program has expanded biometric (fingerprints and digital photographs) 
+screening and verification to all temporary resident visa (TRV) applicants, work permit (WP), 
+study permit (SP), temporary resident permit (TRP) applicants and all Permanent Resident (PR) 
+applicants.  
+Citizens of the United States are exempt from biometric verification unless they are 
+applying for permanent residence. Also, foreign nationals issued a visitor record at a POE will 
+not be subject to biometric enrolment.  
+For further details, please refer to the Biometrics Toolkit. 
+12.3 Taking fingerprints 
+Officers are to use LiveScan kiosks wherever they are available. Ink and roll prints are only to be 
+used when a LiveScan kiosk is not available and officers are processing applications in the 
+Refugee or Criminal Charges workflows (please refer to section 12.5 for the description of each 
+workflow). For applications in the TR/PR Enrolment Workflow, the collection of fingerprints may 
+be overridden. For information on where the biometrics may be taken, please refer to section 
+12.001 of the IRPR. 
+LiveScan is an automated fingerprint system designed to capture fingerprints in an efficient and 
+accurate manner without the use of ink. LiveScan records ten-print 'plain' fingerprint impressions, 
+ten-print 'rolled' fingerprint impressions, palm prints, writer's palm prints (side of the hand), and 
+client demographic information. LiveScan also records the subject's digital photo, which is 
+electronically printed on the fingerprint form. The fingerprint information is then encrypted and 
+transmitted to the RCMP’s Automated Fingerprint Identification System (AFIS) for search of 
+registered convictions and charges. 
+LiveScan is an enforcement initiative that enhances capacity to electronically transmit biometric 
+fingerprint data to the RCMP/HQ, improve fingerprint quality, reduce response times, and 
+safeguard fingerprint information. 
+Please refer to the LiveScan User Guide or the LiveScan Quick Reference Card for additional 
+information. 
+12.4 Obtaining access to LiveScan/CardScanner 
+Before gaining access to the LiveScan/Cardscanner you must complete a form: 
+ 
+Step 1: Obtain the  LiveScan/CardScanner Acceptance Form by contacting your Regional 
+Coordinator or the LiveScan team at livescan@cbsa-asfc.gc.ca.  
+ 
+Step 2: The Supervisor/Superintendent will email the following to the Regional Coordinator: 
+- 
+First/Last name; 
+- 
+User ID; 
+- 
+Name of the site where access is required; and 
+- 
+Scanned copies of the forms 
+ 
+Step 3: The Regional Coordinator will contact the LiveScan Team at livescan@cbsa-
+asfc.gc.ca. Upon receipt of the required information, the LiveScan team will grant system 
+access. 
+ 
+Please refer to the LiveScan User Guide or the LiveScan Quick Reference Card for additional 
+information. 
+ 
+
+
+===== PAGE 50 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+50 
+12.5 LiveScan kiosk workflows 
+The LiveScan kiosk contains the following workflows: 
+ 
+Criminal Record Check Workflow - (CAR-N) 
+This workflow is a useful tool in determining identity or admissibility. Results obtained through the 
+use of the Criminal Record Check Workflow are accurate and conclusive because they are based 
+on a biometric match as opposed to a simple name and date of birth match. The Criminal Record 
+Check Workflow can be used to confirm a CPIC or NCIC result.  
+ 
+ 
+Criminal Charges Workflow – (CAR-Y) 
+The Criminal Charges Workflow is used when a person is charged with a criminal offence.  
+Currently at the CBSA, the Criminal Charges Workflow is generally used by criminal investigators 
+only. Officers may be required to use Criminal Charges when submitting prints on behalf of other 
+law enforcement partners. 
+ 
+ 
+Deportee Workflow  
+This workflow is used when a person is being deported or removed. 
+ 
+       
+NOTE: Officers should be taking the fingerprints of all:  
+ 
+escorted removals (all escorted removals under a deportation order, including those 
+under a deemed deportation order); 
+ 
+deportees with a criminal record; and 
+ 
+deportees who do not have fingerprints on file. 
+ 
+ 
+Refugee Workflow  
+The Refugee Workflow is used to capture the biographic data, facial image and fingerprints of all 
+refugee applicants over the age of 14. This information is captured for two purposes: to query the 
+AFIS database for registered convictions/charges and/or a previous refugee claim and to store 
+the fingerprint set in the AFIS refugee database. The RCMP retains refugee fingerprints until the 
+claimant becomes a Canadian citizen.   
+ 
+ 
+Civil Workflow 
+All CBSA sites have the authority to submit cases using the Civil Workflow. The Civil Workflow is 
+used to capture fingerprints for civil purposes such as security clearances, employee background 
+verifications, volunteer screenings, etc. All results will go to the Personnel Security Screening Unit 
+at HQ in Ottawa. 
+ 
+ 
+ 
+TR/PR Enrolment Workflow  
+This workflow is used to biometrically enrol eligible travellers through the collection and 
+transmission of biographic information to RCMP for screening against the three (3) main 
+repositories: Criminal, Immigration, and Legacy Refugee. It is also mandatory for all PR 
+applicants over the age of 14 to have their fingerprints collected. The fingerprints serve two 
+main purposes: the first is to query the AFIS database for registered convictions/charges 
+and/or previous refugee claim, the second is to store the fingerprint set in the AFIS IMM 
+database.  
+ 
+Furthermore, when a foreign national or a permanent resident has their fingerprints captured by a 
+Canadian police agency, the CBSA will automatically receive an Unsolicited Criminal Notification 
+(UCN) if they were previously biometrically enrolled by the CBSA or IRCC in the TP/PR or 
+Refugee workflows, including foreign nationals who provided biometrics for their Temporary 
+Resident Visa, Work Permit, Study Permit, or Temporary Resident Permit applications. 
+ 
+
+
+===== PAGE 51 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+51 
+UCNs are only received from police agencies for individuals for whom biometrics were previously 
+collected and ensure that interactions with Canadian police agencies are provided to 
+CBSA/IRCC for consideration in future visa, permit, and admissibility decisions. 
+ 
+For additional information on UCNs, please refer to the Biometrics Toolkit. 
+ 
+ 
+12.6 CardScanner 
+The RCMP no longer accepts ink and roll fingerprint submissions from the CBSA. As such, ink 
+and roll fingerprint submissions will be dealt with in the following manner: 
+ 
+Criminal removal ink and roll fingerprints from Inland Enforcement Officers should be sent to the 
+Fredericton Inland Enforcement Office: 
+Canada Border Services Agency  
+495 Prospect Street 
+Fredericton, NB 
+E3B 9M4 
+Attention: Manager of Enforcement and Intelligence 
+All CBSA offices conducting ink and roll fingerprints for all other reasons, such as refugee 
+claimants and prints taken following arrests or convictions for criminal charges, will now send their 
+C216 forms to a designated regional CBSA office for scanning and submission to the RCMP. 
+Regional LiveScan coordinators will identify and inform your office as to where the C216 forms 
+should be sent for scanning. To identify your Regional Coordinator, please contact the LiveScan 
+Project Team at livescan@cbsa-asfc.gc.ca. All CBSA offices sending ink and roll fingerprints for 
+scanning must include the BSF725 and ensure all necessary fields are properly completed.  
+The CardScan application is used to scan fingerprint cards, palm prints, and photographs.  
+Whether all of these functions are available depends upon the chosen workflow. CardScan allows 
+you to scan the following cards: 
+ 
+C-216 cards; 
+ 
+Right palm print cards; 
+ 
+Left palm print cards; and  
+ 
+Photo  
+ 
+ 
+12.7 Fingerprinting (ink and roll method) 
+The ink and roll method should only be used when LiveScan is not available. To take a proper 
+set of ink and roll fingerprints, an officer needs the following:  
+ 
+a print take ink strip: an inked strip containing a special ink for fingerprinting (some offices use 
+inkless pads); 
+ 
+a print retainer pad: a rubberized pad to hold the ink strip flat; 
+ 
+a print form holder: a holder that contains the fingerprint form; 
+ 
+a pen; and  
+
+
+===== PAGE 52 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+52 
+ 
+a stand or table to hold the materials. 
+Fingerprint forms  
+C-216C (Civil Fingerprint Form): This form is green in colour and is designed for civil purposes 
+such as civil security checks and applications for permanent residence.  
+C-216 (Criminal Fingerprint Form): This form is brown in colour and is designed for criminal 
+record searches or charges. 
+C-216R (Refugee Fingerprint Form): This form is blue in colour and is designed specifically for 
+refugee applicants. The C-216R incorporates the office RC number and the UCI number. The 
+bottom right-hand corner is designed to accept the client’s photo.     
+Loading the fingerprint form:  
+Before inserting the fingerprint form into the holder, the form should be creased horizontally along 
+three lines:  
+ 
+the horizontal spaces designated for rolled impressions of the right hand;  
+ 
+the spaces for the rolled impressions of the left hand; and  
+ 
+the space for the plain impression.  
+Note: Creasing fingerprint forms is only done for ink-roll procedures.  
+12.8 Fingerprinting the person (ink and roll) 
+To take ink roll fingerprint impressions, an officer should:  
+ 
+beginning with the person's right hand and with the fingers closed, grasp the right thumb at 
+the base with either the right or left hand (depending on which side of the person an officer is 
+standing), supporting its tip with the thumb and index finger of the other hand; 
+ 
+roll the thumb on the ink strip so that the entire bulbous portion (the fingerprint pattern area) is 
+inked, from one edge of the nail to the other, and covering the area from the crease of the 
+end joint to the tip of the digit as far as the rolling will permit; 
+ 
+while still maintaining hold of it, roll the thumb firmly with a similar, continuous and even 
+motion, on the designated right-thumb area of the fingerprint form, rotating the digit a full half 
+turn, again from one edge of the nail to the other; this complete rolling is absolutely necessary 
+to ensure that the entire pattern is reproduced for correct classification; 
+ 
+ink each of the four fingers of the hand and reproduce them in their respective order in exactly 
+the same manner, and then follow with the left hand. 
+When fingerprinting the thumb or any finger, it is important that the person holds their remaining 
+digits in a clenched hand formation (a fist), so that they do not in any way interfere with the inking 
+and printing movement. 
+Requirements for good fingerprints: 
+ 
+Clearly defined rolled impressions (cores and deltas must be present). 
+ 
+Clearly defined plain (slap) impressions. 
+ 
+Clearly defined palm prints. 
+
+
+===== PAGE 53 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+53 
+ 
+Clearly defined ridges (no smears, smudging, broken lines or distortion).  
+Taking good fingerprints  
+To take good fingerprints, an officer should:  
+ 
+before taking the first set of prints, ask for a demonstration from an experienced officer; 
+ 
+practice taking a colleague's prints; 
+ 
+not roll the subject's fingerprint on the ink pad in the same place twice; re-attach the ink pad 
+cover and rub it to smooth out the ridges in the ink; 
+ 
+not apply too much pressure to the finger when taking the print; (The darkness of the 
+fingerprint on the form is a result of the amount of ink used, not the pressure. If done properly, 
+the weight of the finger should be sufficient to produce a good quality print as long as the 
+officer inked the finger properly.) 
+ 
+develop a routine by printing the fingers in the order in which they appear on the form; at all 
+times, start with the right thumb, continuing with the right index through to the right little finger, 
+and then following with the left thumb, and left forefinger through to the left little finger. 
+(Misplaced rolled impressions on the fingerprint form would result in a non-existent 
+classification, which could never be successfully searched in the fingerprint bureau.) 
+ 
+roll thumbs inwardly and fingers outwardly. While there is no set rule governing the direction 
+of rotation of the digits during the inking and printing process, experience has shown that 
+there is a natural tendency for thumbs to yield to an inwardly rotating motion (rolling the right 
+thumb counter clockwise and the left thumb clockwise) and for the fingers to an outwardly 
+rotating motion (rolling the right hand fingers clockwise and those of the left hand counter 
+clockwise). 
+ 
+always centre the core area of the rolled impressions. 
+Plain impressions of hand 
+To take plain impressions in the lower portion of the fingerprint form, the officer should:  
+ 
+take the impressions with the four fingers of the hand extended; 
+ 
+working with one hand at a time, place the fingers simultaneously on the ink strip, applying 
+firm pressure equally to all to ensure even inking; 
+ 
+place the hand on the appropriate space on the form, again exerting even pressure to ensure 
+uniform simultaneous printing; 
+ 
+allow for flattening of the inked fingers. The fingers should not be held together too tightly. 
+This will ensure the reproduction of the greatest possible portion of the pattern in each finger. 
+Ink and record the thumbs similarly in the appropriate spaces without rolling.  
+Plain impressions serve to verify the accuracy of the sequence of the rolled impressions for the 
+classifier and searcher in the Fingerprint Section of the RCMP.  
+ 
+
+
+===== PAGE 54 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+54 
+12.9 Fingerprint search under the Migration Five High Value Data Sharing Protocol  
+IRCC and CBSA officers may submit a request to have fingerprints searched against the 
+immigration fingerprint holdings of a Migration Five (M5) partner country (Australia, New Zealand, 
+the United Kingdom and the United States).  In the case of requests to Australia, New Zealand 
+and the United States, officers should use GCMS to initiate queries. If a query has not been auto-
+sent, an officer may manually initiate a query under the High Value Data Sharing Protocol 
+(HVDSP) provided no exemptions apply.  
+Requests to the United Kingdom should also be conducted according to the HVDSP. 
+HVDSP: 
+Requests will be reviewed by the Migration 5 Units at IRCC and CBSA  Headquarters (HQ). HQ 
+will decide whether or not to make a formal request under the Protocol. 
+Requests may be sent to IRCC or CBSA HQ using the Request for Fingerprints Search form IMM 
+5674 when both of the following conditions apply: 
+ 
+There are grounds to believe that a refugee claimant or a person found to be a refugee 
+by the RPD may have claimed asylum in a Five Country Conference partner country; and  
+ 
+Confirmation of that contact would have an impact on any proceeding carried out under 
+the IRPA. 
+Requests should not be made for persons who: 
+ 
+Are known to be citizens of an M5 country; or 
+ 
+Are making a refugee claim against an M5 country. 
+Please note that any fingerprints sent to the UK must be sent within 30 days of enrollment. 
+However, if more than 30 days but less than 90 days have passed, only ink and rolled fingerprints  
+can be sent.   
+ 
+For additional details on information sharing and the HVDSP, please consult the Biometrics 
+Toolkit. 
+13. Procedure: Photographing 
+13.1 Authority to photograph 
+Section A10.01 and subsection A16(2) provide the legal authority to photograph foreign nationals 
+making a claim, application or request under the Act. This includes but is not limited to foreign 
+nationals who are applying: 
+ 
+to enter Canada; 
+ 
+for visas or other documents at a visa office;  
+ 
+for permanent residence in Canada;  
+ 
+to vary or cancel conditions imposed; or 
+ 
+for refugee protection. 
+
+
+===== PAGE 55 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+55 
+A16(3) provides authority to photograph any permanent resident or foreign national who is 
+arrested, detained, subject to an examination or a removal order that may be used to establish 
+their identity or compliance with the Act. Officers should be considerate of religious and cultural 
+sensitivities when taking photographs (e.g. photographing women who wear a veil) and try to 
+accommodate the person being photographed whenever possible.  
+ 
+R12.1 lists the prescribed foreign nationals required to submit biometric information.  
+ 
+R12.3 specifically states that the prescribed biometric information to be collected is a photograph 
+of the foreign national.   
+13.2 Taking photographs  
+While it is recognized that photographs may not always be taken under optimal conditions, it is 
+important that officers take the best quality photographs possible. Photographs are an asset when 
+trying to locate an individual, issuing a warrant for arrest and for removal arrangements.   
+Officers are required to scan and upload photographs to GCMS (eDocs) in addition to placing 
+them on the physical file. Circumstances may occur where the file cannot be physically 
+transferred to another office, therefore granting access to the photo will assist in confirming 
+identity.   
+When taking photographs, officers should: 
+ 
+ensure there is uniform lighting and not show shadows, glare or flash reflections; 
+ 
+select a plain white background with a clear difference between the face and the background; 
+ 
+have sunglasses, tinted eye glasses, excessive jewellery, hats and head coverings (unless 
+they are worn daily for religious beliefs or medical reasons) or anything that may impair the 
+picture removed; 
+ 
+ ensure that if the hair is worn down it does not cover the face or ears; 
+ 
+ensure that if glasses are worn, the eyes are clearly visible and there is no glare in the 
+glasses; 
+ 
+ensure the photo is taken with a neutral facial expression (person’s eyes are open and clearly 
+visible, mouth closed, no smiling); 
+ 
+ensure the photo is 50 mm wide X 70 mm high (2 inches wide x 2-3/4 inches long) and sized 
+so the height of the face measures between 31 mm (1-1/4 inches) and 36 mm (1-7/16 inches) 
+from chin to crown of head; 
+ 
+ensure the photo is taken straight on, with face and shoulders centred and squared to the 
+camera (i.e. the photograph must show the full front view of the person’s head and shoulders, 
+showing full face centred in the middle of the photograph); 
+ 
+retake the picture making the appropriate adjustments if the quality of the photo is poor. 
+Officers should take as many pictures as they deem reasonable. Extra pictures should be taken 
+and attached to the person’s file to be used as necessary at a later date. An optimal photo should 
+conform to the following sample: 
+
+
+===== PAGE 56 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+56 
+ 
+Note: Not actual size, refer to measurements above. 
+13.3 Photographing minors 
+A16 provides authority to photograph foreign nationals making an application and this includes 
+minor children. A photograph can be an important means of identifying a child. 
+An officer should keep in mind that the comfort level of the child is very important. It is usually 
+best to photograph a child in the presence of a parent or guardian. A very young child who is not 
+comfortable being photographed alone may be photographed in the arms of a parent or legal 
+guardian. 
+13.4 Photographing Tattoos 
+ 
+Subsection A16(3) does not give officers the legal authority to conduct searches and take 
+photographs of tattoos. Therefore, officers must rely on section A139 if they wish to do so. This 
+means that officers need to have reasonable grounds to believe that circumstances described in 
+A139(1)(a) or A139(1)(b) apply in order to perform a search and be able to articulate why the 
+search was done. It is only in the context of a legal search as described in A139 and if an officer 
+were to incidentally come across any tattoos, that may support information relating to an IRPA 
+inadmissibility, that an officer may take a photograph. Therefore, photographing tattoos at a Port 
+of Entry should only be done in exceptional cases when a photograph of the tattoo combined with 
+other information could provide evidence of an IRPA inadmissibility on any grounds (e.g. criminal 
+inadmissibility, organized crime, security, war crimes, etc.). In such cases that an individual must 
+disrobe for a tattoo to be photographed, procedures outlined in section 6.11 on Conducting 
+Disrobement Searches should be followed. If no link to an inadmissibility proceeding is being 
+pursued or exists, officers may note a presence of visible tattoos with a description in GCMS as a 
+personal identifier in the event the person is later subject to IRPA enforcement action. Officers 
+should not, however, rely on A139 IRPA search authority to collect information on tattoos merely 
+for intelligence collection purposes.  
+ 
+ 
+ 
+
+
+===== PAGE 57 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+57 
+Appendix A: Sample of a summary/report for a seized vehicle  
+The following case summary may be modified depending on whether the vehicle is seized from its owner, 
+has been borrowed, or is a vehicle owned by a rental company. 
+ 
+ 
+ 
+Case summary 
+[Date of case summary]  
+ 
+Automobile Seizure - A140 
+ 
+[name of lawful owner, name of person who borrowed the vehicle if applicable, or name of 
+rental company] 
+ 
+Date of seizure: [date]  
+Place of seizure: [name of POE] 
+Vehicle data: [year and make/model] 
+VIN # [indicate vehicle’s VIN number] 
+Licence: [enter vehicle’s licence plate] 
+Estimated Value: [indicate the vehicle’s estimated value and how you arrived at this amount, for 
+example by consulting the Red Book and/or a dealership] 
+Owner:  [name and address of the vehicle’s lawful owner. This may also be the name of a car 
+rental company] 
+The person(s) involved:  
+[identify the driver and the passengers in the vehicle, if applicable. Indicate their status in Canada 
+and any documents provided in support.] 
+ 
+ 
+ 
+ 
+ 
+ 
+              
+Circumstances relating to the seizure:  
+[explain what happened during the primary and secondary examinations and what led the officer 
+to seize the vehicle.] 
+ 
+Name and signature of officer 
+ 
+
+
+===== PAGE 58 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+58 
+Appendix B: Sample memorandum to DG for decision on an application for the 
+return of a seized vehicle 
+ 
+Departmental Memorandum  
+ 
+To: 
+ ******************* 
+From: 
+ Officer  
+ 
+ Director General 
+ 
+ Position 
+ 
+              Region 
+ 
+ Office 
+ 
+SUBJECT: Application under [section of the Regulations] for the return of a seized vehicle 
+FOR DECISION: as soon as possible 
+A car [owned, borrowed or rented] by [name of owner/rental company or person from whom it was seized] was 
+seized at the port of [name of port of entry and province where it is located] on [date of seizure]. It is recommended 
+that you decide to [return/not return] this car to [lawful owner/rental company or person from whom it was seized]. 
+ 
+Issue: 
+The purpose of this memorandum is to ask you to decide, pursuant to subsection [insert relevant 
+subsection under R254 or R255]  of the Immigration and Refugee Protection Regulations, that the 
+vehicle [owned, borrowed or rented] by [insert name of lawful owner/rental company or name of 
+the person from whom the vehicle was seized] that was seized because it was [explain why the 
+vehicle was seized, e.g. because it was improperly obtained and used] and that it [should/should 
+not] be returned to [lawful owner/rental company or to the person from whom it was seized]. 
+ 
+Background: 
+The car was seized pursuant to section 140 of the Immigration and Refugee Protection Act by an 
+officer who had reasonable grounds to believe that it was [indicate the reason for the seizure. For 
+example, it was improperly used]. 
+ 
+[In a few sentences, explain why the vehicle was seized and what elements led 
+the officers to seize the vehicle]. 
+ 
+Considerations: 
+Pursuant to subsection [indicate which subsection applies] of the Regulations, the [lawful 
+owner/rental company or the person from whom the vehicle was seized] may, within 60 days, 
+apply for its return. 
+[Name of lawful owner/rental car company or person from whom the vehicle was seized] initiated 
+this process by letter dated [date of letter] and, in support of their application, they provided [list all 
+documents provided in support of the application for the return of the vehicle].  
+I have reviewed the evidence and believe that [lawful owner/rental car company or person from 
+whom the vehicle was seized] meets [does not meet] the conditions imposed under Regulation 
+[indicate which subsection applies] and that they are entitled [or not entitled] to recover the 
+vehicle. 
+
+
+===== PAGE 59 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+59 
+[Name of lawful owner/rental car vehicle or person from whom the vehicle was seized] will be 
+informed of your decision and reasons as required under R257. 
+ 
+Recommendation: 
+Given the evidence submitted, I recommend that the seized vehicle be [returned or not returned] 
+to [lawful owner/rental car company or person from whom the vehicle was seized]. Please confirm 
+if you agree with the recommendation by checking one of the boxes below and signing this letter 
+and the decision document. 
+Officer name and signature 
+ 
+ 
+DG’s response: 
+ I approve 
+ I do not approve 
+ 
+Dated at ______________________ this ______day of __________, 20XX 
+ 
+______________________________ 
+Director General (name and signature) 
+ 
+_________________________ 
+Region 
+ 
+ 
+Attachments:  - Case summary. 
+ 
+ 
+ 
+- Decision document. 
+
+
+===== PAGE 60 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+60 
+Appendix C: Sample of a decision to return a seized vehicle 
+Decision in respect to a vehicle that was seized  
+Section 140 of the Immigration and Refugee Protection Act 
+I am [satisfied/not satisfied] that [name of lawful owner/rental company or name of the person from whom 
+the vehicle was seized] meets the conditions of subsection [indicate which subsection of R254 or R255 
+applies] of the Immigration and Refugee Protection Regulations in that they have [demonstrated/not 
+demonstrated] that they: 
+[List what the applicant needed to demonstrate under the subsection previously mentioned. For example, 
+the person who was the lawful owner of the vehicle prior to its seizure and has remained the lawful owner; 
+the person did not participate in the fraudulent or improper use of the vehicle, etc.] 
+I have decided that the [year and make/model of the vehicle, VIN#, licence plate details] that was seized 
+at [POE] on [date of seizure] [should/should not] be returned to [lawful owner/rental company or person 
+from whom it was seized] 
+ 
+Dated at __________ this _____ day of _____ , 202X  
+ 
+________________ 
+ Director General (Name and signature) 
+________________  
+Region 
+
+
+===== PAGE 61 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+61 
+Appendix D: Sample – Notice of decision and reasons - Return of a seized vehicle 
+ 
+[Name of lawful owner/person from the car rental company or name of person from whom the 
+vehicle was seized 
+[Name of car rental company if applicable] 
+[Address] 
+Re: 
+Seizure of [year, make and model of vehicle] 
+ 
+VIN#:  
+ 
+Licence: xxxxxxx 
+Dear [Name]: 
+Your letter of [date of letter received for the return of a vehicle] refers. 
+As required by section 257 of the Immigration and Refugee Protection Regulations, I am writing to 
+notify you that the Director General, ____________ Region, has decided that this vehicle 
+[should/should not] be returned to [lawful owner/car rental company or person from whom it was 
+seized] 
+The car was seized pursuant to section 140 of the Immigration and Refugee Protection Act by an 
+officer who had reasonable grounds to believe that the seizure was necessary because [add 
+reason for seizure. For example, it was improperly obtained or used]. The evidence shows that 
+[give the evidence that supports the decision to seize the vehicle. For example, the vehicle was 
+used in connection with an offence under subsection 117(1) of the Act].  
+[If you referred to a section/subsection of the Act in the previous paragraph, you may want 
+to cite the particular section/subsection. For instance, subsection 117(1) of the Act 
+provides that: 
+“No person shall knowingly organize, induce, aid or abet the coming into Canada of one or 
+more persons who are not in possession of a visa, passport or other document required 
+by this Act.”] 
+In this case, the officer had reasonable grounds to believe that [explain what happened during the 
+examination and why the vehicle was seized] 
+In view of the evidence that you presented and under the terms of subsection [indicate which 
+subsection of R254 or R255 applies] of the Regulations, the Director General decided that the car 
+[should/should not] be returned to [lawful owner/car rental company or person from whom the 
+vehicle was seized]. A copy of the decision is attached for your information. 
+Please contact [port of entry or contact person] in order to arrange for the return of this car.[If 
+applicable] 
+ 
+[If the application to return was made by the person from whom the vehicle was seized, 
+you may add the following: The decision will not prevent (name of lawful owner) from 
+applying for the return of their vehicle.] 
+Sincerely, 
+ 
+__________________ 
+Name and signature of officer 
+
+
+===== PAGE 62 =====
+ENF 12: Search, Seizure, Fingerprinting and Photographing 
+ 
+2022-11-18  
+ 
+62 
+ 
+Enclosed: copy of the decision.  
+ 

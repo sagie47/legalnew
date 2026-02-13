@@ -1,0 +1,42 @@
+{
+  "source_id": "pdi_b5372216d765",
+  "source_type": "guidance_pdi",
+  "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/permits/work-study-permits.html",
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/permits/work-study-permits.html",
+  "title": "Temporary resident permits: Work and study permits",
+  "language": "en",
+  "manual": "Temporary resident permits: Work and study permits",
+  "chapter": null,
+  "heading_path": [
+    "Temporary resident permits: Work and study permits"
+  ],
+  "last_updated": null,
+  "crawl_ts": "2026-02-12T00:00:00Z",
+  "http": {
+    "status_code": 200,
+    "content_type": "text/markdown"
+  },
+  "content_hash": "9456f7663824b6756f4ae9c6bb7ab667ea1e216acc218930bc43d9e5c51088ed",
+  "raw_html_path": null,
+  "markdown_path": "scripts/scraper/ircc_data_clean/work-study-permits-b5372216d7.md",
+  "text": "Temporary resident permits: Work and study permits",
+  "sections": [
+    {
+      "heading": "Temporary resident permits: Work and study permits",
+      "heading_path": [
+        "Temporary resident permits: Work and study permits"
+      ],
+      "anchor": "#temporary-resident-permits-work-and-study-permits",
+      "text": "Temporary resident permits: Work and study permits"
+    }
+  ],
+  "links": {
+    "outbound": [],
+    "internal_children": []
+  },
+  "quality": {
+    "is_toc_like": false,
+    "is_low_text": true,
+    "notes": []
+  }
+}
