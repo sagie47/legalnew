@@ -219,6 +219,26 @@ Phase 0 acceptance checks junior should run:
   - new utility: `server/rag/auditTrace.js`
   - `/api/chat` now emits structured trace events/summaries when `AUDIT_TRACE_ENABLED=true`
   - trace summary is included under `debug.auditTrace` in chat responses when debug is enabled
+- Advanced S3 runtime wiring completed:
+  - phase-level trace capture added for `RETRIEVAL`, `ROUTING`, `GROUNDING`, `GENERATION`, `VALIDATION`, `RESPONSE_GUARD`
+  - trace contract adapter + validator added:
+    - `buildAuditRunTraceContract(...)`
+    - `validateAuditRunTraceContract(...)`
+  - `/api/chat` debug payload now includes:
+    - `debug.auditTraceContract`
+    - `debug.auditTraceContractValidation`
+  - optional structured trace logging enabled via env flags:
+    - `AUDIT_TRACE_PERSIST_LOG`
+    - `AUDIT_TRACE_SAMPLE_RATE`
+  - analysis date context now supports:
+    - `today`
+    - `explicit_as_of` (`asOf`/`as_of`)
+    - `application_date` (`applicationDate`/`lockInDate`)
+  - added unit coverage: `server/rag/__tests__/auditTrace.test.js`
+- Junior progress status:
+  - J2 completed: source policy config + allowlist/blocklist tests
+  - J3 completed: eval harness scaffold (`eval/run_eval.js` + gold template)
+  - J4 completed: CI workflow for Phase 0 schema/source-policy checks
 - Delegation policy updated to junior-first:
   - junior assigned J1-J7 tracks (contracts, config, eval/CI scaffolding, runbooks, gold set)
   - senior limited to complex control-plane arbitration and policy/runtime guard semantics

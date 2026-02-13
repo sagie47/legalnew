@@ -9,10 +9,15 @@ import { chunkUserDocumentText, rankDocumentChunks } from './rag/documents.js';
 import { enforceAuthorityGuard } from './rag/responseGuard.js';
 import {
   appendRunTraceEvent,
+  buildAuditRunTraceContract,
   buildPromptHashes,
+  completeRunTracePhase,
   finalizeRunTrace,
+  persistRunTraceLog,
   startRunTrace,
+  startRunTracePhase,
   summarizeRunTrace,
+  validateAuditRunTraceContract,
 } from './rag/auditTrace.js';
 import { routeIntent } from './rag/router.js';
 import { detectPromptInjection, isRcicRelatedQuery, sanitizeUserMessage } from './rag/security.js';
@@ -76,6 +81,40 @@ function deriveFailureState(issues = []) {
   if (set.has('binding_claim_without_binding_citation')) return 'CITATION_MISMATCH';
   if (set.has('temporal_claim_without_effective_date')) return 'STALE_VOLATILE_SOURCE';
   return '';
+}
+
+function extractDateCandidate(value) {
+  if (typeof value !== 'string') return '';
+  const text = value.trim();
+  return /^\d{4}-\d{2}-\d{2}$/.test(text) ? text : '';
+}
+
+function resolveAnalysisDateContext(body = {}) {
+  const explicitAsOf = extractDateCandidate(body?.asOf || body?.as_of);
+  if (explicitAsOf) {
+    return {
+      analysisDateBasis: 'explicit_as_of',
+      asOfDate: explicitAsOf,
+    };
+  }
+
+  const applicationDate = extractDateCandidate(
+    body?.applicationDate
+    || body?.application_date
+    || body?.lockInDate
+    || body?.lock_in_date
+  );
+  if (applicationDate) {
+    return {
+      analysisDateBasis: 'application_date',
+      asOfDate: applicationDate,
+    };
+  }
+
+  return {
+    analysisDateBasis: 'today',
+    asOfDate: new Date().toISOString().slice(0, 10),
+  };
 }
 
 app.get('/api/history', async (req, res) => {
@@ -213,8 +252,11 @@ app.post('/api/chat', async (req, res) => {
   const a2ajCaseLawEnabled = boolFlag(process.env.A2AJ_CASELAW_ENABLED, true);
   const a2ajLegislationEnabled = boolFlag(process.env.A2AJ_LEGISLATION_ENABLED, false);
   const defaultA2ajTopK = Number(process.env.A2AJ_TOP_K || 4);
+  const { analysisDateBasis, asOfDate } = resolveAnalysisDateContext(req.body || {});
   const auditTraceEnabled = boolFlag(process.env.AUDIT_TRACE_ENABLED, false);
   const auditTraceIncludeRedactedPrompt = boolFlag(process.env.AUDIT_TRACE_INCLUDE_REDACTED_PROMPT, false);
+  const auditTracePersistLog = boolFlag(process.env.AUDIT_TRACE_PERSIST_LOG, true);
+  const auditTraceSampleRate = Number(process.env.AUDIT_TRACE_SAMPLE_RATE || 1);
   const auditBudgets = {
     maxToolCalls: Number(process.env.RAG_MAX_TOOL_CALLS || 8),
     maxLiveFetches: Number(process.env.RAG_MAX_LIVE_FETCHES || 3),
@@ -225,8 +267,10 @@ app.post('/api/chat', async (req, res) => {
     runTrace = startRunTrace({
       sessionId,
       message,
-      analysisDateBasis: 'today',
+      analysisDateBasis,
+      asOfDate,
       includeRedactedMessage: auditTraceIncludeRedactedPrompt,
+      topK,
       budgets: auditBudgets,
       modelVersion: process.env.GROQ_MODEL || 'llama-3.3-70b-versatile',
       promptVersion: process.env.PROMPT_VERSION || 'v1',
@@ -244,6 +288,12 @@ app.post('/api/chat', async (req, res) => {
     let history = [];
     if (dbEnabled()) {
       userId = await ensureUser({ externalAuthId, email });
+      if (runTrace && userId) {
+        runTrace.inputs = {
+          ...(runTrace.inputs || {}),
+          userId,
+        };
+      }
       const title = message.slice(0, 80);
       let session = await ensureSession({ sessionId, userId, title });
       if (!session) {
@@ -273,6 +323,17 @@ app.post('/api/chat', async (req, res) => {
 
     if (promptInjectionBlockingEnabled && promptSafety.detected && !rcicRelated) {
       const blockedText = 'I can only assist with RCIC-focused Canadian immigration research. Please rephrase your question without instruction-overrides.';
+      startRunTracePhase(runTrace, 'ROUTING', {
+        prompt_injection_detected: true,
+        rcic_related: rcicRelated,
+      });
+      completeRunTracePhase(runTrace, 'ROUTING', {
+        status: 'FAILED',
+        outputs: {
+          blocked: true,
+          reason: 'prompt_injection_out_of_scope',
+        },
+      });
       if (dbEnabled() && userId) {
         await appendMessage({
           sessionId,
@@ -290,6 +351,13 @@ app.post('/api/chat', async (req, res) => {
         responseText: blockedText,
         citations: [],
       });
+      const auditTraceContract = runTrace ? buildAuditRunTraceContract(runTrace) : null;
+      const auditTraceContractValidation = auditTraceContract
+        ? validateAuditRunTraceContract(auditTraceContract)
+        : null;
+      if (runTrace && auditTraceEnabled && auditTracePersistLog) {
+        persistRunTraceLog(runTrace, { sampleRate: auditTraceSampleRate });
+      }
       return res.json({
         text: blockedText,
         citations: [],
@@ -299,19 +367,51 @@ app.post('/api/chat', async (req, res) => {
               debug: {
                 promptSafety,
                 rcicRelated,
+                analysisDate: {
+                  basis: analysisDateBasis,
+                  asOf: asOfDate,
+                },
                 auditTrace: summarizeRunTrace(runTrace),
+                auditTraceContract,
+                auditTraceContractValidation,
               },
             }
           : {}),
       });
     }
 
+    startRunTracePhase(runTrace, 'RETRIEVAL', {
+      top_k: topK,
+      analysis_date_basis: analysisDateBasis,
+      as_of_date: asOfDate,
+    });
     const grounding = await retrieveGrounding({ query: effectiveMessage, topK });
+    completeRunTracePhase(runTrace, 'RETRIEVAL', {
+      outputs: {
+        pinecone_count: Array.isArray(grounding?.pinecone) ? grounding.pinecone.length : 0,
+        tier_a_count: Number(grounding?.retrieval?.tiers?.binding?.count || 0),
+        tier_b_count: Number(grounding?.retrieval?.tiers?.guidance?.count || 0),
+        tier_c_count: Number(grounding?.retrieval?.tiers?.compare?.count || 0),
+      },
+    });
+
+    startRunTracePhase(runTrace, 'ROUTING', {
+      a2aj_enabled: a2ajEnabled,
+      a2aj_case_law_enabled: a2ajCaseLawEnabled,
+      a2aj_legislation_enabled: a2ajLegislationEnabled,
+    });
     const routeDecision = await routeIntent({
       message: effectiveMessage,
       a2ajEnabled,
       a2ajCaseLawEnabled,
       a2ajLegislationEnabled,
+    });
+    completeRunTracePhase(runTrace, 'ROUTING', {
+      outputs: {
+        use_case_law: Boolean(routeDecision?.useCaseLaw),
+        use_legislation: Boolean(routeDecision?.useLegislation),
+        route_limit: Number(routeDecision?.limit || 0),
+      },
     });
     appendRunTraceEvent(runTrace, 'retrieval_complete', {
       queryHash: grounding?.retrieval?.queryHash || '',
@@ -374,6 +474,11 @@ app.post('/api/chat', async (req, res) => {
       }
     }
 
+    startRunTracePhase(runTrace, 'GROUNDING', {
+      history_count: Array.isArray(history) ? history.length : 0,
+      prior_case_law_count: caseLawSources.length,
+      prior_document_count: documentSources.length,
+    });
     const { system, user, citationMap } = buildPrompt({
       query: effectiveMessage,
       grounding: {
@@ -383,29 +488,60 @@ app.post('/api/chat', async (req, res) => {
       },
       history,
     });
+    completeRunTracePhase(runTrace, 'GROUNDING', {
+      outputs: {
+        citation_map_size: Object.keys(citationMap || {}).length,
+        case_law_count: caseLawSources.length,
+        document_count: documentSources.length,
+      },
+    });
     appendRunTraceEvent(runTrace, 'prompt_built', buildPromptHashes({
       systemPrompt: system,
       userPrompt: user,
     }));
 
+    startRunTracePhase(runTrace, 'GENERATION', {
+      model: process.env.GROQ_MODEL || 'llama-3.3-70b-versatile',
+    });
     const { text } = await groqAnswer({
       systemPrompt: system,
       userPrompt: user,
       model: process.env.GROQ_MODEL || 'llama-3.3-70b-versatile',
     });
+    completeRunTracePhase(runTrace, 'GENERATION', {
+      outputs: {
+        response_chars: String(text || '').length,
+      },
+    });
 
+    startRunTracePhase(runTrace, 'RESPONSE_GUARD');
     const validatedText = validateCitationTokens(text, citationMap);
     const guardResult = enforceAuthorityGuard({
       text: validatedText,
       citationMap,
       retrieval: grounding?.retrieval,
     });
+    const failureState = deriveFailureState(guardResult.issues);
+    completeRunTracePhase(runTrace, 'RESPONSE_GUARD', {
+      status: failureState ? 'PARTIAL' : 'SUCCESS',
+      outputs: {
+        guard_issue_count: Array.isArray(guardResult?.issues) ? guardResult.issues.length : 0,
+        failure_state: failureState || 'NONE',
+      },
+    });
+
+    startRunTracePhase(runTrace, 'VALIDATION');
     const guardedText = validateCitationTokens(guardResult.text, citationMap);
     const citationIds = extractCitations(guardedText);
     const citations = citationIds
       .map((id) => buildCitationFromSource(id, citationMap[id] || {}))
       .filter(Boolean);
-    const failureState = deriveFailureState(guardResult.issues);
+    completeRunTracePhase(runTrace, 'VALIDATION', {
+      outputs: {
+        citation_id_count: citationIds.length,
+        citation_count: citations.length,
+      },
+    });
     appendRunTraceEvent(runTrace, 'validation_complete', {
       guardIssues: guardResult.issues,
       citationIds,
@@ -429,6 +565,13 @@ app.post('/api/chat', async (req, res) => {
       responseText: guardedText,
       citations,
     });
+    const auditTraceContract = runTrace ? buildAuditRunTraceContract(runTrace) : null;
+    const auditTraceContractValidation = auditTraceContract
+      ? validateAuditRunTraceContract(auditTraceContract)
+      : null;
+    if (runTrace && auditTraceEnabled && auditTracePersistLog) {
+      persistRunTraceLog(runTrace, { sampleRate: auditTraceSampleRate });
+    }
 
     const payload = {
       text: guardedText,
@@ -440,6 +583,10 @@ app.post('/api/chat', async (req, res) => {
               routeDecision,
               promptSafety,
               rcicRelated,
+              analysisDate: {
+                basis: analysisDateBasis,
+                asOf: asOfDate,
+              },
               pineconeCount: Array.isArray(grounding.pinecone) ? grounding.pinecone.length : 0,
               caseLawCount: caseLawSources.length,
               documentCount: documentSources.length,
@@ -451,6 +598,8 @@ app.post('/api/chat', async (req, res) => {
                 fetchTopK: Number(process.env.A2AJ_FETCH_DETAILS_TOP_K) || 3,
               },
               auditTrace: summarizeRunTrace(runTrace),
+              auditTraceContract,
+              auditTraceContractValidation,
             },
           }
         : {}),
@@ -459,6 +608,10 @@ app.post('/api/chat', async (req, res) => {
     return res.json(payload);
   } catch (error) {
     console.error('Chat error:', error);
+    completeRunTracePhase(runTrace, 'VALIDATION', {
+      status: 'FAILED',
+      errors: [{ code: 'CHAT_ERROR', message: error?.message || 'Unhandled chat error' }],
+    });
     finalizeRunTrace(runTrace, {
       status: 'error',
       responseText: '',
@@ -466,6 +619,13 @@ app.post('/api/chat', async (req, res) => {
       errorCode: 'CHAT_ERROR',
       errorMessage: error?.message || 'Unhandled chat error',
     });
+    const auditTraceContract = runTrace ? buildAuditRunTraceContract(runTrace) : null;
+    const auditTraceContractValidation = auditTraceContract
+      ? validateAuditRunTraceContract(auditTraceContract)
+      : null;
+    if (runTrace && auditTraceEnabled && auditTracePersistLog) {
+      persistRunTraceLog(runTrace, { sampleRate: auditTraceSampleRate });
+    }
     return res.status(500).json({
       text: 'Server error while generating response.',
       citations: [],
@@ -473,7 +633,13 @@ app.post('/api/chat', async (req, res) => {
       ...(debugEnabled
         ? {
             debug: {
+              analysisDate: {
+                basis: analysisDateBasis,
+                asOf: asOfDate,
+              },
               auditTrace: summarizeRunTrace(runTrace),
+              auditTraceContract,
+              auditTraceContractValidation,
             },
           }
         : {}),
