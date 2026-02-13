@@ -261,6 +261,9 @@ Phase 0 acceptance checks junior should run:
     - deterministic precedence exported via `failureStatePrecedence()`
     - runtime policy spec added: `docs/PHASE1_RUNTIME_POLICY.md`
     - roadmap failure-state set updated to include `BUDGET_EXCEEDED` and `INSUFFICIENT_FACTS`
+  - S3/S4 closeout:
+    - Phase 1 sign-off memo added: `docs/PHASE1_SIGNOFF.md`
+    - decision: `GO (Conditional)` with non-blocking operational hardening items
 - Junior progress status:
   - J2 completed: source policy config + allowlist/blocklist tests
   - J3 completed: eval harness scaffold (`eval/run_eval.js` + gold template)
