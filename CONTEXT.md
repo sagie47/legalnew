@@ -247,6 +247,9 @@ Phase 0 acceptance checks junior should run:
     - `budget`
   - added unit coverage:
     - `server/rag/__tests__/failureStates.test.js`
+  - sign-off memo added:
+    - `docs/PHASE0_SIGNOFF.md`
+    - decision: `GO (Conditional)` for Phase 0 completion
 - Junior progress status:
   - J2 completed: source policy config + allowlist/blocklist tests
   - J3 completed: eval harness scaffold (`eval/run_eval.js` + gold template)
