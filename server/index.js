@@ -6,6 +6,14 @@ import { a2ajEnrichCaseSources, a2ajSearchDecisions, a2ajToCaseSources } from '.
 import { retrieveGrounding, buildPrompt, extractCitations, validateCitationTokens } from './rag/grounding.js';
 import { buildCitationFromSource } from './rag/citations.js';
 import { chunkUserDocumentText, rankDocumentChunks } from './rag/documents.js';
+import { enforceAuthorityGuard } from './rag/responseGuard.js';
+import {
+  appendRunTraceEvent,
+  buildPromptHashes,
+  finalizeRunTrace,
+  startRunTrace,
+  summarizeRunTrace,
+} from './rag/auditTrace.js';
 import { routeIntent } from './rag/router.js';
 import { detectPromptInjection, isRcicRelatedQuery, sanitizeUserMessage } from './rag/security.js';
 import {
@@ -22,13 +30,13 @@ import {
 } from './db.js';
 import { ingestPdiUrls, resolveIngestUrls } from './ingest/pdi/index.js';
 
-dotenv.config();
+dotenv.config({ override: true });
 
 const app = express();
 app.use(express.json());
 
 app.get('/api/health', (_req, res) => {
-  res.json({ ok: true });
+  res.json({ ok: true, pineconeNamespace: process.env.PINECONE_NAMESPACE || null });
 });
 
 function boolFlag(value, defaultValue) {
@@ -60,6 +68,14 @@ function normalizeDocTitle(value) {
   if (typeof value !== 'string') return 'Uploaded Document';
   const cleaned = value.trim();
   return cleaned || 'Uploaded Document';
+}
+
+function deriveFailureState(issues = []) {
+  const set = new Set(Array.isArray(issues) ? issues : []);
+  if (set.has('no_binding_authority_found')) return 'NO_BINDING_AUTHORITY';
+  if (set.has('binding_claim_without_binding_citation')) return 'CITATION_MISMATCH';
+  if (set.has('temporal_claim_without_effective_date')) return 'STALE_VOLATILE_SOURCE';
+  return '';
 }
 
 app.get('/api/history', async (req, res) => {
@@ -197,6 +213,31 @@ app.post('/api/chat', async (req, res) => {
   const a2ajCaseLawEnabled = boolFlag(process.env.A2AJ_CASELAW_ENABLED, true);
   const a2ajLegislationEnabled = boolFlag(process.env.A2AJ_LEGISLATION_ENABLED, false);
   const defaultA2ajTopK = Number(process.env.A2AJ_TOP_K || 4);
+  const auditTraceEnabled = boolFlag(process.env.AUDIT_TRACE_ENABLED, false);
+  const auditTraceIncludeRedactedPrompt = boolFlag(process.env.AUDIT_TRACE_INCLUDE_REDACTED_PROMPT, false);
+  const auditBudgets = {
+    maxToolCalls: Number(process.env.RAG_MAX_TOOL_CALLS || 8),
+    maxLiveFetches: Number(process.env.RAG_MAX_LIVE_FETCHES || 3),
+    maxRetries: Number(process.env.RAG_MAX_RETRIES || 1),
+  };
+  let runTrace = null;
+  if (auditTraceEnabled) {
+    runTrace = startRunTrace({
+      sessionId,
+      message,
+      analysisDateBasis: 'today',
+      includeRedactedMessage: auditTraceIncludeRedactedPrompt,
+      budgets: auditBudgets,
+      modelVersion: process.env.GROQ_MODEL || 'llama-3.3-70b-versatile',
+      promptVersion: process.env.PROMPT_VERSION || 'v1',
+      policyVersion: process.env.POLICY_VERSION || 'v1.0.0',
+    });
+    appendRunTraceEvent(runTrace, 'run_start', {
+      sessionId,
+      topK,
+      debugEnabled,
+    });
+  }
 
   try {
     let userId = null;
@@ -224,6 +265,11 @@ app.post('/api/chat', async (req, res) => {
     const sanitizedMessage = sanitizeUserMessage(message);
     const effectiveMessage = sanitizedMessage || message;
     const rcicRelated = isRcicRelatedQuery(effectiveMessage);
+    appendRunTraceEvent(runTrace, 'input_safety', {
+      detected: Boolean(promptSafety?.detected),
+      rcicRelated,
+      sanitized: sanitizedMessage !== message,
+    });
 
     if (promptInjectionBlockingEnabled && promptSafety.detected && !rcicRelated) {
       const blockedText = 'I can only assist with RCIC-focused Canadian immigration research. Please rephrase your question without instruction-overrides.';
@@ -236,6 +282,14 @@ app.post('/api/chat', async (req, res) => {
           citations: [],
         });
       }
+      appendRunTraceEvent(runTrace, 'failure_state', {
+        failureState: 'OUT_OF_SCOPE_SOURCE',
+      });
+      finalizeRunTrace(runTrace, {
+        status: 'ok',
+        responseText: blockedText,
+        citations: [],
+      });
       return res.json({
         text: blockedText,
         citations: [],
@@ -245,6 +299,7 @@ app.post('/api/chat', async (req, res) => {
               debug: {
                 promptSafety,
                 rcicRelated,
+                auditTrace: summarizeRunTrace(runTrace),
               },
             }
           : {}),
@@ -257,6 +312,13 @@ app.post('/api/chat', async (req, res) => {
       a2ajEnabled,
       a2ajCaseLawEnabled,
       a2ajLegislationEnabled,
+    });
+    appendRunTraceEvent(runTrace, 'retrieval_complete', {
+      queryHash: grounding?.retrieval?.queryHash || '',
+      filters: grounding?.retrieval?.filters || null,
+      tiers: grounding?.retrieval?.tiers || null,
+      topSourceIds: (grounding?.retrieval?.topSourceIds || []).map((entry) => entry?.id).filter(Boolean),
+      routeDecision,
     });
 
     let caseLawSources = [];
@@ -285,6 +347,15 @@ app.post('/api/chat', async (req, res) => {
         console.warn('A2AJ retrieval failed; continuing with Pinecone-only grounding.', a2ajError?.message || a2ajError);
       }
     }
+    if (caseLawSources.length > 0) {
+      appendRunTraceEvent(runTrace, 'live_fetch_complete', {
+        source: 'a2aj',
+        canonicalUrl: 'a2aj://case-law',
+        retrievedAt: new Date().toISOString(),
+        contentHash: '',
+        allowlistResult: 'allow',
+      });
+    }
 
     if (dbEnabled() && userId) {
       try {
@@ -312,6 +383,10 @@ app.post('/api/chat', async (req, res) => {
       },
       history,
     });
+    appendRunTraceEvent(runTrace, 'prompt_built', buildPromptHashes({
+      systemPrompt: system,
+      userPrompt: user,
+    }));
 
     const { text } = await groqAnswer({
       systemPrompt: system,
@@ -320,23 +395,43 @@ app.post('/api/chat', async (req, res) => {
     });
 
     const validatedText = validateCitationTokens(text, citationMap);
-    const citationIds = extractCitations(validatedText);
+    const guardResult = enforceAuthorityGuard({
+      text: validatedText,
+      citationMap,
+      retrieval: grounding?.retrieval,
+    });
+    const guardedText = validateCitationTokens(guardResult.text, citationMap);
+    const citationIds = extractCitations(guardedText);
     const citations = citationIds
       .map((id) => buildCitationFromSource(id, citationMap[id] || {}))
       .filter(Boolean);
+    const failureState = deriveFailureState(guardResult.issues);
+    appendRunTraceEvent(runTrace, 'validation_complete', {
+      guardIssues: guardResult.issues,
+      citationIds,
+      failureState,
+    });
+    if (failureState) {
+      appendRunTraceEvent(runTrace, 'failure_state', { failureState });
+    }
 
     if (dbEnabled() && userId) {
       await appendMessage({
         sessionId,
         userId,
         role: 'assistant',
-        content: validatedText,
+        content: guardedText,
         citations,
       });
     }
+    finalizeRunTrace(runTrace, {
+      status: 'ok',
+      responseText: guardedText,
+      citations,
+    });
 
     const payload = {
-      text: validatedText,
+      text: guardedText,
       citations,
       sessionId,
       ...(debugEnabled
@@ -348,11 +443,14 @@ app.post('/api/chat', async (req, res) => {
               pineconeCount: Array.isArray(grounding.pinecone) ? grounding.pinecone.length : 0,
               caseLawCount: caseLawSources.length,
               documentCount: documentSources.length,
+              retrieval: grounding?.retrieval || null,
+              guardIssues: guardResult.issues,
               a2aj: {
                 searchCount: a2ajSearchCount,
                 enrichAttempted: a2ajEnrichAttempted,
                 fetchTopK: Number(process.env.A2AJ_FETCH_DETAILS_TOP_K) || 3,
               },
+              auditTrace: summarizeRunTrace(runTrace),
             },
           }
         : {}),
@@ -361,10 +459,24 @@ app.post('/api/chat', async (req, res) => {
     return res.json(payload);
   } catch (error) {
     console.error('Chat error:', error);
+    finalizeRunTrace(runTrace, {
+      status: 'error',
+      responseText: '',
+      citations: [],
+      errorCode: 'CHAT_ERROR',
+      errorMessage: error?.message || 'Unhandled chat error',
+    });
     return res.status(500).json({
       text: 'Server error while generating response.',
       citations: [],
       sessionId,
+      ...(debugEnabled
+        ? {
+            debug: {
+              auditTrace: summarizeRunTrace(runTrace),
+            },
+          }
+        : {}),
     });
   }
 });
@@ -410,4 +522,5 @@ const port = Number(process.env.PORT || 3001);
 const host = process.env.HOST || '127.0.0.1';
 app.listen(port, host, () => {
   console.log(`API server listening on http://${host}:${port}`);
+  console.log(`PINECONE_NAMESPACE=${process.env.PINECONE_NAMESPACE || '<unset>'}`);
 });

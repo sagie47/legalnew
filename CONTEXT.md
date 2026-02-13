@@ -215,6 +215,10 @@ Phase 0 acceptance checks junior should run:
 - Started Senior Track S3 (audit trace wiring plan):
   - `docs/PHASE0_S3_AUDIT_TRACE_WIRING_PLAN.md`
   - defines `/api/chat` trace insertion points, payload contract mapping, redaction defaults, feature flags, persistence strategy, and acceptance tests
+- Started S3 runtime scaffold (feature-flagged, non-blocking):
+  - new utility: `server/rag/auditTrace.js`
+  - `/api/chat` now emits structured trace events/summaries when `AUDIT_TRACE_ENABLED=true`
+  - trace summary is included under `debug.auditTrace` in chat responses when debug is enabled
 - Delegation policy updated to junior-first:
   - junior assigned J1-J7 tracks (contracts, config, eval/CI scaffolding, runbooks, gold set)
   - senior limited to complex control-plane arbitration and policy/runtime guard semantics
@@ -259,6 +263,7 @@ Phase 0 acceptance checks junior should run:
 - `server/index.js`
 - `server/rag/grounding.js`
 - `server/rag/responseGuard.js`
+- `server/rag/auditTrace.js`
 - `server/rag/router.js`
 - `server/rag/security.js`
 - `server/clients/a2aj.js`
@@ -322,6 +327,11 @@ Security/debug:
 - `RAG_TOP_K_BINDING`
 - `RAG_TOP_K_GUIDANCE`
 - `RAG_NO_SILENT_FALLBACK_ENABLED`
+- `AUDIT_TRACE_ENABLED`
+- `AUDIT_TRACE_INCLUDE_REDACTED_PROMPT`
+- `RAG_MAX_TOOL_CALLS`
+- `RAG_MAX_LIVE_FETCHES`
+- `RAG_MAX_RETRIES`
 
 Ingestion:
 - `EMBEDDING_MODEL`, `EMBEDDING_DIM`, `EMBEDDING_BASE_URL`
