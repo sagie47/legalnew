@@ -1,0 +1,63 @@
+{
+  "bundle_id": "eb-01HW3V8XK4Z5Y2J3M7P9Q0R2S6",
+  "run_id": "01HW3V8XK4Z5Y2J3M7P9Q0R2S6",
+  "query": "What are the eligibility requirements for the Federal Skilled Worker program under Express Entry?",
+  "as_of": "2026-02-13",
+  "sources": [
+    {
+      "source_id": "src-001",
+      "citation_label": "P1",
+      "metadata": {
+        "doc_id": "a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6",
+        "artifact_id": "a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6:f6e5d4c3b2a1",
+        "chunk_id": "a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6:f6e5d4c3b2a1:0",
+        "canonical_url": "https://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-1.html",
+        "doc_family": "IRPA",
+        "authority_level": "PRIMARY_LEGISLATION",
+        "title": "Immigration and Refugee Protection Act",
+        "observed_at": "2026-01-10T10:00:00.000Z",
+        "ingested_at": "2026-01-12T15:30:00.000Z"
+      },
+      "content": "Section 12 of the Immigration and Refugee Protection Act establishes that...",
+      "score": 0.95,
+      "tier": "A"
+    },
+    {
+      "source_id": "src-002",
+      "citation_label": "P2",
+      "metadata": {
+        "doc_id": "b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2",
+        "artifact_id": "b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2:e5d4c3b2a1f6",
+        "chunk_id": "b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2:e5d4c3b2a1f6:3",
+        "canonical_url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/page-1.html",
+        "doc_family": "IRPR",
+        "authority_level": "REGULATION",
+        "title": "Immigration and Refugee Protection Regulations",
+        "observed_at": "2026-01-10T10:00:00.000Z",
+        "ingested_at": "2026-01-12T15:35:00.000Z"
+      },
+      "content": "Paragraph 75(1)(a) of the Regulations specifies that...",
+      "score": 0.89,
+      "tier": "A"
+    },
+    {
+      "source_id": "src-003",
+      "citation_label": "C1",
+      "metadata": {
+        "doc_id": "c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3",
+        "artifact_id": "c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2:d4c3b2a1f6e5",
+        "chunk_id": "c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2:d4c3b2a1f6e5:1",
+        "canonical_url": "https://decisions.fct-cf.gc.ca/fc-cf/decisions/en/item/123456789/index.do",
+        "doc_family": "CASE_LAW_FC",
+        "authority_level": "CASE_LAW",
+        "title": "Baker v. Canada (Minister of Citizenship and Immigration)",
+        "observed_at": "2026-01-08T09:00:00.000Z",
+        "ingested_at": "2026-01-14T11:20:00.000Z"
+      },
+      "content": "The Federal Court held that the Minister's discretion under section 12...",
+      "score": 0.82,
+      "tier": "B"
+    }
+  ],
+  "created_at": "2026-02-13T09:15:00.000Z"
+}

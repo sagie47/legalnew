@@ -1,0 +1,150 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://rcic-assistant.dev/config/source_policy.v1.json",
+  "title": "Source Policy Configuration",
+  "description": "Machine-readable source allowlist/blocklist policy for RCIC legal research",
+  "version": "1.0.0",
+  "allowed_hosts": [
+    "laws-lois.justice.gc.ca",
+    "decisions.fct-cf.gc.ca",
+    "decisions.scc-csc.ca",
+    "canada.ca",
+    "www.canada.ca",
+    "ircc.canada.ca",
+    "www.ircc.canada.ca",
+    "ontario.ca",
+    "www.ontario.ca",
+    "bcimmigration.ca",
+    "albertacanada.com",
+    "newbrunswick.ca",
+    "novascotia.ca",
+    "manitoba.ca",
+    "saskatchewan.ca",
+    "quebec.ca",
+    "peicanada.ca",
+    "yukon.ca",
+    "nwttert.ca",
+    "gov.nu.ca"
+  ],
+  "allowed_host_paths": {
+    "laws-lois.justice.gc.ca": [
+      "/eng/acts/",
+      "/eng/regulations/",
+      "/eng/acts/I-2.5",
+      "/eng/regulations/SOR"
+    ],
+    "decisions.fct-cf.gc.ca": [
+      "/fc-cf/decisions/"
+    ],
+    "decisions.scc-csc.ca": [
+      "/eng/"
+    ],
+    "canada.ca": [
+      "/en/immigration-refugees-citizenship/",
+      "/en/ircc/"
+    ],
+    "www.canada.ca": [
+      "/en/immigration-refugees-citizenship/",
+      "/en/ircc/"
+    ],
+    "www.ircc.canada.ca": [
+      "/"
+    ]
+  },
+  "blocked_hosts": [
+    "example.com",
+    "test-site.com",
+    "fake-legal-advice.org"
+  ],
+  "blocked_path_prefixes": [
+    "/wp-content/",
+    "/ads/",
+    "/outbound/",
+    "/redirect?"
+  ],
+  "doc_family_allow_map": {
+    "IRPA": {
+      "allowed": true,
+      "authority_level": ["PRIMARY_LEGISLATION"]
+    },
+    "IRPR": {
+      "allowed": true,
+      "authority_level": ["REGULATION"]
+    },
+    "MI": {
+      "allowed": true,
+      "authority_level": ["MINISTERIAL_INSTRUCTION"],
+      "requires_temporal": true
+    },
+    "PUBLIC_POLICY": {
+      "allowed": true,
+      "authority_level": ["POLICY"],
+      "requires_temporal": true
+    },
+    "OINP": {
+      "allowed": true,
+      "authority_level": ["POLICY"],
+      "requires_temporal": true
+    },
+    "BC_PNP": {
+      "allowed": true,
+      "authority_level": ["POLICY"],
+      "requires_temporal": true
+    },
+    "AAIP": {
+      "allowed": true,
+      "authority_level": ["POLICY"],
+      "requires_temporal": true
+    },
+    "OPERATIONAL_BULLETIN": {
+      "allowed": true,
+      "authority_level": ["GUIDANCE"]
+    },
+    "OPERATIONAL_UPDATE": {
+      "allowed": true,
+      "authority_level": ["GUIDANCE"]
+    },
+    "GUIDANCE": {
+      "allowed": true,
+      "authority_level": ["GUIDANCE"]
+    },
+    "CASE_LAW_FC": {
+      "allowed": true,
+      "authority_level": ["CASE_LAW"]
+    },
+    "CASE_LAW_SCC": {
+      "allowed": true,
+      "authority_level": ["CASE_LAW"]
+    },
+    "CASE_LAW_OTHER": {
+      "allowed": true,
+      "authority_level": ["CASE_LAW"]
+    },
+    "OTHER": {
+      "allowed": false,
+      "reason": "Unclassified documents require manual review"
+    }
+  },
+  "max_live_fetches_by_doc_family": {
+    "CASE_LAW_FC": 5,
+    "CASE_LAW_SCC": 3,
+    "CASE_LAW_OTHER": 2,
+    "MI": 10,
+    "PUBLIC_POLICY": 5,
+    "OINP": 5,
+    "BC_PNP": 5,
+    "AAIP": 5
+  },
+  "effective_date_policy": {
+    "enforce_as_of": true,
+    "default_to_today": true,
+    "auto_switch_to_lock_in": true,
+    "warn_on_future_effective": true
+  },
+  "metadata_requirements": {
+    "require_canonical_url": true,
+    "require_doc_family": true,
+    "require_authority_level": true,
+    "require_effective_from_for": ["MI", "PUBLIC_POLICY", "OINP", "BC_PNP", "AAIP"]
+  }
+}

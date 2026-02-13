@@ -4,6 +4,7 @@ import re
 from pathlib import Path
 from typing import Any
 
+from legal_metadata import build_canonical_metadata
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 
@@ -115,6 +116,14 @@ def build_chunks(
 
             chunk_id = f'pdf|{source_id}|c{chunk_index}'
             heading_path = section.get('heading_path') or [section.get('heading', 'Document')]
+            canonical = build_canonical_metadata(
+                file_title=file_path.stem,
+                manual_code=manual_code,
+                section_heading=section.get('heading', 'Document'),
+                heading_path=heading_path,
+                chunk_text=piece_original,
+                full_text=full_text,
+            )
             vectors.append({
                 'id': chunk_id,
                 'text': piece_original,
@@ -134,6 +143,7 @@ def build_chunks(
                     'page_end': p_end,
                     'section_heading': section.get('heading', 'Document'),
                     'heading_path': heading_path,
+                    **canonical,
                 },
             })
             chunk_index += 1

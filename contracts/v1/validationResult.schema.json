@@ -1,0 +1,119 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://rcic-assistant.dev/contracts/v1/validationResult.schema.json",
+  "title": "Validation Result Contract",
+  "description": "Schema for validation results from the validator component",
+  "type": "object",
+  "required": [
+    "validation_id",
+    "run_id",
+    "query",
+    "as_of",
+    "valid",
+    "checks"
+  ],
+  "properties": {
+    "validation_id": {
+      "type": "string",
+      "description": "Unique identifier for this validation result"
+    },
+    "run_id": {
+      "type": "string",
+      "description": "ULID timestamp-based unique identifier for this run (26 characters)",
+      "pattern": "^[0-9A-Z]{26}$"
+    },
+    "query": {
+      "type": "string",
+      "description": "The original user query"
+    },
+    "as_of": {
+      "type": "string",
+      "format": "date",
+      "description": "Analysis date basis (YYYY-MM-DD format)"
+    },
+    "valid": {
+      "type": "boolean",
+      "description": "Overall validation pass/fail status"
+    },
+    "checks": {
+      "type": "array",
+      "description": "Array of validation checks performed",
+      "items": {
+        "$ref": "#/definitions/ValidationCheck"
+      },
+      "minItems": 0
+    },
+    "failure_state": {
+      "type": "string",
+      "enum": [
+        "NONE",
+        "NO_BINDING_AUTHORITY",
+        "STALE_VOLATILE_SOURCE",
+        "CITATION_MISMATCH",
+        "OUT_OF_SCOPE_SOURCE",
+        "BUDGET_EXCEEDED",
+        "INSUFFICIENT_FACTS",
+        "INSUFFICIENT_EVIDENCE"
+      ],
+      "description": "Failure state code if validation failed"
+    },
+    "failure_message": {
+      "type": "string",
+      "description": "Human-readable failure message"
+    },
+    "validated_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Timestamp when validation was performed"
+    }
+  },
+  "definitions": {
+    "ValidationCheck": {
+      "type": "object",
+      "required": [
+        "check_id",
+        "check_type",
+        "passed"
+      ],
+      "properties": {
+        "check_id": {
+          "type": "string",
+          "description": "Unique identifier for this check"
+        },
+        "check_type": {
+          "type": "string",
+          "enum": [
+            "SCHEMA_CONFORMANCE",
+            "AUTHORITY_MODALITY_COMPATIBILITY",
+            "ALLOWLIST_SCOPE",
+            "BLOCKLIST_SCOPE",
+            "BINDING_CLAIM_SOURCE",
+            "TEMPORAL_VALIDITY",
+            "CITATION_TOKEN_VALID"
+          ],
+          "description": "Type of validation check"
+        },
+        "passed": {
+          "type": "boolean",
+          "description": "Whether this check passed"
+        },
+        "details": {
+          "type": "string",
+          "description": "Detailed information about the check result"
+        },
+        "affected_items": {
+          "type": "array",
+          "description": "Items affected by this check failure",
+          "items": {
+            "type": "string"
+          }
+        },
+        "severity": {
+          "type": "string",
+          "enum": ["ERROR", "WARNING", "INFO"],
+          "description": "Severity level of the check"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://rcic-assistant.dev/contracts/v1/evidenceBundle.schema.json",
+  "title": "Evidence Bundle Contract",
+  "description": "Schema for evidence bundles containing retrieved sources and citations",
+  "type": "object",
+  "required": [
+    "bundle_id",
+    "run_id",
+    "query",
+    "as_of",
+    "sources"
+  ],
+  "properties": {
+    "bundle_id": {
+      "type": "string",
+      "description": "Unique identifier for this evidence bundle"
+    },
+    "run_id": {
+      "type": "string",
+      "description": "ULID timestamp-based unique identifier for this run (26 characters)",
+      "pattern": "^[0-9A-Z]{26}$"
+    },
+    "query": {
+      "type": "string",
+      "description": "The original user query"
+    },
+    "as_of": {
+      "type": "string",
+      "format": "date",
+      "description": "Analysis date basis (YYYY-MM-DD format)"
+    },
+    "sources": {
+      "type": "array",
+      "description": "Retrieved source documents",
+      "items": {
+        "$ref": "#/definitions/Source"
+      },
+      "minItems": 0
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Timestamp when this bundle was created"
+    }
+  },
+  "definitions": {
+    "Source": {
+      "type": "object",
+      "required": [
+        "source_id",
+        "citation_label",
+        "metadata",
+        "content"
+      ],
+      "properties": {
+        "source_id": {
+          "type": "string",
+          "description": "Unique identifier for this source"
+        },
+        "citation_label": {
+          "type": "string",
+          "description": "Citation label (P1, P2, C1, C2, D1, D2, etc.)"
+        },
+        "metadata": {
+          "type": "object",
+          "description": "Metadata from the metadata schema",
+          "required": [
+            "doc_id",
+            "artifact_id",
+            "chunk_id",
+            "canonical_url",
+            "doc_family",
+            "authority_level"
+          ],
+          "properties": {
+            "doc_id": {
+              "type": "string",
+              "pattern": "^[a-f0-9]{64}$"
+            },
+            "artifact_id": {
+              "type": "string",
+              "pattern": "^[a-f0-9]{64}:[a-f0-9]{12}$"
+            },
+            "chunk_id": {
+              "type": "string",
+              "pattern": "^[a-f0-9]{64}:[a-f0-9]{12}:[0-9]+$"
+            },
+            "canonical_url": {
+              "type": "string",
+              "format": "uri"
+            },
+            "doc_family": {
+              "type": "string"
+            },
+            "authority_level": {
+              "type": "string"
+            },
+            "title": {
+              "type": "string"
+            },
+            "observed_at": {
+              "type": "string",
+              "format": "date-time"
+            },
+            "ingested_at": {
+              "type": "string",
+              "format": "date-time"
+            }
+          }
+        },
+        "content": {
+          "type": "string",
+          "description": "Retrieved text content"
+        },
+        "score": {
+          "type": "number",
+          "description": "Relevance score from retrieval"
+        },
+        "tier": {
+          "type": "string",
+          "enum": ["A", "B", "C"],
+          "description": "Retrieval tier classification"
+        }
+      }
+    }
+  }
+}

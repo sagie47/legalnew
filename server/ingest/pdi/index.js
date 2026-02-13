@@ -215,6 +215,188 @@ function headingDistribution(sections) {
   return out;
 }
 
+function toText(value) {
+  if (typeof value !== 'string') return '';
+  return value.trim();
+}
+
+function normalizeDate(value) {
+  const text = toText(value);
+  if (!text) return '';
+
+  const isoMatch = text.match(/(\d{4}-\d{2}-\d{2})/);
+  if (isoMatch) return isoMatch[1];
+
+  const parsed = Date.parse(text);
+  if (!Number.isNaN(parsed)) {
+    return new Date(parsed).toISOString().slice(0, 10);
+  }
+  return '';
+}
+
+function detectDocFamily(combined, sourceUrl) {
+  const c = String(combined || '').toLowerCase();
+  const u = String(sourceUrl || '').toLowerCase();
+
+  if (c.includes('ontario immigrant nominee') || c.includes('oinp') || u.includes('/ontario/')) return 'OINP';
+  if (c.includes('bc pnp') || c.includes('bcpnp') || c.includes('british columbia pnp')) return 'BC_PNP';
+  if (c.includes('alberta advantage immigration') || c.includes('aaip')) return 'AAIP';
+  if (c.includes('noc 2021') || /\bnoc\b/.test(c)) return 'NOC2021';
+  if (c.includes('minimum necessary income') || c.includes('lico') || /\bmni\b/.test(c)) return 'LICO_MNI';
+  if (c.includes('ministerial instruction') || /\bmi\b/.test(c)) return 'MI';
+  if (c.includes('public policy')) return 'PUBLIC_POLICY';
+  if (c.includes('visa office') || u.includes('/visa-office-') || u.includes('/visa-office/')) return 'VOI';
+  if (c.includes('enforcement manual') || c.includes('removal order') || u.includes('/enforcement/')) return 'ENF';
+  if (c.includes('jurisprudential guide') || c.includes('irb guide')) return 'IRB_GUIDE';
+  if (/\birpa\b/.test(c)) return 'IRPA';
+  if (/\birpr\b/.test(c) || c.includes('sor-2002-227')) return 'IRPR';
+  return 'PDI';
+}
+
+function authorityFromDocFamily(docFamily) {
+  const map = {
+    IRPA: 'statute',
+    IRPR: 'regulation',
+    MI: 'ministerial_instruction',
+    PUBLIC_POLICY: 'public_policy',
+    PDI: 'policy',
+    ENF: 'manual',
+    VOI: 'voi',
+    OINP: 'provincial_program',
+    BC_PNP: 'provincial_program',
+    AAIP: 'provincial_program',
+    NOC2021: 'reference',
+    LICO_MNI: 'reference',
+    IRB_GUIDE: 'jurisprudence',
+    CASE_LAW: 'case_law',
+  };
+  return map[docFamily] || 'policy';
+}
+
+function jurisdictionFromDocFamily(docFamily) {
+  if (docFamily === 'OINP') return 'ontario';
+  if (docFamily === 'BC_PNP') return 'bc';
+  if (docFamily === 'AAIP') return 'alberta';
+  return 'federal';
+}
+
+function detectInstrument(combined, sourceUrl, docFamily) {
+  const c = String(combined || '').toLowerCase();
+  const u = String(sourceUrl || '').toLowerCase();
+  const rules = [
+    ['TRV', /\btrv\b|temporary resident visa|visitor|super visa/],
+    ['ETA', /\beta\b|electronic travel authorization/],
+    ['STUDY', /study permit|student/],
+    ['WORK', /work permit|foreign workers|lmia|r205|r186/],
+    ['PR_ECON', /express entry|economic class|federal skilled|cec|fst|permanent residence.*economic/],
+    ['PR_FAMILY', /family sponsorship|spousal|parent sponsorship/],
+    ['PR_REFUGEE', /refugee|asylum|protected person/],
+    ['INADMISSIBILITY', /inadmissib|criminality|medical inadmissib|security inadmissib/],
+    ['MISREP', /misrep|misrepresentation|\ba40\b/],
+    ['ENFORCEMENT', /enforcement|removal order|detention|admissibility hearing/],
+  ];
+  for (const [tag, pattern] of rules) {
+    if (pattern.test(c)) return tag;
+  }
+
+  if (u.includes('/temporary-residents/')) return 'TRV';
+  if (u.includes('/permanent-residence/')) return 'PR_ECON';
+  if (u.includes('/enforcement/')) return 'ENFORCEMENT';
+  if (u.includes('/refugees/')) return 'PR_REFUGEE';
+
+  const defaults = {
+    ENF: 'ENFORCEMENT',
+    OINP: 'PR_ECON',
+    BC_PNP: 'PR_ECON',
+    AAIP: 'PR_ECON',
+    NOC2021: 'WORK',
+    LICO_MNI: 'PR_FAMILY',
+  };
+  return defaults[docFamily] || 'WORK';
+}
+
+function extractSectionId(text) {
+  const raw = String(text || '');
+  const token = raw.match(/\b([RA])(\d{1,3})((?:\([a-z0-9]+\))*)/i);
+  if (!token) return '';
+
+  const marker = String(token[1] || '').toUpperCase();
+  const base = String(token[2] || '');
+  const parts = [...String(token[3] || '').matchAll(/\(([a-z0-9]+)\)/gi)].map((match) => String(match[1]).toLowerCase());
+
+  let suffix = '';
+  if (parts.length > 0) {
+    const [first, ...rest] = parts;
+    suffix = /^\d+$/.test(first) ? `_${first}${rest.join('')}` : `${first}${rest.join('')}`;
+  }
+
+  if (marker === 'R') return `IRPR_${base}${suffix}`;
+  if (marker === 'A') return `IRPA_A${base}${suffix}`;
+  return '';
+}
+
+function detectProgramStream(combined) {
+  const c = String(combined || '').toLowerCase();
+  const rules = [
+    ['EXPRESS_ENTRY', /express entry/],
+    ['PNP', /provincial nominee|oinp|bc pnp|aaip/],
+    ['AIP', /atlantic immigration/],
+    ['CAREGIVER', /caregiver/],
+    ['AGRI_FOOD', /agri[- ]food/],
+    ['RURAL', /rural and northern|rural northern/],
+    ['OWP', /open work permit|\bowp\b/],
+    ['PGWP', /post[- ]graduation|\bpgwp\b/],
+    ['SPOUSAL', /spousal sponsorship/],
+  ];
+  for (const [stream, pattern] of rules) {
+    if (pattern.test(c)) return stream;
+  }
+  return '';
+}
+
+function extractNocCode(text) {
+  const match = String(text || '').match(/\bNOC\s*([0-9]{4,5})\b/i);
+  return match ? match[1] : '';
+}
+
+function extractTeer(text) {
+  const match = String(text || '').match(/\bTEER\s*([0-5])\b/i);
+  return match ? match[1] : '';
+}
+
+function detectTableType(combined) {
+  const c = String(combined || '').toLowerCase();
+  if (c.includes('minimum necessary income') || /\bmni\b/.test(c)) return 'MNI';
+  if (c.includes('low income cut-off') || c.includes('lico')) return 'LICO';
+  return '';
+}
+
+function buildCanonicalMetadata({ sourceUrl, title, lastUpdated, headingPath, text }) {
+  const combined = [title, sourceUrl, ...(Array.isArray(headingPath) ? headingPath : []), String(text || '').slice(0, 200)]
+    .filter(Boolean)
+    .join(' | ');
+  const docFamily = detectDocFamily(combined, sourceUrl);
+  const sectionId = extractSectionId(text);
+  const programStream = detectProgramStream(combined);
+  const nocCode = extractNocCode(text);
+  const teer = extractTeer(text);
+  const tableType = detectTableType(combined);
+  const effectiveDate = normalizeDate(lastUpdated);
+
+  return {
+    authority_level: authorityFromDocFamily(docFamily),
+    doc_family: docFamily,
+    instrument: detectInstrument(combined, sourceUrl, docFamily),
+    jurisdiction: jurisdictionFromDocFamily(docFamily),
+    ...(effectiveDate ? { effective_date: effectiveDate } : {}),
+    ...(sectionId ? { section_id: sectionId } : {}),
+    ...(programStream ? { program_stream: programStream } : {}),
+    ...(nocCode ? { noc_code: nocCode } : {}),
+    ...(teer ? { teer } : {}),
+    ...(tableType ? { table_type: tableType } : {}),
+  };
+}
+
 function buildMetadata({ sourceUrl, title, lastUpdated, chunk, chunkId }) {
   const headingPath = Array.isArray(chunk.heading_path) && chunk.heading_path.length > 0
     ? [...chunk.heading_path]
@@ -222,6 +404,13 @@ function buildMetadata({ sourceUrl, title, lastUpdated, chunk, chunkId }) {
 
   const topHeading = headingPath[0] || title || 'Untitled PDI';
   headingPath[0] = topHeading;
+  const canonical = buildCanonicalMetadata({
+    sourceUrl,
+    title,
+    lastUpdated,
+    headingPath,
+    text: chunk.text,
+  });
 
   return sanitizeMetadata({
     source_type: 'ircc_pdi_html',
@@ -236,6 +425,7 @@ function buildMetadata({ sourceUrl, title, lastUpdated, chunk, chunkId }) {
     chunk_id: chunkId,
     est_tokens: typeof chunk.est_tokens === 'number' ? chunk.est_tokens : Math.ceil(String(chunk.text || '').length / 4),
     text: chunk.text,
+    ...canonical,
   });
 }
 

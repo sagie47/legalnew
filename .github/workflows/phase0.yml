@@ -1,0 +1,125 @@
+name: Phase 0 Contracts & Validation
+
+on:
+  push:
+    branches: [main, develop]
+    paths:
+      - 'contracts/**'
+      - 'config/**'
+      - 'eval/**'
+      - '.github/workflows/phase0.yml'
+  pull_request:
+    paths:
+      - 'contracts/**'
+      - 'config/**'
+      - 'eval/**'
+      - '.github/workflows/phase0.yml'
+
+jobs:
+  validate-contracts:
+    name: Validate Phase 0 Contracts
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      
+      - name: Install dependencies
+        run: npm ci
+      
+      - name: Run schema validation
+        run: node contracts/v1/validate.js
+      
+      - name: Run source policy tests
+        run: node --test config/__tests__/sourcePolicy.test.js
+      
+      - name: Upload validation report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: phase0-validation-report
+          path: |
+            contracts/v1/validate.js
+            config/__tests__/sourcePolicy.test.js
+          retention-days: 7
+
+  run-eval-harness:
+    name: Eval Harness
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      
+      - name: Install dependencies
+        run: npm ci
+      
+      - name: Run eval harness
+        run: node eval/run_eval.js
+      
+      - name: Upload eval reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: eval-reports
+          path: eval/reports/*.json
+          retention-days: 30
+
+  test-server:
+    name: Server Tests
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      
+      - name: Install dependencies
+        run: npm ci
+      
+      - name: Run server tests
+        run: npm run test:server
+
+  build-frontend:
+    name: Build Frontend
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      
+      - name: Install dependencies
+        run: npm ci
+      
+      - name: Build frontend
+        run: npm run build
+      
+      - name: Upload build artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: frontend-build
+          path: dist
+          retention-days: 1

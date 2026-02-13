@@ -1,0 +1,141 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://rcic-assistant.dev/contracts/v1/metadata.schema.json",
+  "title": "Metadata Contract",
+  "description": "Schema for document/chunk metadata in the RCIC legal research assistant",
+  "type": "object",
+  "required": [
+    "doc_id",
+    "artifact_id",
+    "chunk_id",
+    "observed_at",
+    "ingested_at",
+    "retrieved_at",
+    "canonical_url",
+    "doc_family",
+    "authority_level"
+  ],
+  "properties": {
+    "doc_id": {
+      "type": "string",
+      "description": "SHA256 hash of canonical_url (64 hex characters)",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "content_hash": {
+      "type": "string",
+      "description": "SHA256 hash of the content (64 hex characters)",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "content_hash_prefix": {
+      "type": "string",
+      "description": "First 12 hex characters of content_hash",
+      "pattern": "^[a-f0-9]{12}$"
+    },
+    "artifact_id": {
+      "type": "string",
+      "description": "doc_id:content_hash_prefix",
+      "pattern": "^[a-f0-9]{64}:[a-f0-9]{12}$"
+    },
+    "chunk_id": {
+      "type": "string",
+      "description": "artifact_id:chunk_index",
+      "pattern": "^[a-f0-9]{64}:[a-f0-9]{12}:[0-9]+$"
+    },
+    "chunk_index": {
+      "type": "integer",
+      "description": "Zero-based index of this chunk within the document",
+      "minimum": 0
+    },
+    "observed_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Timestamp when the content was first observed/crawled"
+    },
+    "ingested_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Timestamp when the content was ingested into the system"
+    },
+    "retrieved_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Timestamp when this chunk was retrieved for a query"
+    },
+    "published_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Timestamp of official publication (optional)"
+    },
+    "effective_from": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Start date when the content became effective (required-if: MI, PUBLIC_POLICY, OINP, BC_PNP, AAIP)"
+    },
+    "effective_to": {
+      "type": "string",
+      "format": "date-time",
+      "description": "End date when the content ceased to be effective (nullable)"
+    },
+    "canonical_url": {
+      "type": "string",
+      "format": "uri",
+      "description": "Original source URL"
+    },
+    "doc_family": {
+      "type": "string",
+      "enum": [
+        "IRPA",
+        "IRPR",
+        "MI",
+        "PUBLIC_POLICY",
+        "OINP",
+        "BC_PNP",
+        "AAIP",
+        "OPERATIONAL_BULLETIN",
+        "OPERATIONAL_UPDATE",
+        "GUIDANCE",
+        "CASE_LAW_FC",
+        "CASE_LAW_SCC",
+        "CASE_LAW_OTHER",
+        "OTHER"
+      ],
+      "description": "Document family classification"
+    },
+    "authority_level": {
+      "type": "string",
+      "enum": [
+        "PRIMARY_LEGISLATION",
+        "REGULATION",
+        "MINISTERIAL_INSTRUCTION",
+        "POLICY",
+        "GUIDANCE",
+        "CASE_LAW",
+        "OTHER"
+      ],
+      "description": "Level of legal authority"
+    },
+    "instrument": {
+      "type": "string",
+      "description": "Legal instrument identifier (e.g., IRPA, IRPR, specific MI number)"
+    },
+    "jurisdiction": {
+      "type": "string",
+      "description": "Jurisdiction code (e.g., CA, CA-ON, CA-BC)"
+    },
+    "title": {
+      "type": "string",
+      "description": "Document title"
+    },
+    "heading_path": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Hierarchical heading path to this chunk"
+    },
+    "anchor": {
+      "type": "string",
+      "description": "Anchor identifier for this section"
+    }
+  }
+}

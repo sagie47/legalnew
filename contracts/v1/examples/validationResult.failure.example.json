@@ -1,0 +1,38 @@
+{
+  "validation_id": "val-01HW3V8XK4Z5Y2J3M7P9Q0R2S7",
+  "run_id": "01HW3V8XK4Z5Y2J3M7P9Q0R2S7",
+  "query": "What are the latest CRS score cutoffs for Express Entry?",
+  "as_of": "2026-02-13",
+  "valid": false,
+  "checks": [
+    {
+      "check_id": "check-schema-001",
+      "check_type": "SCHEMA_CONFORMANCE",
+      "passed": true,
+      "details": "All claim assertions conform to schema requirements"
+    },
+    {
+      "check_id": "check-authority-001",
+      "check_type": "AUTHORITY_MODALITY_COMPATIBILITY",
+      "passed": true,
+      "details": "All binding claims cite primary legislation or regulation"
+    },
+    {
+      "check_id": "check-allowlist-001",
+      "check_type": "ALLOWLIST_SCOPE",
+      "passed": true,
+      "details": "All sources are from allowed domains"
+    },
+    {
+      "check_id": "check-binding-001",
+      "check_type": "BINDING_CLAIM_SOURCE",
+      "passed": false,
+      "details": "Binding claim cites non-binding source: blog post",
+      "affected_items": ["assert-005"],
+      "severity": "ERROR"
+    }
+  ],
+  "failure_state": "NO_BINDING_AUTHORITY",
+  "failure_message": "One or more binding claims cite sources that do not constitute binding authority (e.g., blog posts, news articles). All binding legal claims must be supported by primary legislation, regulations, or case law.",
+  "validated_at": "2026-02-13T09:35:00.000Z"
+}

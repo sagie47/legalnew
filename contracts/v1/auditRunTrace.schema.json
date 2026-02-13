@@ -1,0 +1,147 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://rcic-assistant.dev/contracts/v1/auditRunTrace.schema.json",
+  "title": "Audit Run Trace Contract",
+  "description": "Schema for complete audit trail of a research run",
+  "type": "object",
+  "required": [
+    "trace_id",
+    "run_id",
+    "query",
+    "as_of",
+    "phases"
+  ],
+  "properties": {
+    "trace_id": {
+      "type": "string",
+      "description": "Unique identifier for this audit trace"
+    },
+    "run_id": {
+      "type": "string",
+      "description": "ULID timestamp-based unique identifier for this run (26 characters)",
+      "pattern": "^[0-9A-Z]{26}$"
+    },
+    "query": {
+      "type": "string",
+      "description": "The original user query"
+    },
+    "as_of": {
+      "type": "string",
+      "format": "date",
+      "description": "Analysis date basis (YYYY-MM-DD format)"
+    },
+    "user_id": {
+      "type": "string",
+      "description": "User identifier (if authenticated)"
+    },
+    "phases": {
+      "type": "array",
+      "description": "Execution phases in order",
+      "items": {
+        "$ref": "#/definitions/Phase"
+      },
+      "minItems": 1
+    },
+    "metadata": {
+      "type": "object",
+      "description": "Additional run metadata",
+      "properties": {
+        "model_version": {
+          "type": "string"
+        },
+        "retrieval_top_k": {
+          "type": "integer"
+        },
+        "tier_a_count": {
+          "type": "integer"
+        },
+        "tier_b_count": {
+          "type": "integer"
+        },
+        "tier_c_count": {
+          "type": "integer"
+        }
+      }
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Timestamp when this trace was created"
+    },
+    "completed_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Timestamp when the run completed"
+    }
+  },
+  "definitions": {
+    "Phase": {
+      "type": "object",
+      "required": [
+        "phase_id",
+        "phase_name",
+        "started_at"
+      ],
+      "properties": {
+        "phase_id": {
+          "type": "string",
+          "description": "Unique identifier for this phase"
+        },
+        "phase_name": {
+          "type": "string",
+          "enum": [
+            "RETRIEVAL",
+            "ROUTING",
+            "GROUNDING",
+            "GENERATION",
+            "VALIDATION",
+            "RESPONSE_GUARD"
+          ],
+          "description": "Name of the execution phase"
+        },
+        "started_at": {
+          "type": "string",
+          "format": "date-time",
+          "description": "Timestamp when this phase started"
+        },
+        "completed_at": {
+          "type": "string",
+          "format": "date-time",
+          "description": "Timestamp when this phase completed"
+        },
+        "duration_ms": {
+          "type": "integer",
+          "description": "Duration of this phase in milliseconds"
+        },
+        "inputs": {
+          "type": "object",
+          "description": "Inputs to this phase"
+        },
+        "outputs": {
+          "type": "object",
+          "description": "Outputs from this phase"
+        },
+        "errors": {
+          "type": "array",
+          "description": "Errors encountered in this phase",
+          "items": {
+            "type": "object",
+            "properties": {
+              "code": {
+                "type": "string"
+              },
+              "message": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "status": {
+          "type": "string",
+          "enum": ["SUCCESS", "PARTIAL", "FAILED", "SKIPPED"],
+          "description": "Phase execution status"
+        }
+      }
+    }
+  }
+}

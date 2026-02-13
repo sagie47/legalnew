@@ -1,0 +1,99 @@
+{
+  "version": "1.0.0",
+  "failure_states": [
+    {
+      "code": "NONE",
+      "description": "All validation checks passed - response is valid",
+      "severity": "N/A",
+      "user_message": null,
+      "retry_policy": "N/A",
+      "required_audit_fields": []
+    },
+    {
+      "code": "NO_BINDING_AUTHORITY",
+      "description": "One or more binding claims cite sources that do not constitute binding authority",
+      "severity": "ERROR",
+      "user_message": "Your response contains claims that require authoritative legal sources. Please ensure all binding legal claims are supported by primary legislation, regulations, or case law.",
+      "retry_policy": "RETRY_WITH_BETTER_SOURCES",
+      "required_audit_fields": [
+        "claim_id",
+        "assertion_id",
+        "non_binding_source_url",
+        "suggested_binding_sources"
+      ]
+    },
+    {
+      "code": "STALE_VOLATILE_SOURCE",
+      "description": "Source content has changed since retrieval or is marked as volatile",
+      "severity": "ERROR",
+      "user_message": "The information retrieved may be outdated. Please verify the current status with official sources.",
+      "retry_policy": "RETRY_WITH_REFRESHED_SOURCES",
+      "required_audit_fields": [
+        "source_id",
+        "original_effective_date",
+        "current_effective_date",
+        "source_url"
+      ]
+    },
+    {
+      "code": "CITATION_MISMATCH",
+      "description": "Citation tokens in response do not match available sources or have invalid format",
+      "severity": "ERROR",
+      "user_message": "Some citations in the response could not be verified against the retrieved sources.",
+      "retry_policy": "RETRY_WITH_CITATION_FIX",
+      "required_audit_fields": [
+        "citation_token",
+        "expected_sources",
+        "actual_sources"
+      ]
+    },
+    {
+      "code": "OUT_OF_SCOPE_SOURCE",
+      "description": "One or more sources are from domains not in the allowed source list",
+      "severity": "ERROR",
+      "user_message": "The response includes information from sources outside the approved scope.",
+      "retry_policy": "RETRY_WITH_SCOPED_SOURCES",
+      "required_audit_fields": [
+        "out_of_scope_url",
+        "blocked_reason",
+        "allowed_domains"
+      ]
+    },
+    {
+      "code": "BUDGET_EXCEEDED",
+      "description": "Execution exceeded configured budget (time, tokens, or API calls)",
+      "severity": "WARNING",
+      "user_message": "The request could not be fully processed due to resource constraints.",
+      "retry_policy": "RETRY_WITH_REDUCED_SCOPE",
+      "required_audit_fields": [
+        "budget_type",
+        "budget_limit",
+        "actual_usage",
+        "partial_completion"
+      ]
+    },
+    {
+      "code": "INSUFFICIENT_FACTS",
+      "description": "Query lacks sufficient factual information to provide a meaningful response",
+      "severity": "INFO",
+      "user_message": "To provide accurate information, please specify: [specific details needed]",
+      "retry_policy": "REQUEST_MORE_INFO",
+      "required_audit_fields": [
+        "missing_facts",
+        "suggested_questions"
+      ]
+    },
+    {
+      "code": "INSUFFICIENT_EVIDENCE",
+      "description": "No suitable sources found to answer the query",
+      "severity": "WARNING",
+      "user_message": "Insufficient information available to answer this query reliably.",
+      "retry_policy": "RETRY_WITH_EXPANDED_SEARCH",
+      "required_audit_fields": [
+        "query",
+        "search_attempted",
+        "sources_found"
+      ]
+    }
+  ]
+}

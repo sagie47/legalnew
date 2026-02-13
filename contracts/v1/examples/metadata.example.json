@@ -1,0 +1,22 @@
+{
+  "doc_id": "573c6a3bcdea94d029220af2b9b81fc4ed7f80d439c5963c8083077884b674a8",
+  "content_hash": "a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2",
+  "content_hash_prefix": "a1b2c3d4e5f6",
+  "artifact_id": "573c6a3bcdea94d029220af2b9b81fc4ed7f80d439c5963c8083077884b674a8:a1b2c3d4e5f6",
+  "chunk_id": "573c6a3bcdea94d029220af2b9b81fc4ed7f80d439c5963c8083077884b674a8:a1b2c3d4e5f6:0",
+  "chunk_index": 0,
+  "observed_at": "2026-01-15T10:30:00.000Z",
+  "ingested_at": "2026-01-15T14:22:00.000Z",
+  "retrieved_at": "2026-02-13T09:15:00.000Z",
+  "published_at": "2024-12-17T00:00:00.000Z",
+  "effective_from": "2024-12-17T00:00:00.000Z",
+  "effective_to": null,
+  "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry/mi-2024-12-17.html",
+  "doc_family": "MI",
+  "authority_level": "MINISTERIAL_INSTRUCTION",
+  "instrument": "MI-2024-12-17",
+  "jurisdiction": "CA",
+  "title": "Ministerial Instructions: Express Entry Round 285",
+  "heading_path": ["Ministerial Instructions", "Express Entry", "Round 285"],
+  "anchor": "mi-2024-12-17"
+}

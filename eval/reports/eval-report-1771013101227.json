@@ -1,0 +1,1106 @@
+{
+  "summary": {
+    "total": 39,
+    "passed": 39,
+    "failed": 0,
+    "skipped": 0
+  },
+  "entries": [
+    {
+      "query": "What are the eligibility requirements for the Federal Skilled Worker program under Express Entry?",
+      "as_of": "2026-02-13",
+      "expected_failure_state": "NONE",
+      "actual_failure_state": "NONE",
+      "status": "PASSED",
+      "checks": [
+        {
+          "check_id": "check-retrieval-success",
+          "check_type": "RETRIEVAL_SUCCESS",
+          "passed": true,
+          "details": "Retrieval succeeded with 1 sources"
+        },
+        {
+          "check_id": "check-sources-exist",
+          "check_type": "SOURCES_EXIST",
+          "passed": true,
+          "details": "1 sources retrieved"
+        },
+        {
+          "check_id": "check-schema-conformance",
+          "check_type": "SCHEMA_CONFORMANCE",
+          "passed": true,
+          "details": "Response conforms to schema structure",
+          "severity": "INFO"
+        }
+      ]
+    },
+    {
+      "query": "What is the CRS score cutoff for the latest Express Entry draw?",
+      "as_of": "2026-02-13",
+      "expected_failure_state": "NONE",
+      "actual_failure_state": "NONE",
+      "status": "PASSED",
+      "checks": [
+        {
+          "check_id": "check-retrieval-success",
+          "check_type": "RETRIEVAL_SUCCESS",
+          "passed": true,
+          "details": "Retrieval succeeded with 1 sources"
+        },
+        {
+          "check_id": "check-sources-exist",
+          "check_type": "SOURCES_EXIST",
+          "passed": true,
+          "details": "1 sources retrieved"
+        },
+        {
+          "check_id": "check-schema-conformance",
+          "check_type": "SCHEMA_CONFORMANCE",
+          "passed": true,
+          "details": "Response conforms to schema structure",
+          "severity": "INFO"
+        }
+      ]
+    },
+    {
+      "query": "Can I apply for a work permit as an international student in Canada?",
+      "as_of": "2026-02-13",
+      "expected_failure_state": "NONE",
+      "actual_failure_state": "NONE",
+      "status": "PASSED",
+      "checks": [
+        {
+          "check_id": "check-retrieval-success",
+          "check_type": "RETRIEVAL_SUCCESS",
+          "passed": true,
+          "details": "Retrieval succeeded with 1 sources"
+        },
+        {
+          "check_id": "check-sources-exist",
+          "check_type": "SOURCES_EXIST",
+          "passed": true,
+          "details": "1 sources retrieved"
+        },
+        {
+          "check_id": "check-schema-conformance",
+          "check_type": "SCHEMA_CONFORMANCE",
+          "passed": true,
+          "details": "Response conforms to schema structure",
+          "severity": "INFO"
+        }
+      ]
+    },
+    {
+      "query": "What are the processing times for spousal sponsorship?",
+      "as_of": "2026-02-13",
+      "expected_failure_state": "NONE",
+      "actual_failure_state": "NONE",
+      "status": "PASSED",
+      "checks": [
+        {
+          "check_id": "check-retrieval-success",
+          "check_type": "RETRIEVAL_SUCCESS",
+          "passed": true,
+          "details": "Retrieval succeeded with 1 sources"
+        },
+        {
+          "check_id": "check-sources-exist",
+          "check_type": "SOURCES_EXIST",
+          "passed": true,
+          "details": "1 sources retrieved"
+        },
+        {
+          "check_id": "check-schema-conformance",
+          "check_type": "SCHEMA_CONFORMANCE",
+          "passed": true,
+          "details": "Response conforms to schema structure",
+          "severity": "INFO"
+        }
+      ]
+    },
+    {
+      "query": "How do I apply for provincial nomination through OINP?",
+      "as_of": "2026-02-13",
+      "expected_failure_state": "NONE",
+      "actual_failure_state": "NONE",
+      "status": "PASSED",
+      "checks": [
+        {
+          "check_id": "check-retrieval-success",
+          "check_type": "RETRIEVAL_SUCCESS",
+          "passed": true,
+          "details": "Retrieval succeeded with 1 sources"
+        },
+        {
+          "check_id": "check-sources-exist",
+          "check_type": "SOURCES_EXIST",
+          "passed": true,
+          "details": "1 sources retrieved"
+        },
+        {
+          "check_id": "check-schema-conformance",
+          "check_type": "SCHEMA_CONFORMANCE",
+          "passed": true,
+          "details": "Response conforms to schema structure",
+          "severity": "INFO"
+        }
+      ]
+    },
+    {
+      "query": "What is the validity period of a TRV for visitors to Canada?",
+      "as_of": "2026-02-13",
+      "expected_failure_state": "NONE",
+      "actual_failure_state": "NONE",
+      "status": "PASSED",
+      "checks": [
+        {
+          "check_id": "check-retrieval-success",
+          "check_type": "RETRIEVAL_SUCCESS",
+          "passed": true,
+          "details": "Retrieval succeeded with 1 sources"
+        },
+        {
+          "check_id": "check-sources-exist",
+          "check_type": "SOURCES_EXIST",
+          "passed": true,
+          "details": "1 sources retrieved"
+        },
+        {
+          "check_id": "check-schema-conformance",
+          "check_type": "SCHEMA_CONFORMANCE",
+          "passed": true,
+          "details": "Response conforms to schema structure",
+          "severity": "INFO"
+        }
+      ]
+    },
+    {
+      "query": "Explain the bilateral trade agreements that affect work permits",
+      "as_of": "2026-02-13",
+      "expected_failure_state": "INSUFFICIENT_FACTS",
+      "actual_failure_state": "INSUFFICIENT_FACTS",
+      "status": "PASSED",
+      "checks": [
+        {
+          "check_id": "check-retrieval-success",
+          "check_type": "RETRIEVAL_SUCCESS",
+          "passed": true,
+          "details": "Retrieval succeeded with 0 sources"
+        },
+        {
+          "check_id": "check-failure-state",
+          "check_type": "EXPECTED_FAILURE_STATE",
+          "passed": true,
+          "details": "Expected failure state: INSUFFICIENT_FACTS",
+          "severity": "INFO"
+        },
+        {
+          "check_id": "check-schema-conformance",
+          "check_type": "SCHEMA_CONFORMANCE",
+          "passed": true,
+          "details": "Response conforms to schema structure",
+          "severity": "INFO"
+        }
+      ]
+    },
+    {
+      "query": "What is the best immigration pathway for me?",
+      "as_of": "2026-02-13",
+      "expected_failure_state": "INSUFFICIENT_FACTS",
+      "actual_failure_state": "INSUFFICIENT_FACTS",
+      "status": "PASSED",
+      "checks": [
+        {
+          "check_id": "check-retrieval-success",
+          "check_type": "RETRIEVAL_SUCCESS",
+          "passed": true,
+          "details": "Retrieval succeeded with 0 sources"
+        },
+        {
+          "check_id": "check-failure-state",
+          "check_type": "EXPECTED_FAILURE_STATE",
+          "passed": true,
+          "details": "Expected failure state: INSUFFICIENT_FACTS",
+          "severity": "INFO"
+        },
+        {
+          "check_id": "check-schema-conformance",
+          "check_type": "SCHEMA_CONFORMANCE",
+          "passed": true,
+          "details": "Response conforms to schema structure",
+          "severity": "INFO"
+        }
+      ]
+    },
+    {
+      "query": "What are the requirements for LMIA-exempt work permits?",
+      "as_of": "2026-02-13",
+      "expected_failure_state": "NONE",
+      "actual_failure_state": "NONE",
+      "status": "PASSED",
+      "checks": [
+        {
+          "check_id": "check-retrieval-success",
+          "check_type": "RETRIEVAL_SUCCESS",
+          "passed": true,
+          "details": "Retrieval succeeded with 1 sources"
+        },
+        {
+          "check_id": "check-sources-exist",
+          "check_type": "SOURCES_EXIST",
+          "passed": true,
+          "details": "1 sources retrieved"
+        },
+        {
+          "check_id": "check-schema-conformance",
+          "check_type": "SCHEMA_CONFORMANCE",
+          "passed": true,
+          "details": "Response conforms to schema structure",
+          "severity": "INFO"
+        }
+      ]
+    },
+    {
+      "query": "Find information about the Canada-France Youth Mobility Agreement",
+      "as_of": "2026-02-13",
+      "expected_failure_state": "NONE",
+      "actual_failure_state": "NONE",
+      "status": "PASSED",
+      "checks": [
+        {
+          "check_id": "check-retrieval-success",
+          "check_type": "RETRIEVAL_SUCCESS",
+          "passed": true,
+          "details": "Retrieval succeeded with 1 sources"
+        },
+        {
+          "check_id": "check-sources-exist",
+          "check_type": "SOURCES_EXIST",
+          "passed": true,
+          "details": "1 sources retrieved"
+        },
+        {
+          "check_id": "check-schema-conformance",
+          "check_type": "SCHEMA_CONFORMANCE",
+          "passed": true,
+          "details": "Response conforms to schema structure",
+          "severity": "INFO"
+        }
+      ]
+    },
+    {
+      "query": "What is the definition of family member under IRPA?",
+      "as_of": "2026-02-13",
+      "expected_failure_state": "NONE",
+      "actual_failure_state": "NONE",
+      "status": "PASSED",
+      "checks": [
+        {
+          "check_id": "check-retrieval-success",
+          "check_type": "RETRIEVAL_SUCCESS",
+          "passed": true,
+          "details": "Retrieval succeeded with 1 sources"
+        },
+        {
+          "check_id": "check-sources-exist",
+          "check_type": "SOURCES_EXIST",
+          "passed": true,
+          "details": "1 sources retrieved"
+        },
+        {
+          "check_id": "check-schema-conformance",
+          "check_type": "SCHEMA_CONFORMANCE",
+          "passed": true,
+          "details": "Response conforms to schema structure",
+          "severity": "INFO"
+        }
+      ]
+    },
+    {
+      "query": "What are the capital requirements for the Start-up Visa program?",
+      "as_of": "2026-02-13",
+      "expected_failure_state": "NONE",
+      "actual_failure_state": "NONE",
+      "status": "PASSED",
+      "checks": [
+        {
+          "check_id": "check-retrieval-success",
+          "check_type": "RETRIEVAL_SUCCESS",
+          "passed": true,
+          "details": "Retrieval succeeded with 1 sources"
+        },
+        {
+          "check_id": "check-sources-exist",
+          "check_type": "SOURCES_EXIST",
+          "passed": true,
+          "details": "1 sources retrieved"
+        },
+        {
+          "check_id": "check-schema-conformance",
+          "check_type": "SCHEMA_CONFORMANCE",
+          "passed": true,
+          "details": "Response conforms to schema structure",
+          "severity": "INFO"
+        }
+      ]
+    },
+    {
+      "query": "How do I restore my status as a temporary resident?",
+      "as_of": "2026-02-13",
+      "expected_failure_state": "NONE",
+      "actual_failure_state": "NONE",
+      "status": "PASSED",
+      "checks": [
+        {
+          "check_id": "check-retrieval-success",
+          "check_type": "RETRIEVAL_SUCCESS",
+          "passed": true,
+          "details": "Retrieval succeeded with 1 sources"
+        },
+        {
+          "check_id": "check-sources-exist",
+          "check_type": "SOURCES_EXIST",
+          "passed": true,
+          "details": "1 sources retrieved"
+        },
+        {
+          "check_id": "check-schema-conformance",
+          "check_type": "SCHEMA_CONFORMANCE",
+          "passed": true,
+          "details": "Response conforms to schema structure",
+          "severity": "INFO"
+        }
+      ]
+    },
+    {
+      "query": "What is the appeal process for a refused visa application?",
+      "as_of": "2026-02-13",
+      "expected_failure_state": "NONE",
+      "actual_failure_state": "NONE",
+      "status": "PASSED",
+      "checks": [
+        {
+          "check_id": "check-retrieval-success",
+          "check_type": "RETRIEVAL_SUCCESS",
+          "passed": true,
+          "details": "Retrieval succeeded with 1 sources"
+        },
+        {
+          "check_id": "check-sources-exist",
+          "check_type": "SOURCES_EXIST",
+          "passed": true,
+          "details": "1 sources retrieved"
+        },
+        {
+          "check_id": "check-schema-conformance",
+          "check_type": "SCHEMA_CONFORMANCE",
+          "passed": true,
+          "details": "Response conforms to schema structure",
+          "severity": "INFO"
+        }
+      ]
+    },
+    {
+      "query": "Tell me about the latest immigration news",
+      "as_of": "2026-02-13",
+      "expected_failure_state": "INSUFFICIENT_FACTS",
+      "actual_failure_state": "INSUFFICIENT_FACTS",
+      "status": "PASSED",
+      "checks": [
+        {
+          "check_id": "check-retrieval-success",
+          "check_type": "RETRIEVAL_SUCCESS",
+          "passed": true,
+          "details": "Retrieval succeeded with 0 sources"
+        },
+        {
+          "check_id": "check-failure-state",
+          "check_type": "EXPECTED_FAILURE_STATE",
+          "passed": true,
+          "details": "Expected failure state: INSUFFICIENT_FACTS",
+          "severity": "INFO"
+        },
+        {
+          "check_id": "check-schema-conformance",
+          "check_type": "SCHEMA_CONFORMANCE",
+          "passed": true,
+          "details": "Response conforms to schema structure",
+          "severity": "INFO"
+        }
+      ]
+    },
+    {
+      "query": "What are the English language requirements for Express Entry?",
+      "as_of": "2026-02-13",
+      "expected_failure_state": "NONE",
+      "actual_failure_state": "NONE",
+      "status": "PASSED",
+      "checks": [
+        {
+          "check_id": "check-retrieval-success",
+          "check_type": "RETRIEVAL_SUCCESS",
+          "passed": true,
+          "details": "Retrieval succeeded with 1 sources"
+        },
+        {
+          "check_id": "check-sources-exist",
+          "check_type": "SOURCES_EXIST",
+          "passed": true,
+          "details": "1 sources retrieved"
+        },
+        {
+          "check_id": "check-schema-conformance",
+          "check_type": "SCHEMA_CONFORMANCE",
+          "passed": true,
+          "details": "Response conforms to schema structure",
+          "severity": "INFO"
+        }
+      ]
+    },
+    {
+      "query": "Can I work while studying in Canada as an international student?",
+      "as_of": "2026-02-13",
+      "expected_failure_state": "NONE",
+      "actual_failure_state": "NONE",
+      "status": "PASSED",
+      "checks": [
+        {
+          "check_id": "check-retrieval-success",
+          "check_type": "RETRIEVAL_SUCCESS",
+          "passed": true,
+          "details": "Retrieval succeeded with 1 sources"
+        },
+        {
+          "check_id": "check-sources-exist",
+          "check_type": "SOURCES_EXIST",
+          "passed": true,
+          "details": "1 sources retrieved"
+        },
+        {
+          "check_id": "check-schema-conformance",
+          "check_type": "SCHEMA_CONFORMANCE",
+          "passed": true,
+          "details": "Response conforms to schema structure",
+          "severity": "INFO"
+        }
+      ]
+    },
+    {
+      "query": "What is the difference between a work permit and a work visa?",
+      "as_of": "2026-02-13",
+      "expected_failure_state": "NONE",
+      "actual_failure_state": "NONE",
+      "status": "PASSED",
+      "checks": [
+        {
+          "check_id": "check-retrieval-success",
+          "check_type": "RETRIEVAL_SUCCESS",
+          "passed": true,
+          "details": "Retrieval succeeded with 1 sources"
+        },
+        {
+          "check_id": "check-sources-exist",
+          "check_type": "SOURCES_EXIST",
+          "passed": true,
+          "details": "1 sources retrieved"
+        },
+        {
+          "check_id": "check-schema-conformance",
+          "check_type": "SCHEMA_CONFORMANCE",
+          "passed": true,
+          "details": "Response conforms to schema structure",
+          "severity": "INFO"
+        }
+      ]
+    },
+    {
+      "query": "How long does it take to process a Canadian permanent resident application?",
+      "as_of": "2026-02-13",
+      "expected_failure_state": "NONE",
+      "actual_failure_state": "NONE",
+      "status": "PASSED",
+      "checks": [
+        {
+          "check_id": "check-retrieval-success",
+          "check_type": "RETRIEVAL_SUCCESS",
+          "passed": true,
+          "details": "Retrieval succeeded with 1 sources"
+        },
+        {
+          "check_id": "check-sources-exist",
+          "check_type": "SOURCES_EXIST",
+          "passed": true,
+          "details": "1 sources retrieved"
+        },
+        {
+          "check_id": "check-schema-conformance",
+          "check_type": "SCHEMA_CONFORMANCE",
+          "passed": true,
+          "details": "Response conforms to schema structure",
+          "severity": "INFO"
+        }
+      ]
+    },
+    {
+      "query": "What are the requirements for the Canadian Experience Class?",
+      "as_of": "2026-02-13",
+      "expected_failure_state": "NONE",
+      "actual_failure_state": "NONE",
+      "status": "PASSED",
+      "checks": [
+        {
+          "check_id": "check-retrieval-success",
+          "check_type": "RETRIEVAL_SUCCESS",
+          "passed": true,
+          "details": "Retrieval succeeded with 1 sources"
+        },
+        {
+          "check_id": "check-sources-exist",
+          "check_type": "SOURCES_EXIST",
+          "passed": true,
+          "details": "1 sources retrieved"
+        },
+        {
+          "check_id": "check-schema-conformance",
+          "check_type": "SCHEMA_CONFORMANCE",
+          "passed": true,
+          "details": "Response conforms to schema structure",
+          "severity": "INFO"
+        }
+      ]
+    },
+    {
+      "query": "Can I sponsor my parents to come to Canada?",
+      "as_of": "2026-02-13",
+      "expected_failure_state": "NONE",
+      "actual_failure_state": "NONE",
+      "status": "PASSED",
+      "checks": [
+        {
+          "check_id": "check-retrieval-success",
+          "check_type": "RETRIEVAL_SUCCESS",
+          "passed": true,
+          "details": "Retrieval succeeded with 1 sources"
+        },
+        {
+          "check_id": "check-sources-exist",
+          "check_type": "SOURCES_EXIST",
+          "passed": true,
+          "details": "1 sources retrieved"
+        },
+        {
+          "check_id": "check-schema-conformance",
+          "check_type": "SCHEMA_CONFORMANCE",
+          "passed": true,
+          "details": "Response conforms to schema structure",
+          "severity": "INFO"
+        }
+      ]
+    },
+    {
+      "query": "What is a Labour Market Impact Assessment (LMIA)?",
+      "as_of": "2026-02-13",
+      "expected_failure_state": "NONE",
+      "actual_failure_state": "NONE",
+      "status": "PASSED",
+      "checks": [
+        {
+          "check_id": "check-retrieval-success",
+          "check_type": "RETRIEVAL_SUCCESS",
+          "passed": true,
+          "details": "Retrieval succeeded with 1 sources"
+        },
+        {
+          "check_id": "check-sources-exist",
+          "check_type": "SOURCES_EXIST",
+          "passed": true,
+          "details": "1 sources retrieved"
+        },
+        {
+          "check_id": "check-schema-conformance",
+          "check_type": "SCHEMA_CONFORMANCE",
+          "passed": true,
+          "details": "Response conforms to schema structure",
+          "severity": "INFO"
+        }
+      ]
+    },
+    {
+      "query": "What are the medical exam requirements for immigration to Canada?",
+      "as_of": "2026-02-13",
+      "expected_failure_state": "NONE",
+      "actual_failure_state": "NONE",
+      "status": "PASSED",
+      "checks": [
+        {
+          "check_id": "check-retrieval-success",
+          "check_type": "RETRIEVAL_SUCCESS",
+          "passed": true,
+          "details": "Retrieval succeeded with 1 sources"
+        },
+        {
+          "check_id": "check-sources-exist",
+          "check_type": "SOURCES_EXIST",
+          "passed": true,
+          "details": "1 sources retrieved"
+        },
+        {
+          "check_id": "check-schema-conformance",
+          "check_type": "SCHEMA_CONFORMANCE",
+          "passed": true,
+          "details": "Response conforms to schema structure",
+          "severity": "INFO"
+        }
+      ]
+    },
+    {
+      "query": "How do I apply for a Provincial Nominee Program (PNP)?",
+      "as_of": "2026-02-13",
+      "expected_failure_state": "NONE",
+      "actual_failure_state": "NONE",
+      "status": "PASSED",
+      "checks": [
+        {
+          "check_id": "check-retrieval-success",
+          "check_type": "RETRIEVAL_SUCCESS",
+          "passed": true,
+          "details": "Retrieval succeeded with 1 sources"
+        },
+        {
+          "check_id": "check-sources-exist",
+          "check_type": "SOURCES_EXIST",
+          "passed": true,
+          "details": "1 sources retrieved"
+        },
+        {
+          "check_id": "check-schema-conformance",
+          "check_type": "SCHEMA_CONFORMANCE",
+          "passed": true,
+          "details": "Response conforms to schema structure",
+          "severity": "INFO"
+        }
+      ]
+    },
+    {
+      "query": "What is the Express Entry system and how does it work?",
+      "as_of": "2026-02-13",
+      "expected_failure_state": "NONE",
+      "actual_failure_state": "NONE",
+      "status": "PASSED",
+      "checks": [
+        {
+          "check_id": "check-retrieval-success",
+          "check_type": "RETRIEVAL_SUCCESS",
+          "passed": true,
+          "details": "Retrieval succeeded with 1 sources"
+        },
+        {
+          "check_id": "check-sources-exist",
+          "check_type": "SOURCES_EXIST",
+          "passed": true,
+          "details": "1 sources retrieved"
+        },
+        {
+          "check_id": "check-schema-conformance",
+          "check_type": "SCHEMA_CONFORMANCE",
+          "passed": true,
+          "details": "Response conforms to schema structure",
+          "severity": "INFO"
+        }
+      ]
+    },
+    {
+      "query": "What documents do I need for a tourist visa to Canada?",
+      "as_of": "2026-02-13",
+      "expected_failure_state": "NONE",
+      "actual_failure_state": "NONE",
+      "status": "PASSED",
+      "checks": [
+        {
+          "check_id": "check-retrieval-success",
+          "check_type": "RETRIEVAL_SUCCESS",
+          "passed": true,
+          "details": "Retrieval succeeded with 1 sources"
+        },
+        {
+          "check_id": "check-sources-exist",
+          "check_type": "SOURCES_EXIST",
+          "passed": true,
+          "details": "1 sources retrieved"
+        },
+        {
+          "check_id": "check-schema-conformance",
+          "check_type": "SCHEMA_CONFORMANCE",
+          "passed": true,
+          "details": "Response conforms to schema structure",
+          "severity": "INFO"
+        }
+      ]
+    },
+    {
+      "query": "Can I extend my stay in Canada as a visitor?",
+      "as_of": "2026-02-13",
+      "expected_failure_state": "NONE",
+      "actual_failure_state": "NONE",
+      "status": "PASSED",
+      "checks": [
+        {
+          "check_id": "check-retrieval-success",
+          "check_type": "RETRIEVAL_SUCCESS",
+          "passed": true,
+          "details": "Retrieval succeeded with 1 sources"
+        },
+        {
+          "check_id": "check-sources-exist",
+          "check_type": "SOURCES_EXIST",
+          "passed": true,
+          "details": "1 sources retrieved"
+        },
+        {
+          "check_id": "check-schema-conformance",
+          "check_type": "SCHEMA_CONFORMANCE",
+          "passed": true,
+          "details": "Response conforms to schema structure",
+          "severity": "INFO"
+        }
+      ]
+    },
+    {
+      "query": "What is the difference between inland and overseas spousal sponsorship?",
+      "as_of": "2026-02-13",
+      "expected_failure_state": "NONE",
+      "actual_failure_state": "NONE",
+      "status": "PASSED",
+      "checks": [
+        {
+          "check_id": "check-retrieval-success",
+          "check_type": "RETRIEVAL_SUCCESS",
+          "passed": true,
+          "details": "Retrieval succeeded with 1 sources"
+        },
+        {
+          "check_id": "check-sources-exist",
+          "check_type": "SOURCES_EXIST",
+          "passed": true,
+          "details": "1 sources retrieved"
+        },
+        {
+          "check_id": "check-schema-conformance",
+          "check_type": "SCHEMA_CONFORMANCE",
+          "passed": true,
+          "details": "Response conforms to schema structure",
+          "severity": "INFO"
+        }
+      ]
+    },
+    {
+      "query": "What are the points awarded for education in Express Entry?",
+      "as_of": "2026-02-13",
+      "expected_failure_state": "NONE",
+      "actual_failure_state": "NONE",
+      "status": "PASSED",
+      "checks": [
+        {
+          "check_id": "check-retrieval-success",
+          "check_type": "RETRIEVAL_SUCCESS",
+          "passed": true,
+          "details": "Retrieval succeeded with 1 sources"
+        },
+        {
+          "check_id": "check-sources-exist",
+          "check_type": "SOURCES_EXIST",
+          "passed": true,
+          "details": "1 sources retrieved"
+        },
+        {
+          "check_id": "check-schema-conformance",
+          "check_type": "SCHEMA_CONFORMANCE",
+          "passed": true,
+          "details": "Response conforms to schema structure",
+          "severity": "INFO"
+        }
+      ]
+    },
+    {
+      "query": "How do I claim points for my spouse's education in Express Entry?",
+      "as_of": "2026-02-13",
+      "expected_failure_state": "NONE",
+      "actual_failure_state": "NONE",
+      "status": "PASSED",
+      "checks": [
+        {
+          "check_id": "check-retrieval-success",
+          "check_type": "RETRIEVAL_SUCCESS",
+          "passed": true,
+          "details": "Retrieval succeeded with 1 sources"
+        },
+        {
+          "check_id": "check-sources-exist",
+          "check_type": "SOURCES_EXIST",
+          "passed": true,
+          "details": "1 sources retrieved"
+        },
+        {
+          "check_id": "check-schema-conformance",
+          "check_type": "SCHEMA_CONFORMANCE",
+          "passed": true,
+          "details": "Response conforms to schema structure",
+          "severity": "INFO"
+        }
+      ]
+    },
+    {
+      "query": "What is the validity period of an Express Entry profile?",
+      "as_of": "2026-02-13",
+      "expected_failure_state": "NONE",
+      "actual_failure_state": "NONE",
+      "status": "PASSED",
+      "checks": [
+        {
+          "check_id": "check-retrieval-success",
+          "check_type": "RETRIEVAL_SUCCESS",
+          "passed": true,
+          "details": "Retrieval succeeded with 1 sources"
+        },
+        {
+          "check_id": "check-sources-exist",
+          "check_type": "SOURCES_EXIST",
+          "passed": true,
+          "details": "1 sources retrieved"
+        },
+        {
+          "check_id": "check-schema-conformance",
+          "check_type": "SCHEMA_CONFORMANCE",
+          "passed": true,
+          "details": "Response conforms to schema structure",
+          "severity": "INFO"
+        }
+      ]
+    },
+    {
+      "query": "Can I include my common-law partner in my immigration application?",
+      "as_of": "2026-02-13",
+      "expected_failure_state": "NONE",
+      "actual_failure_state": "NONE",
+      "status": "PASSED",
+      "checks": [
+        {
+          "check_id": "check-retrieval-success",
+          "check_type": "RETRIEVAL_SUCCESS",
+          "passed": true,
+          "details": "Retrieval succeeded with 1 sources"
+        },
+        {
+          "check_id": "check-sources-exist",
+          "check_type": "SOURCES_EXIST",
+          "passed": true,
+          "details": "1 sources retrieved"
+        },
+        {
+          "check_id": "check-schema-conformance",
+          "check_type": "SCHEMA_CONFORMANCE",
+          "passed": true,
+          "details": "Response conforms to schema structure",
+          "severity": "INFO"
+        }
+      ]
+    },
+    {
+      "query": "What is the minimum score required for Express Entry draws?",
+      "as_of": "2026-02-13",
+      "expected_failure_state": "NONE",
+      "actual_failure_state": "NONE",
+      "status": "PASSED",
+      "checks": [
+        {
+          "check_id": "check-retrieval-success",
+          "check_type": "RETRIEVAL_SUCCESS",
+          "passed": true,
+          "details": "Retrieval succeeded with 1 sources"
+        },
+        {
+          "check_id": "check-sources-exist",
+          "check_type": "SOURCES_EXIST",
+          "passed": true,
+          "details": "1 sources retrieved"
+        },
+        {
+          "check_id": "check-schema-conformance",
+          "check_type": "SCHEMA_CONFORMANCE",
+          "passed": true,
+          "details": "Response conforms to schema structure",
+          "severity": "INFO"
+        }
+      ]
+    },
+    {
+      "query": "Find case law about procedural fairness in immigration decisions",
+      "as_of": "2026-02-13",
+      "expected_failure_state": "NONE",
+      "actual_failure_state": "NONE",
+      "status": "PASSED",
+      "checks": [
+        {
+          "check_id": "check-retrieval-success",
+          "check_type": "RETRIEVAL_SUCCESS",
+          "passed": true,
+          "details": "Retrieval succeeded with 1 sources"
+        },
+        {
+          "check_id": "check-sources-exist",
+          "check_type": "SOURCES_EXIST",
+          "passed": true,
+          "details": "1 sources retrieved"
+        },
+        {
+          "check_id": "check-schema-conformance",
+          "check_type": "SCHEMA_CONFORMANCE",
+          "passed": true,
+          "details": "Response conforms to schema structure",
+          "severity": "INFO"
+        }
+      ]
+    },
+    {
+      "query": "What happens if I miss my immigration interview?",
+      "as_of": "2026-02-13",
+      "expected_failure_state": "NONE",
+      "actual_failure_state": "NONE",
+      "status": "PASSED",
+      "checks": [
+        {
+          "check_id": "check-retrieval-success",
+          "check_type": "RETRIEVAL_SUCCESS",
+          "passed": true,
+          "details": "Retrieval succeeded with 1 sources"
+        },
+        {
+          "check_id": "check-sources-exist",
+          "check_type": "SOURCES_EXIST",
+          "passed": true,
+          "details": "1 sources retrieved"
+        },
+        {
+          "check_id": "check-schema-conformance",
+          "check_type": "SCHEMA_CONFORMANCE",
+          "passed": true,
+          "details": "Response conforms to schema structure",
+          "severity": "INFO"
+        }
+      ]
+    },
+    {
+      "query": "What are the financial requirements for sponsoring a family member?",
+      "as_of": "2026-02-13",
+      "expected_failure_state": "NONE",
+      "actual_failure_state": "NONE",
+      "status": "PASSED",
+      "checks": [
+        {
+          "check_id": "check-retrieval-success",
+          "check_type": "RETRIEVAL_SUCCESS",
+          "passed": true,
+          "details": "Retrieval succeeded with 1 sources"
+        },
+        {
+          "check_id": "check-sources-exist",
+          "check_type": "SOURCES_EXIST",
+          "passed": true,
+          "details": "1 sources retrieved"
+        },
+        {
+          "check_id": "check-schema-conformance",
+          "check_type": "SCHEMA_CONFORMANCE",
+          "passed": true,
+          "details": "Response conforms to schema structure",
+          "severity": "INFO"
+        }
+      ]
+    },
+    {
+      "query": "Help me with my immigration case",
+      "as_of": "2026-02-13",
+      "expected_failure_state": "INSUFFICIENT_FACTS",
+      "actual_failure_state": "INSUFFICIENT_FACTS",
+      "status": "PASSED",
+      "checks": [
+        {
+          "check_id": "check-retrieval-success",
+          "check_type": "RETRIEVAL_SUCCESS",
+          "passed": true,
+          "details": "Retrieval succeeded with 0 sources"
+        },
+        {
+          "check_id": "check-failure-state",
+          "check_type": "EXPECTED_FAILURE_STATE",
+          "passed": true,
+          "details": "Expected failure state: INSUFFICIENT_FACTS",
+          "severity": "INFO"
+        },
+        {
+          "check_id": "check-schema-conformance",
+          "check_type": "SCHEMA_CONFORMANCE",
+          "passed": true,
+          "details": "Response conforms to schema structure",
+          "severity": "INFO"
+        }
+      ]
+    },
+    {
+      "query": "Compare Express Entry vs Provincial Nominee Program",
+      "as_of": "2026-02-13",
+      "expected_failure_state": "NONE",
+      "actual_failure_state": "NONE",
+      "status": "PASSED",
+      "checks": [
+        {
+          "check_id": "check-retrieval-success",
+          "check_type": "RETRIEVAL_SUCCESS",
+          "passed": true,
+          "details": "Retrieval succeeded with 1 sources"
+        },
+        {
+          "check_id": "check-sources-exist",
+          "check_type": "SOURCES_EXIST",
+          "passed": true,
+          "details": "1 sources retrieved"
+        },
+        {
+          "check_id": "check-schema-conformance",
+          "check_type": "SCHEMA_CONFORMANCE",
+          "passed": true,
+          "details": "Response conforms to schema structure",
+          "severity": "INFO"
+        }
+      ]
+    },
+    {
+      "query": "What is the maximum age for Express Entry eligibility?",
+      "as_of": "2026-02-13",
+      "expected_failure_state": "NONE",
+      "actual_failure_state": "NONE",
+      "status": "PASSED",
+      "checks": [
+        {
+          "check_id": "check-retrieval-success",
+          "check_type": "RETRIEVAL_SUCCESS",
+          "passed": true,
+          "details": "Retrieval succeeded with 1 sources"
+        },
+        {
+          "check_id": "check-sources-exist",
+          "check_type": "SOURCES_EXIST",
+          "passed": true,
+          "details": "1 sources retrieved"
+        },
+        {
+          "check_id": "check-schema-conformance",
+          "check_type": "SCHEMA_CONFORMANCE",
+          "passed": true,
+          "details": "Response conforms to schema structure",
+          "severity": "INFO"
+        }
+      ]
+    }
+  ]
+}

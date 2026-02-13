@@ -2,7 +2,7 @@ import pg from 'pg';
 import { randomUUID } from 'node:crypto';
 import dotenv from 'dotenv';
 
-dotenv.config();
+dotenv.config({ override: true });
 
 const { Pool } = pg;
 

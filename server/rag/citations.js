@@ -35,6 +35,16 @@ function toCitationId(value) {
   return text || null;
 }
 
+function toAuthorityLevel(source) {
+  const direct = toText(source?.authorityLevel);
+  if (direct) return direct;
+  const raw = toText(source?.raw?.authority_level);
+  if (raw) return raw;
+  if (source?.sourceType === 'a2aj_case') return 'case_law';
+  if (source?.sourceType === 'user_document') return 'reference';
+  return '';
+}
+
 export function buildCitationFromSource(id, src = {}) {
   const referenceId = toCitationId(id);
   if (!referenceId) return null;
@@ -80,5 +90,16 @@ export function buildCitationFromSource(id, src = {}) {
     sourceFile: toOptionalText(src?.sourceFile),
     sourceUrl: toOptionalText(url || src?.sourceUrl),
     sourceTypeLegacy: sourceType,
+
+    // Canonical metadata (when present)
+    authorityLevel: toOptionalText(toAuthorityLevel(src)),
+    docFamily: toOptionalText(src?.docFamily || src?.raw?.doc_family),
+    instrument: Array.isArray(src?.instrument)
+      ? src.instrument.filter((item) => typeof item === 'string' && item.trim())
+      : toOptionalText(src?.instrument || src?.raw?.instrument),
+    jurisdiction: toOptionalText(src?.jurisdiction || src?.raw?.jurisdiction),
+    effectiveDate: toOptionalText(src?.effectiveDate || src?.raw?.effective_date),
+    expiryDate: toOptionalText(src?.expiryDate || src?.raw?.expiry_date),
+    sectionId: toOptionalText(src?.sectionId || src?.raw?.section_id),
   };
 }

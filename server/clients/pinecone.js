@@ -1,5 +1,49 @@
 import { embedText } from './embeddings.js';
 
+function toText(value) {
+  if (typeof value !== 'string') return '';
+  const trimmed = value.trim();
+  return trimmed;
+}
+
+function toOptionalText(value) {
+  const text = toText(value);
+  return text || undefined;
+}
+
+function parseHeadingPath(value) {
+  if (Array.isArray(value)) {
+    return value.filter((item) => typeof item === 'string');
+  }
+  if (typeof value !== 'string') return [];
+  const trimmed = value.trim();
+  if (!trimmed) return [];
+  try {
+    const parsed = JSON.parse(trimmed);
+    if (Array.isArray(parsed)) {
+      return parsed.filter((item) => typeof item === 'string');
+    }
+  } catch {
+    // Keep raw text fallback below.
+  }
+  return [trimmed];
+}
+
+function parseInstrument(value) {
+  if (Array.isArray(value)) {
+    return value
+      .map((item) => toText(item))
+      .filter(Boolean);
+  }
+  const text = toText(value);
+  if (!text) return [];
+  if (!text.includes(',')) return [text];
+  return text
+    .split(',')
+    .map((part) => part.trim())
+    .filter(Boolean);
+}
+
 export async function pineconeQuery({ query, topK = 6, namespace, filter, minScore = 0 }) {
   const apiKey = process.env.PINECONE_API_KEY;
   const host = process.env.PINECONE_INDEX_HOST;
@@ -53,12 +97,24 @@ export async function pineconeQuery({ query, topK = 6, namespace, filter, minSco
         paragraphNumbers: md.paragraphNumbers || md.paras || [],
         manual: md.manual,
         chapter: md.chapter,
-        headingPath: md.heading_path || md.headingPath || [],
+        headingPath: parseHeadingPath(md.heading_path || md.headingPath),
         pageStart: md.page_start,
         pageEnd: md.page_end,
         sourceFile: md.source_file,
         sourceType: md.source_type,
-        sourceUrl: md.source_url || md.url
+        sourceUrl: md.source_url || md.url,
+        authorityLevel: toOptionalText(md.authority_level),
+        docFamily: toOptionalText(md.doc_family),
+        instrument: parseInstrument(md.instrument),
+        jurisdiction: toOptionalText(md.jurisdiction),
+        effectiveDate: toOptionalText(md.effective_date),
+        expiryDate: toOptionalText(md.expiry_date),
+        sectionId: toOptionalText(md.section_id),
+        programStream: toOptionalText(md.program_stream),
+        nocCode: toOptionalText(md.noc_code),
+        teer: toOptionalText(md.teer),
+        tableType: toOptionalText(md.table_type),
+        raw: md,
       };
     });
 }

@@ -1,0 +1,45 @@
+{
+  "validation_id": "val-01HW3V8XK4Z5Y2J3M7P9Q0R2S6",
+  "run_id": "01HW3V8XK4Z5Y2J3M7P9Q0R2S6",
+  "query": "What are the eligibility requirements for the Federal Skilled Worker program under Express Entry?",
+  "as_of": "2026-02-13",
+  "valid": true,
+  "checks": [
+    {
+      "check_id": "check-schema-001",
+      "check_type": "SCHEMA_CONFORMANCE",
+      "passed": true,
+      "details": "All claim assertions conform to schema requirements"
+    },
+    {
+      "check_id": "check-authority-001",
+      "check_type": "AUTHORITY_MODALITY_COMPATIBILITY",
+      "passed": true,
+      "details": "All binding claims cite primary legislation or regulation",
+      "affected_items": ["assert-001", "assert-002"],
+      "severity": "ERROR"
+    },
+    {
+      "check_id": "check-allowlist-001",
+      "check_type": "ALLOWLIST_SCOPE",
+      "passed": true,
+      "details": "All sources are from allowed domains: laws-lois.justice.gc.ca, decisions.fct-cf.gc.ca"
+    },
+    {
+      "check_id": "check-binding-001",
+      "check_type": "BINDING_CLAIM_SOURCE",
+      "passed": true,
+      "details": "All binding assertions cite binding authority sources (IRPA/IRPR/Case Law)",
+      "affected_items": ["assert-001", "assert-002"],
+      "severity": "ERROR"
+    },
+    {
+      "check_id": "check-temporal-001",
+      "check_type": "TEMPORAL_VALIDITY",
+      "passed": true,
+      "details": "All effective dates are valid and in force"
+    }
+  ],
+  "failure_state": "NONE",
+  "validated_at": "2026-02-13T09:30:00.000Z"
+}

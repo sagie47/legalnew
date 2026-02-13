@@ -1,0 +1,154 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://rcic-assistant.dev/contracts/v1/claimLedger.schema.json",
+  "title": "Claim Ledger Contract",
+  "description": "Schema for tracking legal claims and their evidence provenance",
+  "type": "object",
+  "required": [
+    "ledger_id",
+    "run_id",
+    "claims"
+  ],
+  "properties": {
+    "ledger_id": {
+      "type": "string",
+      "description": "Unique identifier for this claim ledger"
+    },
+    "run_id": {
+      "type": "string",
+      "description": "ULID timestamp-based unique identifier for this run (26 characters)",
+      "pattern": "^[0-9A-Z]{26}$"
+    },
+    "claims": {
+      "type": "array",
+      "description": "Array of claims made in the response",
+      "items": {
+        "$ref": "#/definitions/Claim"
+      },
+      "minItems": 0
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Timestamp when this ledger was created"
+    }
+  },
+  "definitions": {
+    "Claim": {
+      "type": "object",
+      "required": [
+        "claim_id",
+        "text",
+        "assertions"
+      ],
+      "properties": {
+        "claim_id": {
+          "type": "string",
+          "description": "Unique identifier for this claim"
+        },
+        "text": {
+          "type": "string",
+          "description": "The claim text"
+        },
+        "assertions": {
+          "type": "array",
+          "description": "Assertions supporting this claim",
+          "items": {
+            "$ref": "#/definitions/Assertion"
+          },
+          "minItems": 0
+        }
+      }
+    },
+    "Assertion": {
+      "type": "object",
+      "required": [
+        "assertion_id",
+        "modality",
+        "assertion_type",
+        "source_id",
+        "source_hash",
+        "canonical_url",
+        "quote_span"
+      ],
+      "properties": {
+        "assertion_id": {
+          "type": "string",
+          "description": "Unique identifier for this assertion"
+        },
+        "modality": {
+          "type": "string",
+          "enum": ["binding", "permissive", "informational"],
+          "description": "Legal modality of the assertion"
+        },
+        "assertion_type": {
+          "type": "string",
+          "enum": [
+            "ELIGIBILITY_REQUIREMENT",
+            "ADMISSIBILITY_CRITERION",
+            "DOCUMENT_REQUIREMENT",
+            "PROCEDURE_REQUIREMENT",
+            "DEADLINE_REQUIREMENT",
+            "FEE_REQUIREMENT",
+            "DISCRETIONARY_FACTOR",
+            "POLICY_GUIDANCE",
+            "CASE_LAW_PRINCIPLE",
+            "GENERAL_INFORMATION"
+          ],
+          "description": "Type of legal assertion"
+        },
+        "source_id": {
+          "type": "string",
+          "description": "Source identifier (e.g., chunk_id)"
+        },
+        "source_hash": {
+          "type": "string",
+          "description": "Hash of the source content at retrieval time",
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "canonical_url": {
+          "type": "string",
+          "format": "uri",
+          "description": "Original source URL"
+        },
+        "quote_span": {
+          "type": "string",
+          "description": "Character span [start:end] of the quote in source"
+        },
+        "quote_text": {
+          "type": "string",
+          "description": "The exact quoted text from source"
+        },
+        "in_force_check": {
+          "type": "object",
+          "description": "Result of in-force verification",
+          "properties": {
+            "checked_at": {
+              "type": "string",
+              "format": "date-time"
+            },
+            "is_in_force": {
+              "type": "boolean"
+            },
+            "effective_date": {
+              "type": "string",
+              "format": "date"
+            },
+            "expiry_date": {
+              "type": "string",
+              "format": "date"
+            }
+          }
+        },
+        "context_before": {
+          "type": "string",
+          "description": "Text preceding the quote in source"
+        },
+        "context_after": {
+          "type": "string",
+          "description": "Text following the quote in source"
+        }
+      }
+    }
+  }
+}

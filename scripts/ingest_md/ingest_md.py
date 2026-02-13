@@ -19,6 +19,7 @@ from urllib import request as urllib_request
 from urllib import error as urllib_error
 
 import frontmatter
+from legal_metadata import build_canonical_metadata
 from openai import OpenAI, RateLimitError
 from pinecone import Pinecone
 from langchain_text_splitters import RecursiveCharacterTextSplitter
@@ -241,6 +242,7 @@ def process_file(
         url = frontmatter_url if frontmatter_url else ''
         title = post.metadata.get('title', file_path.stem)
         last_updated = post.metadata.get('last_updated', datetime.now().isoformat())
+        ingest_date = post.metadata.get('ingest_date')
         manual = post.metadata.get('manual', 'General')
         chapter = post.metadata.get('chapter', '')
         heading_path = post.metadata.get('heading_path', [])
@@ -268,6 +270,17 @@ def process_file(
                     logger.warning(f"Failed to embed chunk {i} in {file_path}")
                     continue
                 embedding = embeddings[0]
+
+            canonical = build_canonical_metadata(
+                url=url,
+                title=title,
+                manual=str(manual or ''),
+                chapter=str(chapter or ''),
+                last_updated=last_updated,
+                ingest_date=ingest_date,
+                chunk_text=chunk_text,
+                heading_path=heading_path if isinstance(heading_path, list) else [],
+            )
             
             metadata = {
                 'text': chunk_text,
@@ -283,6 +296,7 @@ def process_file(
                 'chunk_id': chunk_id,
                 'content_hash': content_hash,
             }
+            metadata.update(canonical)
             
             if chapter:
                 metadata['chapter'] = chapter

@@ -1,0 +1,71 @@
+{
+  "ledger_id": "cl-01HW3V8XK4Z5Y2J3M7P9Q0R2S6",
+  "run_id": "01HW3V8XK4Z5Y2J3M7P9Q0R2S6",
+  "claims": [
+    {
+      "claim_id": "claim-001",
+      "text": "The Federal Skilled Worker program requires applicants to have at least one year of continuous full-time work experience.",
+      "assertions": [
+        {
+          "assertion_id": "assert-001",
+          "modality": "binding",
+          "assertion_type": "ELIGIBILITY_REQUIREMENT",
+          "source_id": "a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6:f6e5d4c3b2a1:0",
+          "source_hash": "f6e5d4c3b2a1f6e5d4c3b2a1f6e5d4c3b2a1f6e5d4c3b2a1f6e5d4c3b2a1f6e5d4",
+          "canonical_url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/page-75.html",
+          "quote_span": "1000:1150",
+          "quote_text": "one year of continuous full-time work experience",
+          "in_force_check": {
+            "checked_at": "2026-02-13T09:20:00.000Z",
+            "is_in_force": true,
+            "effective_date": "2024-10-30"
+          },
+          "context_before": "For the purpose of paragraph 75(1)(a), work experience means",
+          "context_after": "in one or more occupations that is listed in Skill Type 0, Skill Level A or Skill Level B"
+        }
+      ]
+    },
+    {
+      "claim_id": "claim-002",
+      "text": "Applicants must demonstrate language proficiency of CLB 7 or higher in English or French.",
+      "assertions": [
+        {
+          "assertion_id": "assert-002",
+          "modality": "binding",
+          "assertion_type": "ELIGIBILITY_REQUIREMENT",
+          "source_id": "a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6:f6e5d4c3b2a1:2",
+          "source_hash": "e5d4c3b2a1f6e5d4c3b2a1f6e5d4c3b2a1f6e5d4c3b2a1f6e5d4c3b2a1f6e5d4",
+          "canonical_url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/page-76.html",
+          "quote_span": "500:650",
+          "quote_text": "a level of proficiency in English or French",
+          "in_force_check": {
+            "checked_at": "2026-02-13T09:20:00.000Z",
+            "is_in_force": true,
+            "effective_date": "2024-10-30"
+          }
+        }
+      ]
+    },
+    {
+      "claim_id": "claim-003",
+      "text": "Educational credentials can be verified through an Educational Credential Assessment for points purposes.",
+      "assertions": [
+        {
+          "assertion_id": "assert-003",
+          "modality": "permissive",
+          "assertion_type": "DOCUMENT_REQUIREMENT",
+          "source_id": "b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2:e5d4c3b2a1f6:5",
+          "source_hash": "d4c3b2a1f6e5d4c3b2a1f6e5d4c3b2a1f6e5d4c3b2a1f6e5d4c3b2a1f6e5d4c3",
+          "canonical_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/educational-credential.html",
+          "quote_span": "200:400",
+          "quote_text": "An Educational Credential Assessment (ECA)",
+          "in_force_check": {
+            "checked_at": "2026-02-13T09:20:00.000Z",
+            "is_in_force": true
+          }
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-02-13T09:25:00.000Z"
+}
