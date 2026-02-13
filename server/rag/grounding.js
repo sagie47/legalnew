@@ -341,7 +341,7 @@ export async function retrieveGrounding({ query, topK = 6 }) {
   const namespace = process.env.PINECONE_NAMESPACE;
   const safeTopK = toInt(topK, 6, 1, 16);
   const tieredEnabled = boolFlag(process.env.RAG_TIERED_RETRIEVAL_ENABLED, true);
-  const noSilentFallback = boolFlag(process.env.RAG_NO_SILENT_FALLBACK_ENABLED, false);
+  const noSilentFallback = boolFlag(process.env.RAG_NO_SILENT_FALLBACK_ENABLED, true);
 
   if (!tieredEnabled) {
     const pineconeResults = await pineconeQuery({ query, topK: safeTopK, namespace }).catch((err) => {

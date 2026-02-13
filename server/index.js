@@ -8,6 +8,7 @@ import { buildCitationFromSource } from './rag/citations.js';
 import { chunkUserDocumentText, rankDocumentChunks } from './rag/documents.js';
 import { enforceAuthorityGuard } from './rag/responseGuard.js';
 import { getFailureStateInfo, resolveFailureState } from './rag/failureStates.js';
+import { prependAnalysisDateHeader } from './rag/responsePolicy.js';
 import {
   appendRunTraceEvent,
   buildAuditRunTraceContract,
@@ -322,6 +323,10 @@ app.post('/api/chat', async (req, res) => {
 
     if (promptInjectionBlockingEnabled && promptSafety.detected && !rcicRelated) {
       const blockedText = 'I can only assist with RCIC-focused Canadian immigration research. Please rephrase your question without instruction-overrides.';
+      const blockedResponseText = prependAnalysisDateHeader(blockedText, {
+        analysisDateBasis,
+        asOfDate,
+      });
       const failureState = resolveFailureState({
         query: effectiveMessage,
         outOfScopeBlocked: true,
@@ -344,7 +349,7 @@ app.post('/api/chat', async (req, res) => {
           sessionId,
           userId,
           role: 'assistant',
-          content: blockedText,
+          content: blockedResponseText,
           citations: [],
         });
       }
@@ -353,7 +358,7 @@ app.post('/api/chat', async (req, res) => {
       });
       finalizeRunTrace(runTrace, {
         status: 'ok',
-        responseText: blockedText,
+        responseText: blockedResponseText,
         citations: [],
       });
       const auditTraceContract = runTrace ? buildAuditRunTraceContract(runTrace) : null;
@@ -364,7 +369,7 @@ app.post('/api/chat', async (req, res) => {
         persistRunTraceLog(runTrace, { sampleRate: auditTraceSampleRate });
       }
       return res.json({
-        text: blockedText,
+        text: blockedResponseText,
         citations: [],
         sessionId,
         ...(debugEnabled
@@ -551,6 +556,10 @@ app.post('/api/chat', async (req, res) => {
 
     startRunTracePhase(runTrace, 'VALIDATION');
     const guardedText = validateCitationTokens(guardResult.text, citationMap);
+    const finalResponseText = prependAnalysisDateHeader(guardedText, {
+      analysisDateBasis,
+      asOfDate,
+    });
     const citationIds = extractCitations(guardedText);
     const citations = citationIds
       .map((id) => buildCitationFromSource(id, citationMap[id] || {}))
@@ -583,13 +592,13 @@ app.post('/api/chat', async (req, res) => {
         sessionId,
         userId,
         role: 'assistant',
-        content: guardedText,
+        content: finalResponseText,
         citations,
       });
     }
     finalizeRunTrace(runTrace, {
       status: 'ok',
-      responseText: guardedText,
+      responseText: finalResponseText,
       citations,
     });
     const auditTraceContract = runTrace ? buildAuditRunTraceContract(runTrace) : null;
@@ -601,7 +610,7 @@ app.post('/api/chat', async (req, res) => {
     }
 
     const payload = {
-      text: guardedText,
+      text: finalResponseText,
       citations,
       sessionId,
       ...(debugEnabled
@@ -659,8 +668,12 @@ app.post('/api/chat', async (req, res) => {
     if (runTrace && auditTraceEnabled && auditTracePersistLog) {
       persistRunTraceLog(runTrace, { sampleRate: auditTraceSampleRate });
     }
+    const errorText = prependAnalysisDateHeader('Server error while generating response.', {
+      analysisDateBasis,
+      asOfDate,
+    });
     return res.status(500).json({
-      text: 'Server error while generating response.',
+      text: errorText,
       citations: [],
       sessionId,
       ...(debugEnabled

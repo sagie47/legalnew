@@ -250,6 +250,12 @@ Phase 0 acceptance checks junior should run:
   - sign-off memo added:
     - `docs/PHASE0_SIGNOFF.md`
     - decision: `GO (Conditional)` for Phase 0 completion
+- Phase 1 senior kickoff started:
+  - response policy helper added: `server/rag/responsePolicy.js`
+  - `/api/chat` responses now prepend `Analysis date basis: YYYY-MM-DD (basis)` for success, blocked, and error paths
+  - retrieval default tightened to `RAG_NO_SILENT_FALLBACK_ENABLED=true` default in `server/rag/grounding.js`
+  - unit tests added:
+    - `server/rag/__tests__/responsePolicy.test.js`
 - Junior progress status:
   - J2 completed: source policy config + allowlist/blocklist tests
   - J3 completed: eval harness scaffold (`eval/run_eval.js` + gold template)
